@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pokerdealshub.com/sitemap-index.xml
+Sitemap: https://pokerdealshub.com/sitemap.xml
