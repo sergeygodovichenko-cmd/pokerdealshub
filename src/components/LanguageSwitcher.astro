@@ -1,0 +1,52 @@
+---
+import { languages } from '../i18n/ui';
+import { getLangFromUrl, getAlternateLanguages } from '../i18n/utils';
+
+const currentLang = getLangFromUrl(Astro.url);
+const alternateLanguages = getAlternateLanguages(Astro.url.pathname, currentLang);
+---
+
+<div class="relative inline-block">
+  <button
+    id="lang-switcher-button"
+    class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors"
+    aria-label="Change language"
+  >
+    <span class="text-sm uppercase">{currentLang}</span>
+    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+    </svg>
+  </button>
+
+  <div
+    id="lang-switcher-menu"
+    class="hidden absolute right-0 mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[60]"
+  >
+    {alternateLanguages.map(({ lang, path }) => (
+      <a
+        href={path}
+        class={`block px-4 py-2 text-sm ${
+          lang === currentLang
+            ? 'bg-neutral-700 text-gold'
+            : 'text-neutral-300 hover:bg-neutral-700 hover:text-gold'
+        } transition-colors`}
+      >
+        {languages[lang as keyof typeof languages]}
+      </a>
+    ))}
+  </div>
+</div>
+
+<script>
+  const button = document.getElementById('lang-switcher-button');
+  const menu = document.getElementById('lang-switcher-menu');
+
+  button?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    menu?.classList.toggle('hidden');
+  });
+
+  document.addEventListener('click', () => {
+    menu?.classList.add('hidden');
+  });
+</script>

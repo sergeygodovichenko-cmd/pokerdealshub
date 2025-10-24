@@ -1,11 +1,51 @@
----
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0a0a0a">
+  <title>PokerDealsHub</title>
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
----
+  <!-- SEO -->
+  <meta name="robots" content="noindex,follow" />
+  <link rel="alternate" hreflang="en" href="https://pokerdealshub.com/en/" />
+  <link rel="alternate" hreflang="ru" href="https://pokerdealshub.com/ru/" />
+  <link rel="alternate" hreflang="es" href="https://pokerdealshub.com/es/" />
 
-<Layout>
-	<Welcome />
-</Layout>
+  <script>
+    (function () {
+      try {
+        const lang = (navigator.languages && navigator.languages[0]) || navigator.language || 'en';
+        const short = lang.toLowerCase().startsWith('ru') ? 'ru'
+                    : lang.toLowerCase().startsWith('es') ? 'es'
+                    : 'en';
+        location.replace('/' + short + '/');
+      } catch (e) {}
+    })();
+  </script>
+
+  <style>
+    html,body {
+      margin:0; padding:0; background:#0a0a0a; color:#888;
+      font-family:system-ui,sans-serif; min-height:100vh;
+      display:flex; align-items:center; justify-content:center;
+    }
+    .l{text-align:center}
+    .s{width:40px;height:40px;border:3px solid #2a2a2a;
+      border-top-color:#C9A14A;border-radius:50%;
+      animation:s .6s linear infinite;margin:0 auto 12px}
+    @keyframes s{to{transform:rotate(360deg)}}
+  </style>
+</head>
+<body>
+  <div class="l">
+    <div class="s"></div>
+    <noscript>
+      <p>
+        Select your language:
+        <a href="/en/">EN</a> · <a href="/ru/">RU</a> · <a href="/es/">ES</a>
+      </p>
+    </noscript>
+  </div>
+</body>
+</html>

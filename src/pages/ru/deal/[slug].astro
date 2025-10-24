@@ -1,0 +1,179 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import DealCard from '../../../components/DealCard.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import deals from '../../../data/deals.json';
+import { useTranslations } from '../../../i18n/utils';
+
+export function getStaticPaths() {
+  return deals.map((deal) => ({
+    params: { slug: deal.slug },
+    props: { deal },
+  }));
+}
+
+const { deal } = Astro.props;
+const t = useTranslations('ru');
+
+const breadcrumbs = [
+  { name: t('breadcrumb.home'), url: '/ru/' },
+  { name: t('breadcrumb.deals'), url: '/ru/' },
+  { name: deal.name.ru, url: `/ru/deal/${deal.slug}/` },
+];
+
+const similarDeals = deals.filter(
+  (d) => d.slug !== deal.slug && (d.app === deal.app || d.geo === deal.geo)
+).slice(0, 3);
+---
+
+<BaseLayout
+  title={deal.name.ru}
+  description={deal.description.ru}
+  breadcrumbs={breadcrumbs}
+  ogImage="/hero_wide_screen_top.webp"
+>
+  <div class="container mx-auto px-4 py-8 lg:py-12">
+    <div class="max-w-5xl mx-auto">
+      <Breadcrumbs items={breadcrumbs} />
+      <div class="flex flex-wrap items-center gap-3 mb-6">
+        <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold">
+          {deal.name.ru}
+        </h1>
+        {deal.featured && (
+          <span class="inline-flex items-center px-3 py-1 text-sm font-semibold bg-red-500/20 text-red-400 rounded border border-red-500/30">
+            🔥 Топ-сделка
+          </span>
+        )}
+        <span class="inline-flex items-center px-3 py-1 text-sm font-semibold bg-green-500/20 text-green-400 rounded border border-green-500/30">
+          ✅ Проверено
+        </span>
+      </div>
+
+      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8">
+        <div class="flex items-start gap-6 mb-6">
+          <div class="w-24 h-24 bg-neutral-800 rounded-lg flex items-center justify-center text-5xl border border-neutral-700 flex-shrink-0">
+            {deal.logo === 'pppoker' && '🃏'}
+            {deal.logo === 'ggpoker' && '🎰'}
+            {deal.logo === 'clubgg' && '🎲'}
+            {deal.logo === 'pokerok' && '♠️'}
+            {deal.logo === 'xpoker' && '♦️'}
+            {deal.logo === '888poker' && '♣️'}
+          </div>
+          <div class="flex-1">
+            <h2 class="text-2xl font-bold text-neutral-100 mb-3">Основная информация</h2>
+            <div class="flex flex-wrap gap-2">
+              <span class="inline-flex items-center px-3 py-1 text-sm font-medium bg-neutral-800 text-neutral-300 rounded-lg border border-neutral-700">
+                <span class="mr-1">📱</span> {deal.app}
+              </span>
+              {deal.union !== 'N/A' && (
+                <span class="inline-flex items-center px-3 py-1 text-sm font-medium bg-neutral-800 text-neutral-300 rounded-lg border border-neutral-700">
+                  <span class="mr-1">👥</span> {deal.union}
+                </span>
+              )}
+              <span class="inline-flex items-center px-3 py-1 text-sm font-medium bg-neutral-800 text-neutral-300 rounded-lg border border-neutral-700">
+                <span class="mr-1">🌍</span> {deal.geo}
+              </span>
+              <span class="inline-flex items-center px-3 py-1 text-sm font-medium bg-neutral-800 text-neutral-300 rounded-lg border border-neutral-700">
+                <span class="mr-1">🎯</span> {deal.format}
+              </span>
+              <span class="inline-flex items-center px-3 py-1 text-sm font-medium bg-neutral-800 text-neutral-300 rounded-lg border border-neutral-700">
+                <span class="mr-1">⚙️</span> {deal.type}
+              </span>
+              <span class="inline-flex items-center px-4 py-2 text-base font-bold bg-gold/20 text-gold rounded-lg border border-gold/30">
+                <span class="mr-2">💰</span> {deal.rakeback}
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="flex flex-wrap gap-6 items-center mb-4">
+          <div class="flex items-center gap-2">
+            <span class="text-neutral-400 text-sm">MTT</span>
+            <span class="text-gold text-lg">{'★'.repeat(deal.ratings.mtt) + '☆'.repeat(5 - deal.ratings.mtt)}</span>
+          </div>
+          <div class="flex items-center gap-2">
+            <span class="text-neutral-400 text-sm">PLO</span>
+            <span class="text-gold text-lg">{'★'.repeat(deal.ratings.plo) + '☆'.repeat(5 - deal.ratings.plo)}</span>
+          </div>
+          <div class="flex items-center gap-2">
+            <span class="text-neutral-400 text-sm">NLH</span>
+            <span class="text-gold text-lg">{'★'.repeat(deal.ratings.nlh) + '☆'.repeat(5 - deal.ratings.nlh)}</span>
+          </div>
+        </div>
+
+        <div class="prose prose-invert max-w-none mb-8">
+          <p class="text-neutral-300 text-lg leading-relaxed">
+            {deal.description.ru}
+          </p>
+          <p class="text-neutral-300 leading-relaxed">
+            Эта сделка предлагает выгодные условия для игроков с прозрачной системой рейкбэка и надежной поддержкой.
+            Мы тщательно проверили условия и можем рекомендовать данное предложение для серьезной игры.
+          </p>
+          <p class="text-neutral-300 leading-relaxed">
+            Для получения доступа к сделке свяжитесь с нами по кнопке ниже. Наша команда поможет с регистрацией и
+            ответит на все вопросы о условиях игры.
+          </p>
+        </div>
+
+        <a
+          href={deal.link}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-block w-full md:w-auto text-center px-8 py-4 bg-gold text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors"
+          onclick="if(typeof gtag !== 'undefined') gtag('event', 'lead', {'deal_name': '{deal.name.ru}'});"
+        >
+          {t('deal.getButton')}
+        </a>
+      </div>
+
+      {similarDeals.length > 0 && (
+        <div class="mb-8">
+          <h2 class="text-2xl font-bold text-neutral-100 mb-6">{t('deal.similarDeals')}</h2>
+          <div class="flex flex-col gap-4">
+            {similarDeals.map((similarDeal) => (
+              <DealCard deal={similarDeal} />
+            ))}
+          </div>
+        </div>
+      )}
+
+      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+        <h2 class="text-2xl font-semibold text-gold mb-4">О сделке {deal.name.ru}</h2>
+        <p class="text-neutral-300">
+          Данная сделка размещена на PokerDealsHub после проверки условий и репутации. Мы регулярно обновляем
+          информацию о предложениях и следим за актуальностью условий. Если у вас есть вопросы или вы хотите узнать
+          больше о {deal.app}, посетите раздел <a href="/ru/guides/" class="text-gold hover:text-gold-light">Гайды и обзоры</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    'name': deal.name.ru,
+    'description': deal.description.ru,
+    'url': `https://pokerdealshub.com/ru/deal/${deal.slug}/`,
+    'category': deal.type,
+    'brand': {
+      '@type': 'Brand',
+      'name': deal.app,
+    },
+    'aggregateRating': {
+      '@type': 'AggregateRating',
+      'ratingValue': ((deal.ratings.mtt + deal.ratings.plo + deal.ratings.nlh + deal.ratings.cash) / 4).toFixed(1),
+      'bestRating': '5',
+      'worstRating': '1',
+      'ratingCount': '1',
+    },
+    'offers': {
+      '@type': 'Offer',
+      'availability': 'https://schema.org/InStock',
+      'url': `https://pokerdealshub.com/ru/deal/${deal.slug}/`,
+      'seller': {
+        '@type': 'Organization',
+        'name': deal.union !== 'N/A' ? deal.union : deal.app,
+      },
+    },
+  })} />
+</BaseLayout>

@@ -1,0 +1,89 @@
+---
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<header class="fixed top-0 left-0 right-0 z-50 bg-neutral-900/80 backdrop-blur-md border-b border-neutral-800">
+  <nav class="container mx-auto px-4 py-4">
+    <div class="flex items-center justify-between">
+      <a href={`/${lang}/`} class="flex items-center hover:opacity-80 transition-opacity">
+        <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-8 md:h-10 w-auto" width="822" height="168" />
+      </a>
+
+      <div class="flex items-center gap-4">
+        <div class="hidden lg:flex items-center gap-8">
+          <a href={`/${lang}/`} class="text-neutral-300 hover:text-gold transition-colors">
+            {t('nav.deals')}
+          </a>
+          <a href={`/${lang}/guides/`} class="text-neutral-300 hover:text-gold transition-colors">
+            {t('nav.guides')}
+          </a>
+          <a href={`/${lang}/about/`} class="text-neutral-300 hover:text-gold transition-colors">
+            {t('nav.about')}
+          </a>
+          <a
+            href={`/${lang}/add-deal/`}
+            class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all"
+          >
+            {t('nav.addDeal')}
+          </a>
+        </div>
+
+        <LanguageSwitcher />
+
+        <button
+          id="mobile-menu-button"
+          class="lg:hidden text-neutral-300 hover:text-gold"
+          aria-label="Toggle menu"
+        >
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <div id="mobile-menu" class="hidden lg:hidden mt-4 pb-4 border-t border-neutral-800 pt-4">
+      <div class="flex flex-col gap-4">
+        <a href={`/${lang}/`} class="text-neutral-300 hover:text-gold transition-colors">
+          {t('nav.deals')}
+        </a>
+        <a href={`/${lang}/guides/`} class="text-neutral-300 hover:text-gold transition-colors">
+          {t('nav.guides')}
+        </a>
+        <a href={`/${lang}/about/`} class="text-neutral-300 hover:text-gold transition-colors">
+          {t('nav.about')}
+        </a>
+        <a
+          href={`/${lang}/add-deal/`}
+          class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all text-center"
+        >
+          {t('nav.addDeal')}
+        </a>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<script>
+  const button = document.getElementById('mobile-menu-button');
+  const menu = document.getElementById('mobile-menu');
+
+  button?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    menu?.classList.toggle('hidden');
+  });
+
+  document.addEventListener('click', (e) => {
+    const target = e.target as HTMLElement;
+    const langSwitcher = target.closest('#lang-switcher-button');
+    const langMenu = document.getElementById('lang-switcher-menu');
+
+    if (!langSwitcher && !target.closest('#lang-switcher-menu')) {
+      menu?.classList.add('hidden');
+    }
+  });
+</script>

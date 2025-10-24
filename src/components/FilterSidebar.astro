@@ -1,0 +1,266 @@
+---
+import { getLangFromUrl } from '../i18n/utils';
+
+interface Props {
+  currentFilter?: string;
+}
+
+const { currentFilter } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+
+const filterData = {
+  ru: {
+    allDeals: 'Все сделки',
+    filterLabel: 'Фильтр:',
+    byType: 'По типу',
+    byApp: 'По приложению',
+    byUnion: 'По союзам',
+    byGeo: 'По географии',
+    byFormat: 'По типу игры',
+    filters: {
+      centralized: 'Централизованные',
+      decentralized: 'Децентрализованные',
+      pppoker: 'PPPoker',
+      clubgg: 'ClubGG',
+      xpoker: 'X-Poker',
+      pokerbros: 'PokerBros',
+      nutspoker: 'Nuts poker',
+      blacksea: 'Black Sea',
+      pppfish: 'PPPfish',
+      eldorado: 'El Dorado',
+      'nuts-primetime': 'Nuts PrimeTime',
+      'massiv-union': 'Massiv Union',
+      paradise: 'Paradise',
+      europe: 'Европа',
+      asia: 'Азия',
+      cis: 'СНГ',
+      australia: 'Австралия',
+      america: 'Америка',
+      latam: 'Латинская Америка',
+      mtt: 'MTT',
+      cash: 'Cash',
+      plo: 'PLO',
+      nlh: 'NLH',
+    },
+  },
+  en: {
+    allDeals: 'All Deals',
+    filterLabel: 'Filter:',
+    byType: 'By Type',
+    byApp: 'By App',
+    byUnion: 'By Union',
+    byGeo: 'By Geography',
+    byFormat: 'By Game Type',
+    filters: {
+      centralized: 'Centralized',
+      decentralized: 'Decentralized',
+      pppoker: 'PPPoker',
+      clubgg: 'ClubGG',
+      xpoker: 'X-Poker',
+      pokerbros: 'PokerBros',
+      nutspoker: 'Nuts poker',
+      blacksea: 'Black Sea',
+      pppfish: 'PPPfish',
+      eldorado: 'El Dorado',
+      'nuts-primetime': 'Nuts PrimeTime',
+      'massiv-union': 'Massiv Union',
+      paradise: 'Paradise',
+      europe: 'Europe',
+      asia: 'Asia',
+      cis: 'CIS',
+      australia: 'Australia',
+      america: 'America',
+      latam: 'LatAm',
+      mtt: 'MTT',
+      cash: 'Cash',
+      plo: 'PLO',
+      nlh: 'NLH',
+    },
+  },
+  es: {
+    allDeals: 'Todas las Ofertas',
+    filterLabel: 'Filtro:',
+    byType: 'Por Tipo',
+    byApp: 'Por Aplicación',
+    byUnion: 'Por Unión',
+    byGeo: 'Por Geografía',
+    byFormat: 'Por Tipo de Juego',
+    filters: {
+      centralized: 'Centralizadas',
+      decentralized: 'Descentralizadas',
+      pppoker: 'PPPoker',
+      clubgg: 'ClubGG',
+      xpoker: 'X-Poker',
+      pokerbros: 'PokerBros',
+      nutspoker: 'Nuts poker',
+      blacksea: 'Black Sea',
+      pppfish: 'PPPfish',
+      eldorado: 'El Dorado',
+      'nuts-primetime': 'Nuts PrimeTime',
+      'massiv-union': 'Massiv Union',
+      paradise: 'Paradise',
+      europe: 'Europa',
+      asia: 'Asia',
+      cis: 'CEI',
+      australia: 'Australia',
+      america: 'América',
+      latam: 'LatAm',
+      mtt: 'MTT',
+      cash: 'Cash',
+      plo: 'PLO',
+      nlh: 'NLH',
+    },
+  },
+};
+
+const t = filterData[lang as keyof typeof filterData];
+
+const categories = [
+  {
+    title: t.byType,
+    filters: ['centralized', 'decentralized'],
+  },
+  {
+    title: t.byApp,
+    filters: ['pppoker', 'clubgg', 'xpoker', 'pokerbros', 'nutspoker'],
+  },
+  {
+    title: t.byUnion,
+    filters: ['pppfish', 'eldorado', 'nuts-primetime', 'massiv-union', 'paradise', 'blacksea'],
+  },
+  {
+    title: t.byGeo,
+    filters: ['europe', 'asia', 'cis', 'australia', 'america', 'latam'],
+  },
+  {
+    title: t.byFormat,
+    filters: ['mtt', 'nlh', 'plo'],
+  },
+];
+---
+
+<aside class="w-full lg:w-64 flex-shrink-0">
+  <div id="sidebar-content" class="bg-neutral-900 border border-neutral-800 rounded-xl p-6">
+    <a
+      href={`/${lang}/`}
+      class={`block mb-6 px-4 py-2 rounded-lg font-medium transition-colors ${
+        !currentFilter
+          ? 'bg-gold text-neutral-900'
+          : 'text-neutral-300 hover:bg-neutral-800'
+      }`}
+    >
+      {t.allDeals}
+    </a>
+
+    <div class="space-y-6">
+      {categories.map((category) => (
+        <div>
+          <h3 class="text-sm font-semibold text-gold mb-3">{category.title}</h3>
+          <div class="space-y-1">
+            {category.filters.map((filter) => (
+              <a
+                href={`/${lang}/filter/${filter}/`}
+                class={`block px-4 py-2 text-sm rounded-lg transition-colors ${
+                  currentFilter === filter
+                    ? 'bg-gold text-neutral-900 font-medium'
+                    : 'text-neutral-300 hover:bg-neutral-800'
+                }`}
+              >
+                {t.filters[filter as keyof typeof t.filters]}
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+
+  <div id="mobile-backdrop" class="hidden"></div>
+</aside>
+
+<button
+  id="mobile-filter-toggle"
+  class="lg:hidden fixed bottom-6 right-6 z-[100] bg-gold text-neutral-900 rounded-lg shadow-2xl hover:bg-gold-light transition-all active:scale-95 px-4 py-3 flex flex-col items-start gap-1 max-w-[140px]"
+  aria-label="Toggle filters"
+>
+  <div class="flex items-center gap-2 w-full">
+    <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"></path>
+    </svg>
+    <span class="text-xs font-semibold leading-tight">{t.filterLabel}</span>
+  </div>
+  <div class="text-sm font-bold leading-tight w-full truncate text-left">
+    {currentFilter ? t.filters[currentFilter as keyof typeof t.filters] : t.allDeals}
+  </div>
+</button>
+
+<style>
+  @media (max-width: 1023px) {
+    #sidebar-content {
+      position: fixed;
+      top: 0;
+      left: -100%;
+      width: 85%;
+      max-width: 320px;
+      height: 100vh;
+      height: 100dvh;
+      z-index: 60;
+      transition: left 0.3s ease;
+      border-radius: 0;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      box-shadow: 2px 0 8px rgba(0, 0, 0, 0.5);
+      padding-bottom: 2rem;
+    }
+
+    aside.mobile-open #sidebar-content {
+      left: 0;
+    }
+
+    #mobile-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.7);
+      z-index: 50;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      pointer-events: none;
+      backdrop-filter: blur(2px);
+    }
+
+    aside.mobile-open #mobile-backdrop {
+      display: block;
+      opacity: 1;
+      pointer-events: auto;
+    }
+  }
+</style>
+
+<script>
+  const toggle = document.getElementById('mobile-filter-toggle');
+  const sidebar = document.querySelector('aside');
+  const backdrop = document.getElementById('mobile-backdrop');
+  const sidebarContent = document.getElementById('sidebar-content');
+
+  toggle?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    sidebar?.classList.toggle('mobile-open');
+    if (sidebar?.classList.contains('mobile-open')) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+  });
+
+  backdrop?.addEventListener('click', () => {
+    sidebar?.classList.remove('mobile-open');
+    document.body.style.overflow = '';
+  });
+
+  sidebarContent?.addEventListener('click', (e) => {
+    if ((e.target as HTMLElement).tagName === 'A') {
+      sidebar?.classList.remove('mobile-open');
+      document.body.style.overflow = '';
+    }
+  });
+</script>

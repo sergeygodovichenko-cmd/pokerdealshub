@@ -1,0 +1,304 @@
+---
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+
+interface Props {
+  deal: {
+    slug: string;
+    name: Record<string, string>;
+    description: Record<string, string>;
+    club?: string;
+    app: string;
+    union: string;
+    geo: string | Record<string, string>;
+    format: string;
+    type: string;
+    rakeback: string;
+    bonus?: string | Record<string, string>;
+    logo: string;
+    featured: boolean;
+    badges?: string[];
+    ratings: {
+      mtt: number;
+      cash: number;
+      plo: number;
+      nlh: number;
+    };
+  };
+}
+
+const { deal } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+const logoMap: Record<string, string> = {
+  'pppoker': '/image.webp',
+  'xpoker': '/xpoker_logo.webp',
+  'clubgg': '/clubGG_logo.webp',
+  'phd_logo_new': '/PDH_logo_no_background.webp',
+  'nuts_poker_logo': '/nuts_poker_logo.webp',
+  'pokerbros_logo': '/pokerbros_logo.webp'
+};
+
+const logoUrl = logoMap[deal.logo] || '/image.webp';
+const uniqueId = `badge-${deal.slug}-${Math.random().toString(36).substr(2, 9)}`;
+
+const renderStars = (rating: number) => {
+  return '★'.repeat(rating) + '☆'.repeat(5 - rating);
+};
+
+const badgeLabels = {
+  ru: {
+    usaPlayers: '🇺🇸 USA players', 
+    pdhClub: '🔥 PDH club',
+    pdhPartner: '🤝 PDH partner',
+    centralized: '🏬 Centralized',
+    soft: '🐟 Soft game',
+    highRakeback: '💰 High Rakeback',
+    verified: '✅ Verified',
+    allLimits: '📊 All Limits',
+    nonStop: '⏱ NonStop',
+    international: '🌍 International'
+  },
+  en: {
+    usaPlayers: '🇺🇸 USA players', 
+    pdhClub: '🔥 PDH club',
+    pdhPartner: '🤝 PDH partner',
+    centralized: '🏬 Centralized',
+    soft: '🐟 Soft game',
+    highRakeback: '💰 High Rakeback',
+    verified: '✅ Verified',
+    allLimits: '📊 All Limits',
+    nonStop: '⏱ NonStop',
+    international: '🌍 International'
+  },
+  es: {    
+    usaPlayers: '🇺🇸 USA players', 
+    pdhClub: '🔥 PDH club',
+    pdhPartner: '🤝 PDH partner',
+    centralized: '🏬 Centralized',
+    soft: '🐟 Soft game',
+    highRakeback: '💰 High Rakeback',
+    verified: '✅ Verified',
+    allLimits: '📊 All Limits',
+    nonStop: '⏱ NonStop',
+    international: '🌍 International'
+  }
+};
+
+const tooltips = {
+  ru: {
+    featured: 'Клуб под управлением PokerDealsHub. Это значит что вы получите клиентский сервис высшего качества 24/7 и полную гарантию всех ваших выигрышей.'
+  },
+  en: {
+    featured: 'Club managed by PokerDealsHub. This means you will receive the highest quality customer service 24/7 and a full guarantee of all your winnings.'
+  },
+  es: {
+    featured: 'Club administrado por PokerDealsHub. Esto significa que recibirá el servicio de atención al cliente de la más alta calidad las 24 horas del día, los 7 días de la semana y una garantía completa de todas sus ganancias.'
+  }
+};
+
+const labels = {
+  ru: {
+    club: 'Клуб:',
+    union: 'Союз:',
+    geo: 'География:',
+    platform: 'Платформа:',
+    rakeback: 'Рейкбэк:',
+    bonus: 'Бонус:',
+    upTo: 'до'
+  },
+  en: {
+    club: 'Club:',
+    union: 'Union:',
+    geo: 'Geography:',
+    platform: 'Platform:',
+    rakeback: 'Rakeback:',
+    bonus: 'Bonus:',
+    upTo: 'up to'
+  },
+  es: {
+    club: 'Club:',
+    union: 'Unión:',
+    geo: 'Geografía:',
+    platform: 'Plataforma:',
+    rakeback: 'Rakeback:',
+    bonus: 'Bono:',
+    upTo: 'hasta'
+  }
+};
+---
+
+<article class="bg-neutral-900 border border-neutral-800 rounded-2xl overflow-visible hover:border-gold/50 transition-all relative">
+  <div class="flex flex-col lg:flex-row gap-6 p-6">
+    <div class="flex-shrink-0 flex flex-row lg:flex-col gap-3">
+      <div class="flex-shrink-0">
+        <img src={logoUrl} alt="Logo" class="w-32 sm:w-40 lg:w-48 h-auto object-contain rounded-xl" />
+      </div>
+
+      <div class="flex flex-col gap-2">
+        {deal.badges?.map((badge) => {
+          const badgeText = badgeLabels[lang as keyof typeof badgeLabels][badge as keyof typeof badgeLabels.ru];
+
+          if (badge === 'pdhClub') {
+            return (
+              <button
+                type="button"
+                data-badge-tooltip
+                class="pdh-badge px-2 py-1.5 text-xs font-medium bg-gold/10 text-gold rounded-lg border border-gold/30 flex items-center gap-1.5 whitespace-nowrap hover:bg-gold/20 transition-colors cursor-pointer relative group w-full sm:w-auto"
+              >
+                {badgeText}
+                <span class="pdh-tooltip absolute top-full mt-2 w-72 max-w-[calc(100vw-2rem)] p-4 bg-neutral-800 text-neutral-200 text-xs leading-relaxed rounded-lg border border-neutral-700 shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-10 pointer-events-none whitespace-normal">
+                  {tooltips[lang as keyof typeof tooltips].featured}
+                </span>
+              </button>
+            );
+          }
+
+          if (badge === 'pdhPartner') {
+            return (
+              <span class="px-2 py-1.5 text-xs font-medium bg-gold/10 text-gold rounded-lg border border-gold/30 flex items-center gap-1.5 whitespace-nowrap">
+                {badgeText}
+              </span>
+            );
+          }
+
+          return (
+            <span class="px-2 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 flex items-center gap-1.5 whitespace-nowrap">
+              {badgeText}
+            </span>
+          );
+        })}
+      </div>
+    </div>
+
+    <div class="flex-1 min-w-0 flex flex-col">
+      <a href={`/${lang}/deal/${deal.slug}/`}>
+        <h2 class="text-2xl lg:text-3xl font-bold text-gold mb-4 hover:text-gold-light transition-colors cursor-pointer">
+          {deal.name[lang]}
+        </h2>
+      </a>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-2 mb-4 text-sm lg:text-base">
+        {deal.club && (
+          <div>
+            <span class="text-neutral-400">{labels[lang as keyof typeof labels].club}</span>
+            <span class="text-neutral-100 ml-2 font-medium">{deal.club}</span>
+          </div>
+        )}
+        {deal.union !== 'N/A' && (
+          <div>
+            <span class="text-neutral-400">{labels[lang as keyof typeof labels].union}</span>
+            <span class="text-neutral-100 ml-2 font-medium">{deal.union}</span>
+          </div>
+        )}
+        <div>
+          <span class="text-neutral-400">{labels[lang as keyof typeof labels].geo}</span>
+          <span class="text-neutral-100 ml-2 font-medium">{typeof deal.geo === 'string' ? deal.geo : deal.geo[lang]}</span>
+        </div>
+        <div>
+          <span class="text-neutral-400">{labels[lang as keyof typeof labels].platform}</span>
+          <span class="text-neutral-100 ml-2 font-medium">{deal.app}</span>
+        </div>
+        <div>
+          <span class="text-neutral-400">{labels[lang as keyof typeof labels].rakeback}</span>
+          <span class="text-gold ml-2 font-bold">{labels[lang as keyof typeof labels].upTo} {deal.rakeback}</span>
+        </div>
+        {deal.bonus && (
+          <div>
+            <span class="text-neutral-400">{labels[lang as keyof typeof labels].bonus}</span>
+            <span class="text-green-400 ml-2 font-medium">{typeof deal.bonus === 'string' ? deal.bonus : deal.bonus[lang]}</span>
+          </div>
+        )}
+      </div>
+
+      <p class="text-neutral-300 text-sm lg:text-base mb-4 flex-1">
+        {deal.description[lang]}
+      </p>
+
+      <div class="flex flex-wrap gap-6 items-center mb-4">
+        <div class="flex items-center gap-2">
+          <span class="text-neutral-400 text-sm">MTT</span>
+          <span class="text-gold text-lg">{renderStars(deal.ratings.mtt)}</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="text-neutral-400 text-sm">PLO</span>
+          <span class="text-gold text-lg">{renderStars(deal.ratings.plo)}</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="text-neutral-400 text-sm">NLH</span>
+          <span class="text-gold text-lg">{renderStars(deal.ratings.nlh)}</span>
+        </div>
+      </div>
+
+      <a
+        href={`/${lang}/deal/${deal.slug}/`}
+        class="w-full sm:w-auto sm:max-w-xs px-8 py-3 bg-gold text-neutral-900 rounded-xl font-bold text-center hover:bg-gold-light transition-all text-lg"
+      >
+        {t('deal.getButton')}
+      </a>
+    </div>
+  </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    'name': deal.name[lang],
+    'description': deal.description[lang],
+    'url': `https://pokerdealshub.com/${lang}/deal/${deal.slug}/`,
+    'category': deal.type,
+    'brand': {
+      '@type': 'Brand',
+      'name': deal.app
+    },
+    'offers': {
+      '@type': 'Offer',
+      'availability': 'https://schema.org/InStock',
+      'price': '0',
+      'priceCurrency': 'USD'
+    },
+    'aggregateRating': {
+      '@type': 'AggregateRating',
+      'ratingValue': ((deal.ratings.mtt + deal.ratings.cash + deal.ratings.plo + deal.ratings.nlh) / 4).toFixed(1),
+      'bestRating': '5',
+      'worstRating': '1',
+      'ratingCount': '1'
+    }
+  })} />
+</article>
+
+<script>
+  function positionTooltips() {
+    const badges = document.querySelectorAll('[data-badge-tooltip]');
+
+    badges.forEach(badge => {
+      const tooltip = badge.querySelector('.pdh-tooltip');
+      if (!tooltip) return;
+
+      const badgeRect = badge.getBoundingClientRect();
+      const badgeCenterX = badgeRect.left + badgeRect.width / 2;
+      const viewportWidth = window.innerWidth;
+      const badgePositionPercent = (badgeCenterX / viewportWidth) * 100;
+
+      tooltip.style.removeProperty('left');
+      tooltip.style.removeProperty('right');
+      tooltip.style.removeProperty('transform');
+
+      if (badgePositionPercent >= 40 && badgePositionPercent <= 60) {
+        tooltip.style.left = '50%';
+        tooltip.style.transform = 'translateX(-50%)';
+      } else if (badgePositionPercent < 40) {
+        tooltip.style.left = '0';
+      } else {
+        tooltip.style.right = '0';
+      }
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', positionTooltips);
+  } else {
+    positionTooltips();
+  }
+
+  window.addEventListener('resize', positionTooltips);
+</script>

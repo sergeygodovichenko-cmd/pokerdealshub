@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { useTranslations } from '../../../i18n/utils';
+import guides from '../../../data/guides.json';
+
+const t = useTranslations('ru');
+---
+
+<BaseLayout
+  title="Гайды и обзоры о покере и сделках — PokerDealsHub"
+  description="Подробные гайды и обзоры по покерным приложениям, союзам и рейкбэк-сделкам"
+>
+  <div class="container mx-auto px-4 py-12">
+    <div class="max-w-4xl mx-auto mb-12 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold text-gold mb-6">
+        {t('guides.title')}
+      </h1>
+      <p class="text-neutral-300 text-lg">
+        {t('guides.subtitle')}
+      </p>
+    </div>
+
+    <div class="max-w-4xl mx-auto">
+      <div class="grid grid-cols-1 gap-6">
+        {guides.map((guide) => (
+          <article class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 hover:border-gold transition-all group">
+            <div class="flex items-start justify-between mb-3">
+              <span class={`text-xs px-3 py-1 rounded-full ${
+                guide.category === 'guide'
+                  ? 'bg-blue-500/20 text-blue-400'
+                  : 'bg-green-500/20 text-green-400'
+              }`}>
+                {guide.category === 'guide' ? 'Гайд' : 'Обзор'}
+              </span>
+              <time class="text-sm text-neutral-500">
+                {new Date(guide.date).toLocaleDateString('ru-RU', {
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric',
+                })}
+              </time>
+            </div>
+
+            <h2 class="text-2xl font-semibold text-gold group-hover:text-gold-light transition-colors mb-3">
+              <a href={`/ru/guides/${guide.slug}/`}>
+                {guide.title.ru}
+              </a>
+            </h2>
+
+            <p class="text-neutral-400 mb-4">
+              {guide.description.ru}
+            </p>
+
+            <a
+              href={`/ru/guides/${guide.slug}/`}
+              class="inline-flex items-center text-gold hover:text-gold-light transition-colors text-sm font-medium"
+            >
+              Читать далее
+              <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+              </svg>
+            </a>
+          </article>
+        ))}
+      </div>
+
+      <div class="mt-12 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+        <h2 class="text-2xl font-semibold text-gold mb-4">О разделе гайдов</h2>
+        <p class="text-neutral-300 mb-4">
+          В этом разделе мы публикуем детальные руководства и обзоры покерных приложений, союзов и сделок. Наша цель —
+          помочь вам разобраться в условиях игры и выбрать оптимальное предложение.
+        </p>
+        <p class="text-neutral-300">
+          Все гайды написаны на основе реального опыта игры и проверенной информации. Если у вас есть вопросы или вы
+          хотите увидеть гайд на определенную тему, <a href="/ru/about/" class="text-gold hover:text-gold-light">свяжитесь с нами</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    'itemListElement': guides.map((guide, index) => ({
+      '@type': 'ListItem',
+      'position': index + 1,
+      'item': {
+        '@type': 'Article',
+        'headline': guide.title.ru,
+        'description': guide.description.ru,
+        'datePublished': guide.date,
+        'url': `https://pokerdealshub.com/ru/guides/${guide.slug}/`,
+      },
+    })),
+  })} />
+</BaseLayout>

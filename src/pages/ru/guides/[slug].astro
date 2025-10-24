@@ -1,0 +1,128 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { useTranslations } from '../../../i18n/utils';
+import { readFileSync } from 'fs';
+import { resolve } from 'path';
+
+export async function getStaticPaths() {
+  const guides = [
+    { slug: 'pppoker-guide' },
+    { slug: 'pppoker-start-guide' },
+    { slug: 'decentralized-poker-safety' },
+  ];
+
+  return guides.map(guide => ({
+    params: { slug: guide.slug },
+    props: { slug: guide.slug },
+  }));
+}
+
+const { slug } = Astro.props;
+const t = useTranslations('ru');
+
+const filePath = resolve(`src/content/guides/ru/${slug}.md`);
+const fileContent = readFileSync(filePath, 'utf-8');
+
+const frontmatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n/;
+const match = fileContent.match(frontmatterRegex);
+
+let title = 'Гайд';
+let description = '';
+let date = '';
+
+if (match) {
+  const frontmatter = match[1];
+  const titleMatch = frontmatter.match(/title:\s*['"](.+?)['"]/);
+  const descMatch = frontmatter.match(/description:\s*['"](.+?)['"]/);
+  const dateMatch = frontmatter.match(/date:\s*['"](.+?)['"]/);
+
+  if (titleMatch) title = titleMatch[1];
+  if (descMatch) description = descMatch[1];
+  if (dateMatch) date = dateMatch[1];
+}
+
+const content = fileContent.replace(frontmatterRegex, '');
+
+function markdownToHtml(md: string): string {
+  let html = md;
+
+  html = html.replace(/^# (.+)$/gm, '<h1 class="text-4xl font-bold text-gold mb-6">$1</h1>');
+  html = html.replace(/^## (.+)$/gm, '<h2 class="text-3xl font-semibold text-gold mt-8 mb-4">$1</h2>');
+  html = html.replace(/^### (.+)$/gm, '<h3 class="text-2xl font-semibold text-neutral-100 mt-6 mb-3">$1</h3>');
+
+  html = html.replace(/\*\*(.+?)\*\*/g, '<strong class="font-semibold text-neutral-100">$1</strong>');
+  html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+
+  html = html.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" class="text-gold hover:text-gold-light transition-colors">$1</a>');
+
+  html = html.replace(/^- (.+)$/gm, '<li class="ml-6">$1</li>');
+  html = html.replace(/(<li.*<\/li>\n?)+/g, '<ul class="list-disc text-neutral-300 space-y-2 mb-4">$&</ul>');
+
+  html = html.replace(/^\d+\. (.+)$/gm, '<li class="ml-6">$1</li>');
+  html = html.replace(/(<li.*<\/li>\n?)+/g, (match) => {
+    if (!match.includes('list-disc')) {
+      return `<ol class="list-decimal text-neutral-300 space-y-2 mb-4">${match}</ol>`;
+    }
+    return match;
+  });
+
+  html = html.replace(/^(?!<[hl]|<ul|<ol|<li)(.+)$/gm, '<p class="text-neutral-300 mb-4 leading-relaxed">$1</p>');
+
+  html = html.replace(/^---$/gm, '<hr class="border-neutral-800 my-8" />');
+
+  return html;
+}
+
+const htmlContent = markdownToHtml(content);
+
+const breadcrumbs = [
+  { name: t('breadcrumb.home'), url: '/ru/' },
+  { name: t('breadcrumb.guides'), url: '/ru/guides/' },
+  { name: title, url: `/ru/guides/${slug}/` },
+];
+---
+
+<BaseLayout title={`${title} — PokerDealsHub`} description={description} breadcrumbs={breadcrumbs}>
+  <article class="container mx-auto px-4 py-12">
+    <div class="max-w-3xl mx-auto">
+      <Breadcrumbs items={breadcrumbs} />
+      {date && (
+        <time class="text-sm text-neutral-500 block mb-4">
+          {new Date(date).toLocaleDateString('ru-RU', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+          })}
+        </time>
+      )}
+
+      <div class="prose prose-invert max-w-none" set:html={htmlContent} />
+
+      <div class="mt-12 p-6 bg-gold/10 border border-gold/30 rounded-xl">
+        <p class="text-neutral-300 text-center">
+          Хотите получить персональный оффер?{' '}
+          <a href="/ru/about/" class="text-gold hover:text-gold-light font-semibold">
+            Свяжитесь с нами
+          </a>
+        </p>
+      </div>
+    </div>
+  </article>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    'headline': title,
+    'description': description,
+    'datePublished': date,
+    'author': {
+      '@type': 'Organization',
+      'name': 'PokerDealsHub',
+    },
+    'publisher': {
+      '@type': 'Organization',
+      'name': 'PokerDealsHub',
+    },
+  })} />
+</BaseLayout>
