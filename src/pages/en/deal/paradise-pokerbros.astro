@@ -5,7 +5,7 @@ import RelatedDeals from '../../../components/RelatedDeals.astro';
 import { useTranslations } from '../../../i18n/utils';
 import dealsData from '../../../data/deals.json';
 
-const t = useTranslations('ru');
+const t = useTranslations('en');
 const deal = dealsData.find(d => d.slug === 'paradise-pokerbros');
 
 const badgeLabels = {
@@ -19,18 +19,18 @@ const badgeLabels = {
   international: '🌍 International'
 };
 
-const pdhTooltip = 'ТУТ:Клуб под управлением PokerDealsHub. Это значит что вы получите клиентский сервис высшего качества 24/7 и полную гарантию всех ваших выигрышей.';
+const pdhTooltip = 'Club managed by PokerDealsHub. This means you will receive top-quality customer service 24/7 and full guarantee of all your winnings.';
 
 const breadcrumbs = [
   { name: t('breadcrumb.home'), url: '/en/' },
   { name: t('breadcrumb.deals'), url: '/en/' },
-  { name: 'Сделка в союзе Paradise на PokerBros', url: '/en/deal/paradise-pokerbros/' },
+  { name: 'Poker Deal in Paradise Union on PokerBros', url: '/en/deal/paradise-pokerbros/' },
 ];
 ---
 
 <BaseLayout
-  title="Покерная сделка в союзе Paradise на PokerBros — PokerDealsHub"
-  description="Сделка от PDH в союзе Paradise на PokerBros. Мягкие поля, игроки из США, высокий рейкбэк до 55% и активная игра круглосуточно во всех форматах."
+  title="Poker Deal in Paradise Union on PokerBros — PokerDealsHub"
+  description="Deal from PDH in the Paradise Union on PokerBros. Soft fields, USA players, high rakeback up to 55%, and nonstop action across all formats."
   breadcrumbs={breadcrumbs}
 >
   <div class="container mx-auto px-4 py-8 lg:py-12">
@@ -38,7 +38,7 @@ const breadcrumbs = [
       <Breadcrumbs items={breadcrumbs} />
 
       <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6">
-        Покерная сделка в союзе Paradise на PokerBros
+        Poker deal in the Paradise Union on PokerBros
       </h1>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8">
@@ -274,11 +274,11 @@ const breadcrumbs = [
     '@type': 'Offer',
     'name': 'Покерная сделка в союзе Paradise на PokerBros',
     'description': 'делка от PDH в союзе Paradise на PokerBros. Мягкие поля, игроки из США, высокий рейкбэк до 55% и активная игра круглосуточно во всех форматах.',
-    'url': 'https://pokerdealshub.com/ru/deal/paradise-зщлук/',
+    'url': 'https://pokerdealshub.com/ru/deal/paradise-pokerbros/',
     'category': 'Decentralized',
     'itemOffered': {
       '@type': 'Service',
-      'name': 'ClubGG',
+      'name': 'PokerBros',
       'provider': {
         '@type': 'Organization',
         'name': 'Paradise',

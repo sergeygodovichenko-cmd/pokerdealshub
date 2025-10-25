@@ -276,10 +276,10 @@
     "featured": true,
     "badges": ["usaPlayers", "highRakeback", "soft", "verified"],
     "ratings": {
-      "mtt": 4,
+      "mtt": 3,
       "cash": 4,
-      "plo": 5,
-      "nlh": 5
+      "plo": 4,
+      "nlh": 4
     }
   }
   
