@@ -27,45 +27,69 @@
         font-display: swap;
         src: url('/fonts/inter-700.woff2') format('woff2');
       }
-    </style><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Todas las Ofertas de Póker","description":"Catálogo de ofertas de póker verificadas — ofertas centralizadas y descentralizadas para jugadores en todo el mundo","url":"https://pokerdealshub.com/es/","inLanguage":"es","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-EMKB3VKZY3"></script> <!-- Инициализация GA4 --><script>
+    </style><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Todas las Ofertas de Póker","description":"Catálogo de ofertas de póker verificadas — ofertas centralizadas y descentralizadas para jugadores en todo el mundo","url":"https://pokerdealshub.com/es/","inLanguage":"es","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-EMKB3VKZY3"></script> <script>
+  /* === GA4 === */
   window.dataLayer = window.dataLayer || [];
   function gtag(){window.dataLayer.push(arguments);}
-  window.gtag = gtag; // <-- делаем глобальной
+  window.gtag = gtag;
   gtag('js', new Date());
   gtag('config', 'G-EMKB3VKZY3');
+  console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
 
-  // === Автоматическое отслеживание кликов ===
+  /* === Meta Pixel === */
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '843668438232713');
+  fbq('track', 'PageView');
+  console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
+
+  /* === Лиды (любые Telegram / WhatsApp ссылки) === */
   document.addEventListener('click', (event) => {
-    const target = event.target.closest('a, button');
-    if (!target) return;
+    const link = event.target.closest('a[href]');
+    if (!link) return;
 
-    const href = target.getAttribute('href') || '';
-    const text = target.textContent?.trim() || '(no text)';
+    const href = link.getAttribute('href') || '';
 
-    // --- Telegram / WhatsApp → lead ---
-    const isTelegram = href.includes('t.me') || href.includes('telegram.me');
-    const isWhatsApp = href.includes('wa.me') || href.includes('api.whatsapp.com');
+    const isLead =
+      href.includes('t.me') ||
+      href.includes('telegram.me') ||
+      href.includes('wa.me') ||
+      href.includes('api.whatsapp.com');
 
-    if (isTelegram || isWhatsApp) {
-      gtag('event', 'lead_click', {
-        event_category: 'lead',
-        event_label: href,
-      });
-      console.log('GA4: lead_click →', href);
-      return;
-    }
+    if (isLead) {
+      // === GA4 ===
+      try {
+        gtag('event', 'lead_click', {
+          event_category: 'lead',
+          event_label: href,
+        });
+        console.log('%c📊 GA4 → lead_click отправлен','color:lime;font-weight:bold', href);
+      } catch (err) {
+        console.warn('%c⚠️ Ошибка отправки в GA4:','color:yellow', err);
+      }
 
-    // --- CTA ---
-    const isCTA = target.classList.contains('btn-primary') || target.tagName === 'BUTTON';
-    if (isCTA) {
-      gtag('event', 'cta_click', {
-        event_category: 'CTA',
-        event_label: text,
-      });
-      console.log('GA4: cta_click →', text);
+      // === Meta Pixel ===
+      try {
+        fbq('track', 'Lead', {
+          content_name: href,
+          event_source: 'auto',
+        });
+        console.log('%c📘 Meta Pixel → Lead отправлен','color:deepskyblue;font-weight:bold', href);
+      } catch (err) {
+        console.warn('%c⚠️ Ошибка отправки в Meta Pixel:','color:yellow', err);
+      }
+
+      console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
     }
   });
-</script><link rel="stylesheet" href="/_astro/about.B1iaRric.css">
+</script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1"></noscript><link rel="stylesheet" href="/_astro/about.B1iaRric.css">
 <style>@media(max-width:1023px){#sidebar-content[data-astro-cid-2y6rdbgm]{position:fixed;top:0;left:-100%;width:85%;max-width:320px;height:100vh;height:100dvh;z-index:60;transition:left .3s ease;border-radius:0;overflow-y:auto;-webkit-overflow-scrolling:touch;box-shadow:2px 0 8px #00000080;padding-bottom:2rem}aside[data-astro-cid-2y6rdbgm].mobile-open #sidebar-content[data-astro-cid-2y6rdbgm]{left:0}#mobile-backdrop[data-astro-cid-2y6rdbgm]{position:fixed;inset:0;background:#000000b3;z-index:50;opacity:0;transition:opacity .3s ease;pointer-events:none;backdrop-filter:blur(2px)}aside[data-astro-cid-2y6rdbgm].mobile-open #mobile-backdrop[data-astro-cid-2y6rdbgm]{display:block;opacity:1;pointer-events:auto}}
 *,:before,:after{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}:before,:after{--tw-content:""}html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;-o-tab-size:4;tab-size:4;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;width:100%;overflow-x:hidden}body{margin:0;background:#0a0a0a;color:#fafafa;width:100%}img,video{max-width:100%;height:auto}
 .hero-banner-container[data-astro-cid-7pewbour]{position:relative;width:100%}.hero-banner-top[data-astro-cid-7pewbour]{position:relative;overflow:hidden;border-radius:.75rem .75rem 0 0;aspect-ratio:1828 / 236}@media(max-width:639px){.hero-banner-top[data-astro-cid-7pewbour]{aspect-ratio:993 / 417}}.hero-banner-top[data-astro-cid-7pewbour]:after{content:"";position:absolute;top:0;left:-100%;width:100%;height:100%;background:linear-gradient(90deg,#fff0,#fff3,#fff0);transform:skew(-20deg);animation:shimmer 7s ease-in-out infinite;pointer-events:none;will-change:transform;mask-image:var(--shimmer-mask);-webkit-mask-image:var(--shimmer-mask);mask-size:contain;-webkit-mask-size:contain;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat}@keyframes shimmer{0%{left:-100%}20%{left:100%}to{left:100%}}.hero-banner-arrows[data-astro-cid-7pewbour]{position:relative;background:transparent;padding:1rem 0;border-radius:0 0 .75rem .75rem;overflow:hidden}.arrows-container[data-astro-cid-7pewbour]{display:flex;justify-content:center;align-items:center;position:relative;width:100%}.arrow[data-astro-cid-7pewbour]{width:32px;height:32px;-o-object-fit:contain;object-fit:contain;filter:drop-shadow(0 0 10px rgba(212,175,55,.3));position:absolute}.arrow-left[data-astro-cid-7pewbour]{left:17%;animation:arrowBounce 2.5s ease-in-out infinite;animation-delay:0s}.arrow-center[data-astro-cid-7pewbour]{animation:arrowBounce 2.5s ease-in-out infinite;animation-delay:0s;transform:scale(1.2);position:relative}.arrow-right[data-astro-cid-7pewbour]{right:17%;animation:arrowBounce 2.5s ease-in-out infinite;animation-delay:0s}@keyframes arrowBounce{0%,to{transform:translateY(0)}50%{transform:translateY(-12px)}}@media(prefers-reduced-motion:reduce){.hero-banner-top[data-astro-cid-7pewbour]:after,.arrow-left[data-astro-cid-7pewbour],.arrow-center[data-astro-cid-7pewbour],.arrow-right[data-astro-cid-7pewbour]{animation:none}}@media(max-width:639px){.arrow[data-astro-cid-7pewbour]{width:32px;height:32px}.arrows-container[data-astro-cid-7pewbour]{gap:1rem}}

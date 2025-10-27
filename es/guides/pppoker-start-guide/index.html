@@ -27,45 +27,69 @@
         font-display: swap;
         src: url('/fonts/inter-700.woff2') format('woff2');
       }
-    </style><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Cómo Empezar a Jugar en PPPoker: Registro, Rakeback y Uniones Confiables — PokerDealsHub","description":"Cómo empezar a jugar en PPPoker: descarga la app, elige un club y unión, obtén rakeback y juega de forma segura con agentes verificados","url":"https://pokerdealshub.com/es/guides/pppoker-start-guide/","inLanguage":"es","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://pokerdealshub.com/es/"},{"@type":"ListItem","position":2,"name":"Guías y Reseñas","item":"https://pokerdealshub.com/es/guides/"},{"@type":"ListItem","position":3,"name":"Cómo Empezar a Jugar en PPPoker: Registro, Rakeback y Uniones Confiables","item":"https://pokerdealshub.com/es/guides/pppoker-start-guide/"}]}</script><!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-EMKB3VKZY3"></script> <!-- Инициализация GA4 --><script>
+    </style><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Cómo Empezar a Jugar en PPPoker: Registro, Rakeback y Uniones Confiables — PokerDealsHub","description":"Cómo empezar a jugar en PPPoker: descarga la app, elige un club y unión, obtén rakeback y juega de forma segura con agentes verificados","url":"https://pokerdealshub.com/es/guides/pppoker-start-guide/","inLanguage":"es","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://pokerdealshub.com/es/"},{"@type":"ListItem","position":2,"name":"Guías y Reseñas","item":"https://pokerdealshub.com/es/guides/"},{"@type":"ListItem","position":3,"name":"Cómo Empezar a Jugar en PPPoker: Registro, Rakeback y Uniones Confiables","item":"https://pokerdealshub.com/es/guides/pppoker-start-guide/"}]}</script><!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-EMKB3VKZY3"></script> <script>
+  /* === GA4 === */
   window.dataLayer = window.dataLayer || [];
   function gtag(){window.dataLayer.push(arguments);}
-  window.gtag = gtag; // <-- делаем глобальной
+  window.gtag = gtag;
   gtag('js', new Date());
   gtag('config', 'G-EMKB3VKZY3');
+  console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
 
-  // === Автоматическое отслеживание кликов ===
+  /* === Meta Pixel === */
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '843668438232713');
+  fbq('track', 'PageView');
+  console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
+
+  /* === Лиды (любые Telegram / WhatsApp ссылки) === */
   document.addEventListener('click', (event) => {
-    const target = event.target.closest('a, button');
-    if (!target) return;
+    const link = event.target.closest('a[href]');
+    if (!link) return;
 
-    const href = target.getAttribute('href') || '';
-    const text = target.textContent?.trim() || '(no text)';
+    const href = link.getAttribute('href') || '';
 
-    // --- Telegram / WhatsApp → lead ---
-    const isTelegram = href.includes('t.me') || href.includes('telegram.me');
-    const isWhatsApp = href.includes('wa.me') || href.includes('api.whatsapp.com');
+    const isLead =
+      href.includes('t.me') ||
+      href.includes('telegram.me') ||
+      href.includes('wa.me') ||
+      href.includes('api.whatsapp.com');
 
-    if (isTelegram || isWhatsApp) {
-      gtag('event', 'lead_click', {
-        event_category: 'lead',
-        event_label: href,
-      });
-      console.log('GA4: lead_click →', href);
-      return;
-    }
+    if (isLead) {
+      // === GA4 ===
+      try {
+        gtag('event', 'lead_click', {
+          event_category: 'lead',
+          event_label: href,
+        });
+        console.log('%c📊 GA4 → lead_click отправлен','color:lime;font-weight:bold', href);
+      } catch (err) {
+        console.warn('%c⚠️ Ошибка отправки в GA4:','color:yellow', err);
+      }
 
-    // --- CTA ---
-    const isCTA = target.classList.contains('btn-primary') || target.tagName === 'BUTTON';
-    if (isCTA) {
-      gtag('event', 'cta_click', {
-        event_category: 'CTA',
-        event_label: text,
-      });
-      console.log('GA4: cta_click →', text);
+      // === Meta Pixel ===
+      try {
+        fbq('track', 'Lead', {
+          content_name: href,
+          event_source: 'auto',
+        });
+        console.log('%c📘 Meta Pixel → Lead отправлен','color:deepskyblue;font-weight:bold', href);
+      } catch (err) {
+        console.warn('%c⚠️ Ошибка отправки в Meta Pixel:','color:yellow', err);
+      }
+
+      console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
     }
   });
-</script><link rel="stylesheet" href="/_astro/about.B1iaRric.css">
+</script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1"></noscript><link rel="stylesheet" href="/_astro/about.B1iaRric.css">
 <style>*,:before,:after{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}:before,:after{--tw-content:""}html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;-o-tab-size:4;tab-size:4;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;width:100%;overflow-x:hidden}body{margin:0;background:#0a0a0a;color:#fafafa;width:100%}img,video{max-width:100%;height:auto}
 </style></head> <body class="bg-neutral-950 text-neutral-100 min-h-screen flex flex-col w-full overflow-x-hidden"> <header class="fixed top-0 left-0 right-0 z-50 bg-neutral-900/80 backdrop-blur-md border-b border-neutral-800"> <nav class="container mx-auto px-4 py-4"> <div class="flex items-center justify-between"> <a href="/es/" class="flex items-center hover:opacity-80 transition-opacity"> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-8 md:h-10 w-auto" width="822" height="168"> </a> <div class="flex items-center gap-4"> <div class="hidden lg:flex items-center gap-8"> <a href="/es/" class="text-neutral-300 hover:text-gold transition-colors"> Ofertas </a> <a href="/es/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Guías </a> <a href="/es/about/" class="text-neutral-300 hover:text-gold transition-colors"> Acerca de </a> <a href="/es/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all"> Agregar Oferta </a> </div> <div class="relative inline-block"> <button id="lang-switcher-button" class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors" aria-label="Change language"> <span class="text-sm uppercase">es</span> <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path> </svg> </button> <div id="lang-switcher-menu" class="hidden absolute right-0 mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[60]"> <a href="/ru/guides/pppoker-start-guide/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> Русский </a><a href="/en/guides/pppoker-start-guide/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> English </a><a href="/es/guides/pppoker-start-guide/" class="block px-4 py-2 text-sm bg-neutral-700 text-gold transition-colors"> Español </a> </div> </div> <script type="module">const n=document.getElementById("lang-switcher-button"),t=document.getElementById("lang-switcher-menu");n?.addEventListener("click",e=>{e.stopPropagation(),t?.classList.toggle("hidden")});document.addEventListener("click",()=>{t?.classList.add("hidden")});</script> <button id="mobile-menu-button" class="lg:hidden text-neutral-300 hover:text-gold" aria-label="Toggle menu"> <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path> </svg> </button> </div> </div> <div id="mobile-menu" class="hidden lg:hidden mt-4 pb-4 border-t border-neutral-800 pt-4"> <div class="flex flex-col gap-4"> <a href="/es/" class="text-neutral-300 hover:text-gold transition-colors"> Ofertas </a> <a href="/es/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Guías </a> <a href="/es/about/" class="text-neutral-300 hover:text-gold transition-colors"> Acerca de </a> <a href="/es/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all text-center"> Agregar Oferta </a> </div> </div> </nav> </header> <script type="module">const s=document.getElementById("mobile-menu-button"),n=document.getElementById("mobile-menu");s?.addEventListener("click",t=>{t.stopPropagation(),n?.classList.toggle("hidden")});document.addEventListener("click",t=>{const e=t.target,c=e.closest("#lang-switcher-button");document.getElementById("lang-switcher-menu"),!c&&!e.closest("#lang-switcher-menu")&&n?.classList.add("hidden")});</script> <main class="flex-1 pt-12 w-full">  <article class="container mx-auto px-4 py-12"> <div class="max-w-3xl mx-auto"> <nav aria-label="Breadcrumb" class="mb-6"> <ol class="flex items-center flex-wrap gap-2 text-sm"> <li class="flex items-center">  <a href="/es/" class="text-gold hover:text-gold-light transition-colors"> Inicio </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <a href="/es/guides/" class="text-gold hover:text-gold-light transition-colors"> Guías y Reseñas </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <span class="text-neutral-400 font-medium">Cómo Empezar a Jugar en PPPoker: Registro, Rakeback y Uniones Confiables</span> </li> </ol> </nav> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://pokerdealshub.com/es/"},{"@type":"ListItem","position":2,"name":"Guías y Reseñas","item":"https://pokerdealshub.com/es/guides/"},{"@type":"ListItem","position":3,"name":"Cómo Empezar a Jugar en PPPoker: Registro, Rakeback y Uniones Confiables","item":"https://pokerdealshub.com/es/guides/pppoker-start-guide/"}]}</script> <time class="text-sm text-neutral-500 block mb-4"> 23 de octubre de 2025 </time> <div class="prose prose-invert max-w-none"><h1 class="text-4xl font-bold text-gold mb-6">Cómo Empezar a Jugar en PPPoker: Registro, Rakeback y Uniones Confiables</h1>
 
