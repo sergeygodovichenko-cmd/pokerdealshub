@@ -24,7 +24,7 @@
     "format": "PLO",
     "type": "Centralized",
     "rakeback": "50%",
-    "fixrb": "25%",
+    "fixrb": "35%",
     "bonus": {
       "ru": "до $1000 на 1й депозит",
       "en": "up to $1000 on 1st deposit",
@@ -65,7 +65,7 @@
     },
     "format": "MTT",
     "type": "Decentralized",
-    "rakeback": "70%",
+    "rakeback": "75%",
     "fixrb": "35%",
     "bonus": {
       "ru": "+100% на 1й депозит",
@@ -107,7 +107,7 @@
     },
     "format": "PLO",
     "type": "Decentralized",
-    "rakeback": "70%",
+    "rakeback": "55%",
     "fixrb": "35%",
     "bonus": {
       "ru": "+50% на 1й депозит",
@@ -153,8 +153,8 @@
     },
     "format": "Cash",
     "type": "Decentralized",
-    "rakeback": "80%",
-    "fixrb": "40%",
+    "rakeback": "50%",
+    "fixrb": "35%",
     "bonus": {
       "ru": "+50% на 1й депозит",
       "en": "+50% on 1st deposit",
@@ -169,48 +169,6 @@
       "cash": 5,
       "plo": 4,
       "nlh": 5
-    }
-},
-{
-    "slug": "pppfish-pppoker",
-    "name": {
-      "ru": "Сделка в союзе PPPfish на PPPoker",
-      "en": "PPPfish Union Deal on PPPoker.",
-      "es": "Oferta de la Unión PPPFish en PPPoker"
-    },
-    "description": {
-      "ru": "Сделка в крупном австралийском союзе с большим количеством лузовых игроков. Хорошие составы за PLO5 и PLO6, отличный рейкбэк.",
-      "en": "A deal in a major Australian union with plenty of loose players. Great lineups for PLO5 and PLO6, excellent rakeback.",
-      "es": "Un acuerdo en una gran unión australiana con muchos jugadores sueltos. Buenas mesas para PLO5 y PLO6, excelente rakeback."
-    },
-    "club": "Kings Poker",
-    "app": "PPPoker",
-    "logoimage": "/pppoker_logo.webp",
-    "logoalt": "PPPoker logo",
-    "union": "PPPFish",
-    "geo": {
-      "ru": "Австралия, Океания",
-      "en": "Australia, Oceania",
-      "es": "Australia, Oceanía"
-    },
-    "format": "PLO",
-    "type": "Decentralized",
-    "rakeback": "45%",
-    "fixrb": "25%",
-    "bonus": {
-      "ru": "+50% на 1й депозит",
-      "en": "+50% on 1st deposit",
-      "es": "+50% en el 1er depósito"
-    },
-    "link": "https://t.me/pokerdealshub",
-    "logo": "ppppoker_logo",
-    "featured": true,
-    "badges": ["topDeal", "australia", "soft", "verified"],
-    "ratings": {
-      "mtt": 5,
-      "cash": 4,
-      "plo": 5,
-      "nlh": 3
     }
   },
   {
@@ -238,7 +196,7 @@
     "format": "Cash",
     "type": "Decentralized",
     "rakeback": "55%",
-    "fixrb": "25%",
+    "fixrb": "35%",
     "bonus": {
       "ru": "+100% на 1й депозит",
       "en": "+100% on 1st deposit",
@@ -283,7 +241,7 @@
     "format": "Cash",
     "type": "Decentralized",
     "rakeback": "55%",
-    "fixrb": "25%",
+    "fixrb": "35%",
     "bonus": {
       "ru": "+100% на 1й депозит",
       "en": "+100% on 1st deposit",
@@ -328,7 +286,7 @@
     "format": "PLO",
     "type": "Decentralized",
     "rakeback": "55%",
-    "fixrb": "25%",
+    "fixrb": "35%",
     "bonus": {
       "ru": "+50% на 1й депозит",
       "en": "+50% on 1st deposit",

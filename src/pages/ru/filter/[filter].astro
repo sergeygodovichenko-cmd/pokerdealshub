@@ -5,6 +5,7 @@ import FilterSidebar from '../../../components/FilterSidebar.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import deals from '../../../data/deals.json';
 import filterContent from '../../../data/filterContent.json';
+import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
 
 export function getStaticPaths() {
   const filters = [
@@ -20,6 +21,8 @@ export function getStaticPaths() {
     props: { filter },
   }));
 }
+
+const lang = getLangFromUrl(Astro.url);
 
 const { filter } = Astro.props;
 const content = filterContent.ru[filter];
@@ -241,9 +244,9 @@ const breadcrumbs = [
       'position': index + 1,
       'item': {
         '@type': 'Offer',
-        'name': deal.name.ru,
-        'description': deal.description.ru,
-        'url': `https://pokerdealshub.com/ru/deal/${deal.slug}/`,
+        'name': deal.name[lang],
+        'description': deal.description[lang],
+        'url': `https://pokerdealshub.com/${lang}/deal/${deal.slug}/`,
       },
     })),
   })} />

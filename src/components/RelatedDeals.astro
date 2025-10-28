@@ -2,12 +2,15 @@
 import { getLangFromUrl } from '../i18n/utils';
 import deals from '../data/deals.json';
 
+
+
 interface Props {
   currentDealSlug: string;
   currentApp?: string;
   currentGeo?: string;
   currentBadges?: string[];
 }
+
 
 const { currentDealSlug, currentApp, currentGeo, currentBadges } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
@@ -30,6 +33,7 @@ const logoMap: Record<string, string> = {
   'pppoker': '/image.webp',
   'xpoker': '/xpoker_logo.webp',
   'clubgg': '/clubGG_logo.webp',
+  
 };
 
 const titles = {
@@ -43,6 +47,13 @@ const buttonText = {
   en: 'Learn More',
   es: 'Más información'
 };
+
+const rakebackto ={
+  ru: 'Рейкбэк до ',
+  en: 'Rakeback up to ',
+  es: 'Rakeback hasta '
+}
+
 ---
 
 {relatedDeals.length > 0 && (
@@ -50,7 +61,7 @@ const buttonText = {
     <h2 class="text-2xl font-bold text-gold mb-6">{titles[lang as keyof typeof titles]}</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
       {relatedDeals.map((deal) => {
-        const logoUrl = logoMap[deal.logo] || '/image.webp';
+        const logoUrl = deal.logoimage || '/image.webp';
         return (
           <article class="bg-neutral-800/50 border border-neutral-700 rounded-xl p-4 hover:border-gold/50 transition-all">
             <div class="flex flex-col gap-4">
@@ -61,7 +72,7 @@ const buttonText = {
                     {deal.name[lang]}
                   </h3>
                   <p class="text-sm text-neutral-400">
-                    {deal.app} • {deal.geo}
+                    {deal.app} • {rakebackto[lang as keyof typeof titles]}  {deal.rakeback}
                   </p>
                 </div>
               </div>

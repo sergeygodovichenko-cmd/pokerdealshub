@@ -4,242 +4,291 @@ import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import RelatedDeals from '../../../components/RelatedDeals.astro';
 import { useTranslations } from '../../../i18n/utils';
 import dealsData from '../../../data/deals.json';
+import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
+import { badgeLabels, tooltips } from '../../../utils/dealHelpers';
+import { labl } from '../../../utils/dealHelpers';
 
-const t = useTranslations('ru');
+
+
+
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+
+//  ✅ correction here
 const deal = dealsData.find(d => d.slug === 'paradise-clubgg');
+if (!deal) {
+  throw new Error('Deal not found: paradise-clubgg');
+}
 
-const badgeLabels = {
-  pdhClub: '🔥 PDH club',
-  soft: '🐟 Soft game',
-  highRakeback: '💰 High Rakeback',
-  verified: '✅ Verified',
-  allLimits: '📊 All Limits',
-  nonStop: '⏱ NonStop',
-  international: '🌍 International'
-};
+// Tooltip для PDH club из helpers
+const pdhTooltip = tooltips.ru.featured;
 
-const pdhTooltip = 'Клуб под управлением PokerDealsHub. Это значит что вы получите клиентский сервис высшего качества 24/7 и полную гарантию всех ваших выигрышей.';
 
 const breadcrumbs = [
-  { name: t('breadcrumb.home'), url: '/ru/' },
-  { name: t('breadcrumb.deals'), url: '/ru/' },
-  { name: 'Сделка в союзе Paradise на ClubGG', url: '/ru/deal/paradise-clubgg/' },
+  // { name: t('breadcrumb.home'), url: `/${lang}/` },
+  { name: t('breadcrumb.deals'), url: `/${lang}/` },
+  { name: deal.name[lang], url: `/${lang}/deal/${deal.slug}/` },
 ];
+
+
+const renderStars = (rating) => '★'.repeat(rating) + '☆'.repeat(5 - rating);
+const introT ='Информация о ClubGG союзе Paradise'
+//  ✅ correction here
+const title = `Покерная сделка с рейкбэком в союзе Paradise на ClubGG — PokerDealsHub`;
+const description = `Сделка от PDH в союзе Paradise на ClubGG. Мягкие поля, рейкбэк до ${deal.rakeback} и активная игра круглосуточно во всех форматах.`;
+
 ---
 
+
 <BaseLayout
-  title="Покерная сделка в союзе Paradise на ClubGG — PokerDealsHub"
-  description="Сделка от PDH в союзе Paradise на ClubGG. Мягкие поля, высокий рейкбэк до 55% и активная игра круглосуточно во всех форматах."
+  title={title} 
+  description={description}
   breadcrumbs={breadcrumbs}
+
+
 >
   <div class="container mx-auto px-4 py-8 lg:py-12">
     <div class="max-w-5xl mx-auto">
       <Breadcrumbs items={breadcrumbs} />
 
       <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6">
-        Покерная сделка в союзе Paradise на ClubGG
+        Покерная сделка в союзе Paradise на ClubGG <!-- ✅ correction here -->
       </h1>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8">
         <div class="flex gap-4 mb-6 lg:hidden">
           <div class="flex-shrink-0">
-            <img src="/clubGG_logo.webp" alt="ClubGG" class="w-32 sm:w-40 h-auto object-contain rounded-xl" />
+            <img src={deal.logoimage} alt={deal.logolat} class="w-32 sm:w-40 h-auto object-contain rounded-xl" />
           </div>
           <div class="flex flex-col gap-2">
-            {deal?.badges?.map((badge: string) => {
-              const badgeText = badgeLabels[badge as keyof typeof badgeLabels];
+          
+          
+          
+            {deal.badges?.map((badge) => {
 
-              if (badge === 'pdhClub') {
-                return (
-                  <button
-                    type="button"
-                    data-badge-tooltip
-                    class="px-3 py-1.5 text-xs font-medium bg-gold/10 text-gold rounded-lg border border-gold/30 hover:bg-gold/20 transition-colors cursor-pointer relative group text-left w-fit"
-                  >
-                    {badgeText}
-                    <span class="absolute left-0 top-full mt-2 w-72 max-w-[calc(100vw-2rem)] p-4 bg-neutral-800 text-neutral-200 text-xs leading-relaxed rounded-lg border border-neutral-700 shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 pointer-events-none whitespace-normal z-10">
-                      {pdhTooltip}
-                    </span>
-                  </button>
-                );
-              }
+  const badgeText = badgeLabels.ru[badge as keyof typeof badgeLabels.ru] || badge;
+  
 
-              return (
-                <span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit">
-                  {badgeText}
-                </span>
-              );
-            })}
+
+  if (badge === 'pdhClub') {
+    return (
+      <button
+        type="button"
+        data-badge-tooltip
+        class="px-3 py-1.5 text-xs font-medium bg-gold/10 text-gold rounded-lg border border-gold/30 hover:bg-gold/20 transition-colors cursor-pointer relative group text-left w-fit"
+      >
+        {badgeText}
+        <span class="pdh-tooltip absolute top-full mt-2 w-72 p-4 bg-neutral-800 text-neutral-200 text-xs leading-relaxed rounded-lg border border-neutral-700 shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 pointer-events-none whitespace-normal z-10">
+          {tooltips[lang].featured}
+        </span>
+      </button>
+    );
+  }
+
+  return (
+  
+    <span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit">
+      {badgeText}
+    </span>
+  );
+})}
+
           </div>
         </div>
 
         <div class="hidden lg:flex lg:flex-row lg:items-start gap-6 mb-6">
           <div class="flex-shrink-0">
-            <img src="/clubGG_logo.webp" alt="ClubGG" class="w-48 h-auto object-contain rounded-xl" />
+            <img src={deal.logoimage} alt={deal.logolat} class="w-48 h-auto object-contain rounded-xl" />
           </div>
           <div class="flex-1">
-            <h2 class="text-2xl font-bold text-neutral-100 mb-4">Информация о клубе Paradise на ClubGG</h2>
+            <h2 class="text-2xl font-bold text-neutral-100 mb-4"> {introT}</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm lg:text-base">
               <div>
-                <span class="text-neutral-400">Клуб:</span>
-                <span class="text-neutral-100 ml-2 font-medium">Monkeys Paradise</span>
+                <span class="text-neutral-400">{labl[lang].club}</span>
+                <span class="text-neutral-100 ml-2 font-medium">{deal.club}</span>
               </div>
               <div>
-                <span class="text-neutral-400">Союз:</span>
-                <span class="text-neutral-100 ml-2 font-medium">Paradise</span>
+                <span class="text-neutral-400">{labl[lang].union}</span>
+                <span class="text-neutral-100 ml-2 font-medium">{deal.union}</span>
               </div>
               <div>
-                <span class="text-neutral-400">География:</span>
-                <span class="text-neutral-100 ml-2 font-medium">США</span>
+                <span class="text-neutral-400">{labl[lang].geog}</span>
+                <span class="text-neutral-100 ml-2 font-medium">{typeof deal.geo === 'string' ? deal.geo : deal.geo[lang]}</span>
               </div>
               <div>
-                <span class="text-neutral-400">Платформа:</span>
-                <span class="text-neutral-100 ml-2 font-medium">ClubGG</span>
+                <span class="text-neutral-400">{labl[lang].platform}</span>
+                <span class="text-neutral-100 ml-2 font-medium">{deal.app}</span>
               </div>
               <div>
-                <span class="text-neutral-400">Рейкбэк:</span>
-                <span class="text-gold ml-2 font-bold">до 55%</span>
+                <span class="inline-block px-2 py-1 rounded-lg font-semibold text-green-300 border border-green-400/60 bg-green-950/40 shadow-[0_0_10px_rgba(0,255,0,0.15)]">
+  {labl[lang].upTo} {deal.rakeback}
+</span>
               </div>
-              <div>
-                <span class="text-neutral-400">Бонус:</span>
-                <span class="text-green-400 ml-2 font-medium">+100% на 1й депозит</span>
-              </div>
+
             </div>
           </div>
         </div>
 
         <div class="lg:hidden mb-6">
-          <h2 class="text-xl font-bold text-neutral-100 mb-3">Условия сделки Paradise на ClubGG</h2>
+          <h2 class="text-xl font-bold text-neutral-100 mb-3">{introT}</h2>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
             <div>
-              <span class="text-neutral-400">Клуб:</span>
-              <span class="text-neutral-100 ml-2 font-medium">Monkeys Paradise</span>
+              <span class="text-neutral-400">{labl[lang].club}</span>
+              <span class="text-neutral-100 ml-2 font-medium">{deal.club}</span>
             </div>
             <div>
-              <span class="text-neutral-400">Союз:</span>
-              <span class="text-neutral-100 ml-2 font-medium">Paradise</span>
+              <span class="text-neutral-400">{labl[lang].union}</span>
+              <span class="text-neutral-100 ml-2 font-medium">{deal.union}</span>
             </div>
             <div>
-              <span class="text-neutral-400">География:</span>
-              <span class="text-neutral-100 ml-2 font-medium">США</span>
+              <span class="text-neutral-400">{labl[lang].geog}</span>
+              <span class="text-neutral-100 ml-2 font-medium">{typeof deal.geo === 'string' ? deal.geo : deal.geo[lang]}</span>
             </div>
             <div>
-              <span class="text-neutral-400">Платформа:</span>
-              <span class="text-neutral-100 ml-2 font-medium">ClubGG</span>
+              <span class="text-neutral-400">{labl[lang].platform}</span>
+              <span class="text-neutral-100 ml-2 font-medium">{deal.app}</span>
             </div>
-            <div>
-              <span class="text-neutral-400">Рейкбэк:</span>
-              <span class="text-gold ml-2 font-bold">до 55%</span>
-            </div>
-            <div>
-              <span class="text-neutral-400">Бонус:</span>
-              <span class="text-green-400 ml-2 font-medium">+100% на 1й депозит</span>
-            </div>
+                          <div>
+                          
+                <span class="inline-block px-2 py-1 rounded-lg font-semibold text-green-300 border border-green-400/60 bg-green-950/40 shadow-[0_0_10px_rgba(0,255,0,0.15)]">
+  {labl[lang].upTo} {deal.rakeback}
+</span>
+              </div>
           </div>
         </div>
 
         <div class="hidden lg:flex flex-wrap gap-2 mb-6 relative">
-          {deal?.badges?.map((badge: string) => {
-            const badgeText = badgeLabels[badge as keyof typeof badgeLabels];
+                     {deal.badges?.map((badge) => {
+ 
+  const badgeText = badgeLabels.ru[badge as keyof typeof badgeLabels.ru] || badge;
+  
 
-            if (badge === 'pdhClub') {
-              return (
-                <button
-                  type="button"
-                  data-badge-tooltip
-                  class="px-3 py-1.5 text-xs font-medium bg-gold/10 text-gold rounded-lg border border-gold/30 hover:bg-gold/20 transition-colors cursor-pointer relative group"
-                >
-                  {badgeText}
-                  <span class="pdh-tooltip absolute top-full mt-2 w-72 p-4 bg-neutral-800 text-neutral-200 text-xs leading-relaxed rounded-lg border border-neutral-700 shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 pointer-events-none whitespace-normal z-10">
-                    {pdhTooltip}
-                  </span>
-                </button>
-              );
-            }
 
-            return (
-              <span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50">
-                {badgeText}
-              </span>
-            );
-          })}
+  if (badge === 'pdhClub') {
+    return (
+      <button
+        type="button"
+        data-badge-tooltip
+        class="px-3 py-1.5 text-xs font-medium bg-gold/10 text-gold rounded-lg border border-gold/30 hover:bg-gold/20 transition-colors cursor-pointer relative group text-left w-fit"
+      >
+        {badgeText}
+        <span class="pdh-tooltip absolute top-full mt-2 w-72 p-4 bg-neutral-800 text-neutral-200 text-xs leading-relaxed rounded-lg border border-neutral-700 shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 pointer-events-none whitespace-normal z-10">
+          {tooltips[lang].featured}
+        </span>
+      </button>
+    );
+  }
+
+  return (
+  
+    <span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit">
+      {badgeText}
+    </span>
+  );
+})}
         </div>
 
         <button
           id="ctaButton"
           class="w-full sm:w-auto px-8 py-4 bg-gold text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-all mb-6"
         >
-          Получить сделку
+           {labl[lang].getDeal}
         </button>
 
-        <h3 class="text-xl font-bold text-neutral-100 mb-3">Рейтинг по дисциплинам</h3>
+        <h3 class="text-xl font-bold text-neutral-100 mb-3"> {labl[lang].rateBy} </h3>
 
         <div class="flex flex-wrap gap-6 items-center mb-4">
-          <div class="flex items-center gap-2">
-            <span class="text-neutral-400 text-sm">MTT</span>
-            <span class="text-gold text-lg">★★★★☆</span>
-          </div>
-          <div class="flex items-center gap-2">
-            <span class="text-neutral-400 text-sm">PLO</span>
-            <span class="text-gold text-lg">★★★★★</span>
-          </div>
-          <div class="flex items-center gap-2">
-            <span class="text-neutral-400 text-sm">NLH</span>
-            <span class="text-gold text-lg">★★★★★</span>
-          </div>
-        </div>
+  <div class="flex items-center gap-2">
+    <span class="text-neutral-400 text-sm">MTT</span>
+    <span class="text-gold text-lg">{renderStars(deal.ratings.mtt)}</span>
+  </div>
+  <div class="flex items-center gap-2">
+    <span class="text-neutral-400 text-sm">PLO</span>
+    <span class="text-gold text-lg">{renderStars(deal.ratings.plo)}</span>
+  </div>
+  <div class="flex items-center gap-2">
+    <span class="text-neutral-400 text-sm">NLH</span>
+    <span class="text-gold text-lg">{renderStars(deal.ratings.nlh)}</span>
+  </div>
+</div>
+
 
         <div class="prose prose-invert max-w-none mb-8 space-y-6">
           <div>
-            <h3 class="text-xl font-bold text-neutral-100 mb-3">Описание</h3>
+            <h3 class="text-xl font-bold text-neutral-100 mb-3">Описание</h3> <!-- ✅ correction here -->
             <p class="text-neutral-300 leading-relaxed">
-              Покерная сделка в клубе Monkeys Paradise, который состоит в престижном союзе Paradise на ClubGG — оффициальном приложении от GGPoker. Помимо надёжной платформы клуб предлагает круглосуточный трафик, высокоий рейкбэк и отличный бонус на первый депозит.
+              Покерная сделка в клубе Monkeys Paradise, который состоит в престижном союзе Paradise на ClubGG — оффициальном приложении от GGPoker. Помимо надёжной платформы клуб предлагает круглосуточный трафик и высокоий рейкбэк.
             </p>
           </div>
 
-          <div>
-            <h3 class="text-xl font-bold text-neutral-100 mb-3">О союзе</h3>
-            <p class="text-neutral-300 leading-relaxed mb-4">
-              Paradise — один из ведущих союзов на платформах ClubGG и PokerBros, специализирующийся на американском рынке. Союз был основан в 2020 году и зарекомендовал себя как надёжный партнёр для игроков всех уровней.
-            </p>
-            <p class="text-neutral-300 leading-relaxed">
-              Доступные дисциплины: NLH, PLO4/5/6, MTT а также модификатор Bomb Pot. Активная игра идёт круглосуточно на всех лимитах с большим количеством рекреационных игроков из США
-            </p>
-          </div>
+          <div> <h3 class="text-xl font-bold text-neutral-100 mb-3">О союзе</h3> <p class="text-neutral-300 leading-relaxed mb-4">
+Paradise — один из ведущих союзов на платформах ClubGG и PokerBros, специализирующийся на американском рынке. Союз был основан в 2020 году и зарекомендовал себя как надёжный партнёр для игроков всех уровней.
+</p> <p class="text-neutral-300 leading-relaxed">
+Доступные дисциплины: NLH, PLO4/5/6, MTT а также модификатор Bomb Pot. Активная игра идёт круглосуточно на всех лимитах с большим количеством рекреационных игроков из США.
+</p> </div>
 
-          <div>
-            <h3 class="text-xl font-bold text-neutral-100 mb-3">О сделке</h3>
-            <p class="text-neutral-300 leading-relaxed mb-4">
+
+<style>
+ul.custom-bullets {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+ul.custom-bullets li {
+  position: relative;
+  padding-left: 1.5em; /* отступ под текст */
+  margin-bottom: 0.6em; /* немного воздуха между строками */
+  line-height: 1.5;
+}
+
+ul.custom-bullets li::before {
+  content: "•"; /* сама точка */
+  position: absolute;
+  left: 0;
+  color: #e6b347; /* золотой цвет */
+  font-weight: bold;
+  font-size: 1.2em;
+  line-height: 1;
+  top: 0.15em; /* выравнивание по вертикали */
+}
+</style>
+
+<div>
+            <h3 class="text-xl font-bold text-neutral-100 mb-3">О сделке</h3> <!-- ✅ correction here -->
+            <p class="text-neutral-300 leading-relaxed mb-2">
               Игрокам предоставляется на выбор:
-            </p>
-            <ul class="list-disc list-inside text-neutral-300 space-y-2 mb-4">
-              <li><strong class="text-green-400">+100% на первый депозит</strong>, выдаваемый в несколько этапов: 10% сразу, оставшиеся 90% в процессе игры, по 5 долларов за каждые 10 долларов рейка.</li>
-              <li><strong class="text-gold">Динамический рейкбэк до 55%</strong>. Рейкбэк зависит от недельного объема рейка. Максимальный РБ выплачивается при комиссии от 500$/неделя.</li>
-              <li><strong class="text-gold">Фиксированный рейкбек 30%</strong>. Получите возможность начать игру с преимуществом сразу после регистрации. В последствии можно перейти на динамический.</li>
+            </p>                                    <!-- ✅ correction here -->
+            <ul class="custom-bullets">
+              <li><strong class="text-gold">Динамический рейкбэк до {deal.rakeback}</strong> Рейкбэк зависит от недельного объема рейка. </li>
+              <li><strong class="text-gold">Фиксированный рейкбэк {deal.fixrb}</strong> Получите возможность начать игру с преимуществом сразу после регистрации. В последствии можно перейти на динамический. </li>
             </ul>
+
+          </div>
+            <div class="flex items-start gap-3 mb-4 text-neutral-300 leading-relaxed">
+ <div class="flex items-center gap-3 mb-4 text-neutral-300 leading-relaxed">
+  <img
+    src="/pdh_verif.webp"
+    alt="PDH Verified"
+    class="w-[68px] h-[68px] flex-shrink-0 select-none translate-y-[2px]"
+    loading="lazy"
+  />
+
+
+  <p>
+    {labl[lang].verif}
+</div>
+
+
           </div>
 
-          <div>
-            <h3 class="text-xl font-bold text-neutral-100 mb-3">Депозиты и выводы</h3>
-            <p class="text-neutral-300 leading-relaxed mb-3">
-              Депозиты и выводы возможны:
-            </p>
-            <ul class="list-disc list-inside text-neutral-300 space-y-2 mb-4">
-              <li>Криптовалюта: USDT, USDC, BTC в любых сетях</li>
-              <li>Фиатные валюты: USD, EUR, RUB, UAH, KZT, UZS и других по запросу</li>
-            </ul>
-            <div class="bg-neutral-800/50 rounded-lg p-4 border border-neutral-700/50">
-              <p class="text-neutral-300 space-y-1">
-                <span class="flex items-center gap-2"><img src="/1-04.webp" alt="Фишка" class="w-[1.1em] h-[1.1em] inline-block" /> Цена фишки = 0.85 USD</span>
-                <span class="flex items-center gap-2"><img src="/1-02.webp" alt="Депозит" class="w-[1.1em] h-[1.1em] inline-block" /> Минимальный депозит $10</span>
-                <span class="flex items-center gap-2"><img src="/1-03.webp" alt="Вывод" class="w-[1.1em] h-[1.1em] inline-block" /> Минимальный вывод без комиссии $10</span>
-              </p>
-            </div>
-          </div>
+          
 
           <div id="contactSection" class="bg-gold/10 border border-gold/30 rounded-xl p-6 text-center">
-            <h3 class="text-2xl font-bold text-gold mb-3">Есть вопросы? Готовы вступить в клуб?</h3>
-            <p class="text-neutral-300 mb-6">Пишите менеджеру PDH, работаем 24/7</p>
+            <h3 class="text-2xl font-bold text-gold mb-3">{labl[lang].readyJoin}</h3>
+            <p class="text-neutral-300 mb-6">{labl[lang].weAreHere}</p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
               <a
                 href="https://t.me/pokerdealshub"
@@ -250,7 +299,7 @@ const breadcrumbs = [
                 <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221l-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.446 1.394c-.14.18-.357.295-.6.295-.002 0-.003 0-.005 0l.213-3.054 5.56-5.022c.24-.213-.054-.334-.373-.121l-6.869 4.326-2.96-.924c-.64-.203-.654-.64.135-.954l11.566-4.458c.538-.196 1.006.128.832.941z"/>
                 </svg>
-                Написать в Telegram
+                {labl[lang].tgContact}
               </a>
               <a
                 href="https://wa.me/38267563945"
@@ -261,7 +310,7 @@ const breadcrumbs = [
                 <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/>
                 </svg>
-                Написать в WhatsApp
+                {labl[lang].waContact}
               </a>
             </div>
           </div>
@@ -270,19 +319,28 @@ const breadcrumbs = [
     </div>
   </div>
 
+  <div class="container mx-auto px-4 py-6">
+    <RelatedDeals
+      currentDealSlug={deal?.slug || ''}
+      currentApp={deal?.app}
+      currentGeo={deal?.geo}
+      currentBadges={deal?.badges}
+    />
+  </div>
+
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'Offer',
-    'name': 'Покерная сделка в союзе Paradise на ClubGG',
-    'description': 'Сделка от PDH в союзе Paradise на ClubGG. Мягкие поля, высокий рейкбэк до 55% и активная игра круглосуточно во всех форматах.',
-    'url': 'https://pokerdealshub.com/ru/deal/paradise-clubgg/',
-    'category': 'Decentralized',
+    'name': title, 
+    'description': description,  
+    'url': `https://pokerdealshub.com/${lang}/deal/${deal.slug}`,
+    'category': `${deal.type}`,
     'itemOffered': {
       '@type': 'Service',
-      'name': 'ClubGG',
+      'name': `${deal.app}`,
       'provider': {
         '@type': 'Organization',
-        'name': 'Paradise',
+        'name': `${deal.union}`,
       },
     },
   })} />
@@ -294,6 +352,7 @@ const breadcrumbs = [
         block: 'center'
       });
     });
+
     function positionTooltips() {
       const badges = document.querySelectorAll('[data-badge-tooltip]');
 
@@ -329,14 +388,4 @@ const breadcrumbs = [
 
     window.addEventListener('resize', positionTooltips);
   </script>
-  <div class="container mx-auto px-4 py-6">
-    <RelatedDeals
-      currentDealSlug={deal?.slug || ''}
-      currentApp={deal?.app}
-      currentGeo={deal?.geo}
-      currentBadges={deal?.badges}
-    />
-  </div>
-
-
 </BaseLayout>

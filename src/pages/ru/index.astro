@@ -4,8 +4,14 @@ import DealCard from '../../components/DealCard.astro';
 import FilterSidebar from '../../components/FilterSidebar.astro';
 import deals from '../../data/deals.json';
 import filterContent from '../../data/filterContent.json';
+import { getLangFromUrl } from '../../i18n/utils';
 
 const content = filterContent.ru.all;
+
+
+
+
+const lang = getLangFromUrl(Astro.url) || 'en';
 ---
 
 <BaseLayout
@@ -241,9 +247,9 @@ const content = filterContent.ru.all;
       'position': index + 1,
       'item': {
         '@type': 'Offer',
-        'name': deal.name.ru,
-        'description': deal.description.ru,
-        'url': `https://pokerdealshub.com/ru/deal/${deal.slug}/`,
+        'name': deal.name[lang],
+        'description': deal.description[lang],
+        'url': `https://pokerdealshub.com/${lang}/deal/${deal.slug}/`,
         'category': 'Покерные приложения',
         'availability': 'https://schema.org/InStock'
       },

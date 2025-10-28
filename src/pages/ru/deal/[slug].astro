@@ -3,7 +3,9 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import DealCard from '../../../components/DealCard.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import deals from '../../../data/deals.json';
-import { useTranslations } from '../../../i18n/utils';
+import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
 
 export function getStaticPaths() {
   return deals.map((deal) => ({
@@ -18,7 +20,7 @@ const t = useTranslations('ru');
 const breadcrumbs = [
   { name: t('breadcrumb.home'), url: '/ru/' },
   { name: t('breadcrumb.deals'), url: '/ru/' },
-  { name: deal.name.ru, url: `/ru/deal/${deal.slug}/` },
+  { name: deal.name[lang], url: `/ru/deal/${deal.slug}/` },
 ];
 
 const similarDeals = deals.filter(
@@ -39,14 +41,7 @@ const similarDeals = deals.filter(
         <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold">
           {deal.name.ru}
         </h1>
-        {deal.featured && (
-          <span class="inline-flex items-center px-3 py-1 text-sm font-semibold bg-red-500/20 text-red-400 rounded border border-red-500/30">
-            🔥 Топ-сделка
-          </span>
-        )}
-        <span class="inline-flex items-center px-3 py-1 text-sm font-semibold bg-green-500/20 text-green-400 rounded border border-green-500/30">
-          ✅ Проверено
-        </span>
+        
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8">
@@ -151,20 +146,13 @@ const similarDeals = deals.filter(
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'Product',
-    'name': deal.name.ru,
+    'name': deal.name[lang],
     'description': deal.description.ru,
     'url': `https://pokerdealshub.com/ru/deal/${deal.slug}/`,
     'category': deal.type,
     'brand': {
       '@type': 'Brand',
       'name': deal.app,
-    },
-    'aggregateRating': {
-      '@type': 'AggregateRating',
-      'ratingValue': ((deal.ratings.mtt + deal.ratings.plo + deal.ratings.nlh + deal.ratings.cash) / 4).toFixed(1),
-      'bestRating': '5',
-      'worstRating': '1',
-      'ratingCount': '1',
     },
     'offers': {
       '@type': 'Offer',

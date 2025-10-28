@@ -2,7 +2,10 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { useTranslations } from '../../../i18n/utils';
 import guides from '../../../data/guides.json';
+import { getLangFromUrl } from '../../../i18n/utils';
 
+
+const lang = getLangFromUrl(Astro.url) || 'en';
 const t = useTranslations('ru');
 ---
 

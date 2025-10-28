@@ -159,13 +159,7 @@ const similarDeals = deals.filter(
       '@type': 'Brand',
       'name': deal.app,
     },
-    'aggregateRating': {
-      '@type': 'AggregateRating',
-      'ratingValue': ((deal.ratings.mtt + deal.ratings.plo + deal.ratings.nlh + deal.ratings.cash) / 4).toFixed(1),
-      'bestRating': '5',
-      'worstRating': '1',
-      'ratingCount': '1',
-    },
+
     'offers': {
       '@type': 'Offer',
       'availability': 'https://schema.org/InStock',
