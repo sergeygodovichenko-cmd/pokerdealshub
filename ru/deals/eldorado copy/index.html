@@ -28,79 +28,72 @@
         src: url('/fonts/inter-700.woff2') format('woff2');
       }
     </style><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Сделки в покерном союзе El Dorado — PPPoker","description":"El Dorado — крупнейший покерный союз на платформе PPPoker, известный мягкими полями и высоким рейкбэком до 55%. Играйте в клубе PDH Dorado с сервисом 24/7 и полной гарантией выплат от PokerDealsHub.","url":"https://pokerdealshub.com/ru/deals/eldorado%20copy/","inLanguage":"ru","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Все сделки","item":"https://pokerdealshub.com/ru/"},{"@type":"ListItem","position":2,"name":"Сделки в покерном союзе El Dorado — PPPoker","item":"https://pokerdealshub.com/ru/deals/eldorado/"}]}</script><script>
-window.GA_ID = "G-EMKB3VKZY3";
-window.PIXEL_ID = "843668438232713";
-
-window.addEventListener('load', () => {
-  const startAnalytics = () => {
-    if (window.__analyticsStarted) return;
-    window.__analyticsStarted = true;
-
-    // === GA4 ===
-    const ga = document.createElement('script');
-    ga.async = true;
-    ga.src = "https://www.googletagmanager.com/gtag/js?id=G-EMKB3VKZY3";
-    document.head.appendChild(ga);
-
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){window.dataLayer.push(arguments);}
-    window.gtag = gtag;
-    gtag('js', new Date());
-    gtag('config', 'G-EMKB3VKZY3', { send_page_view: true });
-    console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
-
-    // === Meta Pixel ===
-    !(function(f,b,e,v,n,t,s){
-      if(f.fbq) return;
-      n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-      if(!f._fbq) f._fbq=n;
-      n.push=n; n.loaded=!0; n.version='2.0';
-      n.queue=[]; t=b.createElement(e); t.async=!0;
-      t.src=v; s=b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t,s);
-    })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-
-    fbq('init', '843668438232713');
-    fbq('track', 'PageView');
-    console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
-
-    // === Лиды ===
-    document.addEventListener('click', (event) => {
-      const link = event.target.closest('a[href]');
-      if (!link) return;
-      const href = link.getAttribute('href') || '';
-
-      const isLead = href.includes('t.me') || href.includes('telegram.me')
-        || href.includes('wa.me') || href.includes('api.whatsapp.com');
-
-      if (isLead) {
-        try {
-          window.gtag?.('event', 'lead_click', {
-            event_category: 'lead',
-            event_label: href
-          });
-          window.fbq?.('track', 'Lead', {
-            content_name: href,
-            event_source: 'auto'
-          });
-          console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
-        } catch (err) {
-          console.warn('Ошибка отправки события', err);
+  window.addEventListener('load', () => {
+    const GA_ID = "G-EMKB3VKZY3";
+    const PIXEL_ID = "843668438232713";
+  
+    const startAnalytics = () => {
+      if (window.__analyticsStarted) return;
+      window.__analyticsStarted = true;
+  
+      // === GA4 ===
+      const ga = document.createElement('script');
+      ga.async = true;
+      ga.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
+      document.head.appendChild(ga);
+  
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){window.dataLayer.push(arguments);}
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', GA_ID);
+      console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
+  
+      // === Meta Pixel ===
+      !(function(f,b,e,v,n,t,s){
+        if(f.fbq) return;
+        n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq) f._fbq=n;
+        n.push=n; n.loaded=!0; n.version='2.0';
+        n.queue=[]; t=b.createElement(e); t.async=!0;
+        t.src=v; s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s);
+      })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+  
+      fbq('init', PIXEL_ID);
+      fbq('track', 'PageView');
+      console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
+  
+      // === Лиды ===
+      document.addEventListener('click', (event) => {
+        const link = event.target.closest('a[href]');
+        if (!link) return;
+        const href = link.getAttribute('href') || '';
+        const isLead = href.includes('t.me') || href.includes('telegram.me') ||
+                       href.includes('wa.me') || href.includes('api.whatsapp.com');
+        if (isLead) {
+          try {
+            gtag('event', 'lead_click', { event_category: 'lead', event_label: href });
+            fbq('track', 'Lead', { content_name: href, event_source: 'auto' });
+            console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
+          } catch(err) {
+            console.warn('Ошибка отправки события', err);
+          }
         }
-      }
-    });
-  };
-
-  const timer = setTimeout(startAnalytics, 3000);
-  ['scroll','click','keydown'].forEach(evt =>
-    window.addEventListener(evt, () => {
-      clearTimeout(timer);
-      startAnalytics();
-    }, { once: true })
-  );
-});
-</script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1"></noscript><link rel="stylesheet" href="/_astro/about.DAxUxVzH.css">
+      });
+    };
+  
+    // запуск через 3 секунды или при первом действии
+    const timer = setTimeout(startAnalytics, 3000);
+    ['scroll', 'click', 'keydown'].forEach(evt =>
+      window.addEventListener(evt, () => {
+        clearTimeout(timer);
+        startAnalytics();
+      }, { once: true })
+    );
+  });
+  </script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1"></noscript><link rel="stylesheet" href="/_astro/about.DAxUxVzH.css">
 <style>@media(max-width:1023px){#sidebar-content[data-astro-cid-2y6rdbgm]{position:fixed;top:0;left:-100%;width:85%;max-width:320px;height:100vh;height:100dvh;z-index:60;transition:left .3s ease;border-radius:0;overflow-y:auto;-webkit-overflow-scrolling:touch;box-shadow:2px 0 8px #00000080;padding-bottom:2rem}aside[data-astro-cid-2y6rdbgm].mobile-open #sidebar-content[data-astro-cid-2y6rdbgm]{left:0}#mobile-backdrop[data-astro-cid-2y6rdbgm]{position:fixed;inset:0;background:#000000b3;z-index:50;opacity:0;transition:opacity .3s ease;pointer-events:none;backdrop-filter:blur(2px)}aside[data-astro-cid-2y6rdbgm].mobile-open #mobile-backdrop[data-astro-cid-2y6rdbgm]{display:block;opacity:1;pointer-events:auto}}
 *,:before,:after{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}:before,:after{--tw-content:""}html{background-color:#0a0a0a;color-scheme:dark}body{margin:0;background-color:#0a0a0a!important;color:#fafafa;width:100%;-webkit-tap-highlight-color:rgba(0,0,0,0)}img,video{max-width:100%;height:auto}
 </style></head> <body class="bg-neutral-950 text-neutral-100 min-h-screen flex flex-col w-full overflow-x-hidden"> <header style="background-color:#0a0a0a;" class="fixed top-0 left-0 right-0 z-50 bg-neutral-900/80 backdrop-blur-md border-b border-neutral-800"> <nav class="container mx-auto px-4 py-4"> <div class="flex items-center justify-between"> <a href="/ru/" class="flex items-center hover:opacity-80 transition-opacity"> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-8 md:h-10 w-auto" width="822" height="168"> </a> <div class="flex items-center gap-4"> <div class="hidden lg:flex items-center gap-8"> <a href="/ru/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Сделки </a> <a href="/ru/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Гайды и обзоры </a> <a href="/ru/about/" class="text-neutral-300 hover:text-gold transition-colors"> О нас </a> <a href="/ru/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all"> Добавить сделку </a> </div> <div class="relative inline-block bg-transparent"> <button id="lang-switcher-button" style="color:#fafafa;" class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors bg-transparent border-0 outline-none appearance-none" aria-label="Change language"> <span class="text-sm uppercase">ru</span> <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path> </svg> </button> <div id="lang-switcher-menu" style="background-color:#1f1f1f; color:#fafafa;" class="hidden absolute right-0 mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[60]"> <a href="/ru/deals/eldorado%20copy/" class="block px-4 py-2 text-sm bg-neutral-700 text-gold transition-colors"> Русский </a><a href="/en/deals/eldorado%20copy/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> English </a><a href="/es/deals/eldorado%20copy/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> Español </a> </div> </div> <script type="module">const n=document.getElementById("lang-switcher-button"),t=document.getElementById("lang-switcher-menu");n?.addEventListener("click",e=>{e.stopPropagation(),t?.classList.toggle("hidden")});document.addEventListener("click",()=>{t?.classList.add("hidden")});</script> <button id="mobile-menu-button" class="lg:hidden text-neutral-300 hover:text-gold" aria-label="Toggle menu"> <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path> </svg> </button> </div> </div> <div id="mobile-menu" class="hidden lg:hidden mt-4 pb-4 border-t border-neutral-800 pt-4"> <div class="flex flex-col gap-4"> <a href="/ru/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Сделки </a> <a href="/ru/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Гайды и обзоры </a> <a href="/ru/about/" class="text-neutral-300 hover:text-gold transition-colors"> О нас </a> <a href="/ru/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all text-center"> Добавить сделку </a> </div> </div> </nav> </header> <script type="module">const s=document.getElementById("mobile-menu-button"),n=document.getElementById("mobile-menu");s?.addEventListener("click",t=>{t.stopPropagation(),n?.classList.toggle("hidden")});document.addEventListener("click",t=>{const e=t.target,c=e.closest("#lang-switcher-button");document.getElementById("lang-switcher-menu"),!c&&!e.closest("#lang-switcher-menu")&&n?.classList.add("hidden")});</script> <main class="flex-1 pt-12 w-full">  <div class="container mx-auto px-4 py-8 lg:pt-12 lg:pb-12"> <div class="flex flex-col lg:flex-row gap-6 lg:gap-8"> <aside class="w-full lg:w-64 flex-shrink-0" data-astro-cid-2y6rdbgm> <div id="sidebar-content" class="bg-neutral-900 border border-neutral-800 rounded-xl p-6" data-astro-cid-2y6rdbgm> <a href="/ru/deals/" class="block mb-6 px-4 py-2 rounded-lg font-medium transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Все сделки </a> <div class="space-y-6" data-astro-cid-2y6rdbgm> <div data-astro-cid-2y6rdbgm> <h3 class="text-sm font-semibold text-gold mb-3" data-astro-cid-2y6rdbgm>По типу</h3> <div class="space-y-1" data-astro-cid-2y6rdbgm> <a href="/ru/deals/centralized/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Централизованные </a><a href="/ru/deals/decentralized/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Децентрализованные </a> </div> </div><div data-astro-cid-2y6rdbgm> <h3 class="text-sm font-semibold text-gold mb-3" data-astro-cid-2y6rdbgm>По приложению</h3> <div class="space-y-1" data-astro-cid-2y6rdbgm> <a href="/ru/deals/pppoker/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> PPPoker </a><a href="/ru/deals/clubgg/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> ClubGG </a><a href="/ru/deals/xpoker/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> X-Poker </a><a href="/ru/deals/pokerbros/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> PokerBros </a><a href="/ru/deals/nutspoker/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Nuts poker </a> </div> </div><div data-astro-cid-2y6rdbgm> <h3 class="text-sm font-semibold text-gold mb-3" data-astro-cid-2y6rdbgm>По союзам</h3> <div class="space-y-1" data-astro-cid-2y6rdbgm> <a href="/ru/deals/pppfish/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> PPPfish </a><a href="/ru/deals/eldorado/" class="block px-4 py-2 text-sm rounded-lg transition-colors bg-gold text-neutral-900 font-medium" data-astro-cid-2y6rdbgm> El Dorado </a><a href="/ru/deals/nuts-primetime/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Nuts PrimeTime </a><a href="/ru/deals/massiv-union/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Massiv Union </a><a href="/ru/deals/paradise/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Paradise </a><a href="/ru/deals/blacksea/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Black Sea </a> </div> </div><div data-astro-cid-2y6rdbgm> <h3 class="text-sm font-semibold text-gold mb-3" data-astro-cid-2y6rdbgm>По географии</h3> <div class="space-y-1" data-astro-cid-2y6rdbgm> <a href="/ru/deals/europe/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Европа </a><a href="/ru/deals/asia/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Азия </a><a href="/ru/deals/cis/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> СНГ </a><a href="/ru/deals/australia/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Австралия </a><a href="/ru/deals/america/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Америка </a><a href="/ru/deals/latam/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> Латинская Америка </a> </div> </div><div data-astro-cid-2y6rdbgm> <h3 class="text-sm font-semibold text-gold mb-3" data-astro-cid-2y6rdbgm>По типу игры</h3> <div class="space-y-1" data-astro-cid-2y6rdbgm> <a href="/ru/deals/mtt/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> MTT </a><a href="/ru/deals/nlh/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> NLH </a><a href="/ru/deals/plo/" class="block px-4 py-2 text-sm rounded-lg transition-colors text-neutral-300 hover:bg-neutral-800" data-astro-cid-2y6rdbgm> PLO </a> </div> </div> </div> </div> <div id="mobile-backdrop" class="hidden" data-astro-cid-2y6rdbgm></div> </aside> <button id="mobile-filter-toggle" class="lg:hidden fixed bottom-6 right-6 z-[100] bg-gold text-neutral-900 rounded-lg shadow-2xl hover:bg-gold-light transition-all active:scale-95 px-4 py-3 flex flex-col items-start gap-1 max-w-[140px]" aria-label="Toggle filters" data-astro-cid-2y6rdbgm> <div class="flex items-center gap-2 w-full" data-astro-cid-2y6rdbgm> <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5" data-astro-cid-2y6rdbgm> <path stroke-linecap="round" stroke-linejoin="round" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" data-astro-cid-2y6rdbgm></path> </svg> <span class="text-xs font-semibold leading-tight" data-astro-cid-2y6rdbgm>Фильтр:</span> </div> <div class="text-sm font-bold leading-tight w-full truncate text-left" data-astro-cid-2y6rdbgm> El Dorado </div> </button>  <script type="module">const s=document.getElementById("mobile-filter-toggle"),t=document.querySelector("aside"),e=document.getElementById("mobile-backdrop"),n=document.getElementById("sidebar-content");s?.addEventListener("click",o=>{o.stopPropagation(),t?.classList.toggle("mobile-open"),t?.classList.contains("mobile-open")?document.body.style.overflow="hidden":document.body.style.overflow=""});e?.addEventListener("click",()=>{t?.classList.remove("mobile-open"),document.body.style.overflow=""});n?.addEventListener("click",o=>{o.target.tagName==="A"&&(t?.classList.remove("mobile-open"),document.body.style.overflow="",n.style.transition="none",n.style.left="-100%",e.style.transition="none",e.style.opacity="0",e.style.pointerEvents="none",e.style.display="none")});</script> <div class="flex-1 min-w-0"> <nav aria-label="Breadcrumb" class="mb-6"> <ol class="flex items-center flex-wrap gap-2 text-sm"> <li class="flex items-center">  <a href="/ru/" class="text-gold hover:text-gold-light transition-colors"> Все сделки </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <span class="text-neutral-400 font-medium">Сделки в покерном союзе El Dorado — PPPoker</span> </li> </ol> </nav> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Все сделки","item":"https://pokerdealshub.com/ru/"},{"@type":"ListItem","position":2,"name":"Сделки в покерном союзе El Dorado — PPPoker","item":"https://pokerdealshub.com/ru/deals/eldorado/"}]}</script> <div class="mb-6 lg:mb-8"> <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-3 lg:mb-4"> Сделки в покерном союзе El Dorado на PPPoker </h1> <p class="text-neutral-300 text-base lg:text-lg leading-relaxed whitespace-pre-line mt-4"> El Dorado — один из самых известных покерных союзов на платформе PPPoker, с сильным присутствием в Латинской Америке, особенно в Бразилии.
