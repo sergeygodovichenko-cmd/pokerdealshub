@@ -27,72 +27,73 @@
         font-display: swap;
         src: url('/fonts/inter-700.woff2') format('woff2');
       }
-    </style><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Poker deal in the PPPFish union on PPPoker — PokerDealsHub","description":"PDH deal in the PPPFish union on PPPoker. One of the softest fields on the platform and excellent rakeback conditions.","url":"https://pokerdealshub.com/en/deal/pppfish-pppoker/","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Poker Deals","item":"https://pokerdealshub.com/en/deals/"},{"@type":"ListItem","position":2,"name":"PPPfish Union Deal on PPPoker.","item":"https://pokerdealshub.com/en/deal/pppfish-pppoker/"}]}</script><!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-EMKB3VKZY3"></script> <script>
-  /* === GA4 === */
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){window.dataLayer.push(arguments);}
-  window.gtag = gtag;
-  gtag('js', new Date());
-  gtag('config', 'G-EMKB3VKZY3');
-  console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
+    </style><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Poker deal in the PPPFish union on PPPoker — PokerDealsHub","description":"PDH deal in the PPPFish union on PPPoker. One of the softest fields on the platform and excellent rakeback conditions.","url":"https://pokerdealshub.com/en/deal/pppfish-pppoker/","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Poker Deals","item":"https://pokerdealshub.com/en/deals/"},{"@type":"ListItem","position":2,"name":"PPPfish Union Deal on PPPoker.","item":"https://pokerdealshub.com/en/deal/pppfish-pppoker/"}]}</script><script>
+/* === Отложенная инициализация аналитики === */
+window.addEventListener('load', () => {
+  const startAnalytics = () => {
+    // --- GA4 ---
+    const ga = document.createElement('script');
+    ga.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
+    ga.async = true;
+    document.head.appendChild(ga);
 
-  /* === Meta Pixel === */
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){window.dataLayer.push(arguments);}
+    window.gtag = gtag;
+    gtag('js', new Date());
+    gtag('config', GA_ID);
+    console.log('%c✅ GA4 инициализирован (отложено)','color:lime;font-weight:bold');
 
-  fbq('init', '843668438232713');
-  fbq('track', 'PageView');
-  console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
+    // --- Meta Pixel ---
+    !(function(f,b,e,v,n,t,s){
+      if(f.fbq)return;
+      n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)
+    })(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
-  /* === Лиды (любые Telegram / WhatsApp ссылки) === */
-  document.addEventListener('click', (event) => {
-    const link = event.target.closest('a[href]');
-    if (!link) return;
+    fbq('init', PIXEL_ID);
+    fbq('track', 'PageView');
+    console.log('%c✅ Meta Pixel инициализирован (отложено)','color:deepskyblue;font-weight:bold');
 
-    const href = link.getAttribute('href') || '';
+    // --- Лиды ---
+    document.addEventListener('click', (event) => {
+      const link = event.target.closest('a[href]');
+      if (!link) return;
+      const href = link.getAttribute('href') || '';
 
-    const isLead =
-      href.includes('t.me') ||
-      href.includes('telegram.me') ||
-      href.includes('wa.me') ||
-      href.includes('api.whatsapp.com');
+      const isLead = href.includes('t.me') || href.includes('telegram.me') ||
+                     href.includes('wa.me') || href.includes('api.whatsapp.com');
 
-    if (isLead) {
-      // === GA4 ===
-      try {
-        gtag('event', 'lead_click', {
-          event_category: 'lead',
-          event_label: href,
-        });
-        console.log('%c📊 GA4 → lead_click отправлен','color:lime;font-weight:bold', href);
-      } catch (err) {
-        console.warn('%c⚠️ Ошибка отправки в GA4:','color:yellow', err);
+      if (isLead) {
+        try {
+          gtag('event', 'lead_click', { event_category: 'lead', event_label: href });
+          fbq('track', 'Lead', { content_name: href, event_source: 'auto' });
+          console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
+        } catch(err) {
+          console.warn('Ошибка отправки события', err);
+        }
       }
+    });
+  };
 
-      // === Meta Pixel ===
-      try {
-        fbq('track', 'Lead', {
-          content_name: href,
-          event_source: 'auto',
-        });
-        console.log('%c📘 Meta Pixel → Lead отправлен','color:deepskyblue;font-weight:bold', href);
-      } catch (err) {
-        console.warn('%c⚠️ Ошибка отправки в Meta Pixel:','color:yellow', err);
-      }
-
-      console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
-    }
-  });
+  // запуск через 3 секунды или при первом действии
+  const timer = setTimeout(startAnalytics, 3000);
+  ['scroll', 'click', 'keydown'].forEach(evt =>
+    window.addEventListener(evt, () => {
+      clearTimeout(timer);
+      startAnalytics();
+    }, { once: true })
+  );
+});
 </script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1"></noscript><link rel="stylesheet" href="/_astro/about.DAxUxVzH.css">
 <style>*,:before,:after{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}:before,:after{--tw-content:""}html{background-color:#0a0a0a;color-scheme:dark}body{margin:0;background-color:#0a0a0a!important;color:#fafafa;width:100%;-webkit-tap-highlight-color:rgba(0,0,0,0)}img,video{max-width:100%;height:auto}
 ul[data-astro-cid-rjeionwp].custom-bullets{list-style:none;padding-left:0;margin:0}ul[data-astro-cid-rjeionwp].custom-bullets li[data-astro-cid-rjeionwp]{position:relative;padding-left:1.5em;margin-bottom:.6em;line-height:1.5}ul[data-astro-cid-rjeionwp].custom-bullets li[data-astro-cid-rjeionwp]:before{content:"•";position:absolute;left:0;color:#e6b347;font-weight:700;font-size:1.2em;line-height:1;top:.15em}
-</style></head> <body class="bg-neutral-950 text-neutral-100 min-h-screen flex flex-col w-full overflow-x-hidden"> <header style="background-color:#0a0a0a;" class="fixed top-0 left-0 right-0 z-50 bg-neutral-900/80 backdrop-blur-md border-b border-neutral-800"> <nav class="container mx-auto px-4 py-4"> <div class="flex items-center justify-between"> <a href="/en/" class="flex items-center hover:opacity-80 transition-opacity"> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-8 md:h-10 w-auto" width="822" height="168"> </a> <div class="flex items-center gap-4"> <div class="hidden lg:flex items-center gap-8"> <a href="/en/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Deals </a> <a href="/en/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Poker Guide </a> <a href="/en/about/" class="text-neutral-300 hover:text-gold transition-colors"> About </a> <a href="/en/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all"> Add Deal </a> </div> <div class="relative inline-block bg-transparent"> <button id="lang-switcher-button" class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors bg-transparent border-0 outline-none appearance-none" aria-label="Change language"> <span class="text-sm uppercase">en</span> <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path> </svg> </button> <div id="lang-switcher-menu" class="hidden absolute right-0 mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[60]"> <a href="/ru/deal/pppfish-pppoker/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> Русский </a><a href="/en/deal/pppfish-pppoker/" class="block px-4 py-2 text-sm bg-neutral-700 text-gold transition-colors"> English </a><a href="/es/deal/pppfish-pppoker/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> Español </a> </div> </div> <script type="module">const n=document.getElementById("lang-switcher-button"),t=document.getElementById("lang-switcher-menu");n?.addEventListener("click",e=>{e.stopPropagation(),t?.classList.toggle("hidden")});document.addEventListener("click",()=>{t?.classList.add("hidden")});</script> <button id="mobile-menu-button" class="lg:hidden text-neutral-300 hover:text-gold" aria-label="Toggle menu"> <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path> </svg> </button> </div> </div> <div id="mobile-menu" class="hidden lg:hidden mt-4 pb-4 border-t border-neutral-800 pt-4"> <div class="flex flex-col gap-4"> <a href="/en/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Deals </a> <a href="/en/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Poker Guide </a> <a href="/en/about/" class="text-neutral-300 hover:text-gold transition-colors"> About </a> <a href="/en/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all text-center"> Add Deal </a> </div> </div> </nav> </header> <script type="module">const s=document.getElementById("mobile-menu-button"),n=document.getElementById("mobile-menu");s?.addEventListener("click",t=>{t.stopPropagation(),n?.classList.toggle("hidden")});document.addEventListener("click",t=>{const e=t.target,c=e.closest("#lang-switcher-button");document.getElementById("lang-switcher-menu"),!c&&!e.closest("#lang-switcher-menu")&&n?.classList.add("hidden")});</script> <main class="flex-1 pt-12 w-full">  <div class="container mx-auto px-4 py-8 lg:py-12" data-astro-cid-rjeionwp> <div class="max-w-5xl mx-auto" data-astro-cid-rjeionwp> <nav aria-label="Breadcrumb" class="mb-6"> <ol class="flex items-center flex-wrap gap-2 text-sm"> <li class="flex items-center">  <a href="/en/deals/" class="text-gold hover:text-gold-light transition-colors"> Poker Deals </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <span class="text-neutral-400 font-medium">PPPfish Union Deal on PPPoker.</span> </li> </ol> </nav> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Poker Deals","item":"https://pokerdealshub.com/en/deals/"},{"@type":"ListItem","position":2,"name":"PPPfish Union Deal on PPPoker.","item":"https://pokerdealshub.com/en/deal/pppfish-pppoker/"}]}</script> <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6" data-astro-cid-rjeionwp>
+</style></head> <body class="bg-neutral-950 text-neutral-100 min-h-screen flex flex-col w-full overflow-x-hidden"> <header style="background-color:#0a0a0a;" class="fixed top-0 left-0 right-0 z-50 bg-neutral-900/80 backdrop-blur-md border-b border-neutral-800"> <nav class="container mx-auto px-4 py-4"> <div class="flex items-center justify-between"> <a href="/en/" class="flex items-center hover:opacity-80 transition-opacity"> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-8 md:h-10 w-auto" width="822" height="168"> </a> <div class="flex items-center gap-4"> <div class="hidden lg:flex items-center gap-8"> <a href="/en/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Deals </a> <a href="/en/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Poker Guide </a> <a href="/en/about/" class="text-neutral-300 hover:text-gold transition-colors"> About </a> <a href="/en/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all"> Add Deal </a> </div> <div class="relative inline-block bg-transparent"> <button id="lang-switcher-button" style="color:#fafafa;" class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors bg-transparent border-0 outline-none appearance-none" aria-label="Change language"> <span class="text-sm uppercase">en</span> <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path> </svg> </button> <div id="lang-switcher-menu" style="background-color:#1f1f1f; color:#fafafa;" class="hidden absolute right-0 mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[60]"> <a href="/ru/deal/pppfish-pppoker/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> Русский </a><a href="/en/deal/pppfish-pppoker/" class="block px-4 py-2 text-sm bg-neutral-700 text-gold transition-colors"> English </a><a href="/es/deal/pppfish-pppoker/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> Español </a> </div> </div> <script type="module">const n=document.getElementById("lang-switcher-button"),t=document.getElementById("lang-switcher-menu");n?.addEventListener("click",e=>{e.stopPropagation(),t?.classList.toggle("hidden")});document.addEventListener("click",()=>{t?.classList.add("hidden")});</script> <button id="mobile-menu-button" class="lg:hidden text-neutral-300 hover:text-gold" aria-label="Toggle menu"> <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path> </svg> </button> </div> </div> <div id="mobile-menu" class="hidden lg:hidden mt-4 pb-4 border-t border-neutral-800 pt-4"> <div class="flex flex-col gap-4"> <a href="/en/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Deals </a> <a href="/en/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Poker Guide </a> <a href="/en/about/" class="text-neutral-300 hover:text-gold transition-colors"> About </a> <a href="/en/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all text-center"> Add Deal </a> </div> </div> </nav> </header> <script type="module">const s=document.getElementById("mobile-menu-button"),n=document.getElementById("mobile-menu");s?.addEventListener("click",t=>{t.stopPropagation(),n?.classList.toggle("hidden")});document.addEventListener("click",t=>{const e=t.target,c=e.closest("#lang-switcher-button");document.getElementById("lang-switcher-menu"),!c&&!e.closest("#lang-switcher-menu")&&n?.classList.add("hidden")});</script> <main class="flex-1 pt-12 w-full">  <div class="container mx-auto px-4 py-8 lg:py-12" data-astro-cid-rjeionwp> <div class="max-w-5xl mx-auto" data-astro-cid-rjeionwp> <nav aria-label="Breadcrumb" class="mb-6"> <ol class="flex items-center flex-wrap gap-2 text-sm"> <li class="flex items-center">  <a href="/en/deals/" class="text-gold hover:text-gold-light transition-colors"> Poker Deals </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <span class="text-neutral-400 font-medium">PPPfish Union Deal on PPPoker.</span> </li> </ol> </nav> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Poker Deals","item":"https://pokerdealshub.com/en/deals/"},{"@type":"ListItem","position":2,"name":"PPPfish Union Deal on PPPoker.","item":"https://pokerdealshub.com/en/deal/pppfish-pppoker/"}]}</script> <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6" data-astro-cid-rjeionwp>
 Rakeback offer in the PPPFish union on PPPoker
 </h1> <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8" data-astro-cid-rjeionwp> <div class="flex gap-4 mb-6 lg:hidden" data-astro-cid-rjeionwp> <div class="flex-shrink-0" data-astro-cid-rjeionwp> <img src="/pppoker_logo.webp" alt="PPPoker logo" class="w-32 sm:w-40 h-auto object-contain rounded-xl" data-astro-cid-rjeionwp> </div> <div class="flex flex-col gap-2" data-astro-cid-rjeionwp> <span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit" data-astro-cid-rjeionwp> 💎 Top Deal! </span><span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit" data-astro-cid-rjeionwp> 🇦🇺 Australia </span><span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit" data-astro-cid-rjeionwp> 🐟 Soft game </span><span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit" data-astro-cid-rjeionwp> ✅ Verified </span> </div> </div> <div class="hidden lg:flex lg:flex-row lg:items-start gap-6 mb-6" data-astro-cid-rjeionwp> <div class="flex-shrink-0" data-astro-cid-rjeionwp> <img src="/pppoker_logo.webp" alt="PPPoker logo" class="w-48 h-auto object-contain rounded-xl" data-astro-cid-rjeionwp> </div> <div class="flex-1" data-astro-cid-rjeionwp> <h2 class="text-2xl font-bold text-neutral-100 mb-4" data-astro-cid-rjeionwp>Information about the PPPFish union</h2> <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm lg:text-base" data-astro-cid-rjeionwp> <div data-astro-cid-rjeionwp> <span class="text-neutral-400" data-astro-cid-rjeionwp>Club:</span> <span class="text-neutral-100 ml-2 font-medium" data-astro-cid-rjeionwp>Kings Poker</span> </div> <div data-astro-cid-rjeionwp> <span class="text-neutral-400" data-astro-cid-rjeionwp>Union:</span> <span class="text-neutral-100 ml-2 font-medium" data-astro-cid-rjeionwp>PPPFish</span> </div> <div data-astro-cid-rjeionwp> <span class="text-neutral-400" data-astro-cid-rjeionwp>Geography:</span> <span class="text-neutral-100 ml-2 font-medium" data-astro-cid-rjeionwp>Australia, Oceania</span> </div> <div data-astro-cid-rjeionwp> <span class="text-neutral-400" data-astro-cid-rjeionwp>Platform:</span> <span class="text-neutral-100 ml-2 font-medium" data-astro-cid-rjeionwp>PPPoker</span> </div> <div data-astro-cid-rjeionwp> <span class="inline-block px-2 py-1 rounded-lg font-semibold text-green-300 border border-green-400/60 bg-green-950/40 shadow-[0_0_10px_rgba(0,255,0,0.15)]" data-astro-cid-rjeionwp> Rakeback up to 45% </span> </div> </div> </div> </div> <h3 class="text-xl font-bold text-neutral-100 mb-3" data-astro-cid-rjeionwp>Description</h3> <p class="text-neutral-300 leading-relaxed" data-astro-cid-rjeionwp>
 PPPFish is one of the most popular and stable poker unions on PPPoker.  

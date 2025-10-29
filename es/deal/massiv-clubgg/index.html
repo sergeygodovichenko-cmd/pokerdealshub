@@ -27,71 +27,72 @@
         font-display: swap;
         src: url('/fonts/inter-700.woff2') format('woff2');
       }
-    </style><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Oferta de póker en la unión Massiv Union en ClubGG — PokerDealsHub","description":"Oferta en la legendaria unión Massiv Union en ClubGG. Probablemente uno de los mejores campos de póker para cualquier disciplina y límite. Gran tráfico, condiciones estables y seguridad total.","url":"https://pokerdealshub.com/es/deal/massiv-clubgg/","inLanguage":"es","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Ofertas de Póker","item":"https://pokerdealshub.com/es/deals/"},{"@type":"ListItem","position":2,"name":"Oferta de la Unión Massiv Union en ClubGG","item":"https://pokerdealshub.com/es/deal/massiv-clubgg/"}]}</script><!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-EMKB3VKZY3"></script> <script>
-  /* === GA4 === */
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){window.dataLayer.push(arguments);}
-  window.gtag = gtag;
-  gtag('js', new Date());
-  gtag('config', 'G-EMKB3VKZY3');
-  console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
+    </style><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Oferta de póker en la unión Massiv Union en ClubGG — PokerDealsHub","description":"Oferta en la legendaria unión Massiv Union en ClubGG. Probablemente uno de los mejores campos de póker para cualquier disciplina y límite. Gran tráfico, condiciones estables y seguridad total.","url":"https://pokerdealshub.com/es/deal/massiv-clubgg/","inLanguage":"es","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Ofertas de Póker","item":"https://pokerdealshub.com/es/deals/"},{"@type":"ListItem","position":2,"name":"Oferta de la Unión Massiv Union en ClubGG","item":"https://pokerdealshub.com/es/deal/massiv-clubgg/"}]}</script><script>
+/* === Отложенная инициализация аналитики === */
+window.addEventListener('load', () => {
+  const startAnalytics = () => {
+    // --- GA4 ---
+    const ga = document.createElement('script');
+    ga.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
+    ga.async = true;
+    document.head.appendChild(ga);
 
-  /* === Meta Pixel === */
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){window.dataLayer.push(arguments);}
+    window.gtag = gtag;
+    gtag('js', new Date());
+    gtag('config', GA_ID);
+    console.log('%c✅ GA4 инициализирован (отложено)','color:lime;font-weight:bold');
 
-  fbq('init', '843668438232713');
-  fbq('track', 'PageView');
-  console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
+    // --- Meta Pixel ---
+    !(function(f,b,e,v,n,t,s){
+      if(f.fbq)return;
+      n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)
+    })(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
-  /* === Лиды (любые Telegram / WhatsApp ссылки) === */
-  document.addEventListener('click', (event) => {
-    const link = event.target.closest('a[href]');
-    if (!link) return;
+    fbq('init', PIXEL_ID);
+    fbq('track', 'PageView');
+    console.log('%c✅ Meta Pixel инициализирован (отложено)','color:deepskyblue;font-weight:bold');
 
-    const href = link.getAttribute('href') || '';
+    // --- Лиды ---
+    document.addEventListener('click', (event) => {
+      const link = event.target.closest('a[href]');
+      if (!link) return;
+      const href = link.getAttribute('href') || '';
 
-    const isLead =
-      href.includes('t.me') ||
-      href.includes('telegram.me') ||
-      href.includes('wa.me') ||
-      href.includes('api.whatsapp.com');
+      const isLead = href.includes('t.me') || href.includes('telegram.me') ||
+                     href.includes('wa.me') || href.includes('api.whatsapp.com');
 
-    if (isLead) {
-      // === GA4 ===
-      try {
-        gtag('event', 'lead_click', {
-          event_category: 'lead',
-          event_label: href,
-        });
-        console.log('%c📊 GA4 → lead_click отправлен','color:lime;font-weight:bold', href);
-      } catch (err) {
-        console.warn('%c⚠️ Ошибка отправки в GA4:','color:yellow', err);
+      if (isLead) {
+        try {
+          gtag('event', 'lead_click', { event_category: 'lead', event_label: href });
+          fbq('track', 'Lead', { content_name: href, event_source: 'auto' });
+          console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
+        } catch(err) {
+          console.warn('Ошибка отправки события', err);
+        }
       }
+    });
+  };
 
-      // === Meta Pixel ===
-      try {
-        fbq('track', 'Lead', {
-          content_name: href,
-          event_source: 'auto',
-        });
-        console.log('%c📘 Meta Pixel → Lead отправлен','color:deepskyblue;font-weight:bold', href);
-      } catch (err) {
-        console.warn('%c⚠️ Ошибка отправки в Meta Pixel:','color:yellow', err);
-      }
-
-      console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
-    }
-  });
+  // запуск через 3 секунды или при первом действии
+  const timer = setTimeout(startAnalytics, 3000);
+  ['scroll', 'click', 'keydown'].forEach(evt =>
+    window.addEventListener(evt, () => {
+      clearTimeout(timer);
+      startAnalytics();
+    }, { once: true })
+  );
+});
 </script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1"></noscript><link rel="stylesheet" href="/_astro/about.DAxUxVzH.css">
 <style>*,:before,:after{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}:before,:after{--tw-content:""}html{background-color:#0a0a0a;color-scheme:dark}body{margin:0;background-color:#0a0a0a!important;color:#fafafa;width:100%;-webkit-tap-highlight-color:rgba(0,0,0,0)}img,video{max-width:100%;height:auto}
-</style></head> <body class="bg-neutral-950 text-neutral-100 min-h-screen flex flex-col w-full overflow-x-hidden"> <header style="background-color:#0a0a0a;" class="fixed top-0 left-0 right-0 z-50 bg-neutral-900/80 backdrop-blur-md border-b border-neutral-800"> <nav class="container mx-auto px-4 py-4"> <div class="flex items-center justify-between"> <a href="/es/" class="flex items-center hover:opacity-80 transition-opacity"> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-8 md:h-10 w-auto" width="822" height="168"> </a> <div class="flex items-center gap-4"> <div class="hidden lg:flex items-center gap-8"> <a href="/es/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Ofertas </a> <a href="/es/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Guías </a> <a href="/es/about/" class="text-neutral-300 hover:text-gold transition-colors"> Acerca de </a> <a href="/es/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all"> Agregar Oferta </a> </div> <div class="relative inline-block bg-transparent"> <button id="lang-switcher-button" class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors bg-transparent border-0 outline-none appearance-none" aria-label="Change language"> <span class="text-sm uppercase">es</span> <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path> </svg> </button> <div id="lang-switcher-menu" class="hidden absolute right-0 mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[60]"> <a href="/ru/deal/massiv-clubgg/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> Русский </a><a href="/en/deal/massiv-clubgg/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> English </a><a href="/es/deal/massiv-clubgg/" class="block px-4 py-2 text-sm bg-neutral-700 text-gold transition-colors"> Español </a> </div> </div> <script type="module">const n=document.getElementById("lang-switcher-button"),t=document.getElementById("lang-switcher-menu");n?.addEventListener("click",e=>{e.stopPropagation(),t?.classList.toggle("hidden")});document.addEventListener("click",()=>{t?.classList.add("hidden")});</script> <button id="mobile-menu-button" class="lg:hidden text-neutral-300 hover:text-gold" aria-label="Toggle menu"> <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path> </svg> </button> </div> </div> <div id="mobile-menu" class="hidden lg:hidden mt-4 pb-4 border-t border-neutral-800 pt-4"> <div class="flex flex-col gap-4"> <a href="/es/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Ofertas </a> <a href="/es/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Guías </a> <a href="/es/about/" class="text-neutral-300 hover:text-gold transition-colors"> Acerca de </a> <a href="/es/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all text-center"> Agregar Oferta </a> </div> </div> </nav> </header> <script type="module">const s=document.getElementById("mobile-menu-button"),n=document.getElementById("mobile-menu");s?.addEventListener("click",t=>{t.stopPropagation(),n?.classList.toggle("hidden")});document.addEventListener("click",t=>{const e=t.target,c=e.closest("#lang-switcher-button");document.getElementById("lang-switcher-menu"),!c&&!e.closest("#lang-switcher-menu")&&n?.classList.add("hidden")});</script> <main class="flex-1 pt-12 w-full">  <div class="container mx-auto px-4 py-8 lg:py-12"> <div class="max-w-5xl mx-auto"> <nav aria-label="Breadcrumb" class="mb-6"> <ol class="flex items-center flex-wrap gap-2 text-sm"> <li class="flex items-center">  <a href="/es/deals/" class="text-gold hover:text-gold-light transition-colors"> Ofertas de Póker </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <span class="text-neutral-400 font-medium">Oferta de la Unión Massiv Union en ClubGG</span> </li> </ol> </nav> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Ofertas de Póker","item":"https://pokerdealshub.com/es/deals/"},{"@type":"ListItem","position":2,"name":"Oferta de la Unión Massiv Union en ClubGG","item":"https://pokerdealshub.com/es/deal/massiv-clubgg/"}]}</script> <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6">
+</style></head> <body class="bg-neutral-950 text-neutral-100 min-h-screen flex flex-col w-full overflow-x-hidden"> <header style="background-color:#0a0a0a;" class="fixed top-0 left-0 right-0 z-50 bg-neutral-900/80 backdrop-blur-md border-b border-neutral-800"> <nav class="container mx-auto px-4 py-4"> <div class="flex items-center justify-between"> <a href="/es/" class="flex items-center hover:opacity-80 transition-opacity"> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-8 md:h-10 w-auto" width="822" height="168"> </a> <div class="flex items-center gap-4"> <div class="hidden lg:flex items-center gap-8"> <a href="/es/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Ofertas </a> <a href="/es/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Guías </a> <a href="/es/about/" class="text-neutral-300 hover:text-gold transition-colors"> Acerca de </a> <a href="/es/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all"> Agregar Oferta </a> </div> <div class="relative inline-block bg-transparent"> <button id="lang-switcher-button" style="color:#fafafa;" class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors bg-transparent border-0 outline-none appearance-none" aria-label="Change language"> <span class="text-sm uppercase">es</span> <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path> </svg> </button> <div id="lang-switcher-menu" style="background-color:#1f1f1f; color:#fafafa;" class="hidden absolute right-0 mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[60]"> <a href="/ru/deal/massiv-clubgg/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> Русский </a><a href="/en/deal/massiv-clubgg/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> English </a><a href="/es/deal/massiv-clubgg/" class="block px-4 py-2 text-sm bg-neutral-700 text-gold transition-colors"> Español </a> </div> </div> <script type="module">const n=document.getElementById("lang-switcher-button"),t=document.getElementById("lang-switcher-menu");n?.addEventListener("click",e=>{e.stopPropagation(),t?.classList.toggle("hidden")});document.addEventListener("click",()=>{t?.classList.add("hidden")});</script> <button id="mobile-menu-button" class="lg:hidden text-neutral-300 hover:text-gold" aria-label="Toggle menu"> <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path> </svg> </button> </div> </div> <div id="mobile-menu" class="hidden lg:hidden mt-4 pb-4 border-t border-neutral-800 pt-4"> <div class="flex flex-col gap-4"> <a href="/es/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Ofertas </a> <a href="/es/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Guías </a> <a href="/es/about/" class="text-neutral-300 hover:text-gold transition-colors"> Acerca de </a> <a href="/es/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all text-center"> Agregar Oferta </a> </div> </div> </nav> </header> <script type="module">const s=document.getElementById("mobile-menu-button"),n=document.getElementById("mobile-menu");s?.addEventListener("click",t=>{t.stopPropagation(),n?.classList.toggle("hidden")});document.addEventListener("click",t=>{const e=t.target,c=e.closest("#lang-switcher-button");document.getElementById("lang-switcher-menu"),!c&&!e.closest("#lang-switcher-menu")&&n?.classList.add("hidden")});</script> <main class="flex-1 pt-12 w-full">  <div class="container mx-auto px-4 py-8 lg:py-12"> <div class="max-w-5xl mx-auto"> <nav aria-label="Breadcrumb" class="mb-6"> <ol class="flex items-center flex-wrap gap-2 text-sm"> <li class="flex items-center">  <a href="/es/deals/" class="text-gold hover:text-gold-light transition-colors"> Ofertas de Póker </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <span class="text-neutral-400 font-medium">Oferta de la Unión Massiv Union en ClubGG</span> </li> </ol> </nav> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Ofertas de Póker","item":"https://pokerdealshub.com/es/deals/"},{"@type":"ListItem","position":2,"name":"Oferta de la Unión Massiv Union en ClubGG","item":"https://pokerdealshub.com/es/deal/massiv-clubgg/"}]}</script> <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6">
 Oferta de rakeback en la unión Massiv Union en ClubGG
 </h1> <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8"> <div class="flex gap-4 mb-6 lg:hidden"> <div class="flex-shrink-0"> <img src="/clubGG_logo.webp" alt="ClobGG logo" class="w-32 sm:w-40 h-auto object-contain rounded-xl"> </div> <div class="flex flex-col gap-2"> <span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit"> 🐟 Soft game </span><span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit"> 💰 High Rakeback </span><span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit"> 🌍 International </span><span class="px-3 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 w-fit"> ✅ Verified </span> </div> </div> <div class="hidden lg:flex lg:flex-row lg:items-start gap-6 mb-6"> <div class="flex-shrink-0"> <img src="/clubGG_logo.webp" alt="ClobGG logo" class="w-48 h-auto object-contain rounded-xl"> </div> <div class="flex-1"> <h2 class="text-2xl font-bold text-neutral-100 mb-4">Información sobre la unión Massiv Union</h2> <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm lg:text-base"> <div> <span class="text-neutral-400">Club:</span> <span class="text-neutral-100 ml-2 font-medium">Stampede</span> </div> <div> <span class="text-neutral-400">Unión:</span> <span class="text-neutral-100 ml-2 font-medium">Massiv Union</span> </div> <div> <span class="text-neutral-400">Geografía:</span> <span class="text-neutral-100 ml-2 font-medium">Asia, Israel, EE.UU.</span> </div> <div> <span class="text-neutral-400">Plataforma:</span> <span class="text-neutral-100 ml-2 font-medium">ClubGG</span> </div> <div> <span class="inline-block px-2 py-1 rounded-lg font-semibold text-green-300 border border-green-400/60 bg-green-950/40 shadow-[0_0_10px_rgba(0,255,0,0.15)]"> Rakeback hasta 55% </span> </div> </div> </div> </div> <h3 class="text-xl font-bold text-neutral-100 mb-3">Descripción</h3> <p class="text-neutral-300 leading-relaxed">
 Massiv Union es una de las uniones más grandes y activas del ecosistema ClubGG,
