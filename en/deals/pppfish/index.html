@@ -28,62 +28,74 @@
         src: url('/fonts/inter-700.woff2') format('woff2');
       }
     </style><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"PPPfish Union — Top Terms in PPPoker","description":"Deals from PPPfish union with up to 60% rakeback and 24/7 support","url":"https://pokerdealshub.com/en/deals/pppfish/","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"All Deals","item":"https://pokerdealshub.com/en/deals/"},{"@type":"ListItem","position":2,"name":"PPPfish Union — Top Terms in PPPoker","item":"https://pokerdealshub.com/en/deals/pppfish/"}]}</script><script>
-/* === Отложенная инициализация аналитики === */
+/* === Ленивая инициализация GA4 + Meta Pixel === */
+window.GA_ID = '{GA_ID}';
+window.PIXEL_ID = '{PIXEL_ID}';
+
 window.addEventListener('load', () => {
   const startAnalytics = () => {
-    // --- GA4 ---
+    if (window.__analyticsStarted) return; // защита от двойного запуска
+    window.__analyticsStarted = true;
+
+    /* --- GA4 --- */
     const ga = document.createElement('script');
-    ga.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
     ga.async = true;
+    ga.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
     document.head.appendChild(ga);
 
     window.dataLayer = window.dataLayer || [];
     function gtag(){window.dataLayer.push(arguments);}
     window.gtag = gtag;
     gtag('js', new Date());
-    gtag('config', GA_ID);
-    console.log('%c✅ GA4 инициализирован (отложено)','color:lime;font-weight:bold');
+    gtag('config', GA_ID, { send_page_view: true });
+    console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
 
-    // --- Meta Pixel ---
+    /* --- Meta Pixel --- */
     !(function(f,b,e,v,n,t,s){
-      if(f.fbq)return;
-      n=f.fbq=function(){n.callMethod?
-      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-      if(!f._fbq)f._fbq=n;
-      n.push=n;n.loaded=!0;n.version='2.0';
-      n.queue=[];t=b.createElement(e);t.async=!0;
-      t.src=v;s=b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t,s)
-    })(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+      if(f.fbq) return;
+      n=f.fbq=function(){n.callMethod ?
+        n.callMethod.apply(n,arguments) : n.queue.push(arguments)};
+      if(!f._fbq) f._fbq=n;
+      n.push=n; n.loaded=!0; n.version='2.0';
+      n.queue=[]; t=b.createElement(e); t.async=!0;
+      t.src=v; s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s);
+    })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
 
-    fbq('init', PIXEL_ID);
-    fbq('track', 'PageView');
-    console.log('%c✅ Meta Pixel инициализирован (отложено)','color:deepskyblue;font-weight:bold');
+    window.fbq('init', PIXEL_ID);
+    window.fbq('track', 'PageView');
+    console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
 
-    // --- Лиды ---
+    /* --- Лиды (GA4 + Pixel) --- */
     document.addEventListener('click', (event) => {
       const link = event.target.closest('a[href]');
       if (!link) return;
       const href = link.getAttribute('href') || '';
 
-      const isLead = href.includes('t.me') || href.includes('telegram.me') ||
-                     href.includes('wa.me') || href.includes('api.whatsapp.com');
+      const isLead = href.includes('t.me') || href.includes('telegram.me')
+        || href.includes('wa.me') || href.includes('api.whatsapp.com');
 
       if (isLead) {
         try {
-          gtag('event', 'lead_click', { event_category: 'lead', event_label: href });
-          fbq('track', 'Lead', { content_name: href, event_source: 'auto' });
+          window.gtag?.('event', 'lead_click', {
+            event_category: 'lead',
+            event_label: href
+          });
+          window.fbq?.('track', 'Lead', {
+            content_name: href,
+            event_source: 'auto'
+          });
           console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
-        } catch(err) {
+        } catch (err) {
           console.warn('Ошибка отправки события', err);
         }
       }
     });
   };
 
-  // запуск через 3 секунды или при первом действии
+  /* --- Отложенный запуск: 3 сек или первое действие --- */
   const timer = setTimeout(startAnalytics, 3000);
-  ['scroll', 'click', 'keydown'].forEach(evt =>
+  ['scroll','click','keydown'].forEach(evt =>
     window.addEventListener(evt, () => {
       clearTimeout(timer);
       startAnalytics();
