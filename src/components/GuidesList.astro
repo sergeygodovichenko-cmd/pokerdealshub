@@ -1,44 +1,67 @@
 ---
-import deals from "../data/deals.json";
+import guides from "../data/guides.json";
 import { dealsConfig } from "../config/dealsConfig.js";
-import DealCard from "./DealCard.astro";
 
 interface Props {
   currentPage?: number;
   perPage?: number;
   lang: string;
-  dealsOverride?: any[];
+  guidesOverride?: any[];
 }
 
 const {
-  currentPage = dealsConfig.defaultPage ?? 0,
+  currentPage = 0,
   perPage = dealsConfig.perPage ?? 8,
   lang = "ru",
-  dealsOverride,
+  guidesOverride,
 } = Astro.props;
 
-const sorted = dealsOverride
-  ? dealsOverride
-  : [...deals].sort(dealsConfig.sortDeals);
-
+const sorted = guidesOverride ? guidesOverride : [...guides];
 const totalPages = Math.ceil(sorted.length / perPage);
 const start = currentPage * perPage;
 const end = start + perPage;
 const pageSlice = sorted.slice(start, end);
-
-// локализация кнопки и текста загрузки
-const texts = {
-  ru: { more: "Показать ещё", loading: "Загрузка..." },
-  en: { more: "Show more", loading: "Loading..." },
-  es: { more: "Mostrar más", loading: "Cargando..." },
-};
-const t = texts[lang] || texts["en"];
 ---
 
-<div id="deals-section">
-  <div id="deals-list" class="flex flex-col gap-4">
-    {pageSlice.map((deal) => (
-      <DealCard deal={deal} />
+<div id="guides-section">
+  <div id="guides-list" class="flex flex-col gap-6">
+    {pageSlice.map((guide) => (
+      <article class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 hover:border-gold transition-all group">
+        <div class="flex items-start justify-between mb-3">
+          <span class={`text-xs px-3 py-1 rounded-full ${
+            guide.category === "guide"
+              ? "bg-blue-500/20 text-blue-400"
+              : "bg-green-500/20 text-green-400"
+          }`}>
+            {guide.category === "guide" ? (lang === "ru" ? "Гайд" : "Guide") : (lang === "ru" ? "Обзор" : "Review")}
+          </span>
+          <time class="text-sm text-neutral-500">
+            {new Date(guide.date).toLocaleDateString(lang === "ru" ? "ru-RU" : "en-US", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+            })}
+          </time>
+        </div>
+
+        <h2 class="text-2xl font-semibold text-gold group-hover:text-gold-light transition-colors mb-3">
+          <a href={`/${lang}/guides/${guide.slug}/`}>
+            {guide.title[lang]}
+          </a>
+        </h2>
+
+        <p class="text-neutral-400 mb-4">{guide.description[lang]}</p>
+
+        <a
+          href={`/${lang}/guides/${guide.slug}/`}
+          class="inline-flex items-center text-gold hover:text-gold-light transition-colors text-sm font-medium"
+        >
+          {lang === "ru" ? "Читать далее" : "Read more"}
+          <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+        </a>
+      </article>
     ))}
   </div>
 
@@ -53,25 +76,27 @@ const t = texts[lang] || texts["en"];
         data-total-pages={totalPages}
         data-lang={lang}
       >
-        {t.more}
+        {lang === "ru" ? "Показать ещё" : "Show more"}
       </button>
     </div>
   )}
 
-  <div id="deals-loader" class="flex justify-center py-4" style="display:none">
-    <span class="animate-pulse text-neutral-400">{t.loading}</span>
+  <div id="guides-loader" class="flex justify-center py-4" style="display:none">
+    <span class="animate-pulse text-neutral-400">
+      {lang === "ru" ? "Загрузка..." : "Loading..."}
+    </span>
   </div>
 </div>
 
 <script>
   (function () {
-    if (window.PDH_DEALS_INIT) return;
-    window.PDH_DEALS_INIT = true;
+    if (window.PDH_GUIDES_INIT) return;
+    window.PDH_GUIDES_INIT = true;
 
-    const container = document.querySelector("#deals-list");
+    const container = document.querySelector("#guides-list");
     const trigger = document.querySelector("#observer-trigger");
     const btn = document.querySelector("#load-more");
-    const loader = document.querySelector("#deals-loader");
+    const loader = document.querySelector("#guides-loader");
     if (!container || !btn) return;
 
     let currentPage = Number(btn.dataset.currentPage ?? 0);
@@ -85,7 +110,7 @@ const t = texts[lang] || texts["en"];
       loader.style.display = "flex";
 
       const nextPage = currentPage + 1;
-      const nextUrl = `/${lang}/deals/page-${nextPage}/`;
+      const nextUrl = `/${lang}/guides/page-${nextPage}/`;
 
       try {
         const res = await fetch(nextUrl);
