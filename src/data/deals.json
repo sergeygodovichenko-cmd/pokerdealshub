@@ -39,7 +39,8 @@
       "cash": 4,
       "plo": 5,
       "nlh": 4
-    }
+    },
+    "order": 0
   },
   {
     "slug": "nuts-primetime-pppoker",
@@ -81,7 +82,8 @@
       "cash": 5,
       "plo": 4,
       "nlh": 4
-    }
+    },
+    "order": -5
   },
   {
     "slug": "eldorado-pppoker",
@@ -127,7 +129,8 @@
       "cash": 4,
       "plo": 5,
       "nlh": 4
-    }
+    },
+    "order": -4
   },
   {
     "slug": "blacksea-xpoker",
@@ -153,7 +156,7 @@
     },
     "format": "Cash",
     "type": "Decentralized",
-    "rakeback": "80%",
+    "rakeback": "70%",
     "fixrb": "40%",
     "bonus": {
       "ru": "+50% на 1й депозит",
@@ -169,9 +172,10 @@
       "cash": 5,
       "plo": 4,
       "nlh": 5
-    }
-},
-{
+    },
+    "order": -3
+  },
+  {
     "slug": "pppfish-pppoker",
     "name": {
       "ru": "Сделка в союзе PPPfish на PPPoker",
@@ -211,7 +215,8 @@
       "cash": 4,
       "plo": 5,
       "nlh": 3
-    }
+    },
+    "order": 2
   },
   {
     "slug": "paradise-clubgg",
@@ -256,7 +261,8 @@
       "plo": 5,
       "nlh": 5
     },
-    "badges": ["highRakeback", "nonStop", "international", "verified"]
+    "badges": ["highRakeback", "nonStop", "international", "verified"],
+    "order": 5
   },
   {
     "slug": "massiv-clubgg",
@@ -301,7 +307,8 @@
       "plo": 5,
       "nlh": 5
     },
-    "badges": ["soft", "highRakeback", "international", "verified"]
+    "badges": ["soft", "highRakeback", "international", "verified"],
+    "order": 6
   },
   {
     "slug": "paradise-pokerbros",
@@ -343,7 +350,8 @@
       "cash": 4,
       "plo": 4,
       "nlh": 4
-    }
+    },
+    "order": 7
   }
-  
+
 ]

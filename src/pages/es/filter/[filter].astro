@@ -68,7 +68,7 @@ const filteredDeals = filterDeals(deals, filter).sort((a, b) => {
 
 const breadcrumbs = [
   { name: 'Todas las Ofertas', url: '/es/' },
-  { name: content.title, url: `/es/filter/${filter}/` }
+  { name: content.title, url: `/es/deals/${filter}/` }
 ];
 ---
 
@@ -105,7 +105,8 @@ const breadcrumbs = [
             <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 text-center">
               <p class="text-neutral-400 text-sm lg:text-base">
                 Las ofertas para este filtro llegarán pronto. Consulte{' '}
-                <a href="/es/" class="text-gold hover:text-gold-light">todas las ofertas</a> o elija otro filtro.
+                <a href="/es/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+>todas las ofertas</a> o elija otro filtro.
               </p>
             </div>
           )}
@@ -115,7 +116,7 @@ const breadcrumbs = [
           <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8 lg:mb-12">
             <p class="text-neutral-300 text-sm lg:text-base">
               Has visto ofertas para <span class="font-semibold text-gold">{content.title}</span>. Tenemos muchas otras ofertas de póker con excelentes condiciones.{' '}
-              <a href="/es/" class="text-gold hover:text-gold-light underline">Mostrar todas las ofertas</a>
+              <a href="/es/deals/" class="text-gold hover:text-gold-light underline">Mostrar todas las ofertas</a>
             </p>
           </div>
         )}

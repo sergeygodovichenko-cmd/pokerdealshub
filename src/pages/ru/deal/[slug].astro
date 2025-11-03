@@ -18,8 +18,8 @@ const { deal } = Astro.props;
 const t = useTranslations('ru');
 
 const breadcrumbs = [
-  { name: t('breadcrumb.home'), url: '/ru/' },
-  { name: t('breadcrumb.deals'), url: '/ru/' },
+  { name: t('bbreadcrumb.home'), url: `/${lang}/deals/` },
+  { name: t('breadcrumb.deals'), url: `/${lang}/deals/` },
   { name: deal.name[lang], url: `/ru/deal/${deal.slug}/` },
 ];
 
@@ -115,7 +115,6 @@ const similarDeals = deals.filter(
           target="_blank"
           rel="noopener noreferrer"
           class="inline-block w-full md:w-auto text-center px-8 py-4 bg-gold text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors"
-          onclick="if(typeof gtag !== 'undefined') gtag('event', 'lead', {'deal_name': '{deal.name.ru}'});"
         >
           {t('deal.getButton')}
         </a>
@@ -137,7 +136,8 @@ const similarDeals = deals.filter(
         <p class="text-neutral-300">
           Данная сделка размещена на PokerDealsHub после проверки условий и репутации. Мы регулярно обновляем
           информацию о предложениях и следим за актуальностью условий. Если у вас есть вопросы или вы хотите узнать
-          больше о {deal.app}, посетите раздел <a href="/ru/guides/" class="text-gold hover:text-gold-light">Гайды и обзоры</a>.
+          больше о {deal.app}, посетите раздел <a href="/ru/guides/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+>Гайды и обзоры</a>.
         </p>
       </div>
     </div>

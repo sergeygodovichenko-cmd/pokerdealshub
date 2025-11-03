@@ -3,7 +3,9 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import DealCard from '../../../components/DealCard.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import deals from '../../../data/deals.json';
-import { useTranslations } from '../../../i18n/utils';
+import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
 
 export function getStaticPaths() {
   return deals.map((deal) => ({
@@ -16,8 +18,8 @@ const { deal } = Astro.props;
 const t = useTranslations('en');
 
 const breadcrumbs = [
-  { name: t('breadcrumb.home'), url: '/en/' },
-  { name: t('breadcrumb.deals'), url: '/en/' },
+  { name: t('bbreadcrumb.home'), url: `/${lang}/deals/` },
+  { name: t('breadcrumb.deals'), url: `/${lang}/deals/` },
   { name: deal.name.en, url: `/en/deal/${deal.slug}/` },
 ];
 
@@ -120,7 +122,6 @@ const similarDeals = deals.filter(
           target="_blank"
           rel="noopener noreferrer"
           class="inline-block w-full md:w-auto text-center px-8 py-4 bg-gold text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors"
-          onclick="if(typeof gtag !== 'undefined') gtag('event', 'lead', {'deal_name': '{deal.name.en}'});"
         >
           {t('deal.getButton')}
         </a>
@@ -142,7 +143,8 @@ const similarDeals = deals.filter(
         <p class="text-neutral-300">
           This deal is listed on PokerDealsHub after verifying terms and reputation. We regularly update
           information about offers and monitor the relevance of terms. If you have questions or want to learn
-          more about {deal.app}, visit the <a href="/en/guides/" class="text-gold hover:text-gold-light">Poker Guide</a> section.
+          more about {deal.app}, visit the <a href="/en/guides/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+>Poker Guide</a> section.
         </p>
       </div>
     </div>

@@ -6,7 +6,8 @@ interface Props {
 }
 
 const { currentFilter } = Astro.props;
-const lang = getLangFromUrl(Astro.url);
+const lang = getLangFromUrl(Astro.url) || 'en';
+
 
 const filterData = {
   ru: {
@@ -77,43 +78,9 @@ const filterData = {
       nlh: 'NLH',
     },
   },
-  es: {
-    allDeals: 'Todas las Ofertas',
-    filterLabel: 'Filtro:',
-    byType: 'Por Tipo',
-    byApp: 'Por Aplicación',
-    byUnion: 'Por Unión',
-    byGeo: 'Por Geografía',
-    byFormat: 'Por Tipo de Juego',
-    filters: {
-      centralized: 'Centralizadas',
-      decentralized: 'Descentralizadas',
-      pppoker: 'PPPoker',
-      clubgg: 'ClubGG',
-      xpoker: 'X-Poker',
-      pokerbros: 'PokerBros',
-      nutspoker: 'Nuts poker',
-      blacksea: 'Black Sea',
-      pppfish: 'PPPfish',
-      eldorado: 'El Dorado',
-      'nuts-primetime': 'Nuts PrimeTime',
-      'massiv-union': 'Massiv Union',
-      paradise: 'Paradise',
-      europe: 'Europa',
-      asia: 'Asia',
-      cis: 'CEI',
-      australia: 'Australia',
-      america: 'América',
-      latam: 'LatAm',
-      mtt: 'MTT',
-      cash: 'Cash',
-      plo: 'PLO',
-      nlh: 'NLH',
-    },
-  },
 };
 
-const t = filterData[lang as keyof typeof filterData];
+const t = filterData[lang as keyof typeof filterData] || filterData.en;
 
 const categories = [
   {
@@ -142,7 +109,7 @@ const categories = [
 <aside class="w-full lg:w-64 flex-shrink-0">
   <div id="sidebar-content" class="bg-neutral-900 border border-neutral-800 rounded-xl p-6">
     <a
-      href={`/${lang}/`}
+      href={`/${lang}/deals/`}
       class={`block mb-6 px-4 py-2 rounded-lg font-medium transition-colors ${
         !currentFilter
           ? 'bg-gold text-neutral-900'
@@ -159,7 +126,7 @@ const categories = [
           <div class="space-y-1">
             {category.filters.map((filter) => (
               <a
-                href={`/${lang}/filter/${filter}/`}
+                href={`/${lang}/deals/${filter}/`}
                 class={`block px-4 py-2 text-sm rounded-lg transition-colors ${
                   currentFilter === filter
                     ? 'bg-gold text-neutral-900 font-medium'
@@ -198,19 +165,17 @@ const categories = [
   @media (max-width: 1023px) {
     #sidebar-content {
       position: fixed;
-      top: 0;
       left: -100%;
       width: 85%;
       max-width: 320px;
-      height: 100vh;
-      height: 100dvh;
       z-index: 60;
       transition: left 0.3s ease;
       border-radius: 0;
       overflow-y: auto;
       -webkit-overflow-scrolling: touch;
       box-shadow: 2px 0 8px rgba(0, 0, 0, 0.5);
-      padding-bottom: 2rem;
+      padding-bottom: calc(2rem + env(safe-area-inset-bottom, 0px));
+      background-color: #0a0a0a;
     }
 
     aside.mobile-open #sidebar-content {
@@ -234,7 +199,56 @@ const categories = [
       pointer-events: auto;
     }
   }
+
+  #mobile-filter-toggle {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    width: 140px;
+    height: 64px;
+    opacity: 0.001;
+    animation: appear 0.4s ease 0.3s forwards;
+  }
+
+  @keyframes appear {
+    to { opacity: 1; }
+  }
+
+  /* адаптив под высоту хедера */
+  @media (max-width: 767px) {
+    #sidebar-content {
+      top: 64px;
+      height: calc(100dvh - 64px - env(safe-area-inset-bottom, 0px));
+      min-height: calc(100vh - 64px - env(safe-area-inset-bottom, 0px));
+    }
+  }
+
+  @media (min-width: 768px) {
+    #sidebar-content {
+      top: 74px;
+      height: calc(100dvh - 74px - env(safe-area-inset-bottom, 0px));
+      min-height: calc(100vh - 74px - env(safe-area-inset-bottom, 0px));
+    }
+  }
+
+  @media (min-width: 1024px) {
+  aside {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+  }
+
+  #sidebar-content {
+    position: static;
+    height: auto;
+    min-height: auto;
+    max-height: none;
+    border-radius: 0.75rem; /* вернуть округление, если обрезалось */
+    box-shadow: none;
+  }
+}
 </style>
+
 
 <script>
   const toggle = document.getElementById('mobile-filter-toggle');
@@ -242,11 +256,22 @@ const categories = [
   const backdrop = document.getElementById('mobile-backdrop');
   const sidebarContent = document.getElementById('sidebar-content');
 
+  // === Умная коррекция высоты для Safari ===
+  function fixSidebarHeight() {
+    const header = document.getElementById('site-header');
+    if (!header || !sidebarContent) return;
+    const headerHeight = header.offsetHeight;
+    const vh = window.innerHeight;
+    sidebarContent.style.top = `${headerHeight}px`;
+    sidebarContent.style.height = `calc(${vh}px - ${headerHeight}px)`;
+  }
+
   toggle?.addEventListener('click', (e) => {
     e.stopPropagation();
     sidebar?.classList.toggle('mobile-open');
     if (sidebar?.classList.contains('mobile-open')) {
       document.body.style.overflow = 'hidden';
+      fixSidebarHeight();
     } else {
       document.body.style.overflow = '';
     }
@@ -258,9 +283,19 @@ const categories = [
   });
 
   sidebarContent?.addEventListener('click', (e) => {
-    if ((e.target as HTMLElement).tagName === 'A') {
+    const target = e.target;
+    if (target.tagName === 'A') {
       sidebar?.classList.remove('mobile-open');
       document.body.style.overflow = '';
+      sidebarContent.style.transition = 'none';
+      sidebarContent.style.left = '-100%';
+      backdrop.style.transition = 'none';
+      backdrop.style.opacity = '0';
+      backdrop.style.pointerEvents = 'none';
+      backdrop.style.display = 'none';
     }
   });
+
+  window.addEventListener('resize', fixSidebarHeight);
+  window.addEventListener('orientationchange', fixSidebarHeight);
 </script>

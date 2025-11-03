@@ -10,11 +10,13 @@
   <!-- SEO -->
   <meta name="robots" content="noindex,follow" />
   <link rel="alternate" hreflang="x-default" href="https://pokerdealshub.com/" />
-
   <link rel="alternate" hreflang="en" href="https://pokerdealshub.com/en/" />
   <link rel="alternate" hreflang="ru" href="https://pokerdealshub.com/ru/" />
   <link rel="alternate" hreflang="es" href="https://pokerdealshub.com/es/" />
 
+
+
+  
   <script>
     (function () {
       try {
@@ -22,7 +24,7 @@
         const short = lang.toLowerCase().startsWith('ru') ? 'ru'
                     : lang.toLowerCase().startsWith('es') ? 'es'
                     : 'en';
-        location.replace('/' + short + '/');
+        location.replace('/' + short + `/deals/`);
       } catch (e) {}
     })();
   </script>
@@ -46,7 +48,7 @@
     <noscript>
       <p>
         Select your language:
-        <a href="/en/">EN</a> · <a href="/ru/">RU</a> · <a href="/es/">ES</a>
+        <a href="/en/deals/">EN</a> · <a href="/ru/deals/">RU</a> · <a href="/es/deals/">ES</a>
       </p>
     </noscript>
   </div>

@@ -4,21 +4,24 @@ import Footer from '../components/Footer.astro';
 import { getLangFromUrl, getAlternateLanguages } from '../i18n/utils';
 import GA4 from '../components/GA4.astro';
 
-
 interface Props {
   title: string;
   description: string;
   ogImage?: string;
   breadcrumbs?: Array<{ name: string; url: string }>;
+  canonical?: string; // 👈 добавили поддержку кастомного каноникала
 }
 
-const { title, description, ogImage, breadcrumbs } = Astro.props;
+const { title, description, ogImage, breadcrumbs, canonical } = Astro.props;
 
-// === Canonical URL (всегда со слэшем на конце) ===
+// === Canonical URL ===
 let pathname = Astro.url.pathname.endsWith('/')
   ? Astro.url.pathname
   : Astro.url.pathname + '/';
-const canonicalURL = new URL(pathname, Astro.site);
+const defaultCanonical = new URL(pathname, Astro.site);
+const canonicalURL = canonical
+  ? canonical
+  : defaultCanonical.toString();
 
 // === Языки ===
 const currentLang = getLangFromUrl(Astro.url);
@@ -29,8 +32,8 @@ const webPageSchema = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
   name: title,
-  description: description,
-  url: canonicalURL.toString(),
+  description,
+  url: canonicalURL,
   inLanguage: currentLang,
   isPartOf: {
     '@type': 'WebSite',
@@ -39,6 +42,7 @@ const webPageSchema = {
   },
 };
 
+// 👇 вот чего у тебя не хватало
 const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
@@ -69,35 +73,12 @@ const breadcrumbSchema = breadcrumbs
 <html lang={currentLang}>
   <head>
     <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=5.0"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta name="theme-color" content="#0a0a0a" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-
-    <!-- Favicons -->
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png" />
-    <link rel="icon" type="image/png" sizes="512x512" href="/android-chrome-512x512.png" />
-    <link rel="manifest" href="/site.webmanifest" />
-
-    <meta name="generator" content={Astro.generator} />
-
-    <style is:global>
-      *,::before,::after{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}
-      ::before,::after{--tw-content:''}
-      html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;tab-size:4;
-        font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;
-        width:100%;overflow-x:hidden}
-      body{margin:0;background:#0a0a0a;color:#fafafa;width:100%}
-      img,video{max-width:100%;height:auto}
-    </style>
 
     <title>{title}</title>
     <meta name="description" content={description} />
@@ -123,74 +104,6 @@ const breadcrumbSchema = breadcrumbs
           : 'https://pokerdealshub.com/og/og-image-default.webp'
       }
     />
-    <meta property="og:image:type" content="image/webp" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title} />
-    <meta name="twitter:description" content={description} />
-    <meta
-      name="twitter:image"
-      content={
-        ogImage
-          ? new URL(ogImage, Astro.site)
-          : 'https://pokerdealshub.com/og/og-image-default.webp'
-      }
-    />
-
-    <!-- Preload assets -->
-    <link
-      rel="preload"
-      href="/hero_wide_screen_top.webp"
-      as="image"
-      type="image/webp"
-      fetchpriority="high"
-    />
-    <link
-      rel="preload"
-      href="/PDH_logo_no_background.webp"
-      as="image"
-      type="image/webp"
-    />
-    <link
-      rel="preload"
-      href="/fonts/inter-700.woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin
-    />
-
-    <style is:inline>
-      @font-face {
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-display: swap;
-        src: url('/fonts/inter-400.woff2') format('woff2');
-      }
-      @font-face {
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 500;
-        font-display: optional;
-        src: url('/fonts/inter-500.woff2') format('woff2');
-      }
-      @font-face {
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 600;
-        font-display: optional;
-        src: url('/fonts/inter-600.woff2') format('woff2');
-      }
-      @font-face {
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 700;
-        font-display: swap;
-        src: url('/fonts/inter-700.woff2') format('woff2');
-      }
-    </style>
 
     <!-- Structured Data -->
     <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
@@ -198,6 +111,7 @@ const breadcrumbSchema = breadcrumbs
     {breadcrumbSchema && (
       <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     )}
+
     <GA4 />
   </head>
 

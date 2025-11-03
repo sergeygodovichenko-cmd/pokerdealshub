@@ -5,6 +5,8 @@ import FilterSidebar from '../../../components/FilterSidebar.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import deals from '../../../data/deals.json';
 import filterContent from '../../../data/filterContent.json';
+import { getLangFromUrl } from '../../../i18n/utils';
+const lang = getLangFromUrl(Astro.url);
 
 export function getStaticPaths() {
   const filters = [
@@ -67,8 +69,8 @@ const filteredDeals = filterDeals(deals, filter).sort((a, b) => {
 });
 
 const breadcrumbs = [
-  { name: 'All Deals', url: '/en/' },
-  { name: content.title, url: `/en/filter/${filter}/` }
+  { name: 'All Deals', url: `/${lang}/deals/` },
+  { name: content.title, url: `/en/deals/${filter}/` }
 ];
 ---
 
@@ -105,7 +107,8 @@ const breadcrumbs = [
             <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 text-center">
               <p class="text-neutral-400 text-sm lg:text-base">
                 Deals for this filter coming soon. Check out{' '}
-                <a href="/en/" class="text-gold hover:text-gold-light">all deals</a> or choose another filter.
+                <a href="/en/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+>all deals</a> or choose another filter.
               </p>
             </div>
           )}
@@ -115,7 +118,7 @@ const breadcrumbs = [
           <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8 lg:mb-12">
             <p class="text-neutral-300 text-sm lg:text-base">
               You viewed deals for <span class="font-semibold text-gold">{content.title}</span>. We have many other poker deals with great terms.{' '}
-              <a href="/en/" class="text-gold hover:text-gold-light underline">Show all deals</a>
+              <a href="/en/deals/" class="text-gold hover:text-gold-light underline">Show all deals</a>
             </p>
           </div>
         )}

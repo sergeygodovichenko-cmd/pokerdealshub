@@ -1,248 +1,430 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import DealCard from '../../components/DealCard.astro';
-import FilterSidebar from '../../components/FilterSidebar.astro';
 import deals from '../../data/deals.json';
-import filterContent from '../../data/filterContent.json';
+import guides from '../../data/guides.json';
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
-const content = filterContent.en.all;
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 ---
 
 <BaseLayout
-
-  title={content.title}
-  description={content.description}
-  ogImage="/hero_wide_screen_top.webp"
+  title="PokerDealsHub — the best poker clubs and rakeback offers"
+  description="Choose verified poker clubs and unions on PPPoker, ClubGG, and X-Poker. Get high rakeback and reliable payouts with PokerDealsHub."
+  ogImage="/hero_texture.webp"
 >
-  <div class="container mx-auto px-4 py-3 lg:pt-12 lg:pb-6">
-    <div class="flex flex-col lg:flex-row gap-6 lg:gap-8">
-      <FilterSidebar />
 
-      <div class="flex-1 min-w-0">
-        <div class="mb-6 lg:mb-8">
-          <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-3 lg:mb-4">
-            {content.h1}
-          </h1>
-          <p class="text-neutral-300 text-base lg:text-lg">
-            {content.description}
+ <!-- HERO -->
+ 
+<section class="hero-bg relative flex flex-col md:flex-row items-center justify-between px-6 md:px-12 py-32 md:py-32 overflow-hidden bg-neutral-950">
+  <div class="absolute inset-0 bg-black/60 z-0"></div>
+
+  <div class="relative z-10 w-full max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8 md:gap-10">
+    <div class="max-w-[450px] sm:max-w-[500px] md:max-w-2xl text-center md:text-left flex-1 mx-auto md:mx-0">
+      <h1 class="text-3xl md:text-5xl font-bold text-gold mb-5 leading-tight">
+        PokerDealsHub — the best rakeback deals in the poker world
+      </h1>
+      <p class="text-neutral-300 text-base md:text-lg mb-10 leading-relaxed">
+        We’ve gathered the best poker clubs and unions with high rakeback and transparent terms. 
+        Only trusted platforms and soft games — everything to help you get the most out of poker.
+      </p>
+      
+      <a href=`/${lang}/deals/` class="inline-block px-7 py-3 bg-gold text-neutral-900 font-bold rounded-xl hover:bg-gold-light transition-all text-base md:text-lg">
+        All poker deals
+      </a>
+    </div>
+
+    <div class="relative flex-shrink-0 hidden md:block self-end translate-y-8">
+      <img src="/chip_flying.webp" alt="Poker chip" class="w-40 lg:w-52 animate-chip-float opacity-90 pointer-events-none" />
+    </div>
+  </div>
+
+  <style>
+    .hero-bg {
+      position: relative;
+      background-color: rgb(10, 10, 10);
+      background-image: url('/hero_texture.webp');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center 5%;
+      transition: background-position 0.3s ease;
+    }
+  </style>
+</section>
+
+<style>
+
+  @keyframes chip-float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-12px);
+    }
+  }
+
+  .animate-chip-float {
+    animation: chip-float 4s ease-in-out infinite;
+  }
+</style>
+
+
+
+  <!-- WHY CHOOSE -->
+  <section class="py-12 md:py-14 bg-neutral-950 border-t border-neutral-900">
+    <div class="container mx-auto px-6 md:px-12 text-center">
+      <h2 class="text-3xl md:text-4xl font-bold text-gold mb-8">
+        Why players choose PokerDealsHub
+      </h2>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-10 text-neutral-300 max-w-5xl mx-auto">
+        <div class="flex flex-col items-center text-center">
+          <img src="/shield.webp" alt="Shield icon" class="w-14 h-14 mb-4 opacity-100" />
+          <h3 class="text-gold font-semibold mb-2">Verified unions</h3>
+          <p class="max-w-sm mx-auto leading-relaxed">
+            We list only trusted clubs with real payouts and strong reputations.
           </p>
         </div>
 
-        <div class="mb-0">
-          <button
-            id="hero-banner"
-            class="w-full cursor-pointer border-0 bg-transparent p-0 hover:opacity-90 transition-opacity"
-            aria-label="Scroll to deals"
-          >
-            <div class="hero-banner-container">
-              <div class="hero-banner-top">
-                <picture>
-                  <source media="(max-width: 639px)" srcset="/new_hero_mobile_top.webp" width="993" height="417" />
-                  <source media="(min-width: 640px)" srcset="/hero_wide_screen_top.webp" width="1828" height="236" />
-                  <img
-                    src="/hero_wide_screen_top.webp"
-                    alt="Best poker deals"
-                    class="w-full h-auto rounded-t-xl"
-                    width="1828"
-                    height="236"
-                    loading="eager"
-                    onload="this.parentElement.parentElement.parentElement.style.setProperty('--shimmer-mask', 'url(' + this.currentSrc + ')');"
-                  />
-                </picture>
-              </div>
-              <div class="hero-banner-arrows">
-                <div class="arrows-container">
-                  <img src="/new_hero_wide_screen_arrows.webp" alt="Scroll down" class="arrow arrow-left" width="32" height="32" />
-                  <img src="/new_hero_wide_screen_arrows.webp" alt="Scroll down" class="arrow arrow-center" width="32" height="32" />
-                  <img src="/new_hero_wide_screen_arrows.webp" alt="Scroll down" class="arrow arrow-right" width="32" height="32" />
-                </div>
-              </div>
-            </div>
-          </button>
+        <div class="flex flex-col items-center text-center">
+          <img src="/percent.webp" alt="Percent icon" class="w-14 h-14 mb-4 opacity-90" />
+          <h3 class="text-gold font-semibold mb-2">Fair rakeback</h3>
+          <p class="max-w-sm mx-auto leading-relaxed">
+            Everything is transparent — you always know exactly how much you earn from playing.
+          </p>
         </div>
 
-        <div class="mb-8 lg:mb-12" id="deals-section">
-          <div class="flex flex-col gap-4">
-            {deals.sort((a, b) => {
-              if (a.slug === 'nuts-primetime-pppoker') return -1;
-              if (b.slug === 'nuts-primetime-pppoker') return 1;
-              return 0;
-            }).map((deal) => (
-              <DealCard deal={deal} />
-            ))}
-          </div>
+        <div class="flex flex-col items-center text-center">
+          <img src="/chat.webp" alt="Chat icon" class="w-14 h-14 mb-4 opacity-90" />
+          <h3 class="text-gold font-semibold mb-2">Support 24/7</h3>
+          <p class="max-w-sm mx-auto leading-relaxed">
+            Our team is available every day, with no days off.
+          </p>
         </div>
 
-        <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8">
-          <h2 class="text-xl lg:text-2xl font-semibold text-gold mb-3 lg:mb-4">About Poker Deals</h2>
-          <p class="text-neutral-300 text-sm lg:text-base">
-            {content.seoText}
+        <div class="flex flex-col items-center text-center">
+          <img src="/fish.webp" alt="Fish icon" class="w-14 h-14 mb-4 opacity-90" />
+          <h3 class="text-gold font-semibold mb-2">Soft games</h3>
+          <p class="max-w-sm mx-auto leading-relaxed">
+            Only tables filled with recreational players.
           </p>
         </div>
       </div>
     </div>
+  </section>
+
+<!-- DEALS -->
+<section class="py-12 md:py-14 bg-neutral-950 border-t border-neutral-900 relative">
+  <div class="container mx-auto px-6 md:px-12">
+    <div class="flex flex-col md:flex-row md:items-end md:justify-between mb-6">
+      <div class="flex-1 min-w-0">
+        <h2 class="text-3xl md:text-4xl font-bold text-gold mb-2">Popular deals</h2>
+        <p class="text-neutral-300 text-base max-w-2xl">
+          The best poker clubs and unions with a proven reputation, high rakeback, and active games.
+        </p>
+      </div>
+      <a
+        href=`/${lang}/deals/`
+        class="mt-4 md:mt-0 text-gold hover:text-gold-light text-sm md:text-base whitespace-nowrap flex-shrink-0"
+      >
+        All deals →
+      </a>
+    </div>
+
+    <div class="relative flex flex-col items-center md:block w-full">
+
+      <button
+        id="deal-prev"
+        class="hidden md:flex items-center justify-center absolute left-0 top-1/2 -translate-y-1/2
+               w-12 h-12 rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
+               hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
+        onclick="document.getElementById('deal-viewport').scrollBy({ left: -document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
+        aria-label="Previous deal"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
+        </svg>
+        <span class="sr-only">Previous deal</span>
+      </button>
+
+      <div
+      id="deal-viewport"
+      class="relative mx-auto overflow-x-auto overflow-y-hidden rounded-2xl scroll-smooth touch-pan-x touch-pan-y
+             w-full md:w-[calc(100%-10rem)] md:max-w-[1080px]
+             snap-x snap-mandatory hide-scrollbar no-overscroll"
+    >
+        <div id="deal-track" class="flex">
+          {deals.slice(0, 6).map((deal) => (
+            <div class="deal-slide flex-shrink-0 w-full snap-center px-2 md:px-3">
+              <DealCard deal={deal} />
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <button
+        id="deal-next"
+        class="hidden md:flex items-center justify-center absolute right-0 top-1/2 -translate-y-1/2
+               w-12 h-12 rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
+               hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
+        onclick="document.getElementById('deal-viewport').scrollBy({ left: document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
+        aria-label="Next deal"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
+        </svg>
+        <span class="sr-only">Next deal</span>
+      </button>
+
+      <div class="hidden sm:flex md:hidden justify-center gap-6 mt-6">
+        <button
+          onclick="document.getElementById('deal-viewport').scrollBy({ left: -document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
+          class="w-10 h-10 flex items-center justify-center rounded-full bg-neutral-800/80 text-gold border border-gold/40
+                 drop-shadow-[0_0_6px_rgba(212,175,55,0.3)] hover:scale-110 transition-all"
+        >
+          <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
+            <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
+          </svg>
+          <span class="sr-only">Previous deal</span>
+        </button>
+        <button
+          onclick="document.getElementById('deal-viewport').scrollBy({ left: document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
+          class="w-10 h-10 flex items-center justify-center rounded-full bg-neutral-800/80 text-gold border border-gold/40
+                 drop-shadow-[0_0_6px_rgba(212,175,55,0.3)] hover:scale-110 transition-all"
+        >
+          <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
+            <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
+          </svg>
+          <span class="sr-only">Next deal</span>
+        </button>
+      </div>
+    </div>
   </div>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const heroButton = document.getElementById('hero-banner');
-      const dealsSection = document.getElementById('deals-section');
+  <style>
+    .hide-scrollbar::-webkit-scrollbar { display: none; }
+    .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    .no-overscroll { overscroll-behavior-x: contain; }
+  </style>
+</section>
 
-      if (heroButton && dealsSection) {
-        heroButton.addEventListener('click', () => {
-          const headerHeight = document.querySelector('header')?.offsetHeight || 0;
-          const elementPosition = dealsSection.getBoundingClientRect().top + window.scrollY;
-          const offsetPosition = elementPosition - headerHeight - 16;
+<!-- GUIDES -->
+<section class="py-12 md:py-14 bg-neutral-950 border-t border-neutral-900 relative">
+  <div class="container mx-auto px-6 md:px-12">
+    <div class="flex flex-col md:flex-row md:items-end md:justify-between mb-6">
+      <div>
+        <h2 class="text-3xl md:text-4xl font-bold text-gold mb-2">Guides and tips</h2>
+        <p class="text-neutral-300 text-base max-w-2xl">
+          Strategies, union reviews, and practical advice for players who want to improve their win rate.
+        </p>
+      </div>
+      <a href=`/${lang}/guides/` class="mt-4 md:mt-0 text-gold hover:text-gold-light text-sm md:text-base whitespace-nowrap">
+        All articles →
+      </a>
+    </div>
 
-          window.scrollTo({
-            top: offsetPosition,
-            behavior: 'smooth'
-          });
-        });
-      }
-    });
-  </script>
+    <div class="relative flex flex-col items-center md:block w-full">
+      <button
+        id="guide-prev"
+        class="hidden md:flex items-center justify-center absolute left-0 top-1/2 -translate-y-1/2
+               w-12 h-12 rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
+               hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
+        aria-label="Previous guide"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
+        </svg>
+        <span class="sr-only">Previous article</span>
+      </button>
+
+      <div
+      id="guide-viewport"
+      class="relative mx-auto overflow-x-auto overflow-y-hidden rounded-2xl scroll-smooth touch-pan-x touch-pan-y
+             snap-x snap-mandatory hide-scrollbar w-full md:w-[calc(100%-10rem)]"
+    >
+        <div id="guide-track" class="flex">
+          {guides.slice(0, 6).map((guide) => (
+            <a
+              href={`/${lang}/guides/${guide.slug}/`}
+              class="guide-slide flex-shrink-0 w-full xl:w-1/2 snap-start px-3 md:px-4"
+              style="scroll-snap-stop: always;"
+            >
+              <div class="h-full bg-neutral-900 border border-neutral-800 rounded-2xl p-6 hover:border-gold/50 transition-all flex flex-col">
+                <h3 class="text-xl font-bold text-gold mb-3 line-clamp-2">{guide.title[lang]}</h3>
+                <p class="text-neutral-300 text-sm line-clamp-4 flex-1">{guide.description[lang]}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <button
+        id="guide-next"
+        class="hidden md:flex items-center justify-center absolute right-0 top-1/2 -translate-y-1/2
+               w-12 h-12 rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
+               hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
+        aria-label="Next guide"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
+        </svg>
+        <span class="sr-only">Next article</span>
+      </button>
+    </div>
+
+    <div class="flex md:hidden justify-center gap-6 mt-6">
+      <button
+        id="guide-prev-mobile"
+        class="w-10 h-10 flex items-center justify-center rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_6px_rgba(212,175,55,0.3)] hover:scale-110 transition-all"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
+        </svg>
+        <span class="sr-only">Previous article</span>
+      </button>
+      <button
+        id="guide-next-mobile"
+        class="w-10 h-10 flex items-center justify-center rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_6px_rgba(212,175,55,0.3)] hover:scale-110 transition-all"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
+        </svg>
+        <span class="sr-only">Next article</span>
+      </button>
+    </div>
+  </div>
 
   <style>
-    .hero-banner-container {
-      position: relative;
-      width: 100%;
+    .hide-scrollbar::-webkit-scrollbar { display: none; }
+    .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+  </style>
+</section>
+
+
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const viewport = document.getElementById('guide-viewport');
+    const prev = document.getElementById('guide-prev');
+    const next = document.getElementById('guide-next');
+    const prevM = document.getElementById('guide-prev-mobile');
+    const nextM = document.getElementById('guide-next-mobile');
+    const slide = viewport?.querySelector('.guide-slide');
+    if (!viewport || !slide) return;
+
+    function stepPx(mult = 1) {
+      const w = slide.getBoundingClientRect().width;
+      return Math.round(w * mult);
     }
 
-    .hero-banner-top {
-      position: relative;
-      overflow: hidden;
-      border-radius: 0.75rem 0.75rem 0 0;
-      aspect-ratio: 1828 / 236;
+    function scrollGuides(dir) {
+      viewport.scrollBy({ left: dir * stepPx(1), behavior: 'smooth' });
     }
 
-    @media (max-width: 639px) {
-      .hero-banner-top {
-        aspect-ratio: 993 / 417;
-      }
-    }
+    prev?.addEventListener('click', () => scrollGuides(-1));
+    next?.addEventListener('click', () => scrollGuides(1));
+    prevM?.addEventListener('click', () => scrollGuides(-1));
+    nextM?.addEventListener('click', () => scrollGuides(1));
+  });
+</script>
 
-    .hero-banner-top::after {
-      content: '';
+<!-- CTA -->
+<section class="py-12 md:py-14 bg-neutral-950 border-t border-neutral-900 text-center">
+  <div class="container mx-auto px-6 md:px-12 max-w-3xl">
+    <h2 class="text-3xl md:text-4xl font-bold text-gold mb-5">Add your deal</h2>
+    <p class="text-neutral-300 text-base md:text-lg mb-6 leading-relaxed">
+      Own a poker club or union? Games are fair, terms are transparent, and rakeback is clear?  
+      List your deal on PokerDealsHub — we’ll bring new players and help your club grow.
+    </p>
+    <a
+      href={`/${lang}/add-deal/`}
+      class="inline-block px-8 py-3 bg-gold text-neutral-900 font-bold rounded-xl hover:bg-gold-light transition-all text-base md:text-lg"
+    >
+      Submit a deal
+    </a>
+    <img
+      src="/chip_flying.webp"
+      alt="Flying poker chip"
+      class="mx-auto mt-10 w-28 md:w-36 opacity-80 animate-chip-float"
+    />
+  </div>
+</section>
+
+  <style>
+    .sr-only {
       position: absolute;
-      top: 0;
-      left: -100%;
-      width: 100%;
-      height: 100%;
-      background: linear-gradient(
-        90deg,
-        rgba(255, 255, 255, 0) 0%,
-        rgba(255, 255, 255, 0.2) 50%,
-        rgba(255, 255, 255, 0) 100%
-      );
-      transform: skewX(-20deg);
-      animation: shimmer 7s ease-in-out infinite;
-      pointer-events: none;
-      will-change: transform;
-      mask-image: var(--shimmer-mask);
-      -webkit-mask-image: var(--shimmer-mask);
-      mask-size: contain;
-      -webkit-mask-size: contain;
-      mask-repeat: no-repeat;
-      -webkit-mask-repeat: no-repeat;
-    }
-
-    @keyframes shimmer {
-      0% {
-        left: -100%;
-      }
-      20% {
-        left: 100%;
-      }
-      100% {
-        left: 100%;
-      }
-    }
-
-    .hero-banner-arrows {
-      position: relative;
-      background: transparent;
-      padding: 1rem 0;
-      border-radius: 0 0 0.75rem 0.75rem;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
       overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
     }
 
-    .arrows-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      position: relative;
-      width: 100%;
+    @keyframes chip-float {
+      0%, 100% { transform: translateY(0) rotate(0deg); }
+      50% { transform: translateY(-12px) rotate(4deg); }
     }
-
-    .arrow {
-      width: 32px;
-      height: 32px;
-      object-fit: contain;
-      filter: drop-shadow(0 0 10px rgba(212, 175, 55, 0.3));
-      position: absolute;
-    }
-
-    .arrow-left {
-      left: 17%;
-      animation: arrowBounce 2.5s ease-in-out infinite;
-      animation-delay: 0s;
-    }
-
-    .arrow-center {
-      animation: arrowBounce 2.5s ease-in-out infinite;
-      animation-delay: 0s;
-      transform: scale(1.2);
-      position: relative;
-    }
-
-    .arrow-right {
-      right: 17%;
-      animation: arrowBounce 2.5s ease-in-out infinite;
-      animation-delay: 0s;
-    }
-
-    @keyframes arrowBounce {
-      0%, 100% {
-        transform: translateY(0);
-      }
-      50% {
-        transform: translateY(-12px);
-      }
-    }
-
-    @media (prefers-reduced-motion: reduce) {
-      .hero-banner-top::after,
-      .arrow-left,
-      .arrow-center,
-      .arrow-right {
-        animation: none;
-      }
-    }
-
-    @media (max-width: 639px) {
-      .arrow {
-        width: 32px;
-        height: 32px;
-      }
-      .arrows-container {
-        gap: 1rem;
-      }
-    }
+    .animate-chip-float { animation: chip-float 5.5s ease-in-out infinite; }
   </style>
 
-  <script type="application/ld+json" set:html={JSON.stringify({
-    '@context': 'https://schema.org',
-    '@type': 'ItemList',
-    'itemListElement': deals.map((deal, index) => ({
-      '@type': 'ListItem',
-      'position': index + 1,
-      'item': {
-        '@type': 'Offer',
-        'name': deal.name.en,
-        'description': deal.description.en,
-        'url': `https://pokerdealshub.com/en/deal/${deal.slug}/`,
+<script is:inline>
+  window.addEventListener('load', () => {
+    const viewport = document.getElementById('deal-viewport');
+    if (!viewport) return;
+  
+    const slide = viewport.querySelector('.deal-slide');
+    if (!slide) return;
+  
+    const slideW = slide.getBoundingClientRect().width || viewport.clientWidth;
+    const amount = Math.round(Math.min(slideW * 0.18, 140));
+    let done = false;
+  
+    function nudge() {
+      if (done) return;
+      done = true;
+  
+      setTimeout(() => {
+        const prevSnap = viewport.style.scrollSnapType || '';
+        const computedSnap = getComputedStyle(viewport).scrollSnapType;
+        const restoreSnap = () => { viewport.style.scrollSnapType = prevSnap || computedSnap; };
+  
+        viewport.style.scrollSnapType = 'none';
+        viewport.scrollBy({ left: amount, behavior: 'smooth' });
+        setTimeout(() => {
+          viewport.scrollBy({ left: -amount, behavior: 'smooth' });
+          setTimeout(restoreSnap, 1000);
+        }, 700);
+      }, 500);
+    }
+  
+    const observer = new IntersectionObserver(
+      entries => {
+        for (const entry of entries) {
+          if (entry.isIntersecting && entry.intersectionRatio >= 0.99) {
+            nudge();
+            observer.disconnect();
+            break;
+          }
+        }
       },
-    })),
-  })} />
+      {
+        threshold: Array.from({ length: 101 }, (_, i) => i / 100),
+      }
+    );
+  
+    observer.observe(slide);
+  });
+</script>
+      
 </BaseLayout>

@@ -45,7 +45,7 @@ const description = `Rakeback deal in the centralized online poker room NUTS POK
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8">
         <div class="flex gap-4 mb-6 lg:hidden">
           <div class="flex-shrink-0">
-            <img src={deal.logoimage} alt={deal.logolat} class="w-32 sm:w-40 h-auto object-contain rounded-xl" />
+            <img src={deal.logoimage} alt={deal.logoalt} class="w-32 sm:w-40 h-auto object-contain rounded-xl" />
           </div>
           <div class="flex flex-col gap-2">
             {deal.badges?.map((badge) => {
@@ -75,7 +75,7 @@ const description = `Rakeback deal in the centralized online poker room NUTS POK
 
         <div class="hidden lg:flex lg:flex-row lg:items-start gap-6 mb-6">
           <div class="flex-shrink-0">
-            <img src={deal.logoimage} alt={deal.logolat} class="w-48 h-auto object-contain rounded-xl" />
+            <img src={deal.logoimage} alt={deal.logoalt} class="w-48 h-auto object-contain rounded-xl" />
           </div>
           <div class="flex-1">
             <h2 class="text-2xl font-bold text-neutral-100 mb-4">{introT}</h2>
@@ -232,7 +232,7 @@ const description = `Rakeback deal in the centralized online poker room NUTS POK
 
           <div id="contactSection" class="bg-gold/10 border border-gold/30 rounded-xl p-6 text-center">
             <h3 class="text-2xl font-bold text-gold mb-3">{labl[lang].readyJoin}</h3>
-            <p class="text-neutral-300 mb-6">{labl[lang].weAreHere}</p>
+            <p class="text-neutral-300 mb-6">{labl[lang].weAreHere} <br>{labl[lang].weAreHere2}</p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
               <a
                 href="https://t.me/pokerdealshub"
@@ -260,17 +260,44 @@ const description = `Rakeback deal in the centralized online poker room NUTS POK
           </div>
         </div>
       </div>
+      <div class="container mx-auto px-4 py-6">
+        <RelatedDeals
+          currentDealSlug={deal?.slug || ''}
+          currentApp={deal?.app}
+          currentGeo={deal?.geo}
+          currentBadges={deal?.badges}
+        />
+      </div>
+    
     </div>
   </div>
 
-  <div class="container mx-auto px-4 py-6">
-    <RelatedDeals
-      currentDealSlug={deal?.slug || ''}
-      currentApp={deal?.app}
-      currentGeo={deal?.geo}
-      currentBadges={deal?.badges}
-    />
-  </div>
+
+  <style>
+    ul.custom-bullets {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+    }
+    
+    ul.custom-bullets li {
+      position: relative;
+      padding-left: 1.5em; /* отступ под текст */
+      margin-bottom: 0.6em; /* немного воздуха между строками */
+      line-height: 1.5;
+    }
+    
+    ul.custom-bullets li::before {
+      content: "•"; /* сама точка */
+      position: absolute;
+      left: 0;
+      color: #e6b347; /* золотой цвет */
+      font-weight: bold;
+      font-size: 1.2em;
+      line-height: 1;
+      top: 0.15em; /* выравнивание по вертикали */
+    }
+    </style>
 
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',

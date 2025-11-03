@@ -1,9 +1,11 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
-import { useTranslations } from '../../../i18n/utils';
 import { readFileSync } from 'fs';
 import { resolve } from 'path';
+import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
 
 export async function getStaticPaths() {
   const guides = [
@@ -77,7 +79,7 @@ function markdownToHtml(md: string): string {
 const htmlContent = markdownToHtml(content);
 
 const breadcrumbs = [
-  { name: t('breadcrumb.home'), url: '/en/' },
+  { name: t('bbreadcrumb.home'), url: `/${lang}/deals/` },
   { name: t('breadcrumb.guides'), url: '/en/guides/' },
   { name: title, url: `/en/guides/${slug}/` },
 ];

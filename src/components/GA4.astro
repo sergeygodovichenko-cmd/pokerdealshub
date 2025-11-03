@@ -1,76 +1,93 @@
----
-const GA_ID = 'G-EMKB3VKZY3';
-const PIXEL_ID = '843668438232713';
----
-
-<!-- Google tag (gtag.js) -->
-<script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}></script>
-
 <script is:inline>
-  /* === GA4 === */
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){window.dataLayer.push(arguments);}
-  window.gtag = gtag;
-  gtag('js', new Date());
-  gtag('config', 'G-EMKB3VKZY3');
-  console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
-
-  /* === Meta Pixel === */
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-
-  fbq('init', '843668438232713');
-  fbq('track', 'PageView');
-  console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
-
-  /* === Лиды (любые Telegram / WhatsApp ссылки) === */
-  document.addEventListener('click', (event) => {
-    const link = event.target.closest('a[href]');
-    if (!link) return;
-
-    const href = link.getAttribute('href') || '';
-
-    const isLead =
-      href.includes('t.me') ||
-      href.includes('telegram.me') ||
-      href.includes('wa.me') ||
-      href.includes('api.whatsapp.com');
-
-    if (isLead) {
-      // === GA4 ===
-      try {
-        gtag('event', 'lead_click', {
-          event_category: 'lead',
-          event_label: href,
-        });
-        console.log('%c📊 GA4 → lead_click отправлен','color:lime;font-weight:bold', href);
-      } catch (err) {
-        console.warn('%c⚠️ Ошибка отправки в GA4:','color:yellow', err);
-      }
-
-      // === Meta Pixel ===
-      try {
-        fbq('track', 'Lead', {
-          content_name: href,
-          event_source: 'auto',
-        });
-        console.log('%c📘 Meta Pixel → Lead отправлен','color:deepskyblue;font-weight:bold', href);
-      } catch (err) {
-        console.warn('%c⚠️ Ошибка отправки в Meta Pixel:','color:yellow', err);
-      }
-
-      console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
+  window.addEventListener('load', () => {
+    const GA_ID = "G-EMKB3VKZY3";
+    const PIXEL_ID = "843668438232713";
+  
+    // Безопасная загрузка внешнего скрипта с тайм-аутом
+    async function safeLoad(src, timeout = 4000) {
+      return new Promise(resolve => {
+        const s = document.createElement('script');
+        s.src = src;
+        s.async = true;
+        s.onload = () => resolve(true);
+        s.onerror = () => resolve(false);
+        setTimeout(() => resolve(false), timeout);
+        document.head.appendChild(s);
+      });
     }
+  
+    async function startAnalytics() {
+      if (window.__analyticsStarted) return;
+      window.__analyticsStarted = true;
+  
+      // === Google Analytics 4 ===
+      const gaLoaded = await safeLoad(`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`);
+      if (gaLoaded) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){window.dataLayer.push(arguments);}
+        window.gtag = gtag;
+        gtag('js', new Date());
+        gtag('config', GA_ID);
+        console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
+      } else {
+        console.warn('⚠️ GA4 не загрузился (возможно, блокировка)');
+      }
+  
+      // === Meta Pixel ===
+      const fbLoaded = await safeLoad('https://connect.facebook.net/en_US/fbevents.js');
+      if (fbLoaded) {
+        !(function(f,b,e,v,n,t,s){
+          if(f.fbq) return;
+          n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq) f._fbq=n;
+          n.push=n; n.loaded=!0; n.version='2.0';
+          n.queue=[]; t=b.createElement(e); t.async=!0;
+          t.src=v; s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s);
+        })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+  
+        fbq('init', PIXEL_ID);
+        fbq('track', 'PageView');
+        console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
+      } else {
+        console.warn('⚠️ Meta Pixel не загрузился (возможно, блокировка)');
+      }
+  
+      // === Лид-трекинг ===
+      document.addEventListener('click', (event) => {
+        const link = event.target.closest('a[href]');
+        if (!link) return;
+        const href = link.getAttribute('href') || '';
+        const isLead = href.includes('t.me') || href.includes('telegram.me') ||
+                       href.includes('wa.me') || href.includes('api.whatsapp.com');
+        if (isLead) {
+          try {
+            if (window.gtag) gtag('event', 'lead_click', { event_category: 'lead', event_label: href });
+            if (window.fbq) fbq('track', 'Lead', { content_name: href, event_source: 'auto' });
+            console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
+          } catch(err) {
+            console.warn('Ошибка отправки события', err);
+          }
+        }
+      });
+    }
+  
+    // Запускаем отложенно: либо по взаимодействию, либо через 3 секунды
+    const timer = setTimeout(startAnalytics, 3000);
+    ['scroll', 'click', 'keydown'].forEach(evt =>
+      window.addEventListener(evt, () => {
+        clearTimeout(timer);
+        startAnalytics();
+      }, { once: true })
+    );
   });
-</script>
-
-<noscript>
-  <img height="1" width="1" style="display:none"
-       src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1" />
-</noscript>
+  </script>
+  
+  <noscript>
+    <img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1" />
+    <img height="1" width="1" style="display:none"
+         src="https://www.googletagmanager.com/ns.html?id=G-EMKB3VKZY3" />
+  </noscript>
+  

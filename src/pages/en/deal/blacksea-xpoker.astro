@@ -2,11 +2,12 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import RelatedDeals from '../../../components/RelatedDeals.astro';
-import { useTranslations } from '../../../i18n/utils';
 import dealsData from '../../../data/deals.json';
 import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
 import { badgeLabels, tooltips } from '../../../utils/dealHelpers';
 import { labl } from '../../../utils/dealHelpers';
+import Sidebar from '../../../components/FilterSidebar.astro';
+
 
 
 
@@ -27,17 +28,18 @@ const pdhTooltip = tooltips.ru.featured;
 
 
 const breadcrumbs = [
-  // { name: t('breadcrumb.home'), url: `/${lang}/` },
-  { name: t('breadcrumb.deals'), url: `/${lang}/` },
+  // { name: t('breadcrumb.home'), url: `/${lang}/deals/` },
+  { name: t('breadcrumb.deals'), url: `/${lang}/deals/` },
   { name: deal.name[lang], url: `/${lang}/deal/${deal.slug}/` },
 ];
 
 
 const renderStars = (rating) => '★'.repeat(rating) + '☆'.repeat(5 - rating);
-const introT ='About Black Sea poker union'
+const introT ='About Black Sea union'
 //  ✅ correction here
-const title = `Poker deal in the Black Sea union on X-Poker — PokerDealsHub`;
-const description = `Deal from PDH in the Black Sea union on X-Poker. Quality games with great conditions for players from the CIS.`;
+
+const title = `Poker deal in the Black Sea union on PPPoker — PokerDealsHub`;
+const description = `Poker deal with rakeback up to ${deal.rakeback} in the Black Sea union on X-Poker. Soft fields and transparent conditions.`;
 
 ---
 
@@ -47,20 +49,25 @@ const description = `Deal from PDH in the Black Sea union on X-Poker. Quality ga
   description={description}
   breadcrumbs={breadcrumbs}
 
-
 >
+
+<div class="container mx-auto px-4 py-8 lg:py-12 flex flex-col lg:flex-row gap-8">
+
+  <Sidebar currentFilter={deal.slug} />
+
+  <div class="flex-1">
   <div class="container mx-auto px-4 py-8 lg:py-12">
     <div class="max-w-5xl mx-auto">
       <Breadcrumbs items={breadcrumbs} />
 
       <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6">
-        Poker rakeback deal in the Black Sea union on X-Poker  <!-- ✅ correction here -->
+        Rakeback poker deal in the Black Seaa union on X-Poker  <!-- ✅ correction here -->
       </h1>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8">
         <div class="flex gap-4 mb-6 lg:hidden">
           <div class="flex-shrink-0">
-            <img src={deal.logoimage} alt={deal.logolat} class="w-32 sm:w-40 h-auto object-contain rounded-xl" />
+            <img src={deal.logoimage} alt={deal.logoalt} class="w-32 sm:w-40 h-auto object-contain rounded-xl" />
           </div>
           <div class="flex flex-col gap-2">
           
@@ -95,12 +102,12 @@ const description = `Deal from PDH in the Black Sea union on X-Poker. Quality ga
   );
 })}
 
-          </div>
+    </div>
         </div>
 
         <div class="hidden lg:flex lg:flex-row lg:items-start gap-6 mb-6">
           <div class="flex-shrink-0">
-            <img src={deal.logoimage} alt={deal.logolat} class="w-48 h-auto object-contain rounded-xl" />
+            <img src={deal.logoimage} alt={deal.logoalt} class="w-48 h-auto object-contain rounded-xl" />
           </div>
           <div class="flex-1">
             <h2 class="text-2xl font-bold text-neutral-100 mb-4"> {introT}</h2>
@@ -217,22 +224,20 @@ const description = `Deal from PDH in the Black Sea union on X-Poker. Quality ga
 
         <div class="prose prose-invert max-w-none mb-8 space-y-6">
           <div>
-            <h3 class="text-xl font-bold text-neutral-100 mb-3">Description</h3>
-            <p class="text-neutral-300 leading-relaxed">
-              Poker deal in the PDH BlackSea club, which is part of the large CIS union Black Sea on the X-Poker platform. The club is owned by PokerDealsHub, ensuring your safety and top-level customer service 24/7.
-            </p>
+            <h3 class="text-xl font-bold text-neutral-100 mb-3">Description</h3> <!-- ✅ correction here -->
+            <p class="text-neutral-300 leading-relaxed mb-4">
+              Poker deal in the PDH BlackSea club, which is part of the large CIS union Black Sea on the X-Poker platform. The club is owned by PokerDealsHub, ensuring your safety and top-tier customer service 24/7.            </p>
           </div>
-          
-          <div>
-            <h3 class="text-xl font-bold text-neutral-100 mb-3">About the Union</h3>
-            <p class="text-neutral-300 leading-relaxed">
-              Black Sea is a popular union on the X-Poker platform, focused on players from CIS countries. The union offers a wide range of tables and game formats with consistently high traffic at any time of day.
-            </p>
-            <p class="text-neutral-300 leading-relaxed">
-              Available disciplines: MTT, NLH, OFC, PLO4/5/6, Short Deck (6+), as well as variations such as Double Board and Bomb Pot. You can find action at all limits around the clock, with peak activity between 14:00 and 22:00 GMT+3.
-            </p>
-          </div>
-          
+
+          <div> <h3 class="text-xl font-bold text-neutral-100 mb-3">About the Union</h3> 
+            <p class="text-neutral-300 leading-relaxed mb-4">
+              Black Sea is a popular union on the X-Poker platform, focusing on players from CIS countries. The union offers a wide variety of tables and game formats with consistently high traffic at any time of day.
+            </p> 
+           <p class="text-neutral-300 leading-relaxed">
+  Available game formats: MTT, NLH, OFC, PLO4/5/6, and Short Deck (6+), as well as variations such as Double Board and Bomb Pot. Games run around the clock across all stakes. Peak activity occurs between 11:00 and 19:00 UTC.
+</p> 
+</div>
+
 
 <style>
 ul.custom-bullets {
@@ -261,15 +266,19 @@ ul.custom-bullets li::before {
 </style>
 
 <div>
-  <h3 class="text-xl font-bold text-neutral-100 mb-3">About the Deal</h3>
-  <p class="text-neutral-300 leading-relaxed mb-2">
-    Players can choose between the following options:
-  </p>
-  <ul class="custom-bullets">
-    <li><strong class="text-gold">Dynamic rakeback up to {deal.rakeback}</strong> — The rakeback rate depends on your weekly rake volume.</li>
-    <li><strong class="text-gold">Fixed rakeback {deal.fixrb}</strong> — Start playing with an immediate advantage right after registration. You can switch to the dynamic option later.</li>
-  </ul>
-</div>
+            <h3 class="text-xl font-bold text-neutral-100 mb-3">The deal</h3> <!-- ✅ correction here -->
+            <p class="text-neutral-300 leading-relaxed mb-2">
+              Players can choose between:
+            </p>                                    <!-- ✅ correction here -->
+            <ul class="custom-bullets text-neutral-300 leading-relaxed">
+              <li><strong class="text-gold">Dynamic rakeback up to {deal.rakeback}</strong> The rakeback rate depends on your weekly rake volume.</li>
+              <li><strong class="text-gold">Fixed rakeback {deal.fixrb}</strong> Start playing with an advantage right after registration. You can later switch to a dynamic rakeback model.</li>
+            </ul>
+
+          </div>
+
+
+
 
             <div class="flex items-start gap-3 mb-4 text-neutral-300 leading-relaxed">
  <div class="flex items-center gap-3 mb-4 text-neutral-300 leading-relaxed">
@@ -292,7 +301,7 @@ ul.custom-bullets li::before {
 
           <div id="contactSection" class="bg-gold/10 border border-gold/30 rounded-xl p-6 text-center">
             <h3 class="text-2xl font-bold text-gold mb-3">{labl[lang].readyJoin}</h3>
-            <p class="text-neutral-300 mb-6">{labl[lang].weAreHere}</p>
+            <p class="text-neutral-300 mb-6">{labl[lang].weAreHere} <br>{labl[lang].weAreHere2}</p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
               <a
                 href="https://t.me/pokerdealshub"
@@ -320,17 +329,19 @@ ul.custom-bullets li::before {
           </div>
         </div>
       </div>
+      <div class="container mx-auto px-4 py-6">
+        <RelatedDeals
+          currentDealSlug={deal?.slug || ''}
+          currentApp={deal?.app}
+          currentGeo={deal?.geo}
+          currentBadges={deal?.badges}
+        />
+      </div>
     </div>
+
   </div>
 
-  <div class="container mx-auto px-4 py-6">
-    <RelatedDeals
-      currentDealSlug={deal?.slug || ''}
-      currentApp={deal?.app}
-      currentGeo={deal?.geo}
-      currentBadges={deal?.badges}
-    />
-  </div>
+
 
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',
@@ -392,4 +403,6 @@ ul.custom-bullets li::before {
 
     window.addEventListener('resize', positionTooltips);
   </script>
+  </div>
+  </div>
 </BaseLayout>

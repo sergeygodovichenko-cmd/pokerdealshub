@@ -6,21 +6,23 @@ const currentLang = getLangFromUrl(Astro.url);
 const alternateLanguages = getAlternateLanguages(Astro.url.pathname, currentLang);
 ---
 
-<div class="relative inline-block">
+<div class="inline-block bg-transparent">
   <button
     id="lang-switcher-button"
-    class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors"
+    style="color:#fafafa;"
+    class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors bg-transparent border-0 outline-none appearance-none"
     aria-label="Change language"
   >
     <span class="text-sm uppercase">{currentLang}</span>
     <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
     </svg>
   </button>
 
   <div
     id="lang-switcher-menu"
-    class="hidden absolute right-0 mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[60]"
+    style="background-color:#1f1f1f; color:#fafafa;"
+    class="hidden absolute mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[9999]"
   >
     {alternateLanguages.map(({ lang, path }) => (
       <a
@@ -41,12 +43,32 @@ const alternateLanguages = getAlternateLanguages(Astro.url.pathname, currentLang
   const button = document.getElementById('lang-switcher-button');
   const menu = document.getElementById('lang-switcher-menu');
 
+  // === Вырезаем меню из потока, чтобы не пряталось под hero ===
+  if (menu && !menu.dataset.moved) {
+    document.body.appendChild(menu);
+    menu.dataset.moved = 'true';
+  }
+
   button?.addEventListener('click', (e) => {
     e.stopPropagation();
-    menu?.classList.toggle('hidden');
+
+    const rect = button.getBoundingClientRect();
+    const menuWidth = menu.offsetWidth || 128;
+
+    menu.style.position = 'absolute';
+    menu.style.top = rect.bottom + window.scrollY + 'px';
+    // Выравниваем правый край меню по правому краю кнопки
+    menu.style.left = rect.right - menuWidth + window.scrollX + 'px';
+
+    menu.classList.toggle('hidden');
   });
 
-  document.addEventListener('click', () => {
-    menu?.classList.add('hidden');
+  document.addEventListener('click', (e) => {
+    if (
+      !e.target.closest('#lang-switcher-button') &&
+      !e.target.closest('#lang-switcher-menu')
+    ) {
+      menu?.classList.add('hidden');
+    }
   });
 </script>

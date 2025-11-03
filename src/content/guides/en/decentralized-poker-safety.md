@@ -27,9 +27,9 @@ Large unions with long history have turned into a business where reputation is t
 
 On **PokerDealsHub** you can compare dozens of current deals:
 
-- [Massiv Union](/en/filter/massiv-union) — high rakeback and stable payouts
-- [El Dorado](/en/filter/eldorado) — soft games and 24/7 activity
-- [Nuts PrimeTime](/en/filter/nuts-primetime) — wide limit selection
-- [PPPfish](/en/filter/pppfish) — clubs focused on recreational players
+- [Massiv Union](/en/deals/massiv-union) — high rakeback and stable payouts
+- [El Dorado](/en/deals/eldorado) — soft games and 24/7 activity
+- [Nuts PrimeTime](/en/deals/nuts-primetime) — wide limit selection
+- [PPPfish](/en/deals/pppfish) — clubs focused on recreational players
 
-👉 [All decentralized deals](/en/filter/decentralized)
+👉 [All decentralized deals](/en/deals/decentralized)

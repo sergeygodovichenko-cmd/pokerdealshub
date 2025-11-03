@@ -27,12 +27,12 @@ PPPoker es una de las plataformas más populares para póker en línea a través
 
 ### PPPFish Union
 - Altos límites, pagos estables
-- Echa un vistazo a [ofertas de la unión PPPFish](/es/filter/pppfish)
+- Echa un vistazo a [ofertas de la unión PPPFish](/es/deals/pppfish)
 
 ### ElDorado Union
 - Juegos suaves, diversos formatos de Omaha
-- Echa un vistazo a [ofertas de la unión ElDorado](/es/filter/eldorado)
+- Echa un vistazo a [ofertas de la unión ElDorado](/es/deals/eldorado)
 
 ## Conclusión
 
-PPPoker es una alternativa flexible a las salas de póker tradicionales. Ve a [ofertas actuales de PPPoker](/es/filter/pppoker) y elige una unión que sea adecuada para ti.
+PPPoker es una alternativa flexible a las salas de póker tradicionales. Ve a [ofertas actuales de PPPoker](/es/deals/pppoker) y elige una unión que sea adecuada para ti.

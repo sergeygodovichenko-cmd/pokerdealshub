@@ -72,7 +72,7 @@ const filteredDeals = filterDeals(deals, filter).sort((a, b) => {
 
 const breadcrumbs = [
   { name: 'Все сделки', url: '/ru/' },
-  { name: content.title, url: `/ru/filter/${filter}/` }
+  { name: content.title, url: `/ru/deals/${filter}/` }
 ];
 ---
 
@@ -91,10 +91,13 @@ const breadcrumbs = [
 
         <div class="mb-6 lg:mb-8">
           <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-3 lg:mb-4">
-            {content.h1}
-          </h1>
+            {content.h1} fdfdggd
+          </h1> 
           {content.intro && (
-            <p class="text-neutral-300 text-base lg:text-lg leading-relaxed whitespace-pre-line mt-4">
+            <p class="text-neutral-300 text-base lg:text-lg leading-relaxed mt-4
+       [&_a]:text-gold [&_a]:underline [&_a]:underline-offset-2 [&_a:hover]:text-gold-light [&_a:hover]:decoration-gold-light
+       [&_p]:mb-6">
+
               {content.intro}
             </p>
           )}
@@ -111,7 +114,8 @@ const breadcrumbs = [
             <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 text-center">
               <p class="text-neutral-400 text-sm lg:text-base">
                 Сделки по данному фильтру скоро появятся. Посмотрите{' '}
-                <a href="/ru/" class="text-gold hover:text-gold-light">все сделки</a> или выберите другой фильтр.
+                <a href="/ru/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+>все сделки</a> или выберите другой фильтр.
               </p>
             </div>
           )}
@@ -125,60 +129,60 @@ const breadcrumbs = [
                   Вы посмотрели активные сделки в союзе El Dorado.
                   Это отличное место для игры в PLO и NLH, но на PokerDealsHub есть и другие предложения с выгодным рейкбэком:
                   <br /><br />
-                  <a href="/ru/filter/pppoker/" class="text-gold hover:text-gold-light underline">Сделки в PPPoker</a> — крупнейшее децентрализованное покерное приложение.
+                  <a href="/ru/deals/pppoker/" class="text-gold hover:text-gold-light underline">Сделки в PPPoker</a> — крупнейшее децентрализованное покерное приложение.
                   <br />
-                  <a href="/ru/filter/clubgg/" class="text-gold hover:text-gold-light underline">Сделки в ClubGG</a> — официальные клубы от GGPoker.
+                  <a href="/ru/deals/clubgg/" class="text-gold hover:text-gold-light underline">Сделки в ClubGG</a> — официальные клубы от GGPoker.
                   <br />
-                  <a href="/ru/filter/xpoker/" class="text-gold hover:text-gold-light underline">Сделки в X-Poker</a> — динамичные азиатские игры и мягкие поля.
+                  <a href="/ru/deals/xpoker/" class="text-gold hover:text-gold-light underline">Сделки в X-Poker</a> — динамичные азиатские игры и мягкие поля.
                 </>
               ) : filter === 'nuts-primetime' ? (
                 <>
                   Вы посмотрели активные сделки в союзе Nuts PrimeTime — одном из самых стабильных направлений для профессиональной игры на PPPoker.
                   Но на PokerDealsHub доступны и другие выгодные предложения:
                   <br /><br />
-                  <a href="/ru/filter/eldorado/" class="text-gold hover:text-gold-light underline">El Dorado</a> — мягкие латиноамериканские поля и горячие PLO-игры.
+                  <a href="/ru/deals/eldorado/" class="text-gold hover:text-gold-light underline">El Dorado</a> — мягкие латиноамериканские поля и горячие PLO-игры.
                   <br />
-                  <a href="/ru/filter/pppfish/" class="text-gold hover:text-gold-light underline">PPPfish</a> — легендарно лёгкие столы и максимальный экшен.
+                  <a href="/ru/deals/pppfish/" class="text-gold hover:text-gold-light underline">PPPfish</a> — легендарно лёгкие столы и максимальный экшен.
                   <br />
-                  <a href="/ru/filter/clubgg/" class="text-gold hover:text-gold-light underline">ClubGG</a> — лицензированные клубы от GGPoker.
+                  <a href="/ru/deals/clubgg/" class="text-gold hover:text-gold-light underline">ClubGG</a> — лицензированные клубы от GGPoker.
                 </>
               ) : filter === 'mtt' ? (
                 <>
                   Вы посмотрели лучшие покерные сделки для MTT-турниров.
                   Если вы хотите попробовать другие направления в покере, посмотрите также:
                   <br /><br />
-                  <a href="/ru/filter/nlh/" class="text-gold hover:text-gold-light underline">Сделки NLH</a> — классические покерные кэш-игры с глубокими стеками.
+                  <a href="/ru/deals/nlh/" class="text-gold hover:text-gold-light underline">Сделки NLH</a> — классические покерные кэш-игры с глубокими стеками.
                   <br />
-                  <a href="/ru/filter/plo/" class="text-gold hover:text-gold-light underline">Сделки PLO</a> — больше экшена и вариативности для продвинутых игроков.
+                  <a href="/ru/deals/plo/" class="text-gold hover:text-gold-light underline">Сделки PLO</a> — больше экшена и вариативности для продвинутых игроков.
                   <br />
-                  <a href="/ru/" class="text-gold hover:text-gold-light underline">Все покерные сделки</a> — полный каталог предложений PokerDealsHub.
+                  <a href="/ru/deals/" class="text-gold hover:text-gold-light underline">Все покерные сделки</a> — полный каталог предложений PokerDealsHub.
                 </>
               ) : filter === 'plo' ? (
                 <>
                   Вы посмотрели лучшие 5-звёздочные покерные сделки PLO (Омаха) с мягкими полями и отличным рейкбэком.
                   Попробуйте также другие направления покера:
                   <br /><br />
-                  <a href="/ru/filter/nlh/" class="text-gold hover:text-gold-light underline">Сделки NLH</a> — классический безлимитный холдем.
+                  <a href="/ru/deals/nlh/" class="text-gold hover:text-gold-light underline">Сделки NLH</a> — классический безлимитный холдем.
                   <br />
-                  <a href="/ru/filter/mtt/" class="text-gold hover:text-gold-light underline">Сделки MTT</a> — турниры с крупными гарантиями и оверлеями.
+                  <a href="/ru/deals/mtt/" class="text-gold hover:text-gold-light underline">Сделки MTT</a> — турниры с крупными гарантиями и оверлеями.
                   <br />
-                  <a href="/ru/" class="text-gold hover:text-gold-light underline">Все покерные сделки</a> — полный каталог PokerDealsHub.
+                  <a href="/ru/deals/" class="text-gold hover:text-gold-light underline">Все покерные сделки</a> — полный каталог PokerDealsHub.
                 </>
               ) : filter === 'nlh' ? (
                 <>
                   Вы посмотрели лучшие покерные сделки NLH (Техасский Холдем).
                   Попробуйте также другие форматы:
                   <br /><br />
-                  <a href="/ru/filter/plo/" class="text-gold hover:text-gold-light underline">Сделки PLO</a> — экшен и крупные банки.
+                  <a href="/ru/deals/plo/" class="text-gold hover:text-gold-light underline">Сделки PLO</a> — экшен и крупные банки.
                   <br />
-                  <a href="/ru/filter/mtt/" class="text-gold hover:text-gold-light underline">Сделки MTT</a> — турниры с большими гарантиями и оверлеями.
+                  <a href="/ru/deals/mtt/" class="text-gold hover:text-gold-light underline">Сделки MTT</a> — турниры с большими гарантиями и оверлеями.
                   <br />
-                  <a href="/ru/" class="text-gold hover:text-gold-light underline">Все покерные сделки</a> — полный каталог PokerDealsHub.
+                  <a href="/ru/deals/" class="text-gold hover:text-gold-light underline">Все покерные сделки</a> — полный каталог PokerDealsHub.
                 </>
               ) : (
                 <>
                   Вы посмотрели сделки по фильтру <span class="font-semibold text-gold">{content.title}</span>. У нас есть много других покерных сделок с хорошими условиями.{' '}
-                  <a href="/ru/" class="text-gold hover:text-gold-light underline">Показать все сделки</a>
+                  <a href="/ru/deals/" class="text-gold hover:text-gold-light underline">Показать все сделки</a>
                 </>
               )}
             </p>
@@ -202,7 +206,7 @@ const breadcrumbs = [
               <p class="text-neutral-300 text-sm lg:text-base mb-6">Так как деньги проходят через клубы, важно работать только с проверенными хостами и агентами. Мы сотрудничаем только с надёжными клубами и союзами, многие из которых управляются нашей собственной командой, что гарантирует честные выплаты и прозрачные условия.</p>
 
               <h2 class="text-xl lg:text-2xl font-bold text-gold mb-3">Альтернатива: централизованные покер-румы</h2>
-              <p class="text-neutral-300 text-sm lg:text-base">Если вы предпочитаете играть в традиционных (централизованных) румах, где все операции проходят напрямую через оператора, посмотрите нашу подборку сделок в таких румах — <a href="/ru/filter/centralized/" class="text-gold hover:text-gold-light underline">покер-румы с централизированной системой</a>.</p>
+              <p class="text-neutral-300 text-sm lg:text-base">Если вы предпочитаете играть в традиционных (централизованных) румах, где все операции проходят напрямую через оператора, посмотрите нашу подборку сделок в таких румах — <a href="/ru/deals/centralized/" class="text-gold hover:text-gold-light underline">покер-румы с централизированной системой</a>.</p>
             </>
           ) : (
             <>
@@ -215,17 +219,17 @@ const breadcrumbs = [
                 {content.seoText}
                 {filter === 'pppoker' && (
                   <p class="mt-4">
-                    Посмотрите также сделки в других популярных приложениях — <a href="/ru/filter/xpoker/" class="text-gold hover:text-gold-light underline">X-Poker</a> и <a href="/ru/filter/clubgg/" class="text-gold hover:text-gold-light underline">ClubGG</a>.
+                    Посмотрите также сделки в других популярных приложениях — <a href="/ru/deals/xpoker/" class="text-gold hover:text-gold-light underline">X-Poker</a> и <a href="/ru/deals/clubgg/" class="text-gold hover:text-gold-light underline">ClubGG</a>.
                   </p>
                 )}
                 {filter === 'xpoker' && (
                   <p class="mt-4">
-                    Хотите сравнить? Посмотрите также сделки в <a href="/ru/filter/pppoker/" class="text-gold hover:text-gold-light underline">PPPoker</a> и <a href="/ru/filter/clubgg/" class="text-gold hover:text-gold-light underline">ClubGG</a>.
+                    Хотите сравнить? Посмотрите также сделки в <a href="/ru/deals/pppoker/" class="text-gold hover:text-gold-light underline">PPPoker</a> и <a href="/ru/deals/clubgg/" class="text-gold hover:text-gold-light underline">ClubGG</a>.
                   </p>
                 )}
                 {filter === 'clubgg' && (
                   <p class="mt-4">
-                    Ознакомьтесь также с альтернативами — <a href="/ru/filter/pppoker/" class="text-gold hover:text-gold-light underline">PPPoker</a> и <a href="/ru/filter/xpoker/" class="text-gold hover:text-gold-light underline">X-Poker</a>, где доступны мягкие поля и децентрализованные клубы.
+                    Ознакомьтесь также с альтернативами — <a href="/ru/deals/pppoker/" class="text-gold hover:text-gold-light underline">PPPoker</a> и <a href="/ru/deals/xpoker/" class="text-gold hover:text-gold-light underline">X-Poker</a>, где доступны мягкие поля и децентрализованные клубы.
                   </p>
                 )}
               </div>

@@ -1,258 +1,467 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import DealCard from '../../components/DealCard.astro';
-import FilterSidebar from '../../components/FilterSidebar.astro';
 import deals from '../../data/deals.json';
-import filterContent from '../../data/filterContent.json';
-import { getLangFromUrl } from '../../i18n/utils';
+import guides from '../../data/guides.json';
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
-const content = filterContent.ru.all;
-
-
-
-
-const lang = getLangFromUrl(Astro.url) || 'en';
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 ---
 
 <BaseLayout
-  title={content.title}
-  description={content.description}
-  ogImage="/hero_wide_screen_top.webp"
+  title="PokerDealsHub — лучшие покерные клубы и рейкбэк-оферы"
+  description="Выбирай проверенные покерные клубы и союзы на PPPoker, ClubGG и X-Poker. Получай высокий рейкбэк и надёжные выплаты с PokerDealsHub."
+  ogImage="/hero_texture.webp"
 >
-  <div class="container mx-auto px-4 py-3 lg:pt-12 lg:pb-6">
-    <div class="flex flex-col lg:flex-row gap-6 lg:gap-8">
-      <FilterSidebar />
 
-      <div class="flex-1 min-w-0">
-        <div class="mb-6 lg:mb-8">
-          <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-3 lg:mb-4">
-            {content.h1}
-          </h1>
-          <p class="text-neutral-300 text-base lg:text-lg leading-relaxed">
-            {content.intro}
+ <!-- HERO -->
+ 
+<section class="hero-bg relative flex flex-col md:flex-row items-center justify-between px-6 md:px-12 py-32 md:py-32 overflow-hidden bg-neutral-950">
+  <!-- Затемнение -->
+  <div class="absolute inset-0 bg-black/60 z-0"></div>
+
+  <div class="relative z-10 w-full max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8 md:gap-10">
+    <div class="max-w-[450px] sm:max-w-[500px] md:max-w-2xl text-center md:text-left flex-1 mx-auto md:mx-0">
+      <h1 class="text-3xl md:text-5xl font-bold text-gold mb-5 leading-tight">
+        PokerDealsHub — лучшие рейкбэк сделки в мире покера
+      </h1>
+      <p class="text-neutral-300 text-base md:text-lg mb-10 leading-relaxed">
+        Мы собрали для вас лучшие клубы и союзы с большим рейкбэком, прозрачными условиями. 
+        Только проверенные площадки и мягкие поляны. Все для того чтобы вы получали максимум от игры в покер.
+      </p>
+      
+      <a href=`/${lang}/deals/` class="inline-block px-7 py-3 bg-gold text-neutral-900 font-bold rounded-xl hover:bg-gold-light transition-all text-base md:text-lg">
+        Все сделки
+      </a>
+    </div>
+
+    <div class="relative flex-shrink-0 hidden md:block self-end translate-y-8">
+      <img src="/chip_flying.webp" alt="Poker chip" class="w-40 lg:w-52 animate-chip-float opacity-90 pointer-events-none" />
+    </div>
+  </div>
+
+  <style>
+    .hero-bg {
+      position: relative;
+      background-color: rgb(10, 10, 10);
+      background-image: url('/hero_texture.webp');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center 5%; /* ← здесь фиксируем вертикальное смещение */
+      transition: background-position 0.3s ease;
+    }
+  </style>
+</section>
+
+<style>
+
+  /* Анимация фишки */
+  @keyframes chip-float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-12px);
+    }
+  }
+
+  .animate-chip-float {
+    animation: chip-float 4s ease-in-out infinite;
+  }
+</style>
+
+
+
+  <!-- ПОЧЕМУ ВЫБИРАЮТ -->
+  <section class="py-12 md:py-14 bg-neutral-950 border-t border-neutral-900">
+    <div class="container mx-auto px-6 md:px-12 text-center">
+      <h2 class="text-3xl md:text-4xl font-bold text-gold mb-8">
+        Почему выбирают PokerDealsHub
+      </h2>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-10 text-neutral-300 max-w-5xl mx-auto">
+        <div class="flex flex-col items-center text-center">
+          <img src="/shield.webp" alt="Иконка щита" class="w-14 h-14 mb-4 opacity-100" />
+          <h3 class="text-gold font-semibold mb-2">Проверенные союзы</h3>
+          <p class="max-w-sm mx-auto leading-relaxed">
+            Мы публикуем только надёжные клубы с реальными выплатами и репутацией.
           </p>
         </div>
 
-        <div class="mb-0">
-          <button
-            id="hero-banner"
-            class="w-full cursor-pointer border-0 bg-transparent p-0 hover:opacity-90 transition-opacity"
-            aria-label="Scroll to deals"
-          >
-            <div class="hero-banner-container">
-              <div class="hero-banner-top">
-                <picture>
-                  <source media="(max-width: 639px)" srcset="/new_hero_mobile_top.webp" width="993" height="417" />
-                  <source media="(min-width: 640px)" srcset="/hero_wide_screen_top.webp" width="1828" height="236" />
-                  <img
-                    src="/hero_wide_screen_top.webp"
-                    alt="Best poker deals"
-                    class="w-full h-auto rounded-t-xl"
-                    width="1828"
-                    height="236"
-                    loading="eager"
-                    onload="this.parentElement.parentElement.parentElement.style.setProperty('--shimmer-mask', 'url(' + this.currentSrc + ')');"
-                  />
-                </picture>
-              </div>
-              <div class="hero-banner-arrows">
-                <div class="arrows-container">
-                  <img src="/new_hero_wide_screen_arrows.webp" alt="Scroll down" class="arrow arrow-left" width="32" height="32" />
-                  <img src="/new_hero_wide_screen_arrows.webp" alt="Scroll down" class="arrow arrow-center" width="32" height="32" />
-                  <img src="/new_hero_wide_screen_arrows.webp" alt="Scroll down" class="arrow arrow-right" width="32" height="32" />
-                </div>
-              </div>
-            </div>
-          </button>
+        <div class="flex flex-col items-center text-center">
+          <img src="/percent.webp" alt="Иконка процент" class="w-14 h-14 mb-4 opacity-90" />
+          <h3 class="text-gold font-semibold mb-2">Честный рейкбэк</h3>
+          <p class="max-w-sm mx-auto leading-relaxed">
+            Всё прозрачно — ты всегда знаешь, сколько именно получаешь за игру.
+          </p>
         </div>
 
-        <div class="mb-8 lg:mb-12" id="deals-section">
-          <div class="flex flex-col gap-4">
-            {deals.sort((a, b) => {
-              if (a.slug === 'nuts-primetime-pppoker') return -1;
-              if (b.slug === 'nuts-primetime-pppoker') return 1;
-              return 0;
-            }).map((deal) => (
-              <DealCard deal={deal} />
-            ))}
-          </div>
+        <div class="flex flex-col items-center text-center">
+          <img src="/chat.webp" alt="Иконка чата" class="w-14 h-14 mb-4 opacity-90" />
+          <h3 class="text-gold font-semibold mb-2">Поддержка 24/7</h3>
+          <p class="max-w-sm mx-auto leading-relaxed">
+            Наша команда на связи каждый день, без выходных.
+          </p>
         </div>
 
-        <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8">
-          <h2 class="text-xl lg:text-2xl font-semibold text-gold mb-3 lg:mb-4">О покерных сделках и выгодных предложениях</h2>
-          <p class="text-neutral-300 text-sm lg:text-base whitespace-pre-line">
-            {content.seoText}
+        <div class="flex flex-col items-center text-center">
+          <img src="/fish.webp" alt="Иконка Рыбка" class="w-14 h-14 mb-4 opacity-90" />
+          <h3 class="text-gold font-semibold mb-2">Хорошая игра</h3>
+          <p class="max-w-sm mx-auto leading-relaxed">
+            Только поляны с рекреационными игроками.
           </p>
         </div>
       </div>
     </div>
+  </section>
+
+<!-- СДЕЛКИ -->
+<section class="py-12 md:py-14 bg-neutral-950 border-t border-neutral-900 relative">
+  <div class="container mx-auto px-6 md:px-12">
+    <!-- Заголовок -->
+    <div class="flex flex-col md:flex-row md:items-end md:justify-between mb-6">
+      <div class="flex-1 min-w-0">
+        <h2 class="text-3xl md:text-4xl font-bold text-gold mb-2">Популярные сделки</h2>
+        <p class="text-neutral-300 text-base max-w-2xl">
+          Лучшие покерные клубы и союзы с проверенной репутацией, высоким рейкбэком и активной игрой.
+        </p>
+      </div>
+      <a
+        href=`/${lang}/deals/`
+        class="mt-4 md:mt-0 text-gold hover:text-gold-light text-sm md:text-base whitespace-nowrap flex-shrink-0"
+      >
+        Все сделки →
+      </a>
+    </div>
+
+    <!-- Контейнер с навигацией -->
+    <div class="relative flex flex-col items-center md:block w-full">
+
+      <!-- Левая стрелка (только десктоп) -->
+      <button
+        id="deal-prev"
+        class="hidden md:flex items-center justify-center absolute left-0 top-1/2 -translate-y-1/2
+               w-12 h-12 rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
+               hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
+        onclick="document.getElementById('deal-viewport').scrollBy({ left: -document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
+        aria-label="Предыдущая сделка"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
+
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
+        </svg>
+        <span class="sr-only">Предыдущая сделка</span>
+
+      </button>
+
+      <!-- Вьюпорт -->
+      <div
+      id="deal-viewport"
+      class="relative mx-auto overflow-x-auto overflow-y-hidden rounded-2xl scroll-smooth touch-pan-x touch-pan-y
+             w-full md:w-[calc(100%-10rem)] md:max-w-[1080px]
+             snap-x snap-mandatory hide-scrollbar no-overscroll"
+    >
+    
+        <div id="deal-track" class="flex">
+          {deals.slice(0, 6).map((deal) => (
+            <div class="deal-slide flex-shrink-0 w-full snap-center px-2 md:px-3">
+              <DealCard deal={deal} />
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- Правая стрелка (только десктоп) -->
+      <button
+        id="deal-next"
+        class="hidden md:flex items-center justify-center absolute right-0 top-1/2 -translate-y-1/2
+               w-12 h-12 rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
+               hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
+        onclick="document.getElementById('deal-viewport').scrollBy({ left: document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
+        aria-label="Следующая сделка"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
+
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
+        </svg>
+        <span class="sr-only">Следующая сделка</span>
+
+      </button>
+
+      <!-- Кнопки внизу для мобильных -->
+      <div class="hidden sm:flex md:hidden justify-center gap-6 mt-6">
+        <button
+          onclick="document.getElementById('deal-viewport').scrollBy({ left: -document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
+          class="w-10 h-10 flex items-center justify-center rounded-full bg-neutral-800/80 text-gold border border-gold/40
+                 drop-shadow-[0_0_6px_rgba(212,175,55,0.3)] hover:scale-110 transition-all"
+        >
+          <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
+            
+
+            <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
+          </svg>
+          <span class="sr-only">Предыдущая сделка</span>
+        </button>
+        <button
+          onclick="document.getElementById('deal-viewport').scrollBy({ left: document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
+          class="w-10 h-10 flex items-center justify-center rounded-full bg-neutral-800/80 text-gold border border-gold/40
+                 drop-shadow-[0_0_6px_rgba(212,175,55,0.3)] hover:scale-110 transition-all"
+        >
+          <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
+            
+
+            <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
+          </svg>
+          <span class="sr-only">Следующая сделка</span>
+        </button>
+      </div>
+    </div>
   </div>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const heroButton = document.getElementById('hero-banner');
-      const dealsSection = document.getElementById('deals-section');
+  <style>
+    .hide-scrollbar::-webkit-scrollbar { display: none; }
+    .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    .no-overscroll { overscroll-behavior-x: contain; }
+  </style>
+</section>
 
-      if (heroButton && dealsSection) {
-        heroButton.addEventListener('click', () => {
-          const headerHeight = document.querySelector('header')?.offsetHeight || 0;
-          const elementPosition = dealsSection.getBoundingClientRect().top + window.scrollY;
-          const offsetPosition = elementPosition - headerHeight - 16;
 
-          window.scrollTo({
-            top: offsetPosition,
-            behavior: 'smooth'
-          });
-        });
-      }
-    });
-  </script>
+
+<!-- ГАЙДЫ И СОВЕТЫ -->
+<section class="py-12 md:py-14 bg-neutral-950 border-t border-neutral-900 relative">
+  <div class="container mx-auto px-6 md:px-12">
+    <!-- Заголовок -->
+    <div class="flex flex-col md:flex-row md:items-end md:justify-between mb-6">
+      <div>
+        <h2 class="text-3xl md:text-4xl font-bold text-gold mb-2">Гайды и советы</h2>
+        <p class="text-neutral-300 text-base max-w-2xl">
+          Стратегии, обзоры союзов и практические советы для игроков, которые хотят повысить винрейт.
+        </p>
+      </div>
+      <a href=`/${lang}/guides/` class="mt-4 md:mt-0 text-gold hover:text-gold-light text-sm md:text-base whitespace-nowrap">
+        Все статьи →
+      </a>
+    </div>
+
+    <!-- Контейнер с навигацией -->
+    <div class="relative flex flex-col items-center md:block w-full">
+      <!-- Левая стрелка -->
+      <button
+        id="guide-prev"
+        class="hidden md:flex items-center justify-center absolute left-0 top-1/2 -translate-y-1/2
+               w-12 h-12 rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
+               hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
+        aria-label="Предыдущий гайд"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
+          
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
+        </svg>
+        <span class="sr-only">Предыдущая статья</span>
+
+      </button>
+
+      <!-- Вьюпорт -->
+      <div
+      id="guide-viewport"
+      class="relative mx-auto overflow-x-auto overflow-y-hidden rounded-2xl scroll-smooth touch-pan-x touch-pan-y
+             snap-x snap-mandatory hide-scrollbar w-full md:w-[calc(100%-10rem)]"
+    >
+    
+        <div id="guide-track" class="flex">
+          {guides.slice(0, 6).map((guide) => (
+            <a
+              href={`/${lang}/guides/${guide.slug}/`}
+              class="guide-slide flex-shrink-0 w-full xl:w-1/2 snap-start px-3 md:px-4"
+              style="scroll-snap-stop: always;"
+            >
+              <div class="h-full bg-neutral-900 border border-neutral-800 rounded-2xl p-6 hover:border-gold/50 transition-all flex flex-col">
+                <h3 class="text-xl font-bold text-gold mb-3 line-clamp-2">{guide.title[lang]}</h3>
+                <p class="text-neutral-300 text-sm line-clamp-4 flex-1">{guide.description[lang]}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- Правая стрелка -->
+      <button
+        id="guide-next"
+        class="hidden md:flex items-center justify-center absolute right-0 top-1/2 -translate-y-1/2
+               w-12 h-12 rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
+               hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
+        aria-label="Следующий гайд"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
+          
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
+        </svg>
+        <span class="sr-only">Следующая статья</span>
+      </button>
+    </div>
+
+    <!-- Стрелки снизу для мобилок -->
+    <div class="flex md:hidden justify-center gap-6 mt-6">
+      <button
+        id="guide-prev-mobile"
+        class="w-10 h-10 flex items-center justify-center rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_6px_rgba(212,175,55,0.3)] hover:scale-110 transition-all"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
+          
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
+        </svg>
+        <span class="sr-only">Предыдущая статья</span>
+      </button>
+      <button
+        id="guide-next-mobile"
+        class="w-10 h-10 flex items-center justify-center rounded-full bg-neutral-800/80 text-gold border border-gold/40
+               drop-shadow-[0_0_6px_rgba(212,175,55,0.3)] hover:scale-110 transition-all"
+      >
+        <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
+   
+          <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
+        </svg>
+        <span class="sr-only">Следующая статья</span>
+      </button>
+    </div>
+  </div>
 
   <style>
-    .hero-banner-container {
-      position: relative;
-      width: 100%;
-    }
-
-    .hero-banner-top {
-      position: relative;
-      overflow: hidden;
-      border-radius: 0.75rem 0.75rem 0 0;
-      aspect-ratio: 1828 / 236;
-    }
-
-    @media (max-width: 639px) {
-      .hero-banner-top {
-        aspect-ratio: 993 / 417;
-      }
-    }
-
-    .hero-banner-top::after {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: -100%;
-      width: 100%;
-      height: 100%;
-      background: linear-gradient(
-        90deg,
-        rgba(255, 255, 255, 0) 0%,
-        rgba(255, 255, 255, 0.2) 50%,
-        rgba(255, 255, 255, 0) 100%
-      );
-      transform: skewX(-20deg);
-      animation: shimmer 7s ease-in-out infinite;
-      pointer-events: none;
-      will-change: transform;
-      mask-image: var(--shimmer-mask);
-      -webkit-mask-image: var(--shimmer-mask);
-      mask-size: contain;
-      -webkit-mask-size: contain;
-      mask-repeat: no-repeat;
-      -webkit-mask-repeat: no-repeat;
-    }
-
-    @keyframes shimmer {
-      0% {
-        left: -100%;
-      }
-      20% {
-        left: 100%;
-      }
-      100% {
-        left: 100%;
-      }
-    }
-
-    .hero-banner-arrows {
-      position: relative;
-      background: transparent;
-      padding: 1rem 0;
-      border-radius: 0 0 0.75rem 0.75rem;
-      overflow: hidden;
-    }
-
-    .arrows-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      position: relative;
-      width: 100%;
-    }
-
-    .arrow {
-      width: 32px;
-      height: 32px;
-      object-fit: contain;
-      filter: drop-shadow(0 0 10px rgba(212, 175, 55, 0.3));
-      position: absolute;
-    }
-
-    .arrow-left {
-      left: 17%;
-      animation: arrowBounce 2.5s ease-in-out infinite;
-      animation-delay: 0s;
-    }
-
-    .arrow-center {
-      animation: arrowBounce 2.5s ease-in-out infinite;
-      animation-delay: 0s;
-      transform: scale(1.2);
-      position: relative;
-    }
-
-    .arrow-right {
-      right: 17%;
-      animation: arrowBounce 2.5s ease-in-out infinite;
-      animation-delay: 0s;
-    }
-
-    @keyframes arrowBounce {
-      0%, 100% {
-        transform: translateY(0);
-      }
-      50% {
-        transform: translateY(-12px);
-      }
-    }
-
-    @media (prefers-reduced-motion: reduce) {
-      .hero-banner-top::after,
-      .arrow-left,
-      .arrow-center,
-      .arrow-right {
-        animation: none;
-      }
-    }
-
-    @media (max-width: 639px) {
-      .arrow {
-        width: 32px;
-        height: 32px;
-      }
-      .arrows-container {
-        gap: 1rem;
-      }
-    }
+    .hide-scrollbar::-webkit-scrollbar { display: none; }
+    .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
   </style>
 
 
-  <script type="application/ld+json" set:html={JSON.stringify({
-    '@context': 'https://schema.org',
-    '@type': 'ItemList',
-    'name': 'Лучшие покерные приложения и сделки',
-    'description': 'Каталог проверенных покерных приложений с высоким рейкбэком',
-    'itemListElement': deals.map((deal, index) => ({
-      '@type': 'ListItem',
-      'position': index + 1,
-      'item': {
-        '@type': 'Offer',
-        'name': deal.name[lang],
-        'description': deal.description[lang],
-        'url': `https://pokerdealshub.com/${lang}/deal/${deal.slug}/`,
-        'category': 'Покерные приложения',
-        'availability': 'https://schema.org/InStock'
+</section>
+
+
+
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const viewport = document.getElementById('guide-viewport');
+    const prev = document.getElementById('guide-prev');
+    const next = document.getElementById('guide-next');
+    const prevM = document.getElementById('guide-prev-mobile');
+    const nextM = document.getElementById('guide-next-mobile');
+    const slide = viewport?.querySelector('.guide-slide');
+    if (!viewport || !slide) return;
+
+    function stepPx(mult = 1) {
+      const w = slide.getBoundingClientRect().width;
+      return Math.round(w * mult);
+    }
+
+    function scrollGuides(dir) {
+      viewport.scrollBy({ left: dir * stepPx(1), behavior: 'smooth' });
+    }
+
+    prev?.addEventListener('click', () => scrollGuides(-1));
+    next?.addEventListener('click', () => scrollGuides(1));
+    prevM?.addEventListener('click', () => scrollGuides(-1));
+    nextM?.addEventListener('click', () => scrollGuides(1));
+  });
+</script>
+
+  
+
+<!-- CTA -->
+<section class="py-12 md:py-14 bg-neutral-950 border-t border-neutral-900 text-center">
+  <div class="container mx-auto px-6 md:px-12 max-w-3xl">
+    <h2 class="text-3xl md:text-4xl font-bold text-gold mb-5">Добавить сделку</h2>
+    <p class="text-neutral-300 text-base md:text-lg mb-6 leading-relaxed">
+      Ты владелец покерного клуба или союза? В игре порядок, условия честные, рейкбэк прозрачный?
+      Размести свою сделку на PokerDealsHub — мы приведём новых игроков и поможем клубу развиваться.
+    </p>
+    <a
+      href={`/${lang}/add-deal/`}
+      class="inline-block px-8 py-3 bg-gold text-neutral-900 font-bold rounded-xl hover:bg-gold-light transition-all text-base md:text-lg"
+    >
+      Разместить сделку
+    </a>
+    <img
+      src="/chip_flying.webp"
+      alt="Flying poker chip"
+      class="mx-auto mt-10 w-28 md:w-36 opacity-80 animate-chip-float"
+    />
+  </div>
+</section>
+
+  <style>
+    .sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+    @keyframes chip-float {
+      0%, 100% { transform: translateY(0) rotate(0deg); }
+      50% { transform: translateY(-12px) rotate(4deg); }
+    }
+    .animate-chip-float { animation: chip-float 5.5s ease-in-out infinite; }
+  </style>
+<script is:inline>
+  window.addEventListener('load', () => {
+    const viewport = document.getElementById('deal-viewport');
+    if (!viewport) return;
+  
+    const slide = viewport.querySelector('.deal-slide');
+    if (!slide) return;
+  
+    const slideW = slide.getBoundingClientRect().width || viewport.clientWidth;
+    const amount = Math.round(Math.min(slideW * 0.18, 140));
+    let done = false;
+  
+    function nudge() {
+      if (done) return;
+      done = true;
+  
+      setTimeout(() => {
+        const prevSnap = viewport.style.scrollSnapType || '';
+        const computedSnap = getComputedStyle(viewport).scrollSnapType;
+        const restoreSnap = () => { viewport.style.scrollSnapType = prevSnap || computedSnap; };
+  
+        viewport.style.scrollSnapType = 'none';
+        viewport.scrollBy({ left: amount, behavior: 'smooth' });
+        setTimeout(() => {
+          viewport.scrollBy({ left: -amount, behavior: 'smooth' });
+          setTimeout(restoreSnap, 1000);
+        }, 700);
+      }, 500); // задержка 0.5 секунды
+    }
+  
+    const observer = new IntersectionObserver(
+      entries => {
+        for (const entry of entries) {
+          if (entry.isIntersecting && entry.intersectionRatio >= 0.99) {
+            nudge();
+            observer.disconnect();
+            break;
+          }
+        }
       },
-    })),
-  })} />
+      {
+        threshold: Array.from({ length: 101 }, (_, i) => i / 100), // шаг 1%
+      }
+    );
+  
+    observer.observe(slide);
+  });
+  </script>
+      
+  
+    
 </BaseLayout>

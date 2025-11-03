@@ -21,13 +21,18 @@ export default defineConfig({
           ru: "ru-RU",
         },
       },
-      // Исключаем корневую страницу "/", чтобы не дублировать hreflang
-      filter: (page) => page !== "https://pokerdealshub.com/",
+      // Убираем старые пути и корневую
+      filter: (page) =>
+        !page.includes('/filter/') &&
+        !page.includes('/es/') && // если временно хочешь заблокировать испанский
+        page !== "https://pokerdealshub.com/",
       serialize: (page) => ({
         url: page,
         lastmod: new Date().toISOString(),
       }),
     }),
+    
+    
     icon(),
   ],
 

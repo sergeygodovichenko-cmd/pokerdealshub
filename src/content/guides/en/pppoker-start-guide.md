@@ -27,12 +27,12 @@ PPPoker is one of the most popular platforms for online poker through a closed c
 
 ### PPPFish Union
 - High limits, stable payouts
-- Check out [PPPFish union deals](/en/filter/pppfish)
+- Check out [PPPFish union deals](/en/deals/pppfish)
 
 ### ElDorado Union  
 - Soft games, diverse Omaha formats
-- Check out [ElDorado union deals](/en/filter/eldorado)
+- Check out [ElDorado union deals](/en/deals/eldorado)
 
 ## Conclusion
 
-PPPoker is a flexible alternative to traditional poker rooms. Go to [current PPPoker deals](/en/filter/pppoker) and choose a union that's right for you.
+PPPoker is a flexible alternative to traditional poker rooms. Go to [current PPPoker deals](/en/deals/pppoker) and choose a union that's right for you.

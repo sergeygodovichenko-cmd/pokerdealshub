@@ -58,14 +58,14 @@ export const GET: APIRoute = async () => {
   filters.forEach((filter) => {
     ['en', 'es', 'ru'].forEach((lang) => {
       urls.push({
-        loc: `${SITE_URL}/${lang}/filter/${filter}/`,
+        loc: `${SITE_URL}/${lang}/deals/${filter}/`,
         lastmod,
         changefreq: 'weekly',
         priority: 0.8,
         alternates: [
-          { lang: 'en-US', href: `${SITE_URL}/en/filter/${filter}/` },
-          { lang: 'es-ES', href: `${SITE_URL}/es/filter/${filter}/` },
-          { lang: 'ru-RU', href: `${SITE_URL}/ru/filter/${filter}/` },
+          { lang: 'en-US', href: `${SITE_URL}/en/deals/${filter}/` },
+          { lang: 'es-ES', href: `${SITE_URL}/es/deals/${filter}/` },
+          { lang: 'ru-RU', href: `${SITE_URL}/ru/deals/${filter}/` },
         ],
       });
     });
