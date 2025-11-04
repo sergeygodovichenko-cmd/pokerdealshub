@@ -1,7 +1,7 @@
 /* empty css                                       */
 import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate, u as unescapeHTML, e as addAttribute, m as maybeRenderHead } from '../../../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { $ as $$BaseLayout } from '../../../chunks/BaseLayout_CivQTQwJ.mjs';
+import { $ as $$BaseLayout } from '../../../chunks/BaseLayout_yzPlakuQ.mjs';
 import { $ as $$DealCard } from '../../../chunks/DealCard_BGq8N76Q.mjs';
 import { $ as $$FilterSidebar } from '../../../chunks/FilterSidebar_O-rM2N_3.mjs';
 import { $ as $$Breadcrumbs } from '../../../chunks/Breadcrumbs_DWwFcGV5.mjs';

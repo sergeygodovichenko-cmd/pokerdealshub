@@ -1,8 +1,8 @@
 import { c as createComponent, b as createAstro, m as maybeRenderHead, d as renderScript, e as addAttribute, a as renderTemplate, r as renderComponent, g as renderSlot, f as renderHead, u as unescapeHTML } from './astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
+/* empty css                         */
 import { g as getLangFromUrl, a as getAlternateLanguages, l as languages, u as useTranslations } from './utils_CSZAe92J.mjs';
 import 'clsx';
-/* empty css                         */
 
 const $$Astro$3 = createAstro();
 const $$LanguageSwitcher = createComponent(($$result, $$props, $$slots) => {

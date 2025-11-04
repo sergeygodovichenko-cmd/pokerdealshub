@@ -1,7 +1,7 @@
 /* empty css                                 */
 import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate, e as addAttribute, d as renderScript, m as maybeRenderHead } from '../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { $ as $$BaseLayout } from '../chunks/BaseLayout_CivQTQwJ.mjs';
+import { $ as $$BaseLayout } from '../chunks/BaseLayout_yzPlakuQ.mjs';
 import { $ as $$DealCard } from '../chunks/DealCard_BGq8N76Q.mjs';
 import { d as deals } from '../chunks/deals_BGp0Bycs.mjs';
 import { g as guides } from '../chunks/guides_CzeSEYyi.mjs';

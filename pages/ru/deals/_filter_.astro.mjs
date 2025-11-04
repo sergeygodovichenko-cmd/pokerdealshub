@@ -1,10 +1,10 @@
 /* empty css                                       */
 import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate, m as maybeRenderHead, u as unescapeHTML, F as Fragment } from '../../../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { $ as $$BaseLayout } from '../../../chunks/BaseLayout_CivQTQwJ.mjs';
+import { $ as $$BaseLayout } from '../../../chunks/BaseLayout_yzPlakuQ.mjs';
 import { $ as $$FilterSidebar } from '../../../chunks/FilterSidebar_O-rM2N_3.mjs';
 import { $ as $$Breadcrumbs } from '../../../chunks/Breadcrumbs_DWwFcGV5.mjs';
-import { $ as $$DealsList } from '../../../chunks/DealsList_THbWcVBO.mjs';
+import { $ as $$DealsList } from '../../../chunks/DealsList_BDWYIsRx.mjs';
 import { d as deals } from '../../../chunks/deals_BGp0Bycs.mjs';
 import { f as filterContent } from '../../../chunks/filterContent_DvO7mL5H.mjs';
 import { g as getLangFromUrl } from '../../../chunks/utils_CSZAe92J.mjs';

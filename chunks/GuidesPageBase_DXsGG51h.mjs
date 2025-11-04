@@ -1,7 +1,7 @@
 /* empty css                         */
 import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate, m as maybeRenderHead, e as addAttribute } from './astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { $ as $$BaseLayout } from './BaseLayout_CivQTQwJ.mjs';
+import { $ as $$BaseLayout } from './BaseLayout_yzPlakuQ.mjs';
 import { g as guides } from './guides_CzeSEYyi.mjs';
 import { g as getLangFromUrl } from './utils_CSZAe92J.mjs';
 
