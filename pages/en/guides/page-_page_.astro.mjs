@@ -1,7 +1,7 @@
 /* empty css                                       */
 import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate } from '../../../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { $ as $$GuidesPageBase } from '../../../chunks/GuidesPageBase_Cl5LEo-_.mjs';
+import { $ as $$GuidesPageBase } from '../../../chunks/GuidesPageBase_Dt55dr3V.mjs';
 import { g as guides } from '../../../chunks/guides_CzeSEYyi.mjs';
 import { d as dealsConfig } from '../../../chunks/dealsConfig_6c2onEy-.mjs';
 export { renderers } from '../../../renderers.mjs';
