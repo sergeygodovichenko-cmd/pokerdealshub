@@ -1,7 +1,8 @@
 /* empty css                                    */
-import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../../chunks/astro/server_C71Im3BI.mjs';
+import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { $ as $$BaseLayout, u as useTranslations } from '../../chunks/BaseLayout_DPLZ1pbk.mjs';
+import { $ as $$BaseLayout } from '../../chunks/BaseLayout_CivQTQwJ.mjs';
+import { u as useTranslations } from '../../chunks/utils_CSZAe92J.mjs';
 export { renderers } from '../../renderers.mjs';
 
 const $$About = createComponent(($$result, $$props, $$slots) => {
@@ -13,7 +14,7 @@ const $$About = createComponent(($$result, $$props, $$slots) => {
 </a> </div> </div> <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8"> <p class="text-neutral-300">
 Наша цель — создать прозрачную и удобную платформу для поиска покерных сделок. Мы не берем комиссию с
           игроков и работаем только с проверенными партнерами. Все представленные сделки доступны для игроков из
-          разных регионов: <a href="/ru/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light">Европы, Азии, Америки и ЛатАм</a>.
+          разных регионов, и без KYC идентификации. <a href="/ru/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light">Выбери свою покер сделку</a>.
 </p> </div> </div> </div> ` })}`;
 }, "/Users/sergiigodovychenko/Documents/pdh/src/pages/ru/about.astro", void 0);
 

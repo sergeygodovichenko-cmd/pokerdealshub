@@ -1,7 +1,7 @@
 /* empty css                                    */
-import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../../chunks/astro/server_C71Im3BI.mjs';
+import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { $ as $$BaseLayout } from '../../chunks/BaseLayout_DPLZ1pbk.mjs';
+import { $ as $$BaseLayout } from '../../chunks/BaseLayout_CivQTQwJ.mjs';
 export { renderers } from '../../renderers.mjs';
 
 const $$Privacy = createComponent(($$result, $$props, $$slots) => {

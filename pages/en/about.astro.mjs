@@ -1,7 +1,8 @@
 /* empty css                                    */
-import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../../chunks/astro/server_C71Im3BI.mjs';
+import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { $ as $$BaseLayout, u as useTranslations } from '../../chunks/BaseLayout_DPLZ1pbk.mjs';
+import { $ as $$BaseLayout } from '../../chunks/BaseLayout_CivQTQwJ.mjs';
+import { u as useTranslations } from '../../chunks/utils_CSZAe92J.mjs';
 export { renderers } from '../../renderers.mjs';
 
 const $$About = createComponent(($$result, $$props, $$slots) => {
@@ -13,7 +14,7 @@ Add Deal
 </a> </div> </div> <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8"> <p class="text-neutral-300">
 Our goal is to create a transparent and convenient platform for finding poker deals. We don't charge players
           any commission and work only with verified partners. All featured deals are available for players from
-          different regions: <a href="/en/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light">Europe, Asia, America and LatAm</a>.
+          different regions, no KYC required. <a href="/en/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light">Pick you poker deal</a>.
 </p> </div> </div> </div> ` })}`;
 }, "/Users/sergiigodovychenko/Documents/pdh/src/pages/en/about.astro", void 0);
 

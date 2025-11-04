@@ -1,8 +1,9 @@
 /* empty css                                       */
-import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate, u as unescapeHTML, m as maybeRenderHead } from '../../../chunks/astro/server_C71Im3BI.mjs';
+import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate, u as unescapeHTML, m as maybeRenderHead } from '../../../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { g as getLangFromUrl, u as useTranslations, $ as $$BaseLayout } from '../../../chunks/BaseLayout_DPLZ1pbk.mjs';
-import { $ as $$Breadcrumbs } from '../../../chunks/Breadcrumbs_BL0bbISx.mjs';
+import { $ as $$BaseLayout } from '../../../chunks/BaseLayout_CivQTQwJ.mjs';
+import { $ as $$Breadcrumbs } from '../../../chunks/Breadcrumbs_DWwFcGV5.mjs';
+import { g as getLangFromUrl, u as useTranslations } from '../../../chunks/utils_CSZAe92J.mjs';
 import { readFileSync } from 'fs';
 import { resolve } from 'path';
 export { renderers } from '../../../renderers.mjs';

@@ -1,7 +1,7 @@
 /* empty css                                    */
-import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../../chunks/astro/server_C71Im3BI.mjs';
+import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { $ as $$BaseLayout } from '../../chunks/BaseLayout_DPLZ1pbk.mjs';
+import { $ as $$BaseLayout } from '../../chunks/BaseLayout_CivQTQwJ.mjs';
 export { renderers } from '../../renderers.mjs';
 
 const $$Terms = createComponent(($$result, $$props, $$slots) => {
@@ -42,7 +42,7 @@ We reserve the right to change or update these Terms of Use at any time.
 </p> </div> <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8"> <h2 class="text-2xl font-semibold text-gold mb-4">7. Contact</h2> <p class="text-neutral-300 mb-3">
 If you have any questions regarding these Terms of Use, please contact us:
 </p> <p class="text-neutral-300">
-Email: <a href="mailto:contact@pokerdealshub.com" class="text-gold hover:text-gold-light">contact@pokerdealshub.com</a><br>
+Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
 Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a> </p> </div> </div> </div> </div> ` })}`;
 }, "/Users/sergiigodovychenko/Documents/pdh/src/pages/en/terms.astro", void 0);
 

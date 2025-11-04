@@ -1,11 +1,12 @@
 /* empty css                                       */
-import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate, d as renderScript, u as unescapeHTML, e as addAttribute, m as maybeRenderHead } from '../../../chunks/astro/server_C71Im3BI.mjs';
+import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate, d as renderScript, u as unescapeHTML, e as addAttribute, m as maybeRenderHead } from '../../../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { g as getLangFromUrl, u as useTranslations, $ as $$BaseLayout } from '../../../chunks/BaseLayout_DPLZ1pbk.mjs';
-import { $ as $$Breadcrumbs } from '../../../chunks/Breadcrumbs_BL0bbISx.mjs';
-import { $ as $$RelatedDeals } from '../../../chunks/RelatedDeals_ATWgPAYb.mjs';
-import { d as deals } from '../../../chunks/deals_Bgjakpm4.mjs';
-import { l as labl, b as badgeLabels, t as tooltips } from '../../../chunks/dealHelpers_FzkXOya6.mjs';
+import { $ as $$BaseLayout } from '../../../chunks/BaseLayout_CivQTQwJ.mjs';
+import { $ as $$Breadcrumbs } from '../../../chunks/Breadcrumbs_DWwFcGV5.mjs';
+import { $ as $$RelatedDeals } from '../../../chunks/RelatedDeals_txwI24Au.mjs';
+import { d as deals } from '../../../chunks/deals_BGp0Bycs.mjs';
+import { g as getLangFromUrl, u as useTranslations } from '../../../chunks/utils_CSZAe92J.mjs';
+import { l as labl, b as badgeLabels, t as tooltips } from '../../../chunks/dealHelpers_GXhjt0HW.mjs';
 /* empty css                                               */
 export { renderers } from '../../../renderers.mjs';
 

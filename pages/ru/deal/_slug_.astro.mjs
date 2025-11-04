@@ -1,10 +1,11 @@
 /* empty css                                       */
-import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate, u as unescapeHTML, e as addAttribute, m as maybeRenderHead } from '../../../chunks/astro/server_C71Im3BI.mjs';
+import { c as createComponent, b as createAstro, r as renderComponent, a as renderTemplate, u as unescapeHTML, e as addAttribute, m as maybeRenderHead } from '../../../chunks/astro/server_CmlpvxuL.mjs';
 import 'kleur/colors';
-import { g as getLangFromUrl, u as useTranslations, $ as $$BaseLayout } from '../../../chunks/BaseLayout_DPLZ1pbk.mjs';
-import { $ as $$DealCard } from '../../../chunks/DealCard_BWepXAJe.mjs';
-import { $ as $$Breadcrumbs } from '../../../chunks/Breadcrumbs_BL0bbISx.mjs';
-import { d as deals } from '../../../chunks/deals_Bgjakpm4.mjs';
+import { $ as $$BaseLayout } from '../../../chunks/BaseLayout_CivQTQwJ.mjs';
+import { $ as $$DealCard } from '../../../chunks/DealCard_BGq8N76Q.mjs';
+import { $ as $$Breadcrumbs } from '../../../chunks/Breadcrumbs_DWwFcGV5.mjs';
+import { d as deals } from '../../../chunks/deals_BGp0Bycs.mjs';
+import { g as getLangFromUrl, u as useTranslations } from '../../../chunks/utils_CSZAe92J.mjs';
 export { renderers } from '../../../renderers.mjs';
 
 var __freeze = Object.freeze;
