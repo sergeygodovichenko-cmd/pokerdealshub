@@ -16,10 +16,11 @@ export const GET: APIRoute = async () => {
   const lastmod = new Date().toISOString();
   const urls: SitemapURL[] = [];
 
+  // 🧹 убрал /es/ из главных страниц
   const mainPages = [
     { path: '/', priority: 1.0, changefreq: 'daily' },
     { path: '/en/', priority: 1.0, changefreq: 'daily' },
-    { path: '/es/', priority: 1.0, changefreq: 'daily' },
+    // { path: '/es/', priority: 1.0, changefreq: 'daily' },
     { path: '/ru/', priority: 1.0, changefreq: 'daily' },
   ];
 
@@ -33,13 +34,16 @@ export const GET: APIRoute = async () => {
         { lang: 'ru-RU', href: `${SITE_URL}/` },
         { lang: 'ru-RU', href: `${SITE_URL}/ru/` },
         { lang: 'en-US', href: `${SITE_URL}/en/` },
-        { lang: 'es-ES', href: `${SITE_URL}/es/` },
+        // { lang: 'es-ES', href: `${SITE_URL}/es/` }, // ❌ временно отключено
       ],
     });
   });
 
+  // 🔹 только ru и en, без es
+  const activeLangs = ['en', 'ru'];
+
   deals.forEach((deal) => {
-    ['en', 'es', 'ru'].forEach((lang) => {
+    activeLangs.forEach((lang) => {
       urls.push({
         loc: `${SITE_URL}/${lang}/deal/${deal.slug}/`,
         lastmod,
@@ -47,8 +51,8 @@ export const GET: APIRoute = async () => {
         priority: 0.9,
         alternates: [
           { lang: 'en-US', href: `${SITE_URL}/en/deal/${deal.slug}/` },
-          { lang: 'es-ES', href: `${SITE_URL}/es/deal/${deal.slug}/` },
           { lang: 'ru-RU', href: `${SITE_URL}/ru/deal/${deal.slug}/` },
+          // { lang: 'es-ES', href: `${SITE_URL}/es/deal/${deal.slug}/` }, // ❌
         ],
       });
     });
@@ -56,7 +60,7 @@ export const GET: APIRoute = async () => {
 
   const filters = Object.keys(filterContent.ru);
   filters.forEach((filter) => {
-    ['en', 'es', 'ru'].forEach((lang) => {
+    activeLangs.forEach((lang) => {
       urls.push({
         loc: `${SITE_URL}/${lang}/deals/${filter}/`,
         lastmod,
@@ -64,8 +68,8 @@ export const GET: APIRoute = async () => {
         priority: 0.8,
         alternates: [
           { lang: 'en-US', href: `${SITE_URL}/en/deals/${filter}/` },
-          { lang: 'es-ES', href: `${SITE_URL}/es/deals/${filter}/` },
           { lang: 'ru-RU', href: `${SITE_URL}/ru/deals/${filter}/` },
+          // { lang: 'es-ES', href: `${SITE_URL}/es/deals/${filter}/` }, // ❌
         ],
       });
     });

@@ -1,8 +1,8 @@
 export const languages = {
   ru: 'Русский',
   en: 'English',
-  es: 'Español',
-};
+  //es: 'Español',
+};  
 
 export const defaultLang = 'ru';
 
