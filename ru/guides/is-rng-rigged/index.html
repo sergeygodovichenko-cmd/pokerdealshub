@@ -1,0 +1,240 @@
+<!DOCTYPE html><html lang="ru"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"><meta name="theme-color" content="#0a0a0a"><meta name="format-detection" content="telephone=no"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><!-- Favicons --><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="512x512" href="/android-chrome-512x512.png"><link rel="manifest" href="/site.webmanifest"><title>ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле — PokerDealsHub</title><meta name="description" content="Poker guide by PokerDealsHub ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле"><!-- Canonical --><link rel="canonical" href="https://pokerdealshub.com/ru/guides/is-rng-rigged/"><!-- Alternate language versions --><link rel="alternate" hreflang="ru" href="https://pokerdealshub.com/ru/guides/is-rng-rigged/"><link rel="alternate" hreflang="en" href="https://pokerdealshub.com/en/guides/is-rng-rigged/"><!-- x-default --><link rel="alternate" hreflang="x-default" href="https://pokerdealshub.com/"><!-- Open Graph / Twitter --><meta property="og:title" content="ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле — PokerDealsHub"><meta property="og:description" content="Poker guide by PokerDealsHub ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле"><meta property="og:url" content="https://pokerdealshub.com/ru/guides/is-rng-rigged/"><meta property="og:type" content="website"><meta property="og:image" content="https://pokerdealshub.com/hero_wide_screen_top.webp"><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле — PokerDealsHub","description":"Poker guide by PokerDealsHub ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле","url":"https://pokerdealshub.com/ru/guides/is-rng-rigged/","inLanguage":"ru","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://pokerdealshub.com/ru/"},{"@type":"ListItem","position":2,"name":"Гайды и обзоры","item":"https://pokerdealshub.com/ru/guides/"},{"@type":"ListItem","position":3,"name":"ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле","item":"https://pokerdealshub.com/ru/guides/is-rng-rigged/"}]}</script><script>
+  window.addEventListener('load', () => {
+    const GA_ID = "G-EMKB3VKZY3";
+    const PIXEL_ID = "843668438232713";
+  
+    // Безопасная загрузка внешнего скрипта с тайм-аутом
+    async function safeLoad(src, timeout = 4000) {
+      return new Promise(resolve => {
+        const s = document.createElement('script');
+        s.src = src;
+        s.async = true;
+        s.onload = () => resolve(true);
+        s.onerror = () => resolve(false);
+        setTimeout(() => resolve(false), timeout);
+        document.head.appendChild(s);
+      });
+    }
+  
+    async function startAnalytics() {
+      if (window.__analyticsStarted) return;
+      window.__analyticsStarted = true;
+  
+      // === Google Analytics 4 ===
+      const gaLoaded = await safeLoad(`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`);
+      if (gaLoaded) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){window.dataLayer.push(arguments);}
+        window.gtag = gtag;
+        gtag('js', new Date());
+        gtag('config', GA_ID);
+        console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
+      } else {
+        console.warn('⚠️ GA4 не загрузился (возможно, блокировка)');
+      }
+  
+      // === Meta Pixel ===
+      const fbLoaded = await safeLoad('https://connect.facebook.net/en_US/fbevents.js');
+      if (fbLoaded) {
+        !(function(f,b,e,v,n,t,s){
+          if(f.fbq) return;
+          n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq) f._fbq=n;
+          n.push=n; n.loaded=!0; n.version='2.0';
+          n.queue=[]; t=b.createElement(e); t.async=!0;
+          t.src=v; s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s);
+        })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+  
+        fbq('init', PIXEL_ID);
+        fbq('track', 'PageView');
+        console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
+      } else {
+        console.warn('⚠️ Meta Pixel не загрузился (возможно, блокировка)');
+      }
+  
+      // === Лид-трекинг ===
+      document.addEventListener('click', (event) => {
+        const link = event.target.closest('a[href]');
+        if (!link) return;
+        const href = link.getAttribute('href') || '';
+        const isLead = href.includes('t.me') || href.includes('telegram.me') ||
+                       href.includes('wa.me') || href.includes('api.whatsapp.com');
+        if (isLead) {
+          try {
+            if (window.gtag) gtag('event', 'lead_click', { event_category: 'lead', event_label: href });
+            if (window.fbq) fbq('track', 'Lead', { content_name: href, event_source: 'auto' });
+            console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
+          } catch(err) {
+            console.warn('Ошибка отправки события', err);
+          }
+        }
+      });
+    }
+  
+    // Запускаем отложенно: либо по взаимодействию, либо через 3 секунды
+    const timer = setTimeout(startAnalytics, 3000);
+    ['scroll', 'click', 'keydown'].forEach(evt =>
+      window.addEventListener(evt, () => {
+        clearTimeout(timer);
+        startAnalytics();
+      }, { once: true })
+    );
+  });
+  </script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1"><img height="1" width="1" style="display:none" src="https://www.googletagmanager.com/ns.html?id=G-EMKB3VKZY3"></noscript><link rel="stylesheet" href="/_astro/about.C1_q2_Oy.css">
+<link rel="stylesheet" href="/_astro/about.DgGqZUwv.css"></head> <body class="bg-neutral-950 text-neutral-100 min-h-screen flex flex-col w-full overflow-x-hidden"> <header style="background-color:#0a0a0a;" class="fixed top-0 left-0 right-0 z-[1000] bg-neutral-900/80 backdrop-blur-md border-b border-neutral-800" data-astro-cid-3ef6ksr2> <nav class="container mx-auto px-4 py-4" data-astro-cid-3ef6ksr2> <div class="flex items-center justify-between" data-astro-cid-3ef6ksr2> <a href="/ru/" class="flex items-center hover:opacity-80 transition-opacity" data-astro-cid-3ef6ksr2> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-8 md:h-10 w-auto block" width="196" height="40" data-astro-cid-3ef6ksr2> </a> <div class="flex items-center gap-4" data-astro-cid-3ef6ksr2> <div class="hidden lg:flex items-center gap-8" data-astro-cid-3ef6ksr2> <a href="/ru/deals/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Сделки </a> <a href="/ru/guides/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Гайды и обзоры </a> <a href="/ru/about/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> О нас </a> <a href="/ru/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all" data-astro-cid-3ef6ksr2> Добавить сделку </a> </div> <div class="inline-block bg-transparent"> <button id="lang-switcher-button" style="color:#fafafa;" class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors bg-transparent border-0 outline-none appearance-none" aria-label="Change language"> <span class="text-sm uppercase">ru</span> <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path> </svg> </button> <div id="lang-switcher-menu" style="background-color:#1f1f1f; color:#fafafa;" class="hidden absolute mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[9999]"> <a href="/ru/guides/is-rng-rigged/" class="block px-4 py-2 text-sm bg-neutral-700 text-gold transition-colors"> Русский </a><a href="/en/guides/is-rng-rigged/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> English </a> </div> </div> <script type="module">const o=document.getElementById("lang-switcher-button"),t=document.getElementById("lang-switcher-menu");t&&!t.dataset.moved&&(document.body.appendChild(t),t.dataset.moved="true");o?.addEventListener("click",e=>{e.stopPropagation();const n=o.getBoundingClientRect(),s=t.offsetWidth||128;t.style.position="absolute",t.style.top=n.bottom+window.scrollY+"px",t.style.left=n.right-s+window.scrollX+"px",t.classList.toggle("hidden")});document.addEventListener("click",e=>{!e.target.closest("#lang-switcher-button")&&!e.target.closest("#lang-switcher-menu")&&t?.classList.add("hidden")});</script> <button id="mobile-menu-button" class="lg:hidden text-neutral-300 hover:text-gold" aria-label="Toggle menu" data-astro-cid-3ef6ksr2> <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" data-astro-cid-3ef6ksr2> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" data-astro-cid-3ef6ksr2></path> </svg> </button> </div> </div> <div id="mobile-menu" class="hidden lg:hidden mt-4 pb-4 border-t border-neutral-800 pt-4" data-astro-cid-3ef6ksr2> <div class="flex flex-col gap-4" data-astro-cid-3ef6ksr2> <a href="/ru/deals/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Сделки </a> <a href="/ru/guides/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Гайды и обзоры </a> <a href="/ru/about/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> О нас </a> <a href="/ru/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all text-center" data-astro-cid-3ef6ksr2> Добавить сделку </a> </div> </div> </nav> </header>  <script type="module">const c=document.getElementById("mobile-menu-button"),n=document.getElementById("mobile-menu");c?.addEventListener("click",t=>{t.stopPropagation(),n?.classList.toggle("hidden")});document.addEventListener("click",t=>{const e=t.target;!e.closest("#lang-switcher-button")&&!e.closest("#lang-switcher-menu")&&n?.classList.add("hidden")});</script> <main class="flex-1 pt-12 w-full">  <div class="container mx-auto px-4 py-8 lg:pt-12 lg:pb-12"> <div class="max-w-3xl mx-auto"> <nav aria-label="Breadcrumb" class="mb-6"> <ol class="flex items-center flex-wrap gap-2 text-sm"> <li class="flex items-center">  <a href="/ru/" class="text-gold hover:text-gold-light transition-colors"> Главная </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <a href="/ru/guides/" class="text-gold hover:text-gold-light transition-colors"> Гайды и обзоры </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <span class="text-neutral-400 font-medium">ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле</span> </li> </ol> </nav> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://pokerdealshub.com/ru/"},{"@type":"ListItem","position":2,"name":"Гайды и обзоры","item":"https://pokerdealshub.com/ru/guides/"},{"@type":"ListItem","position":3,"name":"ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле","item":"https://pokerdealshub.com/ru/guides/is-rng-rigged/"}]}</script> <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6 lg:mb-8 leading-tight"> ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле </h1> <!-- Контент гайда --> <div class="text-neutral-300 text-base lg:text-lg leading-relaxed
+               [&_p]:mb-5 [&_h2]:text-2xl [&_h2]:lg:text-3xl [&_h2]:text-gold [&_h2]:font-semibold [&_h2]:mt-8 [&_h2]:mb-4
+               [&_h3]:text-xl [&_h3]:text-gold [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3
+               [&_ul]:list-disc [&_ul]:list-outside [&_ul]:pl-5 [&_ol]:list-decimal [&_ol]:pl-5 [&_li]:mb-2 [&_li::marker]:text-gold
+               [&_a]:text-gold [&_a:hover]:text-gold-light [&_a:hover]:underline [&_a]:transition-colors
+               [&_strong]:text-neutral-100 [&_strong]:font-semibold"><article>
+
+  <h1>ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле</h1>
+
+  <p>Пятый подряд проигранный алл-ин. Два часа без попаданий во флоп. Каждая раздача словно прописана против вас.
+  Возникает знакомая мысль: <em>«ГСЧ точно подкручен».</em>
+  Чтобы разобраться, давайте спокойно посмотрим, кому это может быть выгодно, как проверить честность игры и что на самом деле стоит за этим ощущением.</p>
+
+  <h2>💸 Выгодно ли руму “подкручивать”?</h2>
+
+  <p>На первый взгляд — да. Если фишам везёт, они дольше живут и продолжают вносить деньги. Регуляры видят активное поле, думают, что просто не идёт карта, и остаются за столами. Все играют — рейк капает.</p>
+
+  <p>На деле это краткосрочная выгода и долговременный крах. Как только опытные игроки начнут анализировать статистику, правда вскроется, а репутация рума погибнет. Именно поэтому крупные платформы вроде <a href="/ru/deals/clubgg">ClubGG</a>, <a href="/ru/deals/pppoker">PPPoker</a>, <a href="/ru/deals/pokerbros">PokerBros</a> и <a href="/ru/deals/xpoker">X-Poker</a> используют сертифицированные генераторы случайных чисел, проверяемые iTechLabs и GLI. Подделывать их смысла нет: выигрыш минутный, потери — навсегда.</p>
+
+  <h2>🧮 Как проверить, всё ли честно</h2>
+
+  <p>Самый простой способ — анализировать историю рук. Смотреть нужно не на эмоции, а на цифры.</p>
+
+  <ul>
+    <li><strong>PokerCraft</strong> — встроен в ClubGG и GGPoker;</li>
+    <li><strong>PokerTracker 4</strong> и <strong>Hand2Note</strong> — подходят для PPPoker и PokerBros (через импорт истории рук);</li>
+    <li><strong>DriveHUD 2</strong> — удобная альтернатива с визуальным анализом EV.</li>
+  </ul>
+
+  <p>Загрузите хотя бы 50 000 раздач и сравните графики <strong>All-in EV</strong> и реального результата. Если на дистанции они сходятся — ГСЧ работает честно.
+  Если расхождение устойчивое и огромное — тогда можно копать глубже. И уж поверьте, если бы профессиональные игроки нашли бы такие расхождения, они бы наверняка проанализировали даные сотни аккаунтов и выкатили разоблачающие материалы на самых авторитетных покерных ресурсах.</p>
+
+  <p>А чтобы получать максимум с честной игры — используйте рейкбэк. На <a href="/ru/deals/">PokerDealsHub</a> собраны лучшие предложения для <a href="/ru/deals/pppoker">PPPoker</a>, <a href="/ru/deals/clubgg">ClubGG</a>, <a href="/ru/deals/xpoker">X-Poker</a> и <a href="/ru/deals/pokerbros">PokerBros</a>. Сделки с возвратом до <strong>70%</strong> реально существуют и меняют экономику игры.</p>
+
+  <h2>📉 Так если это не подкрутка, то что?</h2>
+
+  <h3>1. Дисперсия</h3>
+  <p>Даже идеальная игра не защищает от минусовой полосы. Это не заговор, а статистика.</p>
+
+  <ul>
+    <li><strong>NL50</strong> — дисперсия около 80 ББ/100. За 400 рук стандартное отклонение (σ) ≈ √4 × 80 = 160 ББ ≈ $80.</li>
+    <li><strong>PLO5 50</strong> — дисперсия около 175 ББ/100. σ ≈ √4 × 175 = 350 ББ ≈ $175.</li>
+  </ul>
+
+  <p>Вероятность сыграть хуже чем на 1σ (−$80 на NL50) составляет около <strong>16%</strong>.  
+    Хуже чем на 2σ (−$160 на NL50 или −$350 на PLO5) — примерно <strong>2,5%</strong>.  
+    Иными словами, примерно каждая сороковая короткая сессия будет казаться проклятой.  
+    Это даже <strong>более вероятно, чем поймать один аут на ривере</strong> — а такие риверы, как мы знаем, случаются постоянно.  
+    В PLO же дисперсия изначально выше — колебания могут быть до <strong>в 1,5 раза сильнее</strong>, чем в Холдеме,  
+    поэтому просадки там ощущаются особенно болезненно, даже при абсолютно честном ГСЧ.</p>
+  
+  <h3>2. Выборочная память</h3>
+  <p>Мы помним боль, а не норму. Пять проигранных алл-инов вызывают бурю эмоций, а пять выигранных подряд проходят незамеченными. Без трекера и статистики восприятие всегда будет искажено.</p>
+
+  <h3>3. Рейковая нагрузка</h3>
+  <p>Вот настоящий враг.
+  Представьте: вы играете NL50 с винрейтoм +8 ББ/100, но рум берёт рейк 10 ББ/100.
+  В итоге вы проигрываете 2 ББ/100 и начинаете сомневаться во всём — хотя причина чисто математическая.</p>
+
+  <h2>💰 Как рейкбэк меняет картину</h2>
+
+  <p>Добавим рейкбэк 60% — вполне реальную сделку для постоянных игроков:</p>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+      color: #d0d0d0;
+    }
+    th, td {
+      border: 1px solid #333;
+      padding: 0.6rem 0.8rem;
+      text-align: left;
+    }
+    th {
+      background: #1a1a1a;
+      color: #f1c76e;
+      font-weight: 600;
+    }
+    tr:nth-child(even) {
+      background: #0f0f0f;
+    }
+    tr:nth-child(odd) {
+      background: #111;
+    }
+    table strong {
+      color: #f1c76e;
+    }
+  </style>
+  
+  <table>
+    <tr><th>Показатель</th><th>Значение</th></tr>
+    <tr><td>Винрейт до рейка</td><td>+8 ББ/100</td></tr>
+    <tr><td>Рейк</td><td>10 ББ/100</td></tr>
+    <tr><td>Винрейт без рейкбэка </td><td>-2 ББ/100</td></tr>
+    <tr><td>Рейкбэк</td><td>60%</td></tr>
+    <tr><td>Эффективный винрейт после рейкбэка</td><td><strong>+4 ББ/100</strong></td></tr>
+    
+  </table>
+
+  <p>Теперь переведём в деньги, для NL50 (блайнд $0.5, 200 раздач в час, 4 стола):</p>
+  <ul>
+    <li>Без рейкбэка: −2 × 0.5 × 200 / 100 = <strong>−$2 в час</strong></li>
+    <li>С рейкбэком 60%: +4 × 0.5 × 200 / 100 = <strong>+$4 в час</strong></li>
+  </ul>
+
+  <p>Разница — $6 в час, или около $500-$1200 в месяц, в зависимости от того как много на каких лимитах вы играете.
+  Чтобы получить такие условия, достаточно выбрать сделку с рейкбэком до 70% на <a href="/ru/deals/">PokerDealsHub</a> — там собраны проверенные клубы и союзы для всех крупных приложений.</p>
+
+  <h2>🎯 Вывод</h2>
+
+  <p>ГСЧ не враг. Враг — дисперсия, выборочная память и рейк без рейкбэка.
+  Проверить любой клуб можно цифрами: EV-анализ показывает, что тасовка карт остаётся честной.
+  А если хочешь, чтобы честная игра приносила прибыль — смотри <a href="/ru/deals/">актуальные рейкбэк-сделки</a> и выбирай надёжный союз, например <a href="/ru/deals/nuts-primetime">Nuts PrimeTime</a>, <a href="/ru/deals/eldorado">ElDorado</a> или <a href="/ru/deals/pppfish">PPPFish</a>. Эти объединения стабильно держат высокий трафик и честные условия.</p>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "ГСЧ подкручен, игра не честная. Разбираемся, что происходит на самом деле",
+    "description": "Почему кажется, что ГСЧ подкручен? Разбираем влияние дисперсии, выборочной памяти и рейка. Считаем стандартное отклонение на NL50 и PLO5, объясняем, как рейкбэк до 70% превращает минус в плюс. Подборки лучших сделок и клубов PokerDealsHub.",
+    "author": {
+      "@type": "Organization",
+      "name": "PokerDealsHub",
+      "url": "https://pokerdealshub.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "PokerDealsHub",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://pokerdealshub.com/logo.png"
+      }
+    },
+    "datePublished": "2025-11-05",
+    "dateModified": "2025-11-05",
+    "inLanguage": "ru"
+  }
+  </script>
+
+</article>
+</div> </div> </div>  </main> <footer class="w-full bg-neutral-900 border-t border-neutral-800 mt-12"> <div class="w-full py-12 px-4"> <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center gap-8"> <div> <a href="/ru/" class="flex items-center hover:opacity-80 transition-opacity"> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-6 w-auto" width="822" height="168"> </a> <p class="text-neutral-400 text-sm mt-2">© PokerDealsHub 2025</p> </div> <div class="flex flex-col gap-4"> <div class="flex flex-wrap gap-6 text-sm"> <a href="/ru/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Сделки </a> <a href="/ru/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Гайды и обзоры </a> <a href="/ru/about/" class="text-neutral-300 hover:text-gold transition-colors"> О нас </a> <a href="/ru/add-deal/" class="text-neutral-300 hover:text-gold transition-colors"> Добавить сделку </a> </div> <div class="flex flex-wrap gap-6 text-sm"> <a href="/ru/privacy/" class="text-neutral-300 hover:text-gold transition-colors"> Политика конфиденциальности </a> <a href="/ru/terms/" class="text-neutral-300 hover:text-gold transition-colors"> Условия использования </a> </div> <div class="flex flex-wrap gap-4 text-xs text-neutral-400"> <span>18+</span> <span>•</span> <span>Играйте ответственно</span> <span>•</span> <span>Сайт использует cookies</span> </div> <div class="flex gap-4"> <a href="https://t.me/pokerdealshub" class="text-neutral-400 hover:text-gold transition-colors" target="_blank" rel="noopener noreferrer" aria-label="Telegram"> <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"> <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"></path> </svg> </a> <a href="https://www.instagram.com/poker_deals_hub/" class="text-neutral-400 hover:text-gold transition-colors" target="_blank" rel="noopener noreferrer" aria-label="Instagram"> <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"> <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"></path> </svg> </a> <!--         <div class="text-neutral-500 cursor-not-allowed" title="X (Twitter)">
+            <a
+            href="https://www.instagram.com/poker_deals_hub/"
+            class="text-neutral-400 hover:text-gold transition-colors"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Twitter"
+            >
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+            </svg>
+          </a>
+          </div>  --> </div> </div> </div> </div> </footer> </body></html>

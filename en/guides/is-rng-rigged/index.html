@@ -1,0 +1,257 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"><meta name="theme-color" content="#0a0a0a"><meta name="format-detection" content="telephone=no"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><!-- Favicons --><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="512x512" href="/android-chrome-512x512.png"><link rel="manifest" href="/site.webmanifest"><title>The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On — PokerDealsHub</title><meta name="description" content="Poker guide by PokerDealsHub The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On"><!-- Canonical --><link rel="canonical" href="https://pokerdealshub.com/en/guides/is-rng-rigged/"><!-- Alternate language versions --><link rel="alternate" hreflang="ru" href="https://pokerdealshub.com/ru/guides/is-rng-rigged/"><link rel="alternate" hreflang="en" href="https://pokerdealshub.com/en/guides/is-rng-rigged/"><!-- x-default --><link rel="alternate" hreflang="x-default" href="https://pokerdealshub.com/"><!-- Open Graph / Twitter --><meta property="og:title" content="The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On — PokerDealsHub"><meta property="og:description" content="Poker guide by PokerDealsHub The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On"><meta property="og:url" content="https://pokerdealshub.com/en/guides/is-rng-rigged/"><meta property="og:type" content="website"><meta property="og:image" content="https://pokerdealshub.com/hero_wide_screen_top.webp"><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On — PokerDealsHub","description":"Poker guide by PokerDealsHub The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On","url":"https://pokerdealshub.com/en/guides/is-rng-rigged/","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pokerdealshub.com/en/"},{"@type":"ListItem","position":2,"name":"Guides and Reviews","item":"https://pokerdealshub.com/en/guides/"},{"@type":"ListItem","position":3,"name":"The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On","item":"https://pokerdealshub.com/en/guides/is-rng-rigged/"}]}</script><script>
+  window.addEventListener('load', () => {
+    const GA_ID = "G-EMKB3VKZY3";
+    const PIXEL_ID = "843668438232713";
+  
+    // Безопасная загрузка внешнего скрипта с тайм-аутом
+    async function safeLoad(src, timeout = 4000) {
+      return new Promise(resolve => {
+        const s = document.createElement('script');
+        s.src = src;
+        s.async = true;
+        s.onload = () => resolve(true);
+        s.onerror = () => resolve(false);
+        setTimeout(() => resolve(false), timeout);
+        document.head.appendChild(s);
+      });
+    }
+  
+    async function startAnalytics() {
+      if (window.__analyticsStarted) return;
+      window.__analyticsStarted = true;
+  
+      // === Google Analytics 4 ===
+      const gaLoaded = await safeLoad(`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`);
+      if (gaLoaded) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){window.dataLayer.push(arguments);}
+        window.gtag = gtag;
+        gtag('js', new Date());
+        gtag('config', GA_ID);
+        console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
+      } else {
+        console.warn('⚠️ GA4 не загрузился (возможно, блокировка)');
+      }
+  
+      // === Meta Pixel ===
+      const fbLoaded = await safeLoad('https://connect.facebook.net/en_US/fbevents.js');
+      if (fbLoaded) {
+        !(function(f,b,e,v,n,t,s){
+          if(f.fbq) return;
+          n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq) f._fbq=n;
+          n.push=n; n.loaded=!0; n.version='2.0';
+          n.queue=[]; t=b.createElement(e); t.async=!0;
+          t.src=v; s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s);
+        })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+  
+        fbq('init', PIXEL_ID);
+        fbq('track', 'PageView');
+        console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
+      } else {
+        console.warn('⚠️ Meta Pixel не загрузился (возможно, блокировка)');
+      }
+  
+      // === Лид-трекинг ===
+      document.addEventListener('click', (event) => {
+        const link = event.target.closest('a[href]');
+        if (!link) return;
+        const href = link.getAttribute('href') || '';
+        const isLead = href.includes('t.me') || href.includes('telegram.me') ||
+                       href.includes('wa.me') || href.includes('api.whatsapp.com');
+        if (isLead) {
+          try {
+            if (window.gtag) gtag('event', 'lead_click', { event_category: 'lead', event_label: href });
+            if (window.fbq) fbq('track', 'Lead', { content_name: href, event_source: 'auto' });
+            console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
+          } catch(err) {
+            console.warn('Ошибка отправки события', err);
+          }
+        }
+      });
+    }
+  
+    // Запускаем отложенно: либо по взаимодействию, либо через 3 секунды
+    const timer = setTimeout(startAnalytics, 3000);
+    ['scroll', 'click', 'keydown'].forEach(evt =>
+      window.addEventListener(evt, () => {
+        clearTimeout(timer);
+        startAnalytics();
+      }, { once: true })
+    );
+  });
+  </script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1"><img height="1" width="1" style="display:none" src="https://www.googletagmanager.com/ns.html?id=G-EMKB3VKZY3"></noscript><link rel="stylesheet" href="/_astro/about.C1_q2_Oy.css">
+<link rel="stylesheet" href="/_astro/about.DgGqZUwv.css"></head> <body class="bg-neutral-950 text-neutral-100 min-h-screen flex flex-col w-full overflow-x-hidden"> <header style="background-color:#0a0a0a;" class="fixed top-0 left-0 right-0 z-[1000] bg-neutral-900/80 backdrop-blur-md border-b border-neutral-800" data-astro-cid-3ef6ksr2> <nav class="container mx-auto px-4 py-4" data-astro-cid-3ef6ksr2> <div class="flex items-center justify-between" data-astro-cid-3ef6ksr2> <a href="/en/" class="flex items-center hover:opacity-80 transition-opacity" data-astro-cid-3ef6ksr2> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-8 md:h-10 w-auto block" width="196" height="40" data-astro-cid-3ef6ksr2> </a> <div class="flex items-center gap-4" data-astro-cid-3ef6ksr2> <div class="hidden lg:flex items-center gap-8" data-astro-cid-3ef6ksr2> <a href="/en/deals/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Deals </a> <a href="/en/guides/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Poker Guide </a> <a href="/en/about/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> About </a> <a href="/en/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all" data-astro-cid-3ef6ksr2> Add Deal </a> </div> <div class="inline-block bg-transparent"> <button id="lang-switcher-button" style="color:#fafafa;" class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors bg-transparent border-0 outline-none appearance-none" aria-label="Change language"> <span class="text-sm uppercase">en</span> <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path> </svg> </button> <div id="lang-switcher-menu" style="background-color:#1f1f1f; color:#fafafa;" class="hidden absolute mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[9999]"> <a href="/ru/guides/is-rng-rigged/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> Русский </a><a href="/en/guides/is-rng-rigged/" class="block px-4 py-2 text-sm bg-neutral-700 text-gold transition-colors"> English </a> </div> </div> <script type="module">const o=document.getElementById("lang-switcher-button"),t=document.getElementById("lang-switcher-menu");t&&!t.dataset.moved&&(document.body.appendChild(t),t.dataset.moved="true");o?.addEventListener("click",e=>{e.stopPropagation();const n=o.getBoundingClientRect(),s=t.offsetWidth||128;t.style.position="absolute",t.style.top=n.bottom+window.scrollY+"px",t.style.left=n.right-s+window.scrollX+"px",t.classList.toggle("hidden")});document.addEventListener("click",e=>{!e.target.closest("#lang-switcher-button")&&!e.target.closest("#lang-switcher-menu")&&t?.classList.add("hidden")});</script> <button id="mobile-menu-button" class="lg:hidden text-neutral-300 hover:text-gold" aria-label="Toggle menu" data-astro-cid-3ef6ksr2> <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" data-astro-cid-3ef6ksr2> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" data-astro-cid-3ef6ksr2></path> </svg> </button> </div> </div> <div id="mobile-menu" class="hidden lg:hidden mt-4 pb-4 border-t border-neutral-800 pt-4" data-astro-cid-3ef6ksr2> <div class="flex flex-col gap-4" data-astro-cid-3ef6ksr2> <a href="/en/deals/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Deals </a> <a href="/en/guides/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Poker Guide </a> <a href="/en/about/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> About </a> <a href="/en/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all text-center" data-astro-cid-3ef6ksr2> Add Deal </a> </div> </div> </nav> </header>  <script type="module">const c=document.getElementById("mobile-menu-button"),n=document.getElementById("mobile-menu");c?.addEventListener("click",t=>{t.stopPropagation(),n?.classList.toggle("hidden")});document.addEventListener("click",t=>{const e=t.target;!e.closest("#lang-switcher-button")&&!e.closest("#lang-switcher-menu")&&n?.classList.add("hidden")});</script> <main class="flex-1 pt-12 w-full">  <div class="container mx-auto px-4 py-8 lg:pt-12 lg:pb-12"> <div class="max-w-3xl mx-auto"> <nav aria-label="Breadcrumb" class="mb-6"> <ol class="flex items-center flex-wrap gap-2 text-sm"> <li class="flex items-center">  <a href="/en/" class="text-gold hover:text-gold-light transition-colors"> Home </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <a href="/en/guides/" class="text-gold hover:text-gold-light transition-colors"> Guides and Reviews </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <span class="text-neutral-400 font-medium">The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On</span> </li> </ol> </nav> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pokerdealshub.com/en/"},{"@type":"ListItem","position":2,"name":"Guides and Reviews","item":"https://pokerdealshub.com/en/guides/"},{"@type":"ListItem","position":3,"name":"The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On","item":"https://pokerdealshub.com/en/guides/is-rng-rigged/"}]}</script> <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6 lg:mb-8 leading-tight"> The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On </h1> <!-- Контент гайда --> <div class="text-neutral-300 text-base lg:text-lg leading-relaxed
+               [&_p]:mb-5 [&_h2]:text-2xl [&_h2]:lg:text-3xl [&_h2]:text-gold [&_h2]:font-semibold [&_h2]:mt-8 [&_h2]:mb-4
+               [&_h3]:text-xl [&_h3]:text-gold [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3
+               [&_ul]:list-disc [&_ul]:list-outside [&_ul]:pl-5 [&_ol]:list-decimal [&_ol]:pl-5 [&_li]:mb-2 [&_li::marker]:text-gold
+               [&_a]:text-gold [&_a:hover]:text-gold-light [&_a:hover]:underline [&_a]:transition-colors
+               [&_strong]:text-neutral-100 [&_strong]:font-semibold"><article>
+
+  <h1>The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On</h1>
+
+  <p>Fifth all-in lost in a row. Two hours without hitting a single flop. Every board seems designed to crush you.
+  The thought pops up again: <em>“The RNG must be rigged.”</em>
+  Let’s take a clear-headed look at who could benefit from this, how to check if it’s real, and what’s actually happening behind the scenes.</p>
+
+  <h2>💸 Would a Poker Room Benefit from a “Rigged RNG”?</h2>
+
+  <p>At first glance — yes. If <strong>recreational players keep running hot</strong>, they stay longer and lose money more slowly.
+  <strong>Regulars</strong> see active tables, assume they’re just running bad, and keep playing. Everyone stays in action — rake flows.</p>
+
+  <p>But that’s a short-term gain and a long-term disaster.
+  Once serious players start running statistical analysis, the truth comes out — and the room’s reputation is done for.
+  That’s why major platforms like <a href="/en/deals/clubgg">ClubGG</a>, <a href="/en/deals/pppoker">PPPoker</a>, <a href="/en/deals/pokerbros">PokerBros</a>, and <a href="/en/deals/xpoker">X-Poker</a> use <strong>certified random number generators</strong> audited by iTechLabs or GLI.
+  Manipulating RNG makes no business sense: the short-term win is nothing compared to long-term damage.</p>
+
+  <h2>🧮 How to Check If the Game Is Fair</h2>
+
+  <p>The easiest and most objective way — analyze your <strong>hand histories</strong>.
+  Don’t rely on feelings; rely on data.</p>
+
+  <ul>
+    <li><strong>PokerCraft</strong> — integrated into ClubGG and GGPoker.</li>
+    <li><strong>PokerTracker 4</strong> and <strong>Hand2Note</strong> — compatible with PPPoker and PokerBros (via hand import).</li>
+    <li><strong>DriveHUD 2</strong> — great for visual EV and variance analysis.</li>
+  </ul>
+
+  <p>Upload at least 50,000 hands and compare your <strong>All-in EV</strong> graph with your actual results.  
+    If they converge over a long sample, the RNG is fair.  
+    If the gap is large and consistent — that’s when it makes sense to dig deeper.  
+    And believe me, if professional players ever found such discrepancies,  
+    they would have analyzed data from hundreds of accounts  
+    and published detailed investigations on the most respected poker platforms.</p>
+  
+
+  <p>And if you want to actually profit from fair poker, use <strong>rakeback deals</strong>.
+  On <a href="/en/deals/">PokerDealsHub</a> you’ll find trusted offers for <a href="/en/deals/pppoker">PPPoker</a>, <a href="/en/deals/clubgg">ClubGG</a>, <a href="/en/deals/xpoker">X-Poker</a> and <a href="/en/deals/pokerbros">PokerBros</a> — with up to <strong>70% rakeback</strong> available for active players.</p>
+
+  <h2>📉 So If It’s Not Rigged, What Is It?</h2>
+
+  <h3>1. Variance</h3>
+  <p>Even perfect play doesn’t protect you from losing streaks. It’s not a conspiracy — it’s statistics.</p>
+
+  <ul>
+    <li><strong>NL50</strong> — typical variance ≈ 80 BB/100. Over 400 hands the standard deviation (σ) is √4 × 80 = 160 BB ≈ $80.</li>
+    <li><strong>PLO5 50</strong> — variance ≈ 175 BB/100. σ = √4 × 175 = 350 BB ≈ $175.</li>
+  </ul>
+
+  <p>The chance of running worse than 1σ (−$80 at NL50) is about <strong>16%</strong>.  
+    Running worse than 2σ (−$160 at NL50 or −$350 at PLO5) — around <strong>2.5%</strong>.  
+    In other words, roughly one out of forty short sessions will feel like you’re cursed.  
+    That’s actually <strong>more likely than hitting a one-outer on the river</strong> — and we’ve all seen those happen plenty.  
+    In PLO, however, variance is naturally higher — swings can easily be <strong>1.5 times stronger</strong> than in No-Limit Hold’em,  
+    so downswings there feel even more brutal despite perfectly fair randomness.</p>
+  
+
+  <h3>2. Selective Memory</h3>
+  <p>Humans remember pain, not averages.
+  Five brutal all-ins stick forever; five lucky ones vanish from memory.
+  Without tracking software, our perception is always biased.</p>
+
+  <h3>3. Rake Pressure</h3>
+  <p>Now here’s a real enemy.
+  Imagine you play NL50 with a solid winrate of +8 BB/100, but the room takes 10 BB/100 in rake.
+  Your “real” winrate becomes −2 BB/100 — and suddenly it feels like the site is rigged against you, even though it’s just math.</p>
+
+  <h2>💰 How Rakeback Fixes the Math</h2>
+
+  <p>Let’s add a realistic <strong>60% rakeback deal</strong> — easily achievable for consistent volume players.</p>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+      color: #d0d0d0;
+    }
+    th, td {
+      border: 1px solid #333;
+      padding: 0.6rem 0.8rem;
+      text-align: left;
+    }
+    th {
+      background: #1a1a1a;
+      color: #f1c76e;
+      font-weight: 600;
+    }
+    tr:nth-child(even) {
+      background: #0f0f0f;
+    }
+    tr:nth-child(odd) {
+      background: #111;
+    }
+    table strong {
+      color: #f1c76e;
+    }
+  </style>
+  
+  <table>
+    <tr><th>Metric</th><th>Value</th></tr>
+    <tr><td>Winrate before rake</td><td>+8 BB/100</td></tr>
+    <tr><td>Rake</td><td>10 BB/100</td></tr>
+    <tr><td>Winrate without rakeback</td><td>−2 BB/100</td></tr>
+    <tr><td>Rakeback</td><td>60%</td></tr>
+    <tr><td>Effective winrate after rakeback</td><td><strong>+4 BB/100</strong></td></tr>
+  </table>
+
+  <p>Now let’s translate this into money, using NL50 as an example (blinds $0.25/$0.5, 200 hands per hour, 4 tables):</p>
+  <ul>
+    <li>Without rakeback: −2 × 0.5 × 200 / 100 = <strong>−$2 per hour</strong></li>
+    <li>With 60% rakeback: +4 × 0.5 × 200 / 100 = <strong>+$4 per hour</strong></li>
+  </ul>
+
+  <p>The difference — about <strong>$6 per hour</strong>, or roughly <strong>$500–$1200 per month</strong>, depending on how many tables and limits you play.</p>
+
+  Check out <a href="/en/deals/">PokerDealsHub’s rakeback offers</a> — real, verified deals that turn honest play into profitable play.</p>
+
+  <h2>🎯 Conclusion</h2>
+
+  <p>The RNG isn’t your enemy.
+  The real enemies are <strong>variance, selective memory, and unmitigated rake</strong>.
+  Numbers don’t lie: EV analysis shows randomness is fair.
+  And if you want fair poker to pay — explore the <a href="/en/deals/">best rakeback deals</a> and play in trusted unions like
+  <a href="/en/deals/nuts-primetime">Nuts PrimeTime</a>, <a href="/en/deals/eldorado">ElDorado</a>, or <a href="/en/deals/pppfish">PPPFish</a> —
+  proven partners with high traffic and transparent payouts.</p>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "The RNG Is Rigged, the Game Isn’t Fair: Let’s Find Out What’s Really Going On",
+    "description": "Why do players think the RNG is rigged? We break down variance, selective memory and rake pressure. See how 60% rakeback turns losses into profit. Includes links to the best PokerDealsHub rakeback offers and trusted unions.",
+    "author": {
+      "@type": "Organization",
+      "name": "PokerDealsHub",
+      "url": "https://pokerdealshub.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "PokerDealsHub",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://pokerdealshub.com/logo.png"
+      }
+    },
+    "datePublished": "2025-11-05",
+    "dateModified": "2025-11-05",
+    "inLanguage": "en"
+  }
+  </script>
+
+</article>
+</div> </div> </div>  </main> <footer class="w-full bg-neutral-900 border-t border-neutral-800 mt-12"> <div class="w-full py-12 px-4"> <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center gap-8"> <div> <a href="/en/" class="flex items-center hover:opacity-80 transition-opacity"> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-6 w-auto" width="822" height="168"> </a> <p class="text-neutral-400 text-sm mt-2">© PokerDealsHub 2025</p> </div> <div class="flex flex-col gap-4"> <div class="flex flex-wrap gap-6 text-sm"> <a href="/en/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Deals </a> <a href="/en/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Poker Guide </a> <a href="/en/about/" class="text-neutral-300 hover:text-gold transition-colors"> About </a> <a href="/en/add-deal/" class="text-neutral-300 hover:text-gold transition-colors"> Add Deal </a> </div> <div class="flex flex-wrap gap-6 text-sm"> <a href="/en/privacy/" class="text-neutral-300 hover:text-gold transition-colors"> Privacy Policy </a> <a href="/en/terms/" class="text-neutral-300 hover:text-gold transition-colors"> Terms of Use </a> </div> <div class="flex flex-wrap gap-4 text-xs text-neutral-400"> <span>18+</span> <span>•</span> <span>Play Responsibly</span> <span>•</span> <span>This site uses cookies</span> </div> <div class="flex gap-4"> <a href="https://t.me/pokerdealshub" class="text-neutral-400 hover:text-gold transition-colors" target="_blank" rel="noopener noreferrer" aria-label="Telegram"> <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"> <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"></path> </svg> </a> <a href="https://www.instagram.com/poker_deals_hub/" class="text-neutral-400 hover:text-gold transition-colors" target="_blank" rel="noopener noreferrer" aria-label="Instagram"> <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"> <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"></path> </svg> </a> <!--         <div class="text-neutral-500 cursor-not-allowed" title="X (Twitter)">
+            <a
+            href="https://www.instagram.com/poker_deals_hub/"
+            class="text-neutral-400 hover:text-gold transition-colors"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Twitter"
+            >
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+            </svg>
+          </a>
+          </div>  --> </div> </div> </div> </div> </footer> </body></html>

@@ -1,0 +1,212 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"><meta name="theme-color" content="#0a0a0a"><meta name="format-detection" content="telephone=no"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><!-- Favicons --><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="512x512" href="/android-chrome-512x512.png"><link rel="manifest" href="/site.webmanifest"><title>How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions — PokerDealsHub</title><meta name="description" content="Poker guide by PokerDealsHub How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions"><!-- Canonical --><link rel="canonical" href="https://pokerdealshub.com/en/guides/pppoker-start-guide/"><!-- Alternate language versions --><link rel="alternate" hreflang="ru" href="https://pokerdealshub.com/ru/guides/pppoker-start-guide/"><link rel="alternate" hreflang="en" href="https://pokerdealshub.com/en/guides/pppoker-start-guide/"><!-- x-default --><link rel="alternate" hreflang="x-default" href="https://pokerdealshub.com/"><!-- Open Graph / Twitter --><meta property="og:title" content="How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions — PokerDealsHub"><meta property="og:description" content="Poker guide by PokerDealsHub How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions"><meta property="og:url" content="https://pokerdealshub.com/en/guides/pppoker-start-guide/"><meta property="og:type" content="website"><meta property="og:image" content="https://pokerdealshub.com/hero_wide_screen_top.webp"><!-- Structured Data --><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions — PokerDealsHub","description":"Poker guide by PokerDealsHub How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions","url":"https://pokerdealshub.com/en/guides/pppoker-start-guide/","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"PokerDealsHub","url":"https://pokerdealshub.com/"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PokerDealsHub","url":"https://pokerdealshub.com/","logo":"https://pokerdealshub.com/PDH_logo_no_background.webp","sameAs":["https://t.me/pokerdealshub","https://www.instagram.com/poker_deals_hub/"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pokerdealshub.com/en/"},{"@type":"ListItem","position":2,"name":"Guides and Reviews","item":"https://pokerdealshub.com/en/guides/"},{"@type":"ListItem","position":3,"name":"How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions","item":"https://pokerdealshub.com/en/guides/pppoker-start-guide/"}]}</script><script>
+  window.addEventListener('load', () => {
+    const GA_ID = "G-EMKB3VKZY3";
+    const PIXEL_ID = "843668438232713";
+  
+    // Безопасная загрузка внешнего скрипта с тайм-аутом
+    async function safeLoad(src, timeout = 4000) {
+      return new Promise(resolve => {
+        const s = document.createElement('script');
+        s.src = src;
+        s.async = true;
+        s.onload = () => resolve(true);
+        s.onerror = () => resolve(false);
+        setTimeout(() => resolve(false), timeout);
+        document.head.appendChild(s);
+      });
+    }
+  
+    async function startAnalytics() {
+      if (window.__analyticsStarted) return;
+      window.__analyticsStarted = true;
+  
+      // === Google Analytics 4 ===
+      const gaLoaded = await safeLoad(`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`);
+      if (gaLoaded) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){window.dataLayer.push(arguments);}
+        window.gtag = gtag;
+        gtag('js', new Date());
+        gtag('config', GA_ID);
+        console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
+      } else {
+        console.warn('⚠️ GA4 не загрузился (возможно, блокировка)');
+      }
+  
+      // === Meta Pixel ===
+      const fbLoaded = await safeLoad('https://connect.facebook.net/en_US/fbevents.js');
+      if (fbLoaded) {
+        !(function(f,b,e,v,n,t,s){
+          if(f.fbq) return;
+          n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq) f._fbq=n;
+          n.push=n; n.loaded=!0; n.version='2.0';
+          n.queue=[]; t=b.createElement(e); t.async=!0;
+          t.src=v; s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s);
+        })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+  
+        fbq('init', PIXEL_ID);
+        fbq('track', 'PageView');
+        console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
+      } else {
+        console.warn('⚠️ Meta Pixel не загрузился (возможно, блокировка)');
+      }
+  
+      // === Лид-трекинг ===
+      document.addEventListener('click', (event) => {
+        const link = event.target.closest('a[href]');
+        if (!link) return;
+        const href = link.getAttribute('href') || '';
+        const isLead = href.includes('t.me') || href.includes('telegram.me') ||
+                       href.includes('wa.me') || href.includes('api.whatsapp.com');
+        if (isLead) {
+          try {
+            if (window.gtag) gtag('event', 'lead_click', { event_category: 'lead', event_label: href });
+            if (window.fbq) fbq('track', 'Lead', { content_name: href, event_source: 'auto' });
+            console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
+          } catch(err) {
+            console.warn('Ошибка отправки события', err);
+          }
+        }
+      });
+    }
+  
+    // Запускаем отложенно: либо по взаимодействию, либо через 3 секунды
+    const timer = setTimeout(startAnalytics, 3000);
+    ['scroll', 'click', 'keydown'].forEach(evt =>
+      window.addEventListener(evt, () => {
+        clearTimeout(timer);
+        startAnalytics();
+      }, { once: true })
+    );
+  });
+  </script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1"><img height="1" width="1" style="display:none" src="https://www.googletagmanager.com/ns.html?id=G-EMKB3VKZY3"></noscript><link rel="stylesheet" href="/_astro/about.C1_q2_Oy.css">
+<link rel="stylesheet" href="/_astro/about.DgGqZUwv.css"></head> <body class="bg-neutral-950 text-neutral-100 min-h-screen flex flex-col w-full overflow-x-hidden"> <header style="background-color:#0a0a0a;" class="fixed top-0 left-0 right-0 z-[1000] bg-neutral-900/80 backdrop-blur-md border-b border-neutral-800" data-astro-cid-3ef6ksr2> <nav class="container mx-auto px-4 py-4" data-astro-cid-3ef6ksr2> <div class="flex items-center justify-between" data-astro-cid-3ef6ksr2> <a href="/en/" class="flex items-center hover:opacity-80 transition-opacity" data-astro-cid-3ef6ksr2> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-8 md:h-10 w-auto block" width="196" height="40" data-astro-cid-3ef6ksr2> </a> <div class="flex items-center gap-4" data-astro-cid-3ef6ksr2> <div class="hidden lg:flex items-center gap-8" data-astro-cid-3ef6ksr2> <a href="/en/deals/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Deals </a> <a href="/en/guides/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Poker Guide </a> <a href="/en/about/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> About </a> <a href="/en/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all" data-astro-cid-3ef6ksr2> Add Deal </a> </div> <div class="inline-block bg-transparent"> <button id="lang-switcher-button" style="color:#fafafa;" class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors bg-transparent border-0 outline-none appearance-none" aria-label="Change language"> <span class="text-sm uppercase">en</span> <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path> </svg> </button> <div id="lang-switcher-menu" style="background-color:#1f1f1f; color:#fafafa;" class="hidden absolute mt-2 w-32 bg-neutral-800 border border-neutral-700 rounded-lg shadow-lg overflow-hidden z-[9999]"> <a href="/ru/guides/pppoker-start-guide/" class="block px-4 py-2 text-sm text-neutral-300 hover:bg-neutral-700 hover:text-gold transition-colors"> Русский </a><a href="/en/guides/pppoker-start-guide/" class="block px-4 py-2 text-sm bg-neutral-700 text-gold transition-colors"> English </a> </div> </div> <script type="module">const o=document.getElementById("lang-switcher-button"),t=document.getElementById("lang-switcher-menu");t&&!t.dataset.moved&&(document.body.appendChild(t),t.dataset.moved="true");o?.addEventListener("click",e=>{e.stopPropagation();const n=o.getBoundingClientRect(),s=t.offsetWidth||128;t.style.position="absolute",t.style.top=n.bottom+window.scrollY+"px",t.style.left=n.right-s+window.scrollX+"px",t.classList.toggle("hidden")});document.addEventListener("click",e=>{!e.target.closest("#lang-switcher-button")&&!e.target.closest("#lang-switcher-menu")&&t?.classList.add("hidden")});</script> <button id="mobile-menu-button" class="lg:hidden text-neutral-300 hover:text-gold" aria-label="Toggle menu" data-astro-cid-3ef6ksr2> <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" data-astro-cid-3ef6ksr2> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" data-astro-cid-3ef6ksr2></path> </svg> </button> </div> </div> <div id="mobile-menu" class="hidden lg:hidden mt-4 pb-4 border-t border-neutral-800 pt-4" data-astro-cid-3ef6ksr2> <div class="flex flex-col gap-4" data-astro-cid-3ef6ksr2> <a href="/en/deals/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Deals </a> <a href="/en/guides/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> Poker Guide </a> <a href="/en/about/" class="text-neutral-300 hover:text-gold underline-offset-2 hover:underline transition-colors" data-astro-cid-3ef6ksr2> About </a> <a href="/en/add-deal/" class="px-4 py-2 border border-gold text-gold rounded-xl hover:bg-gold hover:text-neutral-900 transition-all text-center" data-astro-cid-3ef6ksr2> Add Deal </a> </div> </div> </nav> </header>  <script type="module">const c=document.getElementById("mobile-menu-button"),n=document.getElementById("mobile-menu");c?.addEventListener("click",t=>{t.stopPropagation(),n?.classList.toggle("hidden")});document.addEventListener("click",t=>{const e=t.target;!e.closest("#lang-switcher-button")&&!e.closest("#lang-switcher-menu")&&n?.classList.add("hidden")});</script> <main class="flex-1 pt-12 w-full">  <div class="container mx-auto px-4 py-8 lg:pt-12 lg:pb-12"> <div class="max-w-3xl mx-auto"> <nav aria-label="Breadcrumb" class="mb-6"> <ol class="flex items-center flex-wrap gap-2 text-sm"> <li class="flex items-center">  <a href="/en/" class="text-gold hover:text-gold-light transition-colors"> Home </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <a href="/en/guides/" class="text-gold hover:text-gold-light transition-colors"> Guides and Reviews </a> </li><li class="flex items-center"> <svg class="w-4 h-4 text-neutral-600 mx-2" fill="currentColor" viewBox="0 0 20 20"> <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path> </svg> <span class="text-neutral-400 font-medium">How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions</span> </li> </ol> </nav> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pokerdealshub.com/en/"},{"@type":"ListItem","position":2,"name":"Guides and Reviews","item":"https://pokerdealshub.com/en/guides/"},{"@type":"ListItem","position":3,"name":"How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions","item":"https://pokerdealshub.com/en/guides/pppoker-start-guide/"}]}</script> <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6 lg:mb-8 leading-tight"> How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions </h1> <!-- Контент гайда --> <div class="text-neutral-300 text-base lg:text-lg leading-relaxed
+               [&_p]:mb-5 [&_h2]:text-2xl [&_h2]:lg:text-3xl [&_h2]:text-gold [&_h2]:font-semibold [&_h2]:mt-8 [&_h2]:mb-4
+               [&_h3]:text-xl [&_h3]:text-gold [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3
+               [&_ul]:list-disc [&_ul]:list-outside [&_ul]:pl-5 [&_ol]:list-decimal [&_ol]:pl-5 [&_li]:mb-2 [&_li::marker]:text-gold
+               [&_a]:text-gold [&_a:hover]:text-gold-light [&_a:hover]:underline [&_a]:transition-colors
+               [&_strong]:text-neutral-100 [&_strong]:font-semibold"><article>
+
+    <h1>How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions</h1>
+  
+    <p>PPPoker is one of the most popular platforms for online poker through a system of private clubs.  
+    Players enjoy high rakeback, soft fields, and multiple formats — from Hold’em to Omaha.</p>
+  
+    <h2>🚀 How to Start Playing on PPPoker</h2>
+  
+    <p>To get started:</p>
+    <ol>
+      <li><strong>Download the PPPoker app</strong>
+        <ul>
+          <li>from the <a href="https://www.pppoker.net/" target="_blank" rel="nofollow">official PPPoker website</a></li>
+          <li>or via App Store / Google Play</li>
+        </ul>
+      </li>
+      <li><strong>Contact an agent</strong> — get your club ID and deposit instructions</li>
+      <li><strong>Fund your balance</strong> and choose a suitable union.  
+      All financial operations are securely processed through trusted agents.</li>
+    </ol>
+  
+    <p>After registration, you can choose a club, limits, and game format.  
+    To receive rakeback, simply agree on the terms with an agent or partner who will offer a percentage based on your volume of play.</p>
+  
+    <p><em>Tip:</em> if you’re looking for reliable clubs and the best conditions, check out the <a href="/en/deals/pppoker">latest PPPoker deals</a>.</p>
+  
+    <h2>💰 Rake and Rakeback on PPPoker</h2>
+  
+    <p><strong>Rake</strong> is the commission that a club takes from each hand or tournament.  
+    On PPPoker, it is set individually and usually ranges from 3% to 5%.</p>
+  
+    <p>Through agents, players receive <strong>rakeback</strong> — a refund of part of the rake:</p>
+    <ul>
+      <li>Beginners — 40–50%</li>
+      <li>Regulars — up to 60%</li>
+      <li>Partners — up to 70% or higher</li>
+    </ul>
+  
+    <p>The higher your playing volume, the higher your rakeback percentage.  
+    Many clubs also offer additional bonuses, loyalty programs, and promotions for active players.</p>
+  
+    <h2>🔒 Security and Recommendations</h2>
+  
+    <p>PPPoker is a safe platform — provided you work with verified clubs and agents.</p>
+    <p>It’s recommended to carefully check the reputation of intermediaries, read reviews, and never share your personal information with third parties.  
+    Also note that the use of tracking software (HUD) varies from club to club.</p>
+    <p>For maximum security, choose clubs with transparent payouts and official representatives in your region.  
+    Well-known unions such as PPPFish, ElDorado, and Nuts PrimeTime have a strong reputation and cooperate with trusted agents.</p>
+  
+    <h2>🏆 Popular PPPoker Unions</h2>
+  
+    <h3>PPPFish Union</h3>
+    <ul>
+      <li>High limits, stable payouts</li>
+      <li>Best suited for experienced players</li>
+    </ul>
+    <p>See the <a href="/en/deals/pppfish">deals in PPPFish Union</a>.</p>
+  
+    <h3>ElDorado Union</h3>
+    <ul>
+      <li>Soft fields, a variety of Omaha formats</li>
+      <li>Optimal for cash game players and mid-stakes</li>
+    </ul>
+    <p>See the <a href="/en/deals/eldorado">deals in ElDorado Union</a>.</p>
+  
+    <h3>Nuts PrimeTime Union</h3>
+    <ul>
+      <li>One of the most recognized unions on PPPoker</li>
+      <li>High rakeback and transparent conditions</li>
+      <li>Many players from Europe and Asia, stable 24/7 traffic</li>
+    </ul>
+    <p>See the <a href="/en/deals/nuts-primetime">deals in Nuts PrimeTime Union</a>.</p>
+  
+    <h2>🎯 Conclusion</h2>
+  
+    <p>PPPoker is a flexible and modern alternative to traditional poker rooms.  
+    Thanks to its system of private clubs and unions, players gain access to soft fields, high rakeback, and a wide range of formats.</p>
+    <p>The PPPFish, ElDorado, and Nuts PrimeTime unions are rightfully considered leaders in the ecosystem:  
+    the first offers high limits and stable payouts, the second — soft games and wide format variety, and the third — high rakeback and constant traffic.</p>
+    <p>If you’re looking for reliable deals, high rakeback, and a chance to play with real players from all over the world — PPPoker is an excellent choice.  
+    Go to the <a href="/en/deals/pppoker">latest PPPoker deals</a> and choose the union that fits you best.</p>
+  
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "How to Start Playing on PPPoker: Registration, Rakeback, and Reliable Unions",
+      "description": "Learn how to start playing on PPPoker: download the app, choose a club and union, get rakeback, and play safely through verified agents. Discover more about PPPFish, ElDorado, Nuts PrimeTime, and the best deals on PokerDealsHub.",
+      "author": {
+        "@type": "Organization",
+        "name": "PokerDealsHub",
+        "url": "https://pokerdealshub.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PokerDealsHub",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://pokerdealshub.com/logo.png"
+        }
+      },
+      "datePublished": "2025-10-23",
+      "dateModified": "2025-10-23",
+      "inLanguage": "en"
+    }
+    </script>
+  
+  </article>
+  </div> </div> </div>  </main> <footer class="w-full bg-neutral-900 border-t border-neutral-800 mt-12"> <div class="w-full py-12 px-4"> <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center gap-8"> <div> <a href="/en/" class="flex items-center hover:opacity-80 transition-opacity"> <img src="/PDH_logo_no_background.webp" alt="PokerDealsHub" class="h-6 w-auto" width="822" height="168"> </a> <p class="text-neutral-400 text-sm mt-2">© PokerDealsHub 2025</p> </div> <div class="flex flex-col gap-4"> <div class="flex flex-wrap gap-6 text-sm"> <a href="/en/deals/" class="text-neutral-300 hover:text-gold transition-colors"> Deals </a> <a href="/en/guides/" class="text-neutral-300 hover:text-gold transition-colors"> Poker Guide </a> <a href="/en/about/" class="text-neutral-300 hover:text-gold transition-colors"> About </a> <a href="/en/add-deal/" class="text-neutral-300 hover:text-gold transition-colors"> Add Deal </a> </div> <div class="flex flex-wrap gap-6 text-sm"> <a href="/en/privacy/" class="text-neutral-300 hover:text-gold transition-colors"> Privacy Policy </a> <a href="/en/terms/" class="text-neutral-300 hover:text-gold transition-colors"> Terms of Use </a> </div> <div class="flex flex-wrap gap-4 text-xs text-neutral-400"> <span>18+</span> <span>•</span> <span>Play Responsibly</span> <span>•</span> <span>This site uses cookies</span> </div> <div class="flex gap-4"> <a href="https://t.me/pokerdealshub" class="text-neutral-400 hover:text-gold transition-colors" target="_blank" rel="noopener noreferrer" aria-label="Telegram"> <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"> <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"></path> </svg> </a> <a href="https://www.instagram.com/poker_deals_hub/" class="text-neutral-400 hover:text-gold transition-colors" target="_blank" rel="noopener noreferrer" aria-label="Instagram"> <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"> <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"></path> </svg> </a> <!--         <div class="text-neutral-500 cursor-not-allowed" title="X (Twitter)">
+            <a
+            href="https://www.instagram.com/poker_deals_hub/"
+            class="text-neutral-400 hover:text-gold transition-colors"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Twitter"
+            >
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+            </svg>
+          </a>
+          </div>  --> </div> </div> </div> </div> </footer> </body></html>
