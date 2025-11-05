@@ -1,70 +1,64 @@
 ---
-import BaseLayout from "../../../layouts/BaseLayout.astro";
-import FilterSidebar from "../../../components/FilterSidebar.astro";
-import DealsList from "../../../components/DealsList.astro";
-import filterContent from "../../../data/filterContent.json";
-import { dealsConfig } from "../../../config/dealsConfig.js";
+import DealCard from "../../../../components/DealCard.astro";
+import deals from "../../../../data/deals.json";
+import { dealsConfig } from "../../../../config/dealsConfig.js";
+import { filterDeals } from "../../../../utils/filterDeals.js";
 
-export function getStaticPaths() {
-  const totalPages = Math.ceil(dealsConfig.totalDeals / dealsConfig.perPage);
-  return Array.from({ length: totalPages }).map((_, i) => ({
-    params: { page: String(i + 1) },
-    props: { currentPage: i + 1 },
-  }));
+// 🔹 Генерация всех путей для пагинации
+export async function getStaticPaths() {
+  const filters = [
+    "pppoker", "clubgg", "xpoker", "pokerbros", "nutspoker", "coinpoker", "888poker",
+    "centralized", "decentralized",
+    "nuts-primetime", "massiv-union", "eldorado", "paradise", "blacksea", "pppfish", "rake2high",
+    "europe", "asia", "cis", "australia", "america", "latam",
+    "mtt", "nlh", "plo",
+  ];
+
+  const perPage = dealsConfig.perPage;
+  const paths = [];
+
+  for (const filter of filters) {
+    const filtered = filterDeals(deals, filter);
+    const totalPages = Math.ceil(filtered.length / perPage);
+
+    // ⚠️ пропускаем первую страницу — её рендерит index.astro
+    for (let i = 1; i < totalPages; i++) {
+      paths.push({
+        params: { filter, page: String(i) },
+      });
+    }
+  }
+
+  return paths;
 }
 
-const { currentPage = 1 } = Astro.props;
-const lang = "en";
-const content = filterContent.en.all;
+// 🔹 Основная логика страницы
+const { filter, page } = Astro.params;
+const currentPage = Number(page);
+const perPage = dealsConfig.perPage;
+
+const filtered = filterDeals(deals, filter);
+const sorted = [...filtered].sort(dealsConfig.sortDeals);
+
+// 🔹 Берем текущий срез
+const start = currentPage * perPage;
+const end = start + perPage;
+const slice = sorted.slice(start, end);
 ---
 
-<BaseLayout
-  title={`${content.title} — Page ${currentPage}`}
-  description={content.description}
-  ogImage="/hero_wide_screen_top.webp"
->
-  <div class="container mx-auto px-4 py-3 lg:pt-12 lg:pb-6">
-    <div class="flex flex-col lg:flex-row gap-6 lg:gap-8">
-      <FilterSidebar />
-
-      <div class="flex-1 min-w-0">
-        {currentPage === 1 && (
-          <div class="mb-6 lg:mb-8">
-            <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-3 lg:mb-4">
-              {content.h1}
-            </h1>
-            {content.intro && (
-              <div
-                class="text-neutral-300 text-base lg:text-lg leading-relaxed mt-4
-                       [&_a]:text-gold [&_a]:underline [&_a:hover]:text-gold-light [&_a:hover]:underline-offset-2
-                       [&_p]:mb-6 [&_ul]:mb-6 [&_li]:mb-2
-                       [&_h2]:text-xl [&_h2]:lg:text-2xl [&_h2]:font-bold [&_h2]:text-neutral-100 [&_h2]:mt-8 [&_h2]:mb-4
-                       [&_strong]:text-neutral-100"
-                set:html={content.intro}
-              ></div>
-            )}
-          </div>
-        )}
-
-        <DealsList
-          currentPage={currentPage - 1}
-          perPage={dealsConfig.perPage}
-          lang={lang}
-        />
-
-        {currentPage === 1 && (
-          <div class="bg-neutral-900 border border-neutral-800 rounded-xl px-6 pt-0 pb-6 lg:px-8 lg:pt-0 lg:pb-8 mt-8">
-            <div
-              class="text-neutral-300 text-base leading-relaxed
-                     [&_a]:text-gold [&_a]:underline [&_a:hover]:text-gold-light [&_a:hover]:underline-offset-2
-                     [&_p]:mb-6 [&_ul]:mb-6 [&_li]:mb-2
-                     [&_h2]:text-xl [&_h2]:lg:text-2xl [&_h2]:font-bold [&_h2]:text-neutral-100 [&_h2]:mt-8 [&_h2]:mb-4
-                     [&_strong]:text-neutral-100"
-              set:html={content.seoText}
-            ></div>
-          </div>
-        )}
-      </div>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{filter} Deals — Page {currentPage + 1}</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="stylesheet" href="/_astro/index.css" />
+  </head>
+  <body class="bg-neutral-950 text-neutral-100 font-sans p-4">
+    <div id="deals-list" class="flex flex-col gap-4">
+      {slice.map((deal) => (
+        <DealCard deal={deal} />
+      ))}
     </div>
-  </div>
-</BaseLayout>
+  </body>
+</html>

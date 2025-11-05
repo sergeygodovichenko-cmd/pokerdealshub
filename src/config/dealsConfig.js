@@ -1,7 +1,7 @@
 // src/config/dealsConfig.js
 
 export const dealsConfig = {
-    perPage: 2,
+    perPage: 10,
     defaultPage: 0,
   
     sortDeals: (a, b) => {

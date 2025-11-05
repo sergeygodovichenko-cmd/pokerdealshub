@@ -7,6 +7,7 @@ interface Props {
   currentPage?: number;
   perPage?: number;
   lang: string;
+  filter?: string;
   dealsOverride?: any[];
 }
 
@@ -14,9 +15,11 @@ const {
   currentPage = dealsConfig.defaultPage ?? 0,
   perPage = dealsConfig.perPage ?? 8,
   lang = "ru",
+  filter = "",
   dealsOverride,
 } = Astro.props;
 
+// 🔹 Берём переданные сделки (отфильтрованные и отсортированные)
 const sorted = dealsOverride
   ? dealsOverride
   : [...deals].sort(dealsConfig.sortDeals);
@@ -25,14 +28,6 @@ const totalPages = Math.ceil(sorted.length / perPage);
 const start = currentPage * perPage;
 const end = start + perPage;
 const pageSlice = sorted.slice(start, end);
-
-// локализация кнопки и текста загрузки
-const texts = {
-  ru: { more: "Показать ещё", loading: "Загрузка..." },
-  en: { more: "Show more", loading: "Loading..." },
-  es: { more: "Mostrar más", loading: "Cargando..." },
-};
-const t = texts[lang] || texts["en"];
 ---
 
 <div id="deals-section">
@@ -52,14 +47,15 @@ const t = texts[lang] || texts["en"];
         data-current-page={currentPage}
         data-total-pages={totalPages}
         data-lang={lang}
+        data-filter={filter}
       >
-        {t.more}
+        Показать ещё
       </button>
     </div>
   )}
 
   <div id="deals-loader" class="flex justify-center py-4" style="display:none">
-    <span class="animate-pulse text-neutral-400">{t.loading}</span>
+    <span class="animate-pulse text-neutral-400">Загрузка...</span>
   </div>
 </div>
 
@@ -77,6 +73,7 @@ const t = texts[lang] || texts["en"];
     let currentPage = Number(btn.dataset.currentPage ?? 0);
     const totalPages = Number(btn.dataset.totalPages ?? 1);
     const lang = btn.dataset.lang || "ru";
+    const filter = btn.dataset.filter || "";
     let isLoading = false;
 
     async function loadNextPage() {
@@ -85,7 +82,11 @@ const t = texts[lang] || texts["en"];
       loader.style.display = "flex";
 
       const nextPage = currentPage + 1;
-      const nextUrl = `/${lang}/deals/page-${nextPage}/`;
+      // ✅ теперь учитываем фильтр в URL
+      const nextUrl = filter
+  ? `/${lang}/deals/${filter}/page-${nextPage}`
+  : `/${lang}/deals/page-${nextPage}`;
+
 
       try {
         const res = await fetch(nextUrl);

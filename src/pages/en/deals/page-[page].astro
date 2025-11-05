@@ -3,14 +3,16 @@ import DealCard from "../../../components/DealCard.astro";
 import deals from "../../../data/deals.json";
 import { dealsConfig } from "../../../config/dealsConfig.js";
 
+// 🔹 Генерация путей
 export async function getStaticPaths() {
   const perPage = dealsConfig.perPage;
   const totalPages = Math.ceil(deals.length / perPage);
-  return Array.from({ length: totalPages - 1 }, (_, i) => ({
+  return Array.from({ length: Math.max(totalPages - 1, 0) }, (_, i) => ({
     params: { page: String(i + 1) },
   }));
 }
 
+// 🔹 Основная логика страницы
 const { page } = Astro.params;
 const currentPage = Number(page);
 const perPage = dealsConfig.perPage;
@@ -21,23 +23,15 @@ const slice = sorted.slice(start, end);
 ---
 
 <!doctype html>
-<html lang="ru">
+<html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <title>Сделки — страница {currentPage + 1}</title>
+    <meta charset="utf-8" />
+    <title>Deals Page {currentPage + 1}</title>
     <meta name="robots" content="noindex, follow" />
-    <link rel="stylesheet" href="/_astro/index.css" /> <!-- твой главный CSS -->
-    <style>
-      body {
-        background: #0a0a0a;
-        color: #fafafa;
-        font-family: Inter, sans-serif;
-        margin: 0;
-        padding: 1rem;
-      }
-    </style>
+    <link rel="stylesheet" href="/_astro/index.css" />
   </head>
-  <body>
+  <body class="bg-neutral-950 text-neutral-100 font-sans p-4">
+    <!-- ⚙️ Контент, который подхватывает DealsList -->
     {slice.map((deal) => (
       <DealCard deal={deal} />
     ))}

@@ -16,10 +16,10 @@ const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
 
-//  ✅ correction here 
-const deal = dealsData.find(d => d.slug === 'nuts-primetime-pppoker');
+//  ✅ correction here
+const deal = dealsData.find(d => d.slug === 'flamingoo-clubgg');
 if (!deal) {
-  throw new Error('Deal not found: nuts-primetime-pppoker');
+  throw new Error('Deal not found: flamingoo-clubgg');
 }
 
 // Tooltip для PDH club из helpers
@@ -34,10 +34,10 @@ const breadcrumbs = [
 
 
 const renderStars = (rating) => '★'.repeat(rating) + '☆'.repeat(5 - rating);
-const introT ='Информация о клубе Illuminator на PPPoker'
-//  ✅ correction here 
-const title = `Покерная сделка в союзе NUTS PrimeTime на PPPoker — PokerDealsHub`;
-const description = `Сделка от PDH с рейкбэком до ${deal.rakeback} в популярном союзе NUTS PrimeTime. Большой выбор дисциплин и лимитов, игра идет 24/7.`;
+const introT ='Информация о ClubGG союзе Flamingoo'
+//  ✅ correction here
+const title = `Покерная сделка с рейкбэком в союзе Flamingoo на ClubGG — PokerDealsHub`;
+const description = `Сделка от PDH в союзе Flamingoo на ClubGG. Мягкие поля, рейкбэк до ${deal.rakeback} и активная игра круглосуточно во всех форматах.`;
 
 ---
 
@@ -54,7 +54,7 @@ const description = `Сделка от PDH с рейкбэком до ${deal.rak
       <Breadcrumbs items={breadcrumbs} />
 
       <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6">
-        Покерная сделка в союзе NUTS PrimeTime на PPPoker <!-- ✅ correction here -->
+        Покерная сделка в союзе Flamingoo на ClubGG <!-- ✅ correction here -->
       </h1>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8">
@@ -103,7 +103,7 @@ const description = `Сделка от PDH с рейкбэком до ${deal.rak
             <img src={deal.logoimage} alt={deal.logoalt} class="w-48 h-auto object-contain rounded-xl" />
           </div>
           <div class="flex-1">
-            <h2 class="text-2xl font-bold text-neutral-100 mb-4"> {introT}</h2>  
+            <h2 class="text-2xl font-bold text-neutral-100 mb-4"> {introT}</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm lg:text-base">
               <div>
                 <span class="text-neutral-400">{labl[lang].club}</span>
@@ -118,7 +118,7 @@ const description = `Сделка от PDH с рейкбэком до ${deal.rak
                 <span class="text-neutral-100 ml-2 font-medium">{typeof deal.geo === 'string' ? deal.geo : deal.geo[lang]}</span>
               </div>
               <div>
-                <span class="text-neutral-400">{labl[lang].platform}</span> 
+                <span class="text-neutral-400">{labl[lang].platform}</span>
                 <span class="text-neutral-100 ml-2 font-medium">{deal.app}</span>
               </div>
               {deal.bonus && deal.bonus[lang] && (
@@ -139,7 +139,7 @@ const description = `Сделка от PDH с рейкбэком до ${deal.rak
         </div>
 
         <div class="lg:hidden mb-6">
-          <h2 class="text-xl font-bold text-neutral-100 mb-3">{introT}</h2> 
+          <h2 class="text-xl font-bold text-neutral-100 mb-3">{introT}</h2>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
             <div>
               <span class="text-neutral-400">{labl[lang].club}</span>
@@ -233,21 +233,15 @@ const description = `Сделка от PDH с рейкбэком до ${deal.rak
           <div>
             <h3 class="text-xl font-bold text-neutral-100 mb-3">Описание</h3> <!-- ✅ correction here -->
             <p class="text-neutral-300 leading-relaxed">
-              Покерная сделка в клубе Illuminator, который состоит в известном союзе NUTS PrimeTime. Клуб под управлением PokerDealsHub, что гарантирует вашу безопасность и клиентский сервис высшего уровня 24/7.
-            </p>
+              Покерная сделка в клубе Monkeys Paradise, который состоит в международном союзе Flamingoo на ClubGG — оффициальном приложении от GGPoker. Помимо надёжной платформы клуб предлагает отличную площадку для рекреационных игроков.            </p>
           </div>
 
-          <div>
-            <h3 class="text-xl font-bold text-neutral-100 mb-3">О союзе</h3> <!-- ✅ correction here -->
-            <p class="text-neutral-300 leading-relaxed">
-              Nuts PrimeTime — одно из крупнейших объединений покерных игроков со всего мира, включая США, Канаду, Австралию и страны СНГ. Союз был основан в 2018 году и славится чистой репутацией.
-            </p>
-            <p class="text-neutral-300 leading-relaxed"> <!-- ✅ correction here -->
-              Доступные дисциплины: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck(6+). В любое время суток можно найти игру на всех лимитах.
-            </p>
-          </div>
+          <div> <h3 class="text-xl font-bold text-neutral-100 mb-3">О союзе</h3> <p class="text-neutral-300 leading-relaxed mb-4">
+Flamingoo — один из ведущих союзов на платформах ClubGG и PokerBros, специализирующийся на американском рынке. Союз был основан в 2020 году и зарекомендовал себя как надёжный партнёр для игроков всех уровней.
+</p> <p class="text-neutral-300 leading-relaxed">
+  Доступные дисциплины: NLH, PLO4/5/6, MTT. Активная игра идёт круглосуточно.</p> </div>
 
-         
+
 <style>
 ul.custom-bullets {
   list-style: none;
@@ -334,17 +328,18 @@ ul.custom-bullets li::before {
           </div>
         </div>
       </div>
+      <div class="container mx-auto px-4 py-6">
+        <RelatedDeals
+          currentDealSlug={deal?.slug || ''}
+          currentApp={deal?.app}
+          currentGeo={deal?.geo}
+          currentBadges={deal?.badges}
+        />
+      </div>
     </div>
   </div>
 
-  <div class="container mx-auto px-4 py-6">
-    <RelatedDeals
-      currentDealSlug={deal?.slug || ''}
-      currentApp={deal?.app}
-      currentGeo={deal?.geo}
-      currentBadges={deal?.badges}
-    />
-  </div>
+
 
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',

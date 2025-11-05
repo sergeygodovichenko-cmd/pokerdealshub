@@ -2,7 +2,6 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import RelatedDeals from '../../../components/RelatedDeals.astro';
-import { useTranslations } from '../../../i18n/utils';
 import dealsData from '../../../data/deals.json';
 import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
 import { badgeLabels, tooltips } from '../../../utils/dealHelpers';
@@ -10,21 +9,18 @@ import { labl } from '../../../utils/dealHelpers';
 
 
 
-
-
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
 
-//  ✅ correction here
-const deal = dealsData.find(d => d.slug === 'paradise-clubgg');
+//  ✅ correction here 
+const deal = dealsData.find(d => d.slug === 'coinpoker');
 if (!deal) {
-  throw new Error('Deal not found: paradise-clubgg');
+  throw new Error('Deal not found: coinpoker');
 }
 
 // Tooltip для PDH club из helpers
 const pdhTooltip = tooltips.ru.featured;
-
 
 const breadcrumbs = [
   // { name: t('breadcrumb.home'), url: `/${lang}/deals/` },
@@ -34,10 +30,10 @@ const breadcrumbs = [
 
 
 const renderStars = (rating) => '★'.repeat(rating) + '☆'.repeat(5 - rating);
-const introT ='Информация о ClubGG союзе Paradise'
-//  ✅ correction here
-const title = `Покерная сделка с рейкбэком в союзе Paradise на ClubGG — PokerDealsHub`;
-const description = `Сделка от PDH в союзе Paradise на ClubGG. Мягкие поля, рейкбэк до ${deal.rakeback} и активная игра круглосуточно во всех форматах.`;
+const introT ='About CoinPoker poker room'
+//  ✅ correction here 
+const title = `Play at CoinPoker — enjoy rakeback and a welcome bonus with PokerDealsHub`;
+const description = `Get the best conditions at CoinPoker by registering through a PDH deal. Rakeback ${deal.rakeback} and a sign-up bonus included.`;
 
 ---
 
@@ -47,14 +43,13 @@ const description = `Сделка от PDH в союзе Paradise на ClubGG. �
   description={description}
   breadcrumbs={breadcrumbs}
 
-
 >
   <div class="container mx-auto px-4 py-8 lg:py-12">
     <div class="max-w-5xl mx-auto">
       <Breadcrumbs items={breadcrumbs} />
 
       <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6">
-        Покерная сделка в союзе Paradise на ClubGG <!-- ✅ correction here -->
+        Rakeback poker deal on CoinPoker <!-- ✅ correction here -->
       </h1>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8">
@@ -100,10 +95,10 @@ const description = `Сделка от PDH в союзе Paradise на ClubGG. �
 
         <div class="hidden lg:flex lg:flex-row lg:items-start gap-6 mb-6">
           <div class="flex-shrink-0">
-            <img src={deal.logoimage} alt={deal.logoalt} class="w-48 h-auto object-contain rounded-xl" />
+            <img src={deal.logoimage} alt={deal.logo} class="w-48 h-auto object-contain rounded-xl" />
           </div>
           <div class="flex-1">
-            <h2 class="text-2xl font-bold text-neutral-100 mb-4"> {introT}</h2>
+            <h2 class="text-2xl font-bold text-neutral-100 mb-4"> {introT}</h2>  
             <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm lg:text-base">
               <div>
                 <span class="text-neutral-400">{labl[lang].club}</span>
@@ -118,21 +113,29 @@ const description = `Сделка от PDH в союзе Paradise на ClubGG. �
                 <span class="text-neutral-100 ml-2 font-medium">{typeof deal.geo === 'string' ? deal.geo : deal.geo[lang]}</span>
               </div>
               <div>
-                <span class="text-neutral-400">{labl[lang].platform}</span>
+                <span class="text-neutral-400">{labl[lang].platform}</span> 
                 <span class="text-neutral-100 ml-2 font-medium">{deal.app}</span>
               </div>
+              {deal.bonus && deal.bonus[lang] && (
+                <div>
+                  <span class="text-neutral-400">{labl[lang].bonusL}</span>
+                  <span class="text-gold ml-2 font-medium">{deal.bonus[lang]}</span>
+                </div>
+              )}
+
               <div>
                 <span class="inline-block px-2 py-1 rounded-lg font-semibold text-green-300 border border-green-400/60 bg-green-950/40 shadow-[0_0_10px_rgba(0,255,0,0.15)]">
   {labl[lang].upTo} {deal.rakeback}
 </span>
               </div>
+        
 
             </div>
           </div>
         </div>
 
         <div class="lg:hidden mb-6">
-          <h2 class="text-xl font-bold text-neutral-100 mb-3">{introT}</h2>
+          <h2 class="text-xl font-bold text-neutral-100 mb-3">{introT}</h2> 
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
             <div>
               <span class="text-neutral-400">{labl[lang].club}</span>
@@ -150,6 +153,16 @@ const description = `Сделка от PDH в союзе Paradise на ClubGG. �
               <span class="text-neutral-400">{labl[lang].platform}</span>
               <span class="text-neutral-100 ml-2 font-medium">{deal.app}</span>
             </div>
+
+
+            {deal.bonus && deal.bonus[lang] && (
+              <div>
+                <span class="text-neutral-400">{labl[lang].bonusL}</span>
+                <span class="text-gold ml-2 font-medium">{deal.bonus[lang]}</span>
+              </div>
+            )}
+                          
+
                           <div>
                           
                 <span class="inline-block px-2 py-1 rounded-lg font-semibold text-green-300 border border-green-400/60 bg-green-950/40 shadow-[0_0_10px_rgba(0,255,0,0.15)]">
@@ -217,17 +230,18 @@ const description = `Сделка от PDH в союзе Paradise на ClubGG. �
 
         <div class="prose prose-invert max-w-none mb-8 space-y-6">
           <div>
-            <h3 class="text-xl font-bold text-neutral-100 mb-3">Описание</h3> <!-- ✅ correction here -->
-            <p class="text-neutral-300 leading-relaxed">
-              Покерная сделка в клубе Monkeys Paradise, который состоит в престижном союзе Paradise на ClubGG — оффициальном приложении от GGPoker. Помимо надёжной платформы клуб предлагает круглосуточный трафик и высокоий рейкбэк.
+            <h3 class="text-xl font-bold text-neutral-100 mb-3">About CoinPoker</h3> <!-- ✅ correction here -->
+            <p class="text-neutral-300 leading-relaxed mb-4">
+              CoinPoker is the first truly successful crypto poker room, bridging the worlds of poker and blockchain. All transactions are carried out in USDT, while the CHP token is used for rakeback, bonuses, and in-game promotions. The platform operates independently of banks and intermediaries, ensuring instant deposits and withdrawals via crypto wallets.
             </p>
+            <p class="text-neutral-300 leading-relaxed mb-4">
+              The key feature of CoinPoker is its decentralized random number generator (RNG), created with the participation of players and impossible to manipulate. This allows every hand to be verified, making the fairness of the game independent of the operator. CoinPoker has become a benchmark for transparency and trust among crypto poker projects.
+            </p>
+            
+
           </div>
 
-          <div> <h3 class="text-xl font-bold text-neutral-100 mb-3">О союзе</h3> <p class="text-neutral-300 leading-relaxed mb-4">
-Paradise — один из ведущих союзов на платформах ClubGG и PokerBros, специализирующийся на американском рынке. Союз был основан в 2020 году и зарекомендовал себя как надёжный партнёр для игроков всех уровней.
-</p> <p class="text-neutral-300 leading-relaxed">
-Доступные дисциплины: NLH, PLO4/5/6, MTT а также модификатор Bomb Pot. Активная игра идёт круглосуточно на всех лимитах с большим количеством рекреационных игроков из США.
-</p> </div>
+
 
 
 <style>
@@ -257,17 +271,33 @@ ul.custom-bullets li::before {
 </style>
 
 <div>
-            <h3 class="text-xl font-bold text-neutral-100 mb-3">О сделке</h3> <!-- ✅ correction here -->
+            <h3 class="text-xl font-bold text-neutral-100 mb-3">Our offer</h3> <!-- ✅ correction here -->
             <p class="text-neutral-300 leading-relaxed mb-2">
-              Игрокам предоставляется на выбор:
-            </p>                                    <!-- ✅ correction here -->
+              By registering through our link, you get:
+            </p>
             <ul class="custom-bullets">
-              <li><strong class="text-gold">Динамический рейкбэк до {deal.rakeback}</strong> Рейкбэк зависит от недельного объема рейка. </li>
-              <li><strong class="text-gold">Фиксированный рейкбэк {deal.fixrb}</strong> Получите возможность начать игру с преимуществом сразу после регистрации. В последствии можно перейти на динамический. </li>
+              <li><strong class="text-gold">Fixed rakeback {deal.fixrb}</strong> — Start playing with an advantage right after registration. You can later switch to a dynamic system.</li>
+              <li><strong class="text-green-400">Bonus {deal.bonus[lang]}</strong> — A welcome bonus of up to $2000.</li>
             </ul>
+            
+            <p class="text-neutral-300 leading-relaxed mb-2">
+              Register on CoinPoker 
+              <a href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/" 
+                 rel="nofollow noopener noreferrer" 
+                 target="_blank" 
+                 class="text-gold hover:text-gold-light underline underline-offset-2">
+                 through this link
+              </a> 
+              to take advantage of all the bonuses and benefits!
+            </p>
+            
 
           </div>
-            <div class="flex items-start gap-3 mb-4 text-neutral-300 leading-relaxed">
+            
+          
+          
+          
+          <div class="flex items-start gap-3 mb-4 mt-8 text-neutral-300 leading-relaxed">
  <div class="flex items-center gap-3 mb-4 text-neutral-300 leading-relaxed">
   <img
     src="/pdh_verif.webp"
@@ -288,7 +318,7 @@ ul.custom-bullets li::before {
 
           <div id="contactSection" class="bg-gold/10 border border-gold/30 rounded-xl p-6 text-center">
             <h3 class="text-2xl font-bold text-gold mb-3">{labl[lang].readyJoin}</h3>
-            <p class="text-neutral-300 mb-6">{labl[lang].weAreHere} <br>{labl[lang].weAreHere2}</p>
+            <p class="text-neutral-300 mb-6">{labl[lang].weAreHereNoKyc} <br>{labl[lang].weAreHere2}</p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
               <a
                 href="https://t.me/pokerdealshub"
@@ -323,7 +353,7 @@ ul.custom-bullets li::before {
           currentGeo={deal?.geo}
           currentBadges={deal?.badges}
         />
-      </div>
+      </div>  
     </div>
   </div>
 

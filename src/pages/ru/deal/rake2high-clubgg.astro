@@ -2,13 +2,10 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import RelatedDeals from '../../../components/RelatedDeals.astro';
-import { useTranslations } from '../../../i18n/utils';
 import dealsData from '../../../data/deals.json';
 import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
 import { badgeLabels, tooltips } from '../../../utils/dealHelpers';
 import { labl } from '../../../utils/dealHelpers';
-
-
 
 
 
@@ -17,14 +14,13 @@ const t = useTranslations(lang);
 
 
 //  ✅ correction here 
-const deal = dealsData.find(d => d.slug === 'nuts-primetime-pppoker');
+const deal = dealsData.find(d => d.slug === 'rake2high-clubgg');
 if (!deal) {
-  throw new Error('Deal not found: nuts-primetime-pppoker');
+  throw new Error('Deal not found: rake2high-clubgg');
 }
 
 // Tooltip для PDH club из helpers
 const pdhTooltip = tooltips.ru.featured;
-
 
 const breadcrumbs = [
   // { name: t('breadcrumb.home'), url: `/${lang}/deals/` },
@@ -34,10 +30,11 @@ const breadcrumbs = [
 
 
 const renderStars = (rating) => '★'.repeat(rating) + '☆'.repeat(5 - rating);
-const introT ='Информация о клубе Illuminator на PPPoker'
+const introT ='Инофрмация о союзе Rake2High'
 //  ✅ correction here 
-const title = `Покерная сделка в союзе NUTS PrimeTime на PPPoker — PokerDealsHub`;
-const description = `Сделка от PDH с рейкбэком до ${deal.rakeback} в популярном союзе NUTS PrimeTime. Большой выбор дисциплин и лимитов, игра идет 24/7.`;
+
+const title = `Покерная рейкбэк сделка в союзе Rake2High на ClubGG — PokerDealsHub`;
+const description = `Сделка в азиатском союзе Rake2High на ClubGG. Много слабых игроков из Тайваня и других стран Азии. Рейкбэк до ${deal.rakeback}.`;
 
 ---
 
@@ -47,14 +44,13 @@ const description = `Сделка от PDH с рейкбэком до ${deal.rak
   description={description}
   breadcrumbs={breadcrumbs}
 
-
 >
   <div class="container mx-auto px-4 py-8 lg:py-12">
     <div class="max-w-5xl mx-auto">
       <Breadcrumbs items={breadcrumbs} />
 
       <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6">
-        Покерная сделка в союзе NUTS PrimeTime на PPPoker <!-- ✅ correction here -->
+        Рейкбэк покер сделка в союзе Rake2High на ClubGG <!-- ✅ correction here -->
       </h1>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 lg:p-8 mb-8">
@@ -100,7 +96,7 @@ const description = `Сделка от PDH с рейкбэком до ${deal.rak
 
         <div class="hidden lg:flex lg:flex-row lg:items-start gap-6 mb-6">
           <div class="flex-shrink-0">
-            <img src={deal.logoimage} alt={deal.logoalt} class="w-48 h-auto object-contain rounded-xl" />
+            <img src={deal.logoimage} alt={deal.logo} class="w-48 h-auto object-contain rounded-xl" />
           </div>
           <div class="flex-1">
             <h2 class="text-2xl font-bold text-neutral-100 mb-4"> {introT}</h2>  
@@ -233,21 +229,20 @@ const description = `Сделка от PDH с рейкбэком до ${deal.rak
           <div>
             <h3 class="text-xl font-bold text-neutral-100 mb-3">Описание</h3> <!-- ✅ correction here -->
             <p class="text-neutral-300 leading-relaxed">
-              Покерная сделка в клубе Illuminator, который состоит в известном союзе NUTS PrimeTime. Клуб под управлением PokerDealsHub, что гарантирует вашу безопасность и клиентский сервис высшего уровня 24/7.
+              Покерная сделка в клубе Rake2Win, который состоит в Тайваньском союзе Rake2High на ClubGG. В клубе играют в основном низкие лимиты.
+
             </p>
           </div>
 
           <div>
             <h3 class="text-xl font-bold text-neutral-100 mb-3">О союзе</h3> <!-- ✅ correction here -->
-            <p class="text-neutral-300 leading-relaxed">
-              Nuts PrimeTime — одно из крупнейших объединений покерных игроков со всего мира, включая США, Канаду, Австралию и страны СНГ. Союз был основан в 2018 году и славится чистой репутацией.
-            </p>
-            <p class="text-neutral-300 leading-relaxed"> <!-- ✅ correction here -->
-              Доступные дисциплины: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck(6+). В любое время суток можно найти игру на всех лимитах.
-            </p>
-          </div>
+            <p class="text-neutral-300 leading-relaxed mb-4">
+              Rake2High — один из самых динамичных тайваньских союзов на платформе ClubGG, объединяющий множество клубов из Азии. Союз ориентирован на рекреационных игроков и предлагает активное поле с постоянным экшеном на низких и средних лимитах. 
+            </p> 
 
-         
+</div>
+
+
 <style>
 ul.custom-bullets {
   list-style: none;
@@ -285,7 +280,11 @@ ul.custom-bullets li::before {
             </ul>
 
           </div>
-            <div class="flex items-start gap-3 mb-4 mt-8 text-neutral-300 leading-relaxed">
+            
+          
+          
+          
+          <div class="flex items-start gap-3 mb-4 mt-8 text-neutral-300 leading-relaxed">
  <div class="flex items-center gap-3 mb-4 text-neutral-300 leading-relaxed">
   <img
     src="/pdh_verif.webp"
@@ -334,17 +333,18 @@ ul.custom-bullets li::before {
           </div>
         </div>
       </div>
+      <div class="container mx-auto px-4 py-6">
+        <RelatedDeals
+          currentDealSlug={deal?.slug || ''}
+          currentApp={deal?.app}
+          currentGeo={deal?.geo}
+          currentBadges={deal?.badges}
+        />
+      </div>  
     </div>
   </div>
 
-  <div class="container mx-auto px-4 py-6">
-    <RelatedDeals
-      currentDealSlug={deal?.slug || ''}
-      currentApp={deal?.app}
-      currentGeo={deal?.geo}
-      currentBadges={deal?.badges}
-    />
-  </div>
+
 
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',

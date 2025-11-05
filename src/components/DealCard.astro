@@ -47,7 +47,7 @@ const uniqueId = `badge-${deal.slug}-${Math.random().toString(36).substr(2, 9)}`
                 {badgeText}
               </span>
             );
-          }
+          } 
 
           return (
             <span class="px-2 py-1.5 text-xs font-medium bg-neutral-800/80 text-neutral-200 rounded-lg border border-neutral-700/50 flex items-center gap-1.5 whitespace-nowrap">
@@ -94,6 +94,14 @@ const uniqueId = `badge-${deal.slug}-${Math.random().toString(36).substr(2, 9)}`
             {labl[lang].upTo} {deal.rakeback}
           </span>
         </div>
+
+        {deal.bonus && deal.bonus[lang] && (
+          <div>
+            <span class="text-neutral-400">{labl[lang].bonusL}</span>
+            <span class="text-gold ml-2 font-medium">{deal.bonus[lang]}</span>
+          </div>
+        )}
+        
       </div>
 
       <p class="text-neutral-300 text-sm lg:text-base mb-4 flex-1">
