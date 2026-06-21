@@ -1,0 +1,9 @@
+# Netlify build config — builds the Astro source and publishes the static output.
+# This file overrides the dashboard "Build settings" (which were unset, serving the repo root as-is).
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
