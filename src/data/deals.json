@@ -4,12 +4,14 @@
     "name": {
       "ru": "Сделка в NUTS POKER с рейкбэком от PHD",
       "en": "NUTS POKER Deal with Rakeback from PHD",
-      "es": "Oferta en NUTS POKER con Rakeback de PHD"
+      "es": "Oferta en NUTS POKER con Rakeback de PHD",
+      "uz": "NUTS POKER bitimi — PDHdan rakebek"
     },
     "description": {
       "ru": "Сделка в покерном приложении NUTS POKER с централизованной кассой и автоматическим процессингом ввода/вывода средств. Много рекреационных игроков из Азии.",
       "en": "Deal on NUTS POKER app with centralized cashier and automatic deposit/withdrawal processing. Many recreational players from Asia.",
-      "es": "Oferta en la aplicación NUTS POKER con caja centralizada y procesamiento automático de depósitos/retiros. Muchos jugadores recreativos de Asia."
+      "es": "Oferta en la aplicación NUTS POKER con caja centralizada y procesamiento automático de depósitos/retiros. Muchos jugadores recreativos de Asia.",
+      "uz": "Nuts Poker ilovasida markazlashgan kassa va avtomatik depozit/yechib olish. Osiyodan ko'plab rekreatsion o'yinchilar."
     },
     "club": "PDH Nuts Poker",
     "app": "Nuts poker",
@@ -19,7 +21,8 @@
     "geo": {
       "ru": "Азия, СНГ",
       "en": "Asia, CIS",
-      "es": "Asia, CEI"
+      "es": "Asia, CEI",
+      "uz": "Osiyo, MDH"
     },
     "format": "PLO",
     "type": "Centralized",
@@ -28,12 +31,18 @@
     "bonus": {
       "ru": "до $1000 на 1й депозит",
       "en": "up to $1000 on 1st deposit",
-      "es": "hasta $1000 en el 1er depósito"
+      "es": "hasta $1000 en el 1er depósito",
+      "uz": "1-depozitga 1000 $ gacha"
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "nuts_poker_logo",
     "featured": true,
-    "badges": ["topDeal", "centralized", "soft", "verified"],
+    "badges": [
+      "topDeal",
+      "centralized",
+      "soft",
+      "verified"
+    ],
     "ratings": {
       "mtt": 4,
       "cash": 4,
@@ -42,20 +51,19 @@
     },
     "order": 1
   },
-
-
-  
   {
     "slug": "nuts-primetime-pppoker",
     "name": {
       "ru": "Сделка в союзе NUTS PrimeTime на PPPoker",
       "en": "NUTS PrimeTime Union Deal on PPPoker",
-      "es": "Oferta de la Unión NUTS PrimeTime en PPPoker"
+      "es": "Oferta de la Unión NUTS PrimeTime en PPPoker",
+      "uz": "Nuts PrimeTime ittifoqi bitimi — PPPoker"
     },
     "description": {
       "ru": "Сделка от PDH с отличным рейкбэком в популярном союзе NUTS PrimeTime. Большой выбор дисциплин и лимитов, игра идет 24/7.",
       "en": "PDH deal with excellent rakeback in the popular NUTS PrimeTime union. Wide selection of disciplines and limits, games 24/7.",
-      "es": "Oferta de PDH con excelente rakeback en la popular unión NUTS PrimeTime. Amplia selección de disciplinas y límites, juegos 24/7."
+      "es": "Oferta de PDH con excelente rakeback en la popular unión NUTS PrimeTime. Amplia selección de disciplinas y límites, juegos 24/7.",
+      "uz": "Mashhur Nuts PrimeTime ittifoqida PDHdan a'lo rakebek. Fan va limitlar keng, o'yinlar 24/7."
     },
     "club": "Illuminator",
     "app": "PPPoker",
@@ -65,7 +73,8 @@
     "geo": {
       "ru": "США, СНГ",
       "en": "USA, CIS",
-      "es": "EE.UU., CEI"
+      "es": "EE.UU., CEI",
+      "uz": "AQSh, MDH"
     },
     "format": "MTT",
     "type": "Decentralized",
@@ -74,12 +83,18 @@
     "bonus": {
       "ru": "",
       "en": "",
-      "es": ""
+      "es": "",
+      "uz": ""
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "pppoker",
     "featured": true,
-    "badges": ["pdhClub", "soft", "highRakeback", "verified"],
+    "badges": [
+      "pdhClub",
+      "soft",
+      "highRakeback",
+      "verified"
+    ],
     "ratings": {
       "mtt": 5,
       "cash": 5,
@@ -93,12 +108,14 @@
     "name": {
       "ru": "Сделка в союзе El Dorado на PPPoker",
       "en": "El Dorado Union Deal on PPPoker",
-      "es": "Oferta de la Unión El Dorado en PPPoker"
+      "es": "Oferta de la Unión El Dorado en PPPoker",
+      "uz": "El Dorado ittifoqi bitimi — PPPoker"
     },
     "description": {
       "ru": "Сделка в крупнейшем бразильском союзе с большим количеством лузовых игроков. Отличные составы за PLO5 и PLO6, лучший рейкбэк и приятный бонус за регистрацию.",
       "en": "Deal in the largest Brazilian union with many loose players. Excellent PLO5 and PLO6 lineups, best rakeback and nice signup bonus.",
-      "es": "Oferta en la unión brasileña más grande con muchos jugadores flojos. Excelentes alineaciones de PLO5 y PLO6, mejor rakeback y buen bono de registro."
+      "es": "Oferta en la unión brasileña más grande con muchos jugadores flojos. Excelentes alineaciones de PLO5 y PLO6, mejor rakeback y buen bono de registro.",
+      "uz": "Eng yirik braziliyalik ittifoq: ko'plab luz o'yinchilar, PLO5/PLO6 uchun zo'r tarkib, yuqori rakebek va yoqimli ro'yxatdan o'tish bonusi."
     },
     "club": "PDH Dorado",
     "app": "PPPoker",
@@ -108,7 +125,8 @@
     "geo": {
       "ru": "Латинская Америка, Европа",
       "en": "LatAm, Europe",
-      "es": "Latinoamérica, Europa"
+      "es": "Latinoamérica, Europa",
+      "uz": "Latam, Evropa"
     },
     "format": "PLO",
     "type": "Decentralized",
@@ -117,12 +135,18 @@
     "bonus": {
       "ru": "",
       "en": "",
-      "es": ""
+      "es": "",
+      "uz": ""
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "pppoker",
     "featured": true,
-    "badges": ["pdhClub", "soft", "highRakeback", "verified"],
+    "badges": [
+      "pdhClub",
+      "soft",
+      "highRakeback",
+      "verified"
+    ],
     "chipPrice": {
       "brl": 1,
       "usd": 0.18
@@ -140,12 +164,14 @@
     "name": {
       "ru": "Сделка в союзе Black Sea на X-Poker",
       "en": "Black Sea Union Deal on X-Poker",
-      "es": "Oferta de la Unión Black Sea en X-Poker"
+      "es": "Oferta de la Unión Black Sea en X-Poker",
+      "uz": "Black Sea ittifoqi bitimi — X-Poker"
     },
     "description": {
       "ru": "Сделка от PDH в союзе Black Sea на X-Poker. Хороший пул, удобное время для игроков из СНГ, стабильные составы без перегруза регами.",
       "en": "PDH deal in Black Sea union on X-Poker. Quality games with good conditions for CIS players.",
-      "es": "Oferta de PDH en la unión Black Sea en X-Poker. Juegos de calidad con buenas condiciones para jugadores de la CEI."
+      "es": "Oferta de PDH en la unión Black Sea en X-Poker. Juegos de calidad con buenas condiciones para jugadores de la CEI.",
+      "uz": "PDH bitimi Black Sea ittifoqida. MDH o'yinchilari uchun qulay sharoit va sifatli o'yinlar."
     },
     "club": "PDH BlackSea",
     "app": "X-Poker",
@@ -155,7 +181,8 @@
     "geo": {
       "ru": "СНГ",
       "en": "CIS",
-      "es": "CEI"
+      "es": "CEI",
+      "uz": "Kislota"
     },
     "format": "Cash",
     "type": "Decentralized",
@@ -164,12 +191,18 @@
     "bonus": {
       "ru": "",
       "en": "",
-      "es": ""
+      "es": "",
+      "uz": ""
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "xpoker",
     "featured": true,
-    "badges": ["pdhClub", "soft", "highRakeback", "verified"],
+    "badges": [
+      "pdhClub",
+      "soft",
+      "highRakeback",
+      "verified"
+    ],
     "ratings": {
       "mtt": 4,
       "cash": 5,
@@ -183,12 +216,14 @@
     "name": {
       "ru": "Сделка в союзе PPPfish на PPPoker",
       "en": "PPPfish Union Deal on PPPoker.",
-      "es": "Oferta de la Unión PPPFish en PPPoker"
+      "es": "Oferta de la Unión PPPFish en PPPoker",
+      "uz": "PPPfish ittifoqi bitimi — PPPoker"
     },
     "description": {
       "ru": "Сделка в крупном австралийском союзе с большим количеством лузовых игроков. Хорошие составы за PLO5 и PLO6, отличный рейкбэк.",
       "en": "A deal in a major Australian union with plenty of loose players. Great lineups for PLO5 and PLO6, excellent rakeback.",
-      "es": "Un acuerdo en una gran unión australiana con muchos jugadores sueltos. Buenas mesas para PLO5 y PLO6, excelente rakeback."
+      "es": "Un acuerdo en una gran unión australiana con muchos jugadores sueltos. Buenas mesas para PLO5 y PLO6, excelente rakeback.",
+      "uz": "Yirik avstraliyalik ittifoq, ko'p bo'shashgan o'yinchilar. PLO5 va PLO6 uchun ajoyib stol tarkibi, a'lo rakebek."
     },
     "club": "KANGAROO",
     "app": "PPPoker",
@@ -198,21 +233,28 @@
     "geo": {
       "ru": "Австралия, Океания",
       "en": "Australia, Oceania",
-      "es": "Australia, Oceanía"
+      "es": "Australia, Oceanía",
+      "uz": "Avstraliya, Okea"
     },
     "format": "PLO",
     "type": "Decentralized",
-    "rakeback": "55%",
+  "rakeback": "55%",
     "fixrb": "35%",
     "bonus": {
       "ru": "",
       "en": "",
-      "es": ""
+      "es": "",
+      "uz": ""
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "ppppoker_logo",
     "featured": true,
-    "badges": ["topDeal", "australia", "soft", "verified"],
+    "badges": [
+      "topDeal",
+      "australia",
+      "soft",
+      "verified"
+    ],
     "ratings": {
       "mtt": 5,
       "cash": 4,
@@ -226,12 +268,14 @@
     "name": {
       "ru": "Сделка в союзе Flamingoo на ClubGG",
       "en": "Flamingoo Union Deal on ClubGG",
-      "es": "Oferta de la Unión Flamingoo en ClubGG"
+      "es": "Oferta de la Unión Flamingoo en ClubGG",
+      "uz": "Flamingoo ittifoqi bitimi — ClubGG"
     },
     "description": {
       "ru": "Сделка в союзе Flamingoo на ClubGG. Высокий рейкбэк до 55% и активная игра круглосуточно во всех форматах. PDH выступает в роли агента и гаранта выплат.",
       "en": "Flamingoo Union Deal on ClubGG. High rakeback up to 55% and 24/7 action in all formats. PDH acts as agent and guarantor of payouts.",
-      "es": "Oferta de la Unión Flamingoo en ClubGG. Alto rakeback hasta 55% y acción 24/7 en todos los formatos. PDH actúa como agente y garante de pagos."
+      "es": "Oferta de la Unión Flamingoo en ClubGG. Alto rakeback hasta 55% y acción 24/7 en todos los formatos. PDH actúa como agente y garante de pagos.",
+      "uz": "Flamingoo ittifoqida 55% gacha rakebek va barcha formatlarda 24/7 ekshen. PDH agent va to'lov kafolati sifatida ishlaydi."
     },
     "club": "Monkeys Paradise",
     "app": "ClubGG",
@@ -241,7 +285,8 @@
     "geo": {
       "ru": "США",
       "en": "USA",
-      "es": "EE.UU."
+      "es": "EE.UU.",
+      "uz": "AQSh"
     },
     "format": "Cash",
     "type": "Decentralized",
@@ -250,7 +295,8 @@
     "bonus": {
       "ru": "",
       "en": "",
-      "es": ""
+      "es": "",
+      "uz": ""
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "clubgg",
@@ -264,7 +310,12 @@
       "plo": 5,
       "nlh": 5
     },
-    "badges": ["highRakeback", "nonStop", "international", "verified"],
+    "badges": [
+      "highRakeback",
+      "nonStop",
+      "international",
+      "verified"
+    ],
     "order": 6
   },
   {
@@ -272,12 +323,14 @@
     "name": {
       "ru": "Сделка в союзе Massiv Union на ClubGG",
       "en": "Massiv Union Deal on ClubGG",
-      "es": "Oferta de la Unión Massiv Union en ClubGG"
+      "es": "Oferta de la Unión Massiv Union en ClubGG",
+      "uz": "Massiv Union bitimi — ClubGG"
     },
     "description": {
       "ru": "Сделка в легендарном союзе Massiv Union на ClubGG. Вероятно, одна из лучших покерных полян для любых дисциплин и лимитов. Огромный джекпот!",
       "en": "Deal in the legendary Massiv Union on ClubGG. Probably one of the best poker fields for all game types and limits. Huge jackpot!",
-      "es": "Oferta en la legendaria unión Massiv Union en ClubGG. Probablemente uno de los mejores campos de póker para todos los tipos de juego y límites. ¡Gran premio acumulado!"
+      "es": "Oferta en la legendaria unión Massiv Union en ClubGG. Probablemente uno de los mejores campos de póker para todos los tipos de juego y límites. ¡Gran premio acumulado!",
+      "uz": "ClubGG dagi afsonaviy Massiv Union. Barcha format va limitlar uchun ehtimol eng yaxshi maydonlardan biri, ulkan jakpot bilan."
     },
     "club": "Stampede",
     "app": "ClubGG",
@@ -287,7 +340,8 @@
     "geo": {
       "ru": "Азия, Израиль, США",
       "en": "Asia, Israel, USA",
-      "es": "Asia, Israel, EE.UU."
+      "es": "Asia, Israel, EE.UU.",
+      "uz": "Osiyo, Isroil, AQSh"
     },
     "format": "Cash",
     "type": "Decentralized",
@@ -296,13 +350,14 @@
     "bonus": {
       "ru": "",
       "en": "",
-      "es": ""
+      "es": "",
+      "uz": ""
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "clubgg",
     "featured": true,
     "chipPrice": {
-      "usd": 0.80
+      "usd": 0.8
     },
     "ratings": {
       "mtt": 5,
@@ -310,7 +365,12 @@
       "plo": 5,
       "nlh": 5
     },
-    "badges": ["soft", "highRakeback", "international", "verified"],
+    "badges": [
+      "soft",
+      "highRakeback",
+      "international",
+      "verified"
+    ],
     "order": 7
   },
   {
@@ -318,12 +378,14 @@
     "name": {
       "ru": "Сделка в союзе  Paradise на PokerBros",
       "en": "Paradise union Deal on PokerBros",
-      "es": "Oferta de la Unión Paradise en PokerBros"
+      "es": "Oferta de la Unión Paradise en PokerBros",
+      "uz": "Paradise ittifoqi bitimi — PokerBros"
     },
     "description": {
       "ru": "Много активных столов, прозрачные условия и высокий рейкбэк — лучшее предложение в Poker Bros.",
       "en": "Plenty of active tables, transparent terms, and high rakeback — the best offer on Poker Bros.",
-      "es": "Muchas mesas activas, condiciones transparentes y alto rakeback: la mejor oferta en Poker Bros."
+      "es": "Muchas mesas activas, condiciones transparentes y alto rakeback: la mejor oferta en Poker Bros.",
+      "uz": "Ko'plab faol stollar, shaffof shartlar va yuqori rakebek — PokerBros dagi eng yaxshi takliflardan biri."
     },
     "club": "Monkeys VIPS",
     "app": "PokerBros",
@@ -333,7 +395,8 @@
     "geo": {
       "ru": "США",
       "en": "USA",
-      "es": "EE.UU."
+      "es": "EE.UU.",
+      "uz": "AQSh"
     },
     "format": "PLO",
     "type": "Decentralized",
@@ -342,12 +405,18 @@
     "bonus": {
       "ru": "",
       "en": "",
-      "es": ""
+      "es": "",
+      "uz": ""
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "pokerbros_logo",
     "featured": true,
-    "badges": ["usaPlayers", "highRakeback", "soft", "verified"],
+    "badges": [
+      "usaPlayers",
+      "highRakeback",
+      "soft",
+      "verified"
+    ],
     "ratings": {
       "mtt": 3,
       "cash": 4,
@@ -356,19 +425,19 @@
     },
     "order": 8
   },
-
-
   {
     "slug": "rake2high-clubgg",
     "name": {
       "ru": "Сделка в союзе Rake2High на ClubGG",
       "en": "Deal in Rake2High union on ClubGG",
-      "es": "Oferta de la Unión Rake2High en ClubGG"
+      "es": "Oferta de la Unión Rake2High en ClubGG",
+      "uz": "Rake2High ittifoqi bitimi — ClubGG"
     },
     "description": {
       "ru": "Сделка в тайваньском союзе Rake2High на ClubGG. Это активное азиатское сообщество с комфортной игрой и мягким полем, где много рекреационных игроков из Тайваня и соседних регионов.",
       "en": "It’s an active Asian community with a comfortable atmosphere and soft games, featuring many recreational players from Taiwan and nearby regions.",
-      "es": "Oferta en la unión taiwanesa Rake2High en ClubGG, con mesas suaves y muchos jugadores recreativos de Taiwán."
+      "es": "Oferta en la unión taiwanesa Rake2High en ClubGG, con mesas suaves y muchos jugadores recreativos de Taiwán.",
+      "uz": "Qulay muhitli faol osiyolik hamjamiyat: Tayvan va yaqin mintaqalardan ko'plab rekreatsion o'yinchilar, yumshoq o'yinlar."
     },
     "club": "Rake2Win",
     "app": "ClubGG",
@@ -378,7 +447,8 @@
     "geo": {
       "ru": "Тайвань, Азия",
       "en": "Taiwan, Asia",
-      "es": "Taiwán, Asia"
+      "es": "Taiwán, Asia",
+      "uz": "Tayvan, Osiyo"
     },
     "format": "PLO",
     "type": "Decentralized",
@@ -387,12 +457,17 @@
     "bonus": {
       "ru": "",
       "en": "",
-      "es": ""
+      "es": "",
+      "uz": ""
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "pokerbros_logo",
     "featured": true,
-    "badges": ["asia", "soft", "verified"],
+    "badges": [
+      "asia",
+      "soft",
+      "verified"
+    ],
     "ratings": {
       "mtt": 3,
       "cash": 4,
@@ -401,18 +476,19 @@
     },
     "order": 9
   },
-  
   {
     "slug": "coinpoker",
     "name": {
       "ru": "Сделка в покер руме CoinPoker",
       "en": "Deal in CoinPoker poker room",
-      "es": "Oferta de la CoinPoker"
+      "es": "Oferta de la CoinPoker",
+      "uz": "CoinPoker xonasida bitim"
     },
     "description": {
       "ru": "Сделка в популярном приложении CoinPoker с централизованной кассой и автоматическим процессингом ввода/вывода средств. Много рекреационных игроков из Азии.",
       "en": "Deal in the popular CoinPoker app with a centralized cashier and automatic deposit/withdrawal processing. Many recreational players from Asia.",
-      "es": "Oferta en la popular aplicación CoinPoker con caja centralizada y procesamiento automático de depósitos y retiros. Muchos jugadores recreativos de Asia."
+      "es": "Oferta en la popular aplicación CoinPoker con caja centralizada y procesamiento automático de depósitos y retiros. Muchos jugadores recreativos de Asia.",
+      "uz": "Markazlashgan kassa va avtomatik kiritish/chiqarish bilan mashhur CoinPoker ilovasida bitim. Osiyodan ko'plab rekreatsion o'yinchilar."
     },
     "club": "-",
     "app": "CoinPoker",
@@ -422,7 +498,8 @@
     "geo": {
       "ru": "Глобал, Азия, США",
       "en": "Global, Asia, USA",
-      "es": "Global, Asia, USA"
+      "es": "Global, Asia, USA",
+      "uz": "Global, Osiyo, AQSh"
     },
     "format": "PLO",
     "type": "Centralized",
@@ -431,12 +508,18 @@
     "bonus": {
       "ru": "+150% на 1й депозит",
       "en": "+150% on 1st deposit",
-      "es": "+150% en el 1er depósito"
+      "es": "+150% en el 1er depósito",
+      "uz": "1-depozitga +150%"
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "coinpoker_logo",
     "featured": true,
-    "badges": ["blockchain", "centralized", "soft", "verified"],
+    "badges": [
+      "blockchain",
+      "centralized",
+      "soft",
+      "verified"
+    ],
     "ratings": {
       "mtt": 4,
       "cash": 4,
@@ -445,18 +528,19 @@
     },
     "order": 10
   },
-   
   {
     "slug": "888poker",
     "name": {
       "ru": "Сделка в покер руме 888poker",
       "en": "Deal in 888poker poker room",
-      "es": "Oferta de la 888poker"
+      "es": "Oferta de la 888poker",
+      "uz": "888poker xonasida bitim"
     },
     "description": {
       "ru": "Сделка в один из старейших и самых надёжных онлайн-румов. Много рекреационных игроков, простое приложение, регулярные акции и миссии.",
       "en": "A deal with one of the oldest and most reliable online poker rooms. Lots of recreational players, an easy-to-use app, and regular promotions and missions.",
-      "es": "Oferta en una de las salas de póker en línea más antiguas y confiables. Muchos jugadores recreativos, una aplicación fácil de usar y promociones y misiones regulares."
+      "es": "Oferta en una de las salas de póker en línea más antiguas y confiables. Muchos jugadores recreativos, una aplicación fácil de usar y promociones y misiones regulares.",
+      "uz": "Eng qadimgi va ishonchli onlayn poker xonalaridan biri: ko'plab rekreatsion o'yinchilar, qulay ilova, muntazam aksiyalar va missiyalar."
     },
     "club": "-",
     "app": "888poker",
@@ -466,7 +550,8 @@
     "geo": {
       "ru": "Англия, Европа",
       "en": "England, Europe",
-      "es": "Inglaterra, Europa"
+      "es": "Inglaterra, Europa",
+      "uz": "Angliya, Evropa"
     },
     "format": "PLO",
     "type": "Centralized",
@@ -475,12 +560,18 @@
     "bonus": {
       "ru": "$88 без депозита",
       "en": "$88 no-deposit bonus",
-      "es": "Bono sin depósito de $88"
+      "es": "Bono sin depósito de $88",
+      "uz": "$88 depozitsiz bonus"
     },
     "link": "https://t.me/pokerdealshub",
     "logo": "888poker_logo",
     "featured": true,
-    "badges": ["international", "centralized", "soft", "verified"],
+    "badges": [
+      "international",
+      "centralized",
+      "soft",
+      "verified"
+    ],
     "ratings": {
       "mtt": 4,
       "cash": 4,
@@ -488,6 +579,5 @@
       "nlh": 5
     },
     "order": 11
-  }    
-
+  }
 ]

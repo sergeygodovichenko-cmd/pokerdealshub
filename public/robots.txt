@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /es/
 
 Sitemap: https://pokerdealshub.com/sitemap.xml

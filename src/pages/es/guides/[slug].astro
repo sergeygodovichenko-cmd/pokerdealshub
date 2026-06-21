@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { readdirSync, readFileSync } from 'fs';
+import { resolve } from 'path';
+import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations('es');
+
+export async function getStaticPaths() {
+  const dir = resolve('src/content/guides/es');
+  const files = readdirSync(dir)
+    .filter((f) => f.endsWith('.html'))
+    .map((f) => f.replace('.html', ''));
+
+  return files.map((slug) => ({
+    params: { slug },
+    props: { slug },
+  }));
+}
+
+const { slug } = Astro.props;
+const filePath = resolve(`src/content/guides/es/${slug}.html`);
+const htmlContent = readFileSync(filePath, 'utf-8');
+
+const title =
+  htmlContent.match(/<h1[^>]*>(.*?)<\/h1>/)?.[1] || 'Guía de PokerDealsHub';
+const description =
+  htmlContent.match(/<meta\\s+name=\"description\"\\s+content=\"([^\"]+)\"/i)?.[1] ||
+  `Guía de PokerDealsHub — ${title}`;
+
+const breadcrumbs = [
+  { name: t('breadcrumb.home'), url: `/${lang}/` },
+  { name: t('breadcrumb.guides'), url: '/es/guides/' },
+  { name: title, url: `/es/guides/${slug}/` },
+];
+---
+
+<BaseLayout title={`${title} — PokerDealsHub`} description={description} breadcrumbs={breadcrumbs}>
+  <article class="container mx-auto px-4 py-12">
+    <div class="max-w-3xl mx-auto">
+      <Breadcrumbs items={breadcrumbs} />
+      <div class="prose prose-invert max-w-none" set:html={htmlContent} />
+
+      <div class="mt-12 p-6 bg-gold/10 border border-gold/30 rounded-xl">
+        <p class="text-neutral-300 text-center">
+          ¿Quieres una oferta personalizada?{' '}
+          <a href="/es/about/" class="text-gold hover:text-gold-light font-semibold">
+            Contáctanos
+          </a>
+        </p>
+      </div>
+    </div>
+  </article>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    'headline': title,
+    'description': description,
+    'author': {
+      '@type': 'Organization',
+      'name': 'PokerDealsHub',
+    },
+    'publisher': {
+      '@type': 'Organization',
+      'name': 'PokerDealsHub',
+    },
+  })} />
+</BaseLayout>

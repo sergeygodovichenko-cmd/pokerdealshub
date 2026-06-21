@@ -1,0 +1,39 @@
+---
+import DealCard from "../../../components/DealCard.astro";
+import deals from "../../../data/deals.json";
+import { dealsConfig } from "../../../config/dealsConfig.js";
+
+// 🔹 Генерация путей
+export async function getStaticPaths() {
+  const perPage = dealsConfig.perPage;
+  const totalPages = Math.ceil(deals.length / perPage);
+  return Array.from({ length: Math.max(totalPages - 1, 0) }, (_, i) => ({
+    params: { page: String(i + 1) },
+  }));
+}
+
+// 🔹 Основная логика страницы
+const { page } = Astro.params;
+const currentPage = Number(page);
+const perPage = dealsConfig.perPage;
+const sorted = [...deals].sort(dealsConfig.sortDeals);
+const start = currentPage * perPage;
+const end = start + perPage;
+const slice = sorted.slice(start, end);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Deals Page {currentPage + 1}</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="stylesheet" href="/_astro/index.css" />
+  </head>
+  <body class="bg-neutral-950 text-neutral-100 font-sans p-4">
+    <!-- ⚙️ Контент, который подхватывает DealsList -->
+    {slice.map((deal) => (
+      <DealCard deal={deal} />
+    ))}
+  </body>
+</html>

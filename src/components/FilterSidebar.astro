@@ -13,6 +13,7 @@ const filterData = {
   ru: {
     allDeals: 'Все сделки',
     filterLabel: 'Фильтр:',
+    chatCta: 'Открыть чат в Telegram',
     byType: 'По типу',
     byApp: 'По приложению',
     byUnion: 'По союзам',
@@ -47,6 +48,7 @@ const filterData = {
   en: {
     allDeals: 'All Deals',
     filterLabel: 'Filter:',
+    chatCta: 'Open Telegram chat',
     byType: 'By Type',
     byApp: 'By App',
     byUnion: 'By Union',
@@ -74,6 +76,76 @@ const filterData = {
       latam: 'LatAm',
       mtt: 'MTT',
       cash: 'Cash',
+      plo: 'PLO',
+      nlh: 'NLH',
+    },
+  },
+  es: {
+    allDeals: 'Todas las ofertas',
+    filterLabel: 'Filtro:',
+    chatCta: 'Abrir chat en Telegram',
+    byType: 'Por tipo',
+    byApp: 'Por aplicación',
+    byUnion: 'Por uniones',
+    byGeo: 'Por geografía',
+    byFormat: 'Por tipo de juego',
+    filters: {
+      centralized: 'Centralizadas',
+      decentralized: 'Descentralizadas',
+      pppoker: 'PPPoker',
+      clubgg: 'ClubGG',
+      xpoker: 'X-Poker',
+      pokerbros: 'PokerBros',
+      nutspoker: 'Nuts Poker',
+      blacksea: 'Black Sea',
+      pppfish: 'PPPfish',
+      eldorado: 'El Dorado',
+      'nuts-primetime': 'Nuts PrimeTime',
+      'massiv-union': 'Massiv Union',
+      paradise: 'Paradise',
+      europe: 'Europa',
+      asia: 'Asia',
+      cis: 'CEI',
+      australia: 'Australia',
+      america: 'América',
+      latam: 'Latinoamérica',
+      mtt: 'MTT',
+      cash: 'Cash',
+      plo: 'PLO',
+      nlh: 'NLH',
+    },
+  },
+  uz: {
+    allDeals: 'Barcha bitimlar',
+    filterLabel: 'Filtr:',
+    chatCta: 'Telegram chatini ochish',
+    byType: 'Turi bo‘yicha',
+    byApp: 'Ilova bo‘yicha',
+    byUnion: 'Ittifoq bo‘yicha',
+    byGeo: 'Geografiya bo‘yicha',
+    byFormat: 'O‘yin turi bo‘yicha',
+    filters: {
+      centralized: 'Markazlashgan',
+      decentralized: 'Klub tizimi',
+      pppoker: 'PPPoker',
+      clubgg: 'ClubGG',
+      xpoker: 'X-Poker',
+      pokerbros: 'PokerBros',
+      nutspoker: 'Nuts Poker',
+      blacksea: 'Black Sea',
+      pppfish: 'PPPfish',
+      eldorado: 'El Dorado',
+      'nuts-primetime': 'Nuts PrimeTime',
+      'massiv-union': 'Massiv Union',
+      paradise: 'Paradise',
+      europe: 'Yevropa',
+      asia: 'Osiyo',
+      cis: 'MDH',
+      australia: 'Avstraliya',
+      america: 'Amerika',
+      latam: 'Lotin Amerikasi',
+      mtt: 'MTT',
+      cash: 'Kesh',
       plo: 'PLO',
       nlh: 'NLH',
     },
@@ -161,7 +233,22 @@ const categories = [
   </div>
 </button>
 
+<a
+  id="telegram-chat-bubble"
+  class="lg:hidden fixed right-6 z-[110] flex items-center justify-center shadow-2xl overflow-hidden"
+  href="https://t.me/pokerdealshub"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label={t.chatCta || 'Open Telegram chat'}
+>
+  <img src="/telegram-button.png" alt="" class="w-full h-full object-cover rounded-full" />
+</a>
+
 <style>
+  :global(:root) {
+    --mobile-filter-height: 64px;
+  }
+
   @media (max-width: 1023px) {
     #sidebar-content {
       position: fixed;
@@ -205,7 +292,7 @@ const categories = [
     bottom: 1.5rem;
     right: 1.5rem;
     width: 140px;
-    height: 64px;
+    height: var(--mobile-filter-height, 64px);
     opacity: 0.001;
     animation: appear 0.4s ease 0.3s forwards;
   }
@@ -231,22 +318,41 @@ const categories = [
     }
   }
 
-  @media (min-width: 1024px) {
-  aside {
-    display: flex;
-    flex-direction: column;
-    height: auto;
+  #telegram-chat-bubble {
+    bottom: calc(1.5rem + var(--mobile-filter-height, 64px) + 1.75rem + env(safe-area-inset-bottom, 0px));
+    width: 64px;
+    height: 64px;
+    border-radius: 9999px;
+    background: transparent;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
 
-  #sidebar-content {
-    position: static;
-    height: auto;
-    min-height: auto;
-    max-height: none;
-    border-radius: 0.75rem; /* вернуть округление, если обрезалось */
-    box-shadow: none;
+  #telegram-chat-bubble:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.35);
   }
-}
+
+  #telegram-chat-bubble:active {
+    transform: scale(0.97);
+  }
+
+  @media (min-width: 1024px) {
+    aside {
+      display: flex;
+      flex-direction: column;
+      height: auto;
+    }
+
+    #sidebar-content {
+      position: static;
+      height: auto;
+      min-height: auto;
+      max-height: none;
+      border-radius: 0.75rem; /* вернуть округление, если обрезалось */
+      box-shadow: none;
+    }
+  }
 </style>
 
 

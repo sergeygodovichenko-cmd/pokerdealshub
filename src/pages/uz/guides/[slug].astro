@@ -1,0 +1,69 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { getLangFromUrl, useTranslations } from '../../../i18n/utils';
+import { readdirSync, readFileSync } from 'fs';
+import { resolve } from 'path';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations('uz');
+
+// 🔹 Автоматически собираем все пути из .html файлов
+export async function getStaticPaths() {
+  const dir = resolve('src/content/guides/uz');
+  const files = readdirSync(dir)
+    .filter(f => f.endsWith('.html'))
+    .map(f => f.replace('.html', ''));
+
+  return files.map(slug => ({
+    params: { slug },
+    props: { slug },
+  }));
+}
+
+// 🔹 Получаем текущий slug и контент
+const { slug } = Astro.props;
+const filePath = resolve(`src/content/guides/uz/${slug}.html`);
+const htmlContent = readFileSync(filePath, 'utf-8');
+
+// 🔹 Метаданные
+const title =
+  htmlContent.match(/<h1[^>]*>(.*?)<\/h1>/)?.[1] || 'PokerDealsHub qo‘llanmasi';
+const description =
+  htmlContent.match(/<meta\s+name="description"\s+content="([^"]+)"/)?.[1] ||
+  `PokerDealsHub qo‘llanmasi — ${title}`;
+
+const breadcrumbs = [
+  { name: t('breadcrumb.home'), url: `/${lang}/` },
+  { name: t('breadcrumb.guides'), url: '/uz/guides/' },
+  { name: title, url: `/uz/guides/${slug}/` },
+];
+---
+
+<BaseLayout
+  title={`${title} — PokerDealsHub`}
+  description={description}
+  breadcrumbs={breadcrumbs}
+  ogImage="/hero_wide_screen_top.webp"
+>
+  <div class="container mx-auto px-4 py-8 lg:pt-12 lg:pb-12">
+    <div class="max-w-3xl mx-auto">
+      <Breadcrumbs items={breadcrumbs} />
+
+      <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-6 lg:mb-8 leading-tight">
+        {title}
+      </h1>
+
+      <!-- Контент гайда -->
+      <div
+        class="text-neutral-300 text-base lg:text-lg leading-relaxed
+               [&_p]:mb-5 [&_h2]:text-2xl [&_h2]:lg:text-3xl [&_h2]:text-gold [&_h2]:font-semibold [&_h2]:mt-8 [&_h2]:mb-4
+               [&_h3]:text-xl [&_h3]:text-gold [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3
+               [&_ul]:list-disc [&_ul]:list-outside [&_ul]:pl-5 [&_ol]:list-decimal [&_ol]:pl-5 [&_li]:mb-2 [&_li::marker]:text-gold
+               [&_a]:text-gold [&_a:hover]:text-gold-light [&_a:hover]:underline [&_a]:transition-colors
+               [&_strong]:text-neutral-100 [&_strong]:font-semibold"
+        set:html={htmlContent}
+      />
+    </div>
+  </div>
+</BaseLayout>

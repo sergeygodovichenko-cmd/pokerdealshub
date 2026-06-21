@@ -1,0 +1,283 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import FilterSidebar from "../../../components/FilterSidebar.astro";
+import DealsList from "../../../components/DealsList.astro";
+import filterContent from "../../../data/filterContent.json";
+import { getLangFromUrl } from "../../../i18n/utils";
+import { dealsConfig } from "../../../config/dealsConfig.js";
+
+
+
+const lang = getLangFromUrl(Astro.url) || "uz";
+const content = filterContent[lang].all;
+---
+
+
+<BaseLayout
+  title={content.title}
+  description={content.description}
+  ogImage="/hero_wide_screen_top.webp"
+>
+  <div class="container mx-auto px-4 py-3 lg:pt-12 lg:pb-6">
+    <div class="flex flex-col lg:flex-row gap-6 lg:gap-8">
+      <FilterSidebar />
+
+      <div class="flex-1 min-w-0">
+        <!-- Заголовок -->
+        <div class="mb-6 lg:mb-8">
+          <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gold mb-3 lg:mb-4">
+            {content.h1}
+          </h1>
+          {content.intro && (
+            <div
+              class="text-neutral-300 text-base lg:text-lg leading-relaxed mt-4
+                     [&_a]:text-gold [&_a]:underline [&_a:hover]:text-gold-light [&_a:hover]:underline-offset-2
+                     [&_p]:mb-6 [&_ul]:mb-6 [&_li]:mb-2
+                     [&_h2]:text-xl [&_h2]:lg:text-2xl [&_h2]:font-bold [&_h2]:text-neutral-100 [&_h2]:mt-8 [&_h2]:mb-4
+                     [&_strong]:text-neutral-100"
+              set:html={content.intro}
+            ></div>
+          )}
+        </div>
+
+
+        <!-- Hero Banner -->
+        {Astro.url.pathname.endsWith("/deals/") && (
+          <div class="mb-0 lg:mb-0">
+            <button
+              id="hero-banner"
+              class="w-full cursor-pointer border-0 bg-transparent p-0 hover:opacity-90 transition-opacity"
+              aria-label="Scroll to deals"
+            >
+              <div class="hero-banner-container">
+                <div class="hero-banner-top">
+                  <picture>
+                    <source
+                      media="(max-width: 639px)"
+                      srcset="/new_hero_mobile_top.webp"
+                      width="993"
+                      height="417"
+                    />
+                    <source
+                      media="(min-width: 640px)"
+                      srcset="/hero_wide_screen_top.webp"
+                      width="1828"
+                      height="236"
+                    />
+                    <img
+                      src="/hero_wide_screen_top.webp"
+                      alt="Best poker deals"
+                      class="w-full h-auto rounded-t-xl"
+                      width="1828"
+                      height="236"
+                      loading="eager"
+                      onload="this.parentElement.parentElement.parentElement.style.setProperty('--shimmer-mask', 'url(' + this.currentSrc + ')');"
+                    />
+                  </picture>
+                </div>
+
+                <div class="hero-banner-arrows">
+                  <div class="arrows-container">
+                    <img
+                      src="/new_hero_wide_screen_arrows.webp"
+                      alt="Scroll down"
+                      class="arrow arrow-left"
+                      width="32"
+                      height="32"
+                    />
+                    <img
+                      src="/new_hero_wide_screen_arrows.webp"
+                      alt="Scroll down"
+                      class="arrow arrow-center"
+                      width="32"
+                      height="32"
+                    />
+                    <img
+                      src="/new_hero_wide_screen_arrows.webp"
+                      alt="Scroll down"
+                      class="arrow arrow-right"
+                      width="32"
+                      height="32"
+                    />
+                  </div>
+                </div>
+              </div>
+            </button>
+          </div>
+        )}
+
+        <!-- Список сделок -->
+        <DealsList
+          currentPage={dealsConfig.defaultPage}
+          perPage={dealsConfig.perPage}
+          lang={lang}
+        />
+
+        <!-- SEO-текст -->
+        <div class="bg-neutral-900 border border-neutral-800 rounded-xl px-6 pt-0 pb-6 lg:px-8 lg:pt-0 lg:pb-8 mt-8">
+          <div
+            class="text-neutral-300 text-base leading-relaxed
+                   [&_a]:text-gold [&_a]:underline [&_a:hover]:text-gold-light [&_a:hover]:underline-offset-2
+                   [&_p]:mb-6 [&_ul]:mb-6 [&_li]:mb-2
+                   [&_h2]:text-xl [&_h2]:lg:text-2xl [&_h2]:font-bold [&_h2]:text-neutral-100 [&_h2]:mt-8 [&_h2]:mb-4
+                   [&_strong]:text-neutral-100"
+            set:html={content.seoText}
+          ></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+   <!-- Scroll behavior -->
+   <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const heroButton = document.getElementById("hero-banner");
+      const dealsSection = document.querySelector("#deals-section");
+
+      if (heroButton && dealsSection) {
+        heroButton.addEventListener("click", () => {
+          const headerHeight = document.querySelector("header")?.offsetHeight || 0;
+          const elementPosition = dealsSection.getBoundingClientRect().top + window.scrollY;
+          const offsetPosition = elementPosition - headerHeight - 16;
+
+          window.scrollTo({
+            top: offsetPosition,
+            behavior: "smooth",
+          });
+        });
+      }
+    });
+  </script>
+
+  <!-- Hero Banner Styles -->
+  <style>
+    .hero-banner-container {
+      position: relative;
+      width: 100%;
+    }
+
+    .hero-banner-top {
+      position: relative;
+      overflow: hidden;
+      border-radius: 0.75rem 0.75rem 0 0;
+      aspect-ratio: 1828 / 236;
+    }
+
+    @media (max-width: 639px) {
+      .hero-banner-top {
+        aspect-ratio: 993 / 417;
+      }
+    }
+
+    .hero-banner-top::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(
+        90deg,
+        rgba(255, 255, 255, 0) 0%,
+        rgba(255, 255, 255, 0.2) 50%,
+        rgba(255, 255, 255, 0) 100%
+      );
+      transform: skewX(-20deg);
+      animation: shimmer 7s ease-in-out infinite;
+      pointer-events: none;
+      will-change: transform;
+      mask-image: var(--shimmer-mask);
+      -webkit-mask-image: var(--shimmer-mask);
+      mask-size: contain;
+      -webkit-mask-size: contain;
+      mask-repeat: no-repeat;
+      -webkit-mask-repeat: no-repeat;
+    }
+
+    @keyframes shimmer {
+      0% {
+        left: -100%;
+      }
+      20% {
+        left: 100%;
+      }
+      100% {
+        left: 100%;
+      }
+    }
+
+    .hero-banner-arrows {
+      position: relative;
+      background: transparent;
+      padding: 1rem 0;
+      border-radius: 0 0 0.75rem 0.75rem;
+      overflow: hidden;
+    }
+
+    .arrows-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      width: 100%;
+    }
+
+    .arrow {
+      width: 28px;
+      height: 28px;
+      object-fit: contain;
+      filter: drop-shadow(0 0 10px rgba(212, 175, 55, 0.3));
+      position: absolute;
+      bottom: 0;
+    }
+
+    .arrow-left {
+      left: 15%;
+      animation: arrowBounce 2.5s ease-in-out infinite;
+      animation-delay: 0s;
+    }
+
+    .arrow-center {
+      animation: arrowBounce 2.5s ease-in-out infinite;
+      animation-delay: 0.3s;
+      transform: scale(1.1);
+      position: relative;
+    }
+
+    .arrow-right {
+      right: 15%;
+      animation: arrowBounce 2.5s ease-in-out infinite;
+      animation-delay: 0.6s;
+    }
+
+    @keyframes arrowBounce {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-8px);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .hero-banner-top::after,
+      .arrow-left,
+      .arrow-center,
+      .arrow-right {
+        animation: none;
+      }
+    }
+
+    @media (max-width: 639px) {
+      .arrow {
+        width: 24px;
+        height: 24px;
+      }
+      .arrows-container {
+        gap: 0.75rem;
+      }
+    }
+  </style>
+</BaseLayout>

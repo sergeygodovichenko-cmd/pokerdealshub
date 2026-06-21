@@ -1,0 +1,64 @@
+---
+import DealCard from "../../../../components/DealCard.astro";
+import deals from "../../../../data/deals.json";
+import { dealsConfig } from "../../../../config/dealsConfig.js";
+import { filterDeals } from "../../../../utils/filterDeals.js";
+
+// 🔹 Генерация всех путей для пагинации
+export async function getStaticPaths() {
+  const filters = [
+    "pppoker", "clubgg", "xpoker", "pokerbros", "nutspoker", "coinpoker", "888poker",
+    "centralized", "decentralized",
+    "nuts-primetime", "massiv-union", "eldorado", "paradise", "blacksea", "pppfish", "rake2high",
+    "europe", "asia", "cis", "australia", "america", "latam",
+    "mtt", "nlh", "plo",
+  ];
+
+  const perPage = dealsConfig.perPage;
+  const paths = [];
+
+  for (const filter of filters) {
+    const filtered = filterDeals(deals, filter);
+    const totalPages = Math.ceil(filtered.length / perPage);
+
+    // ⚠️ пропускаем первую страницу — её рендерит index.astro
+    for (let i = 1; i < totalPages; i++) {
+      paths.push({
+        params: { filter, page: String(i) },
+      });
+    }
+  }
+
+  return paths;
+}
+
+// 🔹 Основная логика страницы
+const { filter, page } = Astro.params;
+const currentPage = Number(page);
+const perPage = dealsConfig.perPage;
+
+const filtered = filterDeals(deals, filter);
+const sorted = [...filtered].sort(dealsConfig.sortDeals);
+
+// 🔹 Берем текущий срез
+const start = currentPage * perPage;
+const end = start + perPage;
+const slice = sorted.slice(start, end);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{filter} Deals — Page {currentPage + 1}</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="stylesheet" href="/_astro/index.css" />
+  </head>
+  <body class="bg-neutral-950 text-neutral-100 font-sans p-4">
+    <div id="deals-list" class="flex flex-col gap-4">
+      {slice.map((deal) => (
+        <DealCard deal={deal} />
+      ))}
+    </div>
+  </body>
+</html>

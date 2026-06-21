@@ -1,7 +1,7 @@
 <script is:inline>
   window.addEventListener('load', () => {
     const GA_ID = "G-EMKB3VKZY3";
-    const PIXEL_ID = "843668438232713";
+    const PIXEL_ID = "735095512250922";
   
     // Безопасная загрузка внешнего скрипта с тайм-аутом
     async function safeLoad(src, timeout = 4000) {
@@ -27,7 +27,7 @@
         function gtag(){window.dataLayer.push(arguments);}
         window.gtag = gtag;
         gtag('js', new Date());
-        gtag('config', GA_ID);
+        gtag('config', 'G-EMKB3VKZY3');
         console.log('%c✅ GA4 инициализирован','color:lime;font-weight:bold');
       } else {
         console.warn('⚠️ GA4 не загрузился (возможно, блокировка)');
@@ -47,7 +47,7 @@
           s.parentNode.insertBefore(t,s);
         })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
   
-        fbq('init', PIXEL_ID);
+        fbq('init', '735095512250922');
         fbq('track', 'PageView');
         console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
       } else {
@@ -64,7 +64,7 @@
         if (isLead) {
           try {
             if (window.gtag) gtag('event', 'lead_click', { event_category: 'lead', event_label: href });
-            if (window.fbq) fbq('track', 'Lead', { content_name: href, event_source: 'auto' });
+            if (window.fbq) fbq('track', 'Purchase', { content_name: href, event_source: 'auto' });
             console.log('%c🔥 Лид событие →','color:orange;font-weight:bold', href);
           } catch(err) {
             console.warn('Ошибка отправки события', err);
@@ -86,8 +86,6 @@
   
   <noscript>
     <img height="1" width="1" style="display:none"
-         src="https://www.facebook.com/tr?id=843668438232713&ev=PageView&noscript=1" />
-    <img height="1" width="1" style="display:none"
-         src="https://www.googletagmanager.com/ns.html?id=G-EMKB3VKZY3" />
+         src="https://www.facebook.com/tr?id=735095512250922&ev=PageView&noscript=1" />
   </noscript>
   

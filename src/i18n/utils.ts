@@ -20,10 +20,10 @@ export function getLocalizedPath(path: string, lang: keyof typeof ui) {
 }
 
 export function getAlternateLanguages(currentPath: string, currentLang: string) {
-  const langs = (Object.keys(ui) as Array<keyof typeof ui>)
-    .filter(l => l !== 'es'); // 🧹 убираем испанский  
-  
-    const pathWithoutLang = currentPath.replace(`/${currentLang}`, '');
+  const langs = (Object.keys(ui) as Array<keyof typeof ui>).filter(
+    (lang) => lang !== currentLang
+  );
+  const pathWithoutLang = currentPath.replace(`/${currentLang}`, '');
 
   return langs.map(lang => ({
     lang,

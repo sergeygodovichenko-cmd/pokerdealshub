@@ -4,6 +4,13 @@ import filterContent from '../data/filterContent.json';
 
 const SITE_URL = 'https://pokerdealshub.com';
 
+const languageEntries = [
+  { lang: 'ru', hreflang: 'ru-RU' },
+  { lang: 'en', hreflang: 'en-US' },
+  { lang: 'es', hreflang: 'es-ES' },
+  { lang: 'uz', hreflang: 'uz-Latn-UZ' },
+];
+
 interface SitemapURL {
   loc: string;
   lastmod: string;
@@ -16,44 +23,42 @@ export const GET: APIRoute = async () => {
   const lastmod = new Date().toISOString();
   const urls: SitemapURL[] = [];
 
-  // 🧹 убрал /es/ из главных страниц
-  const mainPages = [
-    { path: '/', priority: 1.0, changefreq: 'daily' },
-    { path: '/en/', priority: 1.0, changefreq: 'daily' },
-    // { path: '/es/', priority: 1.0, changefreq: 'daily' },
-    { path: '/ru/', priority: 1.0, changefreq: 'daily' },
-  ];
+  const mainPages = languageEntries.map(({ lang }) => ({
+    path: `/${lang}/`,
+    priority: 1.0,
+    changefreq: 'daily',
+  }));
 
   mainPages.forEach((page) => {
+    const alternates = languageEntries.map(({ lang, hreflang }) => ({
+      lang: hreflang,
+      href: `${SITE_URL}/${lang}/`,
+    }));
+
     urls.push({
       loc: `${SITE_URL}${page.path}`,
       lastmod,
       changefreq: page.changefreq,
       priority: page.priority,
-      alternates: [
-        { lang: 'ru-RU', href: `${SITE_URL}/` },
-        { lang: 'ru-RU', href: `${SITE_URL}/ru/` },
-        { lang: 'en-US', href: `${SITE_URL}/en/` },
-        // { lang: 'es-ES', href: `${SITE_URL}/es/` }, // ❌ временно отключено
-      ],
+      alternates,
     });
   });
 
-  // 🔹 только ru и en, без es
-  const activeLangs = ['en', 'ru'];
+  const activeLangs = languageEntries.map(({ lang }) => lang);
 
   deals.forEach((deal) => {
     activeLangs.forEach((lang) => {
+      const alternates = languageEntries.map(({ lang: altLang, hreflang }) => ({
+        lang: hreflang,
+        href: `${SITE_URL}/${altLang}/deal/${deal.slug}/`,
+      }));
+
       urls.push({
         loc: `${SITE_URL}/${lang}/deal/${deal.slug}/`,
         lastmod,
         changefreq: 'weekly',
         priority: 0.9,
-        alternates: [
-          { lang: 'en-US', href: `${SITE_URL}/en/deal/${deal.slug}/` },
-          { lang: 'ru-RU', href: `${SITE_URL}/ru/deal/${deal.slug}/` },
-          // { lang: 'es-ES', href: `${SITE_URL}/es/deal/${deal.slug}/` }, // ❌
-        ],
+        alternates,
       });
     });
   });
@@ -61,28 +66,29 @@ export const GET: APIRoute = async () => {
   const filters = Object.keys(filterContent.ru);
   filters.forEach((filter) => {
     activeLangs.forEach((lang) => {
+      const alternates = languageEntries.map(({ lang: altLang, hreflang }) => ({
+        lang: hreflang,
+        href: `${SITE_URL}/${altLang}/deals/${filter}/`,
+      }));
+
       urls.push({
         loc: `${SITE_URL}/${lang}/deals/${filter}/`,
         lastmod,
         changefreq: 'weekly',
         priority: 0.8,
-        alternates: [
-          { lang: 'en-US', href: `${SITE_URL}/en/deals/${filter}/` },
-          { lang: 'ru-RU', href: `${SITE_URL}/ru/deals/${filter}/` },
-          // { lang: 'es-ES', href: `${SITE_URL}/es/deals/${filter}/` }, // ❌
-        ],
+        alternates,
       });
     });
   });
 
-  const staticPages = [
-    { path: '/ru/guides/', priority: 0.7, changefreq: 'monthly' },
-    { path: '/ru/guides/pppoker-guide/', priority: 0.7, changefreq: 'monthly' },
-    { path: '/ru/about/', priority: 0.5, changefreq: 'monthly' },
-    { path: '/ru/add-deal/', priority: 0.5, changefreq: 'monthly' },
-    { path: '/ru/privacy/', priority: 0.5, changefreq: 'monthly' },
-    { path: '/ru/terms/', priority: 0.5, changefreq: 'monthly' },
-  ];
+  const staticPages = languageEntries.flatMap(({ lang }) => [
+    { path: `/${lang}/guides/`, priority: 0.7, changefreq: 'monthly' },
+    { path: `/${lang}/guides/pppoker-guide/`, priority: 0.7, changefreq: 'monthly' },
+    { path: `/${lang}/about/`, priority: 0.5, changefreq: 'monthly' },
+    { path: `/${lang}/add-deal/`, priority: 0.5, changefreq: 'monthly' },
+    { path: `/${lang}/privacy/`, priority: 0.5, changefreq: 'monthly' },
+    { path: `/${lang}/terms/`, priority: 0.5, changefreq: 'monthly' },
+  ]);
 
   staticPages.forEach((page) => {
     urls.push({

@@ -46,20 +46,36 @@ export const badgeLabels = {
     australia: '🇦🇺 Australia',
    },
   es: {
-    blockchain: "🔗 Blockchain RNG",
-    usaPlayers: '🇺🇸 USA players',
+    blockchain: "🔗 RNG en blockchain",
+    usaPlayers: '🇺🇸 Jugadores USA',
     asia: '🏮 Asia',  
-    topDeal: '💎 Top Deal!',
-    pdhClub: '🔥 PDH club',
-    pdhPartner: '🤝 PDH partner',
-    centralized: '🏬 Centralized',
-    soft: '🐟 Soft game',
-    highRakeback: '💰 High Rakeback',
-    verified: '✅ Verified',
-    allLimits: '📊 All Limits',
-    nonStop: '⏱ NonStop',
-    international: '🌍 International',
+    topDeal: '💎 Oferta top',
+    pdhClub: '🔥 Club PDH',
+    pdhPartner: '🤝 Socio PDH',
+    centralized: '🏬 Centralizado',
+    soft: '🐟 Juego suave',
+    highRakeback: '💰 Alto rakeback',
+    verified: '✅ Verificado',
+    allLimits: '📊 Todos los límites',
+    nonStop: '⏱ 24/7',
+    international: '🌍 Internacional',
     australia: '🇦🇺 Australia',
+   },
+  uz: {
+    blockchain: "🔗 Blockchain RNG",
+    usaPlayers: '🇺🇸 AQSh o‘yinchilari',
+    asia: '🏮 Osiyo',
+    topDeal: '💎 Top bitim',
+    pdhClub: '🔥 PDH klubi',
+    pdhPartner: '🤝 PDH hamkori',
+    centralized: '🏬 Markazlashgan',
+    soft: '🐟 Yengil o‘yin',
+    highRakeback: '💰 Yuqori rakebek',
+    verified: '✅ Tasdiqlangan',
+    allLimits: '📊 Barcha limitlar',
+    nonStop: '⏱ 24/7',
+    international: '🌍 Xalqaro',
+    australia: '🇦🇺 Avstraliya',
    },
 };
 
@@ -75,6 +91,10 @@ export const tooltips = {
   es: {
     featured:
       'Club gestionado por PokerDealsHub. Esto garantiza transparencia, fiabilidad y un servicio de primera clase las 24 horas.',
+  },
+  uz: {
+    featured:
+      'PDH tomonidan boshqariladigan klub. Bu shaffoflik, ishonchlilik va 24/7 premium xizmatni kafolatlaydi.',
   },
 };
 
@@ -129,6 +149,23 @@ export const labl = {
     weAreHere2: 'Escriba al gerente de PDH, trabajamos 24/7',
     tgContact: 'Contactar en Telegram',
     waContact: 'Contactar en WhatsApp',
+  },
+  uz: {
+    club: 'Klub:',
+    union: 'Ittifoq:',
+    geog: 'Geografiya:',
+    platform: 'Platforma:',
+    upTo: 'Rakebekgacha',
+    bonusL: "Bonus:",
+    getDeal: 'Bitimni olish',
+    rateBy: 'Intizomlar reytingi',
+    verif: 'Barcha takliflar PDH tomonidan ichki tekshiruvdan o‘tadi. Adolatli shartlar va 24/7 qo‘llab-quvvatlashni kafolatlaymiz.',
+    readyJoin: 'Savollar bormi? Klubga qo‘shilishga tayyormisiz?',
+    weAreHere: 'Barcha bitimlar bepul. Klubga a’zolik KYC talab qilmaydi (hujjatlar kerak emas).',
+    weAreHereNoKyc: `Qo‘shimcha imtiyozlar va ro‘yxatdan o‘tish havolasini oling.`,
+    weAreHere2: `PDH menejeriga yozing — 24/7 onlaynmiz.`,
+    tgContact: 'Telegramda yozish',
+    waContact: 'WhatsAppda yozish',
   },
 };
 
