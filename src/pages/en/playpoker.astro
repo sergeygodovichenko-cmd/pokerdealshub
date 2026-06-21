@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import dealsData from '../../data/deals.json';
+import { getDeals } from '../../utils/deals';
+const dealsData = await getDeals();
 
 const telegramLink = 'https://t.me/pokerdealshub?text=Hello!%20I%20want%20to%20choose%20a%20deal';
 

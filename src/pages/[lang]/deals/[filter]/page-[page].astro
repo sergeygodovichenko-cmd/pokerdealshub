@@ -1,0 +1,41 @@
+---
+import DealCard from "../../../../components/DealCard.astro";
+import { getDeals } from "../../../../utils/deals";
+import { locales } from "../../../../i18n/ui";
+import { dealsConfig } from "../../../../config/dealsConfig.js";
+import { filterDeals } from "../../../../utils/filterDeals.js";
+import { FILTERS } from "../../../../config/filters.js";
+
+export async function getStaticPaths() {
+  const deals = await getDeals();
+  const perPage = dealsConfig.perPage;
+  const paths = [];
+  for (const lang of locales) {
+    for (const filter of FILTERS) {
+      const totalPages = Math.ceil(filterDeals(deals, filter, lang).length / perPage);
+      for (let i = 1; i < totalPages; i++) paths.push({ params: { lang, filter, page: String(i) } });
+    }
+  }
+  return paths;
+}
+
+const { lang, filter, page } = Astro.params;
+const currentPage = Number(page);
+const perPage = dealsConfig.perPage;
+const sorted = [...filterDeals(await getDeals(), filter, lang)].sort(dealsConfig.sortDeals);
+const slice = sorted.slice(currentPage * perPage, currentPage * perPage + perPage);
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <title>{filter} — page {currentPage + 1}</title>
+    <meta name="robots" content="noindex, follow" />
+  </head>
+  <body class="bg-neutral-950 text-neutral-100 font-sans p-4">
+    <div id="deals-list" class="flex flex-col gap-4">
+      {slice.map((deal) => (<DealCard deal={deal} />))}
+    </div>
+  </body>
+</html>

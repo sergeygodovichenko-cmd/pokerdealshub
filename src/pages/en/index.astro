@@ -1,12 +1,13 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import DealCard from '../../components/DealCard.astro';
-import deals from '../../data/deals.json';
+import { getDeals } from '../../utils/deals';
 import { getCollection } from 'astro:content';
 import { localizeGuide } from '../../utils/dealHelpers';
 import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
+const deals = (await getDeals()).sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
 const guides = (await getCollection('guides', ({ data }) => !data.draft))
   .map((e) => ({ slug: e.id, date: e.data.date, ...localizeGuide(e.data, lang) }))
   .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());

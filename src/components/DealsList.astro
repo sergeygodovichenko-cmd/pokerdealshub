@@ -1,5 +1,5 @@
 ---
-import deals from "../data/deals.json";
+import { getDeals } from "../utils/deals";
 import { dealsConfig } from "../config/dealsConfig.js";
 import DealCard from "./DealCard.astro";
 
@@ -22,7 +22,7 @@ const {
 // 🔹 Берём переданные сделки (отфильтрованные и отсортированные)
 const sorted = dealsOverride
   ? dealsOverride
-  : [...deals].sort(dealsConfig.sortDeals);
+  : [...(await getDeals())].sort(dealsConfig.sortDeals);
 
 const totalPages = Math.ceil(sorted.length / perPage);
 const start = currentPage * perPage;
