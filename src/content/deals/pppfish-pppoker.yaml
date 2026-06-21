@@ -322,6 +322,154 @@ i18n:
         <li><strong>%35 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
     srcHash: 3c59e7458fde
+  he:
+    name: דיל באיחוד PPPfish ב-PPPoker
+    description: דיל באיחוד אוסטרלי גדול עם הרבה שחקנים לוזיים. הרכבים טובים ב-PLO5 וב-PLO6, ורייקבק מצוין.
+    geo: אוסטרליה, אוקיאניה
+    body: >-
+      <h3>תיאור</h3>
+
+      <p>דיל פוקר במועדון Kangaroo, שנמצא באיחוד הידוע PPPFish ב-PPPoker. במועדון משחקים בעיקר אוסטרלים וסינים.</p>
+
+
+      <h3>על האיחוד PPPFish ב-PPPoker</h3>
+
+      <p>PPPFish הוא האיחוד האוסטרלי הגדול ביותר, שבו משחקים בעיקר שחקנים רקריאציוניים מסין ומאוסטרליה. האיחוד מפורסם
+      בשדה הרך שלו בטורנירים וב-Omaha.</p>
+
+      <p>דיסציפלינות זמינות: NLH, PLO4/5/6, MTT וכן המודיפיירים Bomb Pot, Pot Or Fold ו-Double Board. משחק פעיל מתנהל
+      בעיקר בין השעות 7:00 ל-14:00 לפי GMT (UTC+0).</p>
+
+
+      <h3>על הדיל</h3>
+
+      <p>השחקנים יכולים לבחור בין:</p>
+
+      <ul>
+        <li><strong>רייקבק דינמי עד 55%</strong> הרייקבק תלוי בנפח הרייק השבועי.</li>
+        <li><strong>רייקבק קבוע 35%</strong> אפשרות להתחיל לשחק עם יתרון מיד לאחר ההרשמה. בהמשך אפשר לעבור לרייקבק הדינמי.</li>
+      </ul>
+    srcHash: 3c59e7458fde
+  ar:
+    name: صفقة في اتحاد PPPfish على PPPoker
+    description: صفقة في اتحاد أسترالي كبير يضم عددًا كبيرًا من اللاعبين الفضفاضين. تشكيلات رائعة في PLO5 وPLO6 ورِيك باك ممتاز.
+    geo: أستراليا، أوقيانوسيا
+    body: >-
+      <h3>الوصف</h3>
+
+      <p>صفقة بوكر في نادي Kangaroo التابع للاتحاد المعروف PPPFish على PPPoker. يلعب في النادي بشكل أساسي لاعبون من
+      أستراليا والصين.</p>
+
+
+      <h3>عن اتحاد PPPFish على PPPoker</h3>
+
+      <p>PPPFish هو أكبر اتحاد أسترالي، ويلعب فيه في الغالب لاعبون ترفيهيون من الصين وأستراليا. يشتهر الاتحاد بحقله
+      السهل في البطولات وفي Omaha.</p>
+
+      <p>التخصصات المتاحة: NLH وPLO4/5/6 وMTT بالإضافة إلى مُعدِّلات Bomb Pot وPot Or Fold وDouble Board. يجري اللعب
+      النشط غالبًا بين الساعة 7:00 و14:00 بتوقيت GMT (UTC+0).</p>
+
+
+      <h3>عن الصفقة</h3>
+
+      <p>يُتاح للاعبين الاختيار بين:</p>
+
+      <ul>
+        <li><strong>رِيك باك ديناميكي حتى 55%</strong> يعتمد الرِيك باك على حجم الرِيك الأسبوعي.</li>
+        <li><strong>رِيك باك ثابت 35%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا التحول إلى الرِيك باك الديناميكي.</li>
+      </ul>
+    srcHash: 3c59e7458fde
+  id:
+    name: Deal di union PPPfish pada PPPoker
+    description: >-
+      Deal di union Australia besar dengan banyak pemain loose. Lineup yang bagus di PLO5 dan PLO6, serta rakeback yang
+      sangat baik.
+    geo: Australia, Oseania
+    body: >-
+      <h3>Deskripsi</h3>
+
+      <p>Deal poker di club Kangaroo yang tergabung dalam union ternama PPPFish di PPPoker. Pemain di club ini sebagian
+      besar berasal dari Australia dan China.</p>
+
+
+      <h3>Tentang union PPPFish di PPPoker</h3>
+
+      <p>PPPFish adalah union Australia terbesar yang sebagian besar diisi pemain rekreasional dari China dan Australia.
+      Union ini terkenal dengan field-nya yang lunak di turnamen dan Omaha.</p>
+
+      <p>Disiplin yang tersedia: NLH, PLO4/5/6, MTT, serta modifier Bomb Pot, Pot Or Fold, dan Double Board. Permainan
+      aktif berlangsung terutama pukul 7.00 – 14.00 GMT (UTC+0).</p>
+
+
+      <h3>Tentang deal</h3>
+
+      <p>Pemain dapat memilih:</p>
+
+      <ul>
+        <li><strong>Rakeback dinamis hingga 55%</strong> Rakeback bergantung pada volume rake mingguan.</li>
+        <li><strong>Rakeback tetap 35%</strong> Mulai bermain dengan keuntungan langsung setelah mendaftar. Nantinya kamu bisa beralih ke rakeback dinamis.</li>
+      </ul>
+    srcHash: 3c59e7458fde
+  vi:
+    name: Deal tại union PPPfish trên PPPoker
+    description: Deal trong một union lớn của Úc với rất nhiều người chơi loose. Bàn chơi tốt ở PLO5 và PLO6, rakeback tuyệt vời.
+    geo: Úc, Châu Đại Dương
+    body: >-
+      <h3>Mô tả</h3>
+
+      <p>Deal poker tại club Kangaroo thuộc union nổi tiếng PPPFish trên PPPoker. Người chơi tại club chủ yếu là người
+      Úc và người Trung Quốc.</p>
+
+
+      <h3>Về union PPPFish trên PPPoker</h3>
+
+      <p>PPPFish là union lớn nhất của Úc, nơi chủ yếu là người chơi giải trí đến từ Trung Quốc và Úc. Union nổi tiếng
+      với field mềm ở các giải đấu và ở Omaha.</p>
+
+      <p>Các bộ môn có sẵn: NLH, PLO4/5/6, MTT cùng với các modifier Bomb Pot, Pot Or Fold và Double Board. Hoạt động
+      chơi diễn ra chủ yếu từ 7:00 – 14:00 theo giờ GMT (UTC+0).</p>
+
+
+      <h3>Về deal</h3>
+
+      <p>Người chơi có thể lựa chọn:</p>
+
+      <ul>
+        <li><strong>Rakeback linh hoạt lên đến 55%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
+        <li><strong>Rakeback cố định 35%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang rakeback linh hoạt.</li>
+      </ul>
+    srcHash: 3c59e7458fde
+  fil:
+    name: Deal sa union na PPPfish sa PPPoker
+    description: >-
+      Deal sa isang malaking Australian union na may maraming loose na manlalaro. Magagandang lineup sa PLO5 at PLO6, at
+      napakahusay na rakeback.
+    geo: Australia, Oceania
+    body: >-
+      <h3>Paglalarawan</h3>
+
+      <p>Deal sa poker sa club na Kangaroo na bahagi ng kilalang union na PPPFish sa PPPoker. Sa club na ito, karamihan
+      sa mga naglalaro ay mga Australian at Chinese.</p>
+
+
+      <h3>Tungkol sa union na PPPFish sa PPPoker</h3>
+
+      <p>Ang PPPFish ang pinakamalaking Australian union kung saan karamihan ay mga recreational na manlalaro mula China
+      at Australia. Kilala ang union sa malambot nitong field sa mga torneo at sa Omaha.</p>
+
+      <p>Mga available na disiplina: NLH, PLO4/5/6, MTT pati na ang mga modifier na Bomb Pot, Pot Or Fold at Double
+      Board. Pangunahing aktibo ang laro tuwing 7:00 – 14:00 sa GMT (UTC+0).</p>
+
+
+      <h3>Tungkol sa deal</h3>
+
+      <p>Maaaring pumili ang mga manlalaro:</p>
+
+      <ul>
+        <li><strong>Dynamic na rakeback hanggang 55%</strong> Nakadepende ang rakeback sa lingguhang volume ng rake.</li>
+        <li><strong>Fixed na rakeback na 35%</strong> Magsimulang maglaro nang may bentahe kaagad pagkatapos magrehistro. Maaari kang lumipat sa dynamic na rakeback sa bandang huli.</li>
+      </ul>
+    srcHash: 3c59e7458fde
 body: >-
   <h3>Описание</h3>
 

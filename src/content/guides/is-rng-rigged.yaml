@@ -1426,3 +1426,718 @@ i18n:
 
       </article>
     srcHash: 3faf96a7a6f4
+  he:
+    title: ה-RNG מכוון, המשחק לא הוגן — בואו נבין מה באמת קורה
+    description: >-
+      למה נדמה ש-RNG מכוון? מנתחים שונות, זיכרון סלקטיבי ועומס רייק. מחשבים סטיית תקן ומראים איך רייקבק של עד 70% הופך
+      מינוס לפלוס.
+    body: |-
+      <article>
+          
+
+          <p>אול-אין חמישי ברציפות שהפסדת. שעתיים בלי שום פגיעה בפלופ. כל יד כאילו כתובה נגדך.
+          עולה המחשבה המוכרת: <em>«ה-RNG בטוח מכוון».</em>
+          כדי להבין, בואו נסתכל ברוגע למי זה עשוי להשתלם, איך לבדוק את הגינות המשחק ומה באמת עומד מאחורי התחושה הזו.</p>
+
+          <h2>💸 האם משתלם לחדר "לכוונן"?</h2>
+
+          <p>במבט ראשון — כן. אם לדגים יש מזל, הם שורדים יותר זמן וממשיכים להזרים כסף. הרגולרים רואים שדה פעיל, חושבים שפשוט לא הולך להם הקלף, ונשארים ליד השולחנות. כולם משחקים — הרייק זורם.</p>
+
+          <p>בפועל זו תועלת קצרת טווח וקריסה ארוכת טווח. ברגע שהשחקנים המנוסים יתחילו לנתח סטטיסטיקה, האמת תתגלה, והמוניטין של החדר ייהרס. בדיוק בגלל זה פלטפורמות גדולות כמו <a href="/he/deals/clubgg">ClubGG</a>, <a href="/he/deals/pppoker">PPPoker</a>, <a href="/he/deals/pokerbros">PokerBros</a> ו-<a href="/he/deals/xpoker">X-Poker</a> משתמשות במחוללי מספרים אקראיים מוסמכים, שנבדקים על ידי iTechLabs ו-GLI. אין שום היגיון לזייף אותם: הרווח נמשך דקה, וההפסדים — לנצח.</p>
+
+          <h2>🧮 איך לבדוק אם הכול הוגן</h2>
+
+          <p>הדרך הפשוטה ביותר — לנתח את היסטוריית הידיים. צריך להסתכל לא על הרגשות, אלא על המספרים.</p>
+
+          <ul>
+            <li><strong>PokerCraft</strong> — מובנה ב-ClubGG וב-GGPoker;</li>
+            <li><strong>PokerTracker 4</strong> ו-<strong>Hand2Note</strong> — מתאימים ל-PPPoker ו-PokerBros (דרך ייבוא של היסטוריית ידיים);</li>
+            <li><strong>DriveHUD 2</strong> — חלופה נוחה עם ניתוח חזותי של EV.</li>
+          </ul>
+
+          <p>טען לפחות 50,000 ידיים והשווה את הגרפים של <strong>All-in EV</strong> ושל התוצאה האמיתית. אם לאורך הטווח הם מתכנסים — ה-RNG עובד בהגינות.
+          אם הפער עקבי ועצום — אז אפשר להעמיק בחפירה. ותאמינו לי, אם שחקנים מקצוענים היו מוצאים פערים כאלה, הם בוודאי היו מנתחים נתונים ממאות חשבונות ומפרסמים חומרים חושפניים באתרי הפוקר היוקרתיים ביותר.</p>
+
+          <p>וכדי להפיק את המקסימום ממשחק הוגן — השתמשו ברייקבק. ב-<a href="/he/deals/">PokerDealsHub</a> נאספו ההצעות הטובות ביותר עבור <a href="/he/deals/pppoker">PPPoker</a>, <a href="/he/deals/clubgg">ClubGG</a>, <a href="/he/deals/xpoker">X-Poker</a> ו-<a href="/he/deals/pokerbros">PokerBros</a>. עסקאות עם החזר של עד <strong>70%</strong> קיימות באמת ומשנות את כלכלת המשחק.</p>
+
+          <h2>📉 אז אם זה לא כיוונון, אז מה כן?</h2>
+
+          <h3>1. שונות</h3>
+          <p>גם משחק מושלם לא מגן מפני רצף מינוס. זו לא קונספירציה, אלא סטטיסטיקה.</p>
+
+          <ul>
+            <li><strong>NL50</strong> — שונות של כ-80 BB/100. על פני 400 ידיים סטיית התקן (σ) ≈ √4 × 80 = 160 BB ≈ $80.</li>
+            <li><strong>PLO5 50</strong> — שונות של כ-175 BB/100. σ ≈ √4 × 175 = 350 BB ≈ $175.</li>
+          </ul>
+
+          <p>ההסתברות לשחק גרוע יותר מ-1σ (−$80 ב-NL50) היא בערך <strong>16%</strong>.  
+            גרוע יותר מ-2σ (−$160 ב-NL50 או −$350 ב-PLO5) — בערך <strong>2.5%</strong>.  
+            במילים אחרות, בערך כל סשן קצר ארבעים יתחושה מקולל.  
+            זה אפילו <strong>סביר יותר מאשר לתפוס אאוט אחד על הריבר</strong> — וריברים כאלה, כידוע לנו, קורים כל הזמן.  
+            ב-PLO השונות גבוהה יותר מלכתחילה — התנודות יכולות להיות עד <strong>פי 1.5 חזקות יותר</strong> מאשר בהולדם,  
+            ולכן הירידות שם מורגשות כואבות במיוחד, גם עם RNG הוגן לחלוטין.</p>
+          
+          <h3>2. זיכרון סלקטיבי</h3>
+          <p>אנחנו זוכרים את הכאב, לא את הנורמה. חמישה אול-אין מופסדים מעוררים סערת רגשות, וחמישה זכיות ברציפות עוברות בלי שנשים לב. בלי טרקר וסטטיסטיקה התפיסה תמיד תהיה מעוותת.</p>
+
+          <h3>3. עומס רייק</h3>
+          <p>הנה האויב האמיתי.
+          תארו לעצמכם: אתם משחקים NL50 עם winrate של +8 BB/100, אבל החדר גובה רייק של 10 BB/100.
+          בסופו של דבר אתם מפסידים 2 BB/100 ומתחילים לפקפק בכול — אף שהסיבה היא מתמטית גרידא.</p>
+
+          <h2>💰 איך רייקבק משנה את התמונה</h2>
+
+          <p>נוסיף רייקבק של 60% — עסקה ריאלית לחלוטין לשחקנים קבועים:</p>
+          <style>
+            table {
+              width: 100%;
+              border-collapse: collapse;
+              margin: 1.5rem 0;
+              font-size: 0.95rem;
+              color: #d0d0d0;
+            }
+            th, td {
+              border: 1px solid #333;
+              padding: 0.6rem 0.8rem;
+              text-align: left;
+            }
+            th {
+              background: #1a1a1a;
+              color: #f1c76e;
+              font-weight: 600;
+            }
+            tr:nth-child(even) {
+              background: #0f0f0f;
+            }
+            tr:nth-child(odd) {
+              background: #111;
+            }
+            table strong {
+              color: #f1c76e;
+            }
+          </style>
+          
+          <table>
+            <tr><th>מדד</th><th>ערך</th></tr>
+            <tr><td>Winrate לפני רייק</td><td>+8 BB/100</td></tr>
+            <tr><td>רייק</td><td>10 BB/100</td></tr>
+            <tr><td>Winrate ללא רייקבק </td><td>-2 BB/100</td></tr>
+            <tr><td>רייקבק</td><td>60%</td></tr>
+            <tr><td>Winrate אפקטיבי אחרי רייקבק</td><td><strong>+4 BB/100</strong></td></tr>
+            
+          </table>
+
+          <p>עכשיו נתרגם לכסף, עבור NL50 (בליינד $0.5, 200 ידיים בשעה, 4 שולחנות):</p>
+          <ul>
+            <li>ללא רייקבק: −2 × 0.5 × 200 / 100 = <strong>−$2 בשעה</strong></li>
+            <li>עם רייקבק של 60%: +4 × 0.5 × 200 / 100 = <strong>+$4 בשעה</strong></li>
+          </ul>
+
+          <p>ההפרש — $6 בשעה, או בערך $500-$1200 בחודש, תלוי כמה ובאילו לימיטים אתם משחקים.
+          כדי לקבל תנאים כאלה, די לבחור עסקה עם רייקבק של עד 70% ב-<a href="/he/deals/">PokerDealsHub</a> — שם נאספו מועדונים ואיגודים מאומתים עבור כל האפליקציות הגדולות.</p>
+
+          <h2>🎯 מסקנה</h2>
+
+          <p>ה-RNG אינו האויב. האויב — השונות, הזיכרון הסלקטיבי והרייק ללא רייקבק.
+          אפשר לבדוק כל מועדון באמצעות מספרים: ניתוח EV מראה שערבוב הקלפים נשאר הוגן.
+          ואם אתה רוצה שמשחק הוגן יניב רווח — הסתכל על <a href="/he/deals/">עסקאות הרייקבק העדכניות</a> ובחר איגוד אמין, למשל <a href="/he/deals/nuts-primetime">Nuts PrimeTime</a>, <a href="/he/deals/eldorado">ElDorado</a> או <a href="/he/deals/pppfish">PPPFish</a>. האיגודים האלה מחזיקים באופן יציב תנועה גבוהה ותנאים הוגנים.</p>
+
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "ה-RNG מכוון, המשחק לא הוגן. בואו נבין מה באמת קורה",
+            "description": "למה נדמה ש-RNG מכוון? מנתחים את השפעת השונות, הזיכרון הסלקטיבי והרייק. מחשבים סטיית תקן ב-NL50 וב-PLO5, מסבירים איך רייקבק של עד 70% הופך מינוס לפלוס. אוספי העסקאות והמועדונים הטובים ביותר של PokerDealsHub.",
+            "author": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "url": "https://pokerdealshub.com"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://pokerdealshub.com/logo.png"
+              }
+            },
+            "datePublished": "2025-11-05",
+            "dateModified": "2025-11-05",
+            "inLanguage": "he"
+          }
+          </script>
+
+        </article>
+    srcHash: 3faf96a7a6f4
+  ar:
+    title: مولد RNG مُتلاعب به واللعبة غير عادلة — لنفهم ما يحدث حقًا
+    description: >-
+      لماذا يبدو أن RNG مُتلاعب به؟ نحلل التباين والذاكرة الانتقائية وعبء الرَّيك. نحسب الانحراف المعياري ونوضح كيف
+      يحوّل الرَّيكباك حتى 70% الخسارة إلى ربح.
+    body: |-
+      <article>
+          
+
+          <p>خامس أول-إن متتالٍ تخسره. ساعتان دون أي إصابة في الفلوب. كل يد وكأنها مكتوبة ضدك.
+          تطرأ الفكرة المألوفة: <em>«RNG بالتأكيد مُتلاعب به».</em>
+          لنفهم الأمر، دعنا ننظر بهدوء إلى من قد يستفيد من ذلك، وكيف نتحقق من نزاهة اللعبة، وما الذي يقف فعلًا خلف هذا الإحساس.</p>
+
+          <h2>💸 هل من مصلحة الغرفة أن "تتلاعب"؟</h2>
+
+          <p>للوهلة الأولى — نعم. إذا حالف الحظ الأسماك، فإنها تبقى مدة أطول وتواصل ضخ الأموال. أما المحترفون فيرون حقلًا نشطًا، ويظنون أن الورق فقط لا يأتيهم، فيبقون على الطاولات. الجميع يلعب — والرَّيك يتدفق.</p>
+
+          <p>في الواقع هذه منفعة قصيرة الأمد وانهيار طويل الأمد. بمجرد أن يبدأ اللاعبون المتمرسون بتحليل الإحصاءات، ستنكشف الحقيقة، وستُدمَّر سمعة الغرفة. ولهذا السبب بالذات تستخدم المنصات الكبرى مثل <a href="/ar/deals/clubgg">ClubGG</a> و<a href="/ar/deals/pppoker">PPPoker</a> و<a href="/ar/deals/pokerbros">PokerBros</a> و<a href="/ar/deals/xpoker">X-Poker</a> مولدات أرقام عشوائية معتمدة، تُفحص من قِبل iTechLabs وGLI. لا جدوى من تزييفها: المكسب لحظي، والخسائر إلى الأبد.</p>
+
+          <h2>🧮 كيف تتحقق من أن كل شيء عادل</h2>
+
+          <p>أبسط طريقة — تحليل سجل الأيدي. يجب النظر لا إلى المشاعر بل إلى الأرقام.</p>
+
+          <ul>
+            <li><strong>PokerCraft</strong> — مدمج في ClubGG وGGPoker؛</li>
+            <li><strong>PokerTracker 4</strong> و<strong>Hand2Note</strong> — مناسبان لـ PPPoker وPokerBros (عبر استيراد سجل الأيدي)؛</li>
+            <li><strong>DriveHUD 2</strong> — بديل مريح مع تحليل بصري لـ EV.</li>
+          </ul>
+
+          <p>حمّل ما لا يقل عن 50,000 يد وقارن بين رسومات <strong>All-in EV</strong> والنتيجة الفعلية. إذا تقاربتا على المدى الطويل — فإن RNG يعمل بنزاهة.
+          أما إذا كان التباين ثابتًا وهائلًا — فحينها يمكن التعمق في البحث. وصدقني، لو وجد اللاعبون المحترفون مثل هذه الفروقات، لكانوا بالتأكيد قد حللوا بيانات مئات الحسابات ونشروا مواد فاضحة على أشهر مواقع البوكر الموثوقة.</p>
+
+          <p>ولكي تحصل على أقصى استفادة من اللعب العادل — استخدم الرَّيكباك. على <a href="/ar/deals/">PokerDealsHub</a> جُمعت أفضل العروض لـ <a href="/ar/deals/pppoker">PPPoker</a> و<a href="/ar/deals/clubgg">ClubGG</a> و<a href="/ar/deals/xpoker">X-Poker</a> و<a href="/ar/deals/pokerbros">PokerBros</a>. صفقات بإرجاع حتى <strong>70%</strong> موجودة فعلًا وتغيّر اقتصاد اللعبة.</p>
+
+          <h2>📉 إذًا إن لم يكن تلاعبًا، فما هو؟</h2>
+
+          <h3>1. التباين</h3>
+          <p>حتى اللعب المثالي لا يحمي من سلسلة خاسرة. هذه ليست مؤامرة، بل إحصاء.</p>
+
+          <ul>
+            <li><strong>NL50</strong> — تباين بنحو 80 BB/100. على مدى 400 يد يكون الانحراف المعياري (σ) ≈ √4 × 80 = 160 BB ≈ $80.</li>
+            <li><strong>PLO5 50</strong> — تباين بنحو 175 BB/100. σ ≈ √4 × 175 = 350 BB ≈ $175.</li>
+          </ul>
+
+          <p>احتمال أن تلعب أسوأ من 1σ (−$80 على NL50) يبلغ نحو <strong>16%</strong>.  
+            وأسوأ من 2σ (−$160 على NL50 أو −$350 على PLO5) — نحو <strong>2.5%</strong>.  
+            بعبارة أخرى، نحو كل جلسة قصيرة من بين أربعين ستبدو ملعونة.  
+            وهذا <strong>أكثر احتمالًا من إصابة أوت واحد على الريفر</strong> — وهذه الريفرات، كما نعلم، تحدث باستمرار.  
+            أما في PLO فالتباين أعلى أصلًا — وقد تكون التقلبات أقوى بمقدار <strong>1.5 مرة</strong> منها في الهولدم،  
+            ولذلك تُشعَر الهبوطات هناك بألم خاص، حتى مع RNG عادل تمامًا.</p>
+          
+          <h3>2. الذاكرة الانتقائية</h3>
+          <p>نتذكر الألم، لا المعتاد. خمسة أول-إن خاسرة تثير عاصفة من المشاعر، بينما تمرّ خمسة انتصارات متتالية دون أن نلاحظها. بدون متعقّب وإحصاء سيظل الإدراك مشوّهًا دائمًا.</p>
+
+          <h3>3. عبء الرَّيك</h3>
+          <p>ها هو العدو الحقيقي.
+          تخيّل: تلعب NL50 بمعدل winrate يبلغ +8 BB/100، لكن الغرفة تأخذ رَيكًا قدره 10 BB/100.
+          في النهاية تخسر 2 BB/100 وتبدأ بالشك في كل شيء — رغم أن السبب رياضي بحت.</p>
+
+          <h2>💰 كيف يغيّر الرَّيكباك الصورة</h2>
+
+          <p>لنضِف رَيكباك 60% — صفقة واقعية تمامًا للاعبين الدائمين:</p>
+          <style>
+            table {
+              width: 100%;
+              border-collapse: collapse;
+              margin: 1.5rem 0;
+              font-size: 0.95rem;
+              color: #d0d0d0;
+            }
+            th, td {
+              border: 1px solid #333;
+              padding: 0.6rem 0.8rem;
+              text-align: left;
+            }
+            th {
+              background: #1a1a1a;
+              color: #f1c76e;
+              font-weight: 600;
+            }
+            tr:nth-child(even) {
+              background: #0f0f0f;
+            }
+            tr:nth-child(odd) {
+              background: #111;
+            }
+            table strong {
+              color: #f1c76e;
+            }
+          </style>
+          
+          <table>
+            <tr><th>المؤشر</th><th>القيمة</th></tr>
+            <tr><td>Winrate قبل الرَّيك</td><td>+8 BB/100</td></tr>
+            <tr><td>الرَّيك</td><td>10 BB/100</td></tr>
+            <tr><td>Winrate بدون رَيكباك </td><td>-2 BB/100</td></tr>
+            <tr><td>الرَّيكباك</td><td>60%</td></tr>
+            <tr><td>Winrate فعّال بعد الرَّيكباك</td><td><strong>+4 BB/100</strong></td></tr>
+            
+          </table>
+
+          <p>الآن لنحوّل ذلك إلى أموال، بالنسبة لـ NL50 (بليند $0.5، 200 يد في الساعة، 4 طاولات):</p>
+          <ul>
+            <li>بدون رَيكباك: −2 × 0.5 × 200 / 100 = <strong>−$2 في الساعة</strong></li>
+            <li>مع رَيكباك 60%: +4 × 0.5 × 200 / 100 = <strong>+$4 في الساعة</strong></li>
+          </ul>
+
+          <p>الفرق — $6 في الساعة، أو نحو $500-$1200 شهريًا، بحسب كم تلعب وعلى أي حدود.
+          وللحصول على هذه الشروط، يكفي اختيار صفقة برَيكباك حتى 70% على <a href="/ar/deals/">PokerDealsHub</a> — حيث جُمعت نوادٍ واتحادات موثوقة لكل التطبيقات الكبرى.</p>
+
+          <h2>🎯 الخلاصة</h2>
+
+          <p>RNG ليس العدو. العدو هو التباين والذاكرة الانتقائية والرَّيك بلا رَيكباك.
+          يمكن التحقق من أي ناد بالأرقام: تحليل EV يُظهر أن خلط الورق يبقى عادلًا.
+          وإذا أردت أن يجلب لك اللعب العادل ربحًا — اطّلع على <a href="/ar/deals/">صفقات الرَّيكباك المحدثة</a> واختر اتحادًا موثوقًا، مثل <a href="/ar/deals/nuts-primetime">Nuts PrimeTime</a> أو <a href="/ar/deals/eldorado">ElDorado</a> أو <a href="/ar/deals/pppfish">PPPFish</a>. تحافظ هذه الاتحادات باستمرار على حركة مرور عالية وشروط عادلة.</p>
+
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "مولد RNG مُتلاعب به واللعبة غير عادلة. لنفهم ما يحدث حقًا",
+            "description": "لماذا يبدو أن RNG مُتلاعب به؟ نحلل تأثير التباين والذاكرة الانتقائية والرَّيك. نحسب الانحراف المعياري على NL50 وPLO5، ونوضح كيف يحوّل الرَّيكباك حتى 70% الخسارة إلى ربح. مجموعات أفضل الصفقات والنوادي من PokerDealsHub.",
+            "author": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "url": "https://pokerdealshub.com"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://pokerdealshub.com/logo.png"
+              }
+            },
+            "datePublished": "2025-11-05",
+            "dateModified": "2025-11-05",
+            "inLanguage": "ar"
+          }
+          </script>
+
+        </article>
+    srcHash: 3faf96a7a6f4
+  id:
+    title: RNG diatur, permainan tidak adil — mari pahami apa yang sebenarnya terjadi
+    description: >-
+      Mengapa RNG terasa diatur? Kita bahas varians, memori selektif, dan beban rake. Kita hitung deviasi standar dan
+      tunjukkan bagaimana rakeback hingga 70% mengubah minus menjadi plus.
+    body: |-
+      <article>
+          
+
+          <p>All-in kelima berturut-turut yang kalah. Dua jam tanpa kena flop sama sekali. Setiap tangan seakan ditulis untuk melawan Anda.
+          Muncul pikiran yang akrab: <em>«RNG pasti diatur».</em>
+          Untuk memahaminya, mari kita lihat dengan tenang siapa yang mungkin diuntungkan, bagaimana memeriksa kejujuran permainan, dan apa yang sebenarnya ada di balik perasaan ini.</p>
+
+          <h2>💸 Apakah menguntungkan bagi room untuk "mengatur"?</h2>
+
+          <p>Sekilas — ya. Jika fish beruntung, mereka bertahan lebih lama dan terus menyetor uang. Para reg melihat lapangan yang aktif, mengira mereka hanya sedang tidak dapat kartu, dan tetap bertahan di meja. Semua bermain — rake terus mengalir.</p>
+
+          <p>Kenyataannya ini keuntungan jangka pendek dan keruntuhan jangka panjang. Begitu pemain berpengalaman mulai menganalisis statistik, kebenaran akan terungkap, dan reputasi room akan hancur. Justru karena itulah platform besar seperti <a href="/id/deals/clubgg">ClubGG</a>, <a href="/id/deals/pppoker">PPPoker</a>, <a href="/id/deals/pokerbros">PokerBros</a>, dan <a href="/id/deals/xpoker">X-Poker</a> menggunakan generator angka acak bersertifikat, yang diaudit oleh iTechLabs dan GLI. Tidak ada gunanya memalsukannya: keuntungannya sesaat, kerugiannya selamanya.</p>
+
+          <h2>🧮 Cara memeriksa apakah semuanya adil</h2>
+
+          <p>Cara paling sederhana — menganalisis riwayat tangan. Yang perlu dilihat bukan emosi, melainkan angka.</p>
+
+          <ul>
+            <li><strong>PokerCraft</strong> — terintegrasi di ClubGG dan GGPoker;</li>
+            <li><strong>PokerTracker 4</strong> dan <strong>Hand2Note</strong> — cocok untuk PPPoker dan PokerBros (melalui impor riwayat tangan);</li>
+            <li><strong>DriveHUD 2</strong> — alternatif yang nyaman dengan analisis visual EV.</li>
+          </ul>
+
+          <p>Muat setidaknya 50.000 tangan dan bandingkan grafik <strong>All-in EV</strong> dengan hasil sebenarnya. Jika dalam jangka panjang keduanya menyatu — RNG bekerja dengan jujur.
+          Jika selisihnya konsisten dan sangat besar — barulah Anda bisa menggali lebih dalam. Dan percayalah, jika pemain profesional menemukan selisih seperti itu, mereka pasti sudah menganalisis data ratusan akun dan merilis materi pengungkapan di situs poker paling tepercaya.</p>
+
+          <p>Dan untuk mendapatkan hasil maksimal dari permainan yang adil — manfaatkan rakeback. Di <a href="/id/deals/">PokerDealsHub</a> terkumpul penawaran terbaik untuk <a href="/id/deals/pppoker">PPPoker</a>, <a href="/id/deals/clubgg">ClubGG</a>, <a href="/id/deals/xpoker">X-Poker</a>, dan <a href="/id/deals/pokerbros">PokerBros</a>. Deal dengan pengembalian hingga <strong>70%</strong> benar-benar ada dan mengubah ekonomi permainan.</p>
+
+          <h2>📉 Jadi kalau bukan diatur, lalu apa?</h2>
+
+          <h3>1. Varians</h3>
+          <p>Bahkan permainan sempurna pun tidak melindungi dari rentetan minus. Ini bukan konspirasi, melainkan statistik.</p>
+
+          <ul>
+            <li><strong>NL50</strong> — varians sekitar 80 BB/100. Selama 400 tangan, deviasi standar (σ) ≈ √4 × 80 = 160 BB ≈ $80.</li>
+            <li><strong>PLO5 50</strong> — varians sekitar 175 BB/100. σ ≈ √4 × 175 = 350 BB ≈ $175.</li>
+          </ul>
+
+          <p>Kemungkinan bermain lebih buruk dari 1σ (−$80 di NL50) sekitar <strong>16%</strong>.  
+            Lebih buruk dari 2σ (−$160 di NL50 atau −$350 di PLO5) — sekitar <strong>2,5%</strong>.  
+            Dengan kata lain, kira-kira setiap sesi pendek ke-empat puluh akan terasa terkutuk.  
+            Ini bahkan <strong>lebih mungkin daripada menangkap satu out di river</strong> — dan river semacam itu, seperti kita tahu, terjadi terus-menerus.  
+            Di PLO sendiri variansnya memang lebih tinggi — fluktuasinya bisa hingga <strong>1,5 kali lebih kuat</strong> daripada di Hold'em,  
+            sehingga penurunan di sana terasa sangat menyakitkan, bahkan dengan RNG yang sepenuhnya jujur.</p>
+          
+          <h3>2. Memori selektif</h3>
+          <p>Kita mengingat rasa sakit, bukan keadaan normal. Lima all-in yang kalah menimbulkan badai emosi, sementara lima kemenangan beruntun berlalu tanpa kita sadari. Tanpa tracker dan statistik, persepsi akan selalu terdistorsi.</p>
+
+          <h3>3. Beban rake</h3>
+          <p>Inilah musuh sebenarnya.
+          Bayangkan: Anda bermain NL50 dengan winrate +8 BB/100, tetapi room mengambil rake 10 BB/100.
+          Akhirnya Anda kalah 2 BB/100 dan mulai meragukan segalanya — padahal penyebabnya murni matematis.</p>
+
+          <h2>💰 Bagaimana rakeback mengubah gambarannya</h2>
+
+          <p>Mari tambahkan rakeback 60% — deal yang sepenuhnya realistis untuk pemain tetap:</p>
+          <style>
+            table {
+              width: 100%;
+              border-collapse: collapse;
+              margin: 1.5rem 0;
+              font-size: 0.95rem;
+              color: #d0d0d0;
+            }
+            th, td {
+              border: 1px solid #333;
+              padding: 0.6rem 0.8rem;
+              text-align: left;
+            }
+            th {
+              background: #1a1a1a;
+              color: #f1c76e;
+              font-weight: 600;
+            }
+            tr:nth-child(even) {
+              background: #0f0f0f;
+            }
+            tr:nth-child(odd) {
+              background: #111;
+            }
+            table strong {
+              color: #f1c76e;
+            }
+          </style>
+          
+          <table>
+            <tr><th>Indikator</th><th>Nilai</th></tr>
+            <tr><td>Winrate sebelum rake</td><td>+8 BB/100</td></tr>
+            <tr><td>Rake</td><td>10 BB/100</td></tr>
+            <tr><td>Winrate tanpa rakeback </td><td>-2 BB/100</td></tr>
+            <tr><td>Rakeback</td><td>60%</td></tr>
+            <tr><td>Winrate efektif setelah rakeback</td><td><strong>+4 BB/100</strong></td></tr>
+            
+          </table>
+
+          <p>Sekarang mari kita ubah ke dalam uang, untuk NL50 (blind $0.5, 200 tangan per jam, 4 meja):</p>
+          <ul>
+            <li>Tanpa rakeback: −2 × 0.5 × 200 / 100 = <strong>−$2 per jam</strong></li>
+            <li>Dengan rakeback 60%: +4 × 0.5 × 200 / 100 = <strong>+$4 per jam</strong></li>
+          </ul>
+
+          <p>Selisihnya — $6 per jam, atau sekitar $500-$1200 per bulan, tergantung seberapa banyak dan di limit mana Anda bermain.
+          Untuk mendapatkan kondisi seperti itu, cukup pilih deal dengan rakeback hingga 70% di <a href="/id/deals/">PokerDealsHub</a> — di sana terkumpul klub dan union tepercaya untuk semua aplikasi besar.</p>
+
+          <h2>🎯 Kesimpulan</h2>
+
+          <p>RNG bukan musuh. Musuhnya adalah varians, memori selektif, dan rake tanpa rakeback.
+          Klub mana pun bisa diperiksa dengan angka: analisis EV menunjukkan bahwa pengocokan kartu tetap adil.
+          Dan jika Anda ingin permainan yang adil membawa keuntungan — lihat <a href="/id/deals/">deal rakeback terkini</a> dan pilih union yang andal, misalnya <a href="/id/deals/nuts-primetime">Nuts PrimeTime</a>, <a href="/id/deals/eldorado">ElDorado</a>, atau <a href="/id/deals/pppfish">PPPFish</a>. Gabungan ini secara stabil mempertahankan trafik tinggi dan kondisi yang adil.</p>
+
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "RNG diatur, permainan tidak adil. Mari pahami apa yang sebenarnya terjadi",
+            "description": "Mengapa RNG terasa diatur? Kita bahas pengaruh varians, memori selektif, dan rake. Kita hitung deviasi standar di NL50 dan PLO5, menjelaskan bagaimana rakeback hingga 70% mengubah minus menjadi plus. Kumpulan deal dan klub terbaik dari PokerDealsHub.",
+            "author": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "url": "https://pokerdealshub.com"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://pokerdealshub.com/logo.png"
+              }
+            },
+            "datePublished": "2025-11-05",
+            "dateModified": "2025-11-05",
+            "inLanguage": "id"
+          }
+          </script>
+
+        </article>
+    srcHash: 3faf96a7a6f4
+  vi:
+    title: RNG bị can thiệp, ván bài không công bằng — cùng tìm hiểu điều gì thực sự đang xảy ra
+    description: >-
+      Tại sao có cảm giác RNG bị can thiệp? Cùng phân tích phương sai, trí nhớ chọn lọc và gánh nặng rake. Tính độ lệch
+      chuẩn và chỉ ra cách rakeback tới 70% biến lỗ thành lãi.
+    body: |-
+      <article>
+          
+
+          <p>Ván all-in thứ năm liên tiếp thua. Hai tiếng không vào nổi flop lần nào. Mỗi ván bài như thể được viết ra để chống lại bạn.
+          Một ý nghĩ quen thuộc nảy lên: <em>«RNG chắc chắn bị can thiệp».</em>
+          Để hiểu rõ, hãy bình tĩnh xem ai có thể được lợi từ điều đó, làm thế nào để kiểm tra tính công bằng của ván bài, và điều gì thực sự nằm sau cảm giác này.</p>
+
+          <h2>💸 Phòng chơi có lợi gì khi "can thiệp"?</h2>
+
+          <p>Thoạt nhìn — có. Nếu cá may mắn, họ sống sót lâu hơn và tiếp tục nạp tiền. Các reg thấy bàn chơi sôi động, nghĩ rằng họ chỉ đơn giản là không vào bài, và vẫn ngồi lại bàn. Ai cũng chơi — rake cứ thế chảy về.</p>
+
+          <p>Trên thực tế đây là lợi ích ngắn hạn và sự sụp đổ dài hạn. Một khi các tay chơi giàu kinh nghiệm bắt đầu phân tích thống kê, sự thật sẽ lộ ra, và danh tiếng của phòng chơi sẽ tiêu tan. Chính vì thế mà các nền tảng lớn như <a href="/vi/deals/clubgg">ClubGG</a>, <a href="/vi/deals/pppoker">PPPoker</a>, <a href="/vi/deals/pokerbros">PokerBros</a> và <a href="/vi/deals/xpoker">X-Poker</a> sử dụng các bộ tạo số ngẫu nhiên được chứng nhận, được kiểm định bởi iTechLabs và GLI. Làm giả chúng chẳng có nghĩa lý gì: cái lợi chỉ trong chốc lát, còn thiệt hại thì mãi mãi.</p>
+
+          <h2>🧮 Cách kiểm tra mọi thứ có công bằng không</h2>
+
+          <p>Cách đơn giản nhất — phân tích lịch sử các ván bài. Cần nhìn vào con số, chứ không phải cảm xúc.</p>
+
+          <ul>
+            <li><strong>PokerCraft</strong> — tích hợp sẵn trong ClubGG và GGPoker;</li>
+            <li><strong>PokerTracker 4</strong> và <strong>Hand2Note</strong> — phù hợp với PPPoker và PokerBros (qua việc nhập lịch sử ván bài);</li>
+            <li><strong>DriveHUD 2</strong> — một lựa chọn thay thế tiện lợi với phân tích EV trực quan.</li>
+          </ul>
+
+          <p>Hãy nạp ít nhất 50.000 ván và so sánh biểu đồ <strong>All-in EV</strong> với kết quả thực tế. Nếu trên đường dài chúng hội tụ — RNG hoạt động công bằng.
+          Nếu chênh lệch ổn định và khổng lồ — khi đó mới có thể đào sâu hơn. Và tin tôi đi, nếu các tay chơi chuyên nghiệp tìm ra những chênh lệch như vậy, hẳn họ đã phân tích dữ liệu của hàng trăm tài khoản và tung ra những tài liệu vạch trần trên những trang poker uy tín nhất.</p>
+
+          <p>Và để tận dụng tối đa từ ván bài công bằng — hãy dùng rakeback. Trên <a href="/vi/deals/">PokerDealsHub</a> đã tập hợp những ưu đãi tốt nhất cho <a href="/vi/deals/pppoker">PPPoker</a>, <a href="/vi/deals/clubgg">ClubGG</a>, <a href="/vi/deals/xpoker">X-Poker</a> và <a href="/vi/deals/pokerbros">PokerBros</a>. Những deal hoàn trả tới <strong>70%</strong> thực sự tồn tại và làm thay đổi kinh tế của ván bài.</p>
+
+          <h2>📉 Vậy nếu không phải can thiệp, thì là gì?</h2>
+
+          <h3>1. Phương sai</h3>
+          <p>Ngay cả lối chơi hoàn hảo cũng không bảo vệ bạn khỏi chuỗi thua. Đây không phải âm mưu, mà là thống kê.</p>
+
+          <ul>
+            <li><strong>NL50</strong> — phương sai khoảng 80 BB/100. Qua 400 ván, độ lệch chuẩn (σ) ≈ √4 × 80 = 160 BB ≈ $80.</li>
+            <li><strong>PLO5 50</strong> — phương sai khoảng 175 BB/100. σ ≈ √4 × 175 = 350 BB ≈ $175.</li>
+          </ul>
+
+          <p>Xác suất chơi tệ hơn 1σ (−$80 ở NL50) là khoảng <strong>16%</strong>.  
+            Tệ hơn 2σ (−$160 ở NL50 hoặc −$350 ở PLO5) — khoảng <strong>2,5%</strong>.  
+            Nói cách khác, cứ khoảng bốn mươi phiên ngắn thì sẽ có một phiên trông như bị nguyền rủa.  
+            Điều này thậm chí <strong>còn dễ xảy ra hơn việc bắt được một out trên river</strong> — mà những con river như thế, như ta biết, xảy ra suốt.  
+            Còn ở PLO phương sai vốn đã cao hơn — biến động có thể mạnh tới <strong>gấp 1,5 lần</strong> so với Hold'em,  
+            nên các đợt downswing ở đó cảm thấy đau đớn đặc biệt, ngay cả với một RNG hoàn toàn công bằng.</p>
+          
+          <h3>2. Trí nhớ chọn lọc</h3>
+          <p>Chúng ta nhớ nỗi đau, chứ không nhớ điều bình thường. Năm ván all-in thua gây nên cả cơn bão cảm xúc, còn năm ván thắng liên tiếp lại trôi qua mà không ai để ý. Không có tracker và thống kê, nhận thức sẽ luôn bị bóp méo.</p>
+
+          <h3>3. Gánh nặng rake</h3>
+          <p>Đây mới là kẻ thù thực sự.
+          Hãy hình dung: bạn chơi NL50 với winrate +8 BB/100, nhưng phòng chơi thu rake 10 BB/100.
+          Cuối cùng bạn thua 2 BB/100 và bắt đầu nghi ngờ mọi thứ — dù nguyên nhân thuần túy là toán học.</p>
+
+          <h2>💰 Rakeback thay đổi bức tranh thế nào</h2>
+
+          <p>Hãy thêm rakeback 60% — một deal hoàn toàn thực tế cho những tay chơi thường xuyên:</p>
+          <style>
+            table {
+              width: 100%;
+              border-collapse: collapse;
+              margin: 1.5rem 0;
+              font-size: 0.95rem;
+              color: #d0d0d0;
+            }
+            th, td {
+              border: 1px solid #333;
+              padding: 0.6rem 0.8rem;
+              text-align: left;
+            }
+            th {
+              background: #1a1a1a;
+              color: #f1c76e;
+              font-weight: 600;
+            }
+            tr:nth-child(even) {
+              background: #0f0f0f;
+            }
+            tr:nth-child(odd) {
+              background: #111;
+            }
+            table strong {
+              color: #f1c76e;
+            }
+          </style>
+          
+          <table>
+            <tr><th>Chỉ số</th><th>Giá trị</th></tr>
+            <tr><td>Winrate trước rake</td><td>+8 BB/100</td></tr>
+            <tr><td>Rake</td><td>10 BB/100</td></tr>
+            <tr><td>Winrate khi không có rakeback </td><td>-2 BB/100</td></tr>
+            <tr><td>Rakeback</td><td>60%</td></tr>
+            <tr><td>Winrate hiệu dụng sau rakeback</td><td><strong>+4 BB/100</strong></td></tr>
+            
+          </table>
+
+          <p>Bây giờ hãy quy ra tiền, với NL50 (blind $0.5, 200 ván mỗi giờ, 4 bàn):</p>
+          <ul>
+            <li>Không có rakeback: −2 × 0.5 × 200 / 100 = <strong>−$2 mỗi giờ</strong></li>
+            <li>Có rakeback 60%: +4 × 0.5 × 200 / 100 = <strong>+$4 mỗi giờ</strong></li>
+          </ul>
+
+          <p>Chênh lệch — $6 mỗi giờ, hay khoảng $500-$1200 mỗi tháng, tùy vào bạn chơi nhiều ít và ở những mức cược nào.
+          Để có được điều kiện như vậy, chỉ cần chọn một deal với rakeback tới 70% trên <a href="/vi/deals/">PokerDealsHub</a> — nơi tập hợp các club và union đã được kiểm chứng cho tất cả các ứng dụng lớn.</p>
+
+          <h2>🎯 Kết luận</h2>
+
+          <p>RNG không phải kẻ thù. Kẻ thù là phương sai, trí nhớ chọn lọc và rake không có rakeback.
+          Bất kỳ club nào cũng có thể kiểm tra bằng con số: phân tích EV cho thấy việc xáo bài vẫn công bằng.
+          Còn nếu bạn muốn ván bài công bằng mang lại lợi nhuận — hãy xem <a href="/vi/deals/">các deal rakeback mới nhất</a> và chọn một union đáng tin cậy, ví dụ <a href="/vi/deals/nuts-primetime">Nuts PrimeTime</a>, <a href="/vi/deals/eldorado">ElDorado</a> hoặc <a href="/vi/deals/pppfish">PPPFish</a>. Những liên minh này luôn duy trì lượng traffic cao và điều kiện công bằng một cách ổn định.</p>
+
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "RNG bị can thiệp, ván bài không công bằng. Cùng tìm hiểu điều gì thực sự đang xảy ra",
+            "description": "Tại sao có cảm giác RNG bị can thiệp? Cùng phân tích ảnh hưởng của phương sai, trí nhớ chọn lọc và rake. Tính độ lệch chuẩn ở NL50 và PLO5, giải thích cách rakeback tới 70% biến lỗ thành lãi. Các bộ sưu tập deal và club tốt nhất của PokerDealsHub.",
+            "author": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "url": "https://pokerdealshub.com"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://pokerdealshub.com/logo.png"
+              }
+            },
+            "datePublished": "2025-11-05",
+            "dateModified": "2025-11-05",
+            "inLanguage": "vi"
+          }
+          </script>
+
+        </article>
+    srcHash: 3faf96a7a6f4
+  fil:
+    title: Inaayos ang RNG, hindi patas ang laro — alamin natin kung ano talaga ang nangyayari
+    description: >-
+      Bakit tila inaayos ang RNG? Tinatalakay natin ang variance, selective memory, at bigat ng rake. Kinakalkula ang
+      standard deviation at ipinapakita kung paano ginagawang plus ng rakeback hanggang 70% ang minus.
+    body: |-
+      <article>
+          
+
+          <p>Ikalimang sunod-sunod na natalo sa all-in. Dalawang oras na walang tumamang flop. Para bang ang bawat kamay ay isinulat laban sa iyo.
+          Sumusulpot ang pamilyar na isipin: <em>«Tiyak na inaayos ang RNG».</em>
+          Para maintindihan ito, tahimik nating tingnan kung sino ang maaaring makinabang dito, paano susuriin ang katapatan ng laro, at ano talaga ang nasa likod ng pakiramdam na ito.</p>
+
+          <h2>💸 Kapaki-pakinabang ba sa room na "ayusin" ito?</h2>
+
+          <p>Sa unang tingin — oo. Kapag swerte ang mga fish, mas tumatagal sila at patuloy na naglalagay ng pera. Nakikita ng mga reg ang aktibong larangan, iniisip na hindi lang dumarating ang baraha, at nananatili sa mga mesa. Lahat ay naglalaro — patuloy na pumapasok ang rake.</p>
+
+          <p>Sa katunayan ito ay panandaliang kita at pangmatagalang pagbagsak. Sa sandaling magsimulang suriin ng mga bihasang manlalaro ang estadistika, malalantad ang katotohanan, at masisira ang reputasyon ng room. Kaya nga ang malalaking platform tulad ng <a href="/fil/deals/clubgg">ClubGG</a>, <a href="/fil/deals/pppoker">PPPoker</a>, <a href="/fil/deals/pokerbros">PokerBros</a> at <a href="/fil/deals/xpoker">X-Poker</a> ay gumagamit ng mga sertipikadong random number generator, na sinusuri ng iTechLabs at GLI. Walang saysay na pekehin ang mga ito: sandali lang ang kita, habambuhay ang mga pagkalugi.</p>
+
+          <h2>🧮 Paano suriin kung patas ang lahat</h2>
+
+          <p>Ang pinakasimpleng paraan — suriin ang kasaysayan ng mga kamay. Kailangang tingnan hindi ang emosyon, kundi ang mga numero.</p>
+
+          <ul>
+            <li><strong>PokerCraft</strong> — nakapaloob sa ClubGG at GGPoker;</li>
+            <li><strong>PokerTracker 4</strong> at <strong>Hand2Note</strong> — angkop para sa PPPoker at PokerBros (sa pamamagitan ng pag-import ng kasaysayan ng mga kamay);</li>
+            <li><strong>DriveHUD 2</strong> — maginhawang alternatibo na may biswal na pagsusuri ng EV.</li>
+          </ul>
+
+          <p>Mag-load ng kahit 50,000 kamay at ihambing ang mga grap ng <strong>All-in EV</strong> at ng aktwal na resulta. Kung sa mahabang takbo ay nagtatagpo ang mga ito — patas na gumagana ang RNG.
+          Kung ang pagkakaiba ay tuloy-tuloy at napakalaki — saka mo pa lamang maaaring hukayin nang mas malalim. At maniwala ka, kung makakita ang mga propesyonal na manlalaro ng ganoong mga pagkakaiba, tiyak na sinuri na nila ang datos ng daan-daang account at naglabas ng mga nagbubunyag na materyal sa pinakaiginagalang na mga poker site.</p>
+
+          <p>At para makuha ang pinakamarami mula sa patas na laro — gamitin ang rakeback. Sa <a href="/fil/deals/">PokerDealsHub</a> ay nakatipon ang pinakamahuhusay na alok para sa <a href="/fil/deals/pppoker">PPPoker</a>, <a href="/fil/deals/clubgg">ClubGG</a>, <a href="/fil/deals/xpoker">X-Poker</a> at <a href="/fil/deals/pokerbros">PokerBros</a>. Ang mga deal na may bawi hanggang <strong>70%</strong> ay tunay na umiiral at binabago ang ekonomiya ng laro.</p>
+
+          <h2>📉 Kaya kung hindi ito pag-aayos, ano nga?</h2>
+
+          <h3>1. Variance</h3>
+          <p>Kahit ang perpektong laro ay hindi nagpoprotekta laban sa serye ng pagkalugi. Hindi ito sabwatan, kundi estadistika.</p>
+
+          <ul>
+            <li><strong>NL50</strong> — variance na mga 80 BB/100. Sa 400 kamay ang standard deviation (σ) ≈ √4 × 80 = 160 BB ≈ $80.</li>
+            <li><strong>PLO5 50</strong> — variance na mga 175 BB/100. σ ≈ √4 × 175 = 350 BB ≈ $175.</li>
+          </ul>
+
+          <p>Ang posibilidad na maglaro nang mas malala kaysa 1σ (−$80 sa NL50) ay mga <strong>16%</strong>.  
+            Mas malala kaysa 2σ (−$160 sa NL50 o −$350 sa PLO5) — mga <strong>2.5%</strong>.  
+            Sa madaling salita, halos bawat ikaapatnapung maikling session ay mukhang isinumpa.  
+            Ito ay mas <strong>malamang pa kaysa makahuli ng isang out sa river</strong> — at ang ganitong mga river, gaya ng alam natin, ay nangyayari nang palagian.  
+            Sa PLO naman ay mas mataas talaga ang variance sa simula pa lang — ang mga pagbabago ay maaaring umabot ng hanggang <strong>1.5 beses na mas malakas</strong> kaysa sa Hold'em,  
+            kaya ang mga downswing doon ay lalong masakit damhin, kahit sa ganap na patas na RNG.</p>
+          
+          <h3>2. Selective memory</h3>
+          <p>Naaalala natin ang sakit, hindi ang normal. Ang limang natalong all-in ay nagbubunsod ng bagyo ng emosyon, samantalang ang limang sunod-sunod na panalo ay lumilipas nang hindi napapansin. Kung walang tracker at estadistika, palaging mababaluktot ang persepsyon.</p>
+
+          <h3>3. Bigat ng rake</h3>
+          <p>Narito ang tunay na kaaway.
+          Isipin mo: naglalaro ka ng NL50 na may winrate na +8 BB/100, ngunit kumukuha ang room ng rake na 10 BB/100.
+          Sa huli ay nalulugi ka ng 2 BB/100 at nagsisimulang magduda sa lahat — bagaman ang dahilan ay puro matematika.</p>
+
+          <h2>💰 Paano binabago ng rakeback ang larawan</h2>
+
+          <p>Magdagdag tayo ng rakeback na 60% — isang ganap na makatotohanang deal para sa mga regular na manlalaro:</p>
+          <style>
+            table {
+              width: 100%;
+              border-collapse: collapse;
+              margin: 1.5rem 0;
+              font-size: 0.95rem;
+              color: #d0d0d0;
+            }
+            th, td {
+              border: 1px solid #333;
+              padding: 0.6rem 0.8rem;
+              text-align: left;
+            }
+            th {
+              background: #1a1a1a;
+              color: #f1c76e;
+              font-weight: 600;
+            }
+            tr:nth-child(even) {
+              background: #0f0f0f;
+            }
+            tr:nth-child(odd) {
+              background: #111;
+            }
+            table strong {
+              color: #f1c76e;
+            }
+          </style>
+          
+          <table>
+            <tr><th>Indikator</th><th>Halaga</th></tr>
+            <tr><td>Winrate bago ang rake</td><td>+8 BB/100</td></tr>
+            <tr><td>Rake</td><td>10 BB/100</td></tr>
+            <tr><td>Winrate nang walang rakeback </td><td>-2 BB/100</td></tr>
+            <tr><td>Rakeback</td><td>60%</td></tr>
+            <tr><td>Epektibong winrate pagkatapos ng rakeback</td><td><strong>+4 BB/100</strong></td></tr>
+            
+          </table>
+
+          <p>Ngayon ay isalin natin sa pera, para sa NL50 (blind $0.5, 200 kamay kada oras, 4 mesa):</p>
+          <ul>
+            <li>Walang rakeback: −2 × 0.5 × 200 / 100 = <strong>−$2 kada oras</strong></li>
+            <li>May rakeback na 60%: +4 × 0.5 × 200 / 100 = <strong>+$4 kada oras</strong></li>
+          </ul>
+
+          <p>Ang pagkakaiba — $6 kada oras, o mga $500-$1200 kada buwan, depende sa kung gaano karami at sa anong mga limit ka naglalaro.
+          Para makuha ang ganitong mga kondisyon, sapat nang pumili ng deal na may rakeback hanggang 70% sa <a href="/fil/deals/">PokerDealsHub</a> — naroon ang mga napatunayang club at union para sa lahat ng malalaking app.</p>
+
+          <h2>🎯 Konklusyon</h2>
+
+          <p>Hindi kaaway ang RNG. Ang kaaway ay ang variance, selective memory, at rake na walang rakeback.
+          Masusuri ang sinumang club sa pamamagitan ng mga numero: ipinapakita ng EV-analysis na nananatiling patas ang pagsasalansan ng baraha.
+          At kung nais mong magdulot ng kita ang patas na laro — tingnan ang <a href="/fil/deals/">pinakabagong mga rakeback deal</a> at pumili ng maaasahang union, halimbawa ang <a href="/fil/deals/nuts-primetime">Nuts PrimeTime</a>, <a href="/fil/deals/eldorado">ElDorado</a> o <a href="/fil/deals/pppfish">PPPFish</a>. Ang mga unyong ito ay matatag na nagpapanatili ng mataas na traffic at patas na kondisyon.</p>
+
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "Inaayos ang RNG, hindi patas ang laro. Alamin natin kung ano talaga ang nangyayari",
+            "description": "Bakit tila inaayos ang RNG? Tinatalakay natin ang epekto ng variance, selective memory, at rake. Kinakalkula ang standard deviation sa NL50 at PLO5, ipinapaliwanag kung paano ginagawang plus ng rakeback hanggang 70% ang minus. Mga koleksyon ng pinakamahuhusay na deal at club ng PokerDealsHub.",
+            "author": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "url": "https://pokerdealshub.com"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://pokerdealshub.com/logo.png"
+              }
+            },
+            "datePublished": "2025-11-05",
+            "dateModified": "2025-11-05",
+            "inLanguage": "fil"
+          }
+          </script>
+
+        </article>
+    srcHash: 3faf96a7a6f4

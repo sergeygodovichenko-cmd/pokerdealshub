@@ -340,6 +340,166 @@ i18n:
         <li><strong>%40 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
     srcHash: 8dad5890e802
+  he:
+    name: סלקה באיחוד Black Sea ב-X-Poker
+    description: סלקה מבית PDH באיחוד Black Sea ב-X-Poker. פול טוב, זמן נוח לשחקנים מ-CIS, הרכבים יציבים ללא עומס יתר של רגולרים.
+    geo: CIS
+    body: >-
+      <h3>תיאור</h3>
+
+      <p>סלקת פוקר במועדון PDH BlackSea (id מועדון: 2445928), שחבר באיחוד CIS הגדול Black Sea בפלטפורמת X-Poker. המועדון
+      בבעלות PokerDealsHub, מה שמבטיח לך אבטחה ושירות לקוחות ברמה הגבוהה ביותר 24/7.</p>
+
+
+      <h3>על האיחוד</h3>
+
+      <p>Black Sea הוא איחוד פופולרי בפלטפורמת X-Poker, המתמחה בשחקנים ממדינות CIS. האיחוד מציע מגוון רחב של שולחנות
+      ופורמטים של משחק עם תנועה גבוהה ויציבה בכל שעות היממה.</p>
+
+      <p>הדיסציפלינות הזמינות: MTT, NLH, OFC, PLO4/5/6, Short Deck(6+), וכן וריאציות: Double Board ו-Bomb Pot. בכל שעה
+      ביממה אפשר למצוא משחק בכל הלימיטים. שיא הפעילות הוא בין 14:00 ל-22:00 לפי GMT+3.</p>
+
+
+      <h3>על הסלקה</h3>
+
+      <p>לשחקנים מוצעות שתי אפשרויות לבחירה:</p>
+
+      <ul>
+          <li><strong>רייקבק דינמי עד 70%</strong> הרייקבק תלוי בנפח הרייק השבועי.</li>
+          <li><strong>רייקבק קבוע 40%</strong> קבל אפשרות להתחיל לשחק עם יתרון מיד לאחר ההרשמה. בהמשך אפשר לעבור לדינמי.</li>
+      </ul>
+    srcHash: 8dad5890e802
+  ar:
+    name: صفقة في اتحاد Black Sea على X-Poker
+    description: >-
+      صفقة من PDH في اتحاد Black Sea على X-Poker. مجموعة لاعبين جيدة، وأوقات مناسبة للاعبين من دول CIS، وطاولات مستقرة
+      دون اكتظاظ بالمحترفين.
+    geo: CIS
+    body: >-
+      <h3>الوصف</h3>
+
+      <p>صفقة بوكر في نادي PDH BlackSea (معرّف النادي: 2445928)، وهو جزء من اتحاد CIS الكبير Black Sea على منصة X-Poker.
+      النادي مملوك لـ PokerDealsHub، وهو ما يضمن أمانك وخدمة عملاء من أعلى مستوى على مدار الساعة.</p>
+
+
+      <h3>عن الاتحاد</h3>
+
+      <p>Black Sea اتحاد شائع على منصة X-Poker، متخصص في اللاعبين من دول CIS. يقدّم الاتحاد تشكيلة واسعة من الطاولات
+      وأنماط اللعب مع حركة مرتفعة وثابتة في أي وقت من اليوم.</p>
+
+      <p>الأنظمة المتاحة: MTT وNLH وOFC وPLO4/5/6 وShort Deck(6+)، بالإضافة إلى الأنماط: Double Board وBomb Pot. في أي
+      وقت من اليوم يمكنك إيجاد لعب على جميع الحدود. تبلغ ذروة النشاط بين الساعة 14:00 و22:00 بتوقيت GMT+3.</p>
+
+
+      <h3>عن الصفقة</h3>
+
+      <p>يُتاح للاعبين الاختيار بين:</p>
+
+      <ul>
+          <li><strong>رييك باك ديناميكي حتى 70%</strong> يعتمد الرييك باك على حجم الرييك الأسبوعي.</li>
+          <li><strong>رييك باك ثابت 40%</strong> احصل على فرصة بدء اللعب بأفضلية فور التسجيل. ويمكنك لاحقاً الانتقال إلى الديناميكي.</li>
+      </ul>
+    srcHash: 8dad5890e802
+  id:
+    name: Deal di union Black Sea pada X-Poker
+    description: >-
+      Deal dari PDH di union Black Sea pada X-Poker. Pool yang bagus, waktu yang nyaman untuk pemain dari CIS, meja yang
+      stabil tanpa kebanjiran regular.
+    geo: CIS
+    body: >-
+      <h3>Deskripsi</h3>
+
+      <p>Deal poker di klub PDH BlackSea (id klub: 2445928), yang merupakan bagian dari union CIS besar Black Sea pada
+      platform X-Poker. Klub ini dimiliki oleh PokerDealsHub, yang menjamin keamanan Anda dan layanan pelanggan kelas
+      atas 24/7.</p>
+
+
+      <h3>Tentang union</h3>
+
+      <p>Black Sea adalah union populer di platform X-Poker, yang berfokus pada pemain dari negara-negara CIS. Union ini
+      menawarkan beragam pilihan meja dan format permainan dengan traffic yang stabil dan tinggi kapan saja.</p>
+
+      <p>Disiplin yang tersedia: MTT, NLH, OFC, PLO4/5/6, Short Deck(6+), serta variasi: Double Board dan Bomb Pot.
+      Kapan pun sepanjang hari Anda bisa menemukan permainan di semua limit. Puncak aktivitas berlangsung pukul 14:00 -
+      22:00 GMT+3.</p>
+
+
+      <h3>Tentang deal</h3>
+
+      <p>Pemain dapat memilih antara:</p>
+
+      <ul>
+          <li><strong>Rakeback dinamis hingga 70%</strong> Rakeback bergantung pada volume rake mingguan.</li>
+          <li><strong>Rakeback tetap 40%</strong> Dapatkan kesempatan untuk mulai bermain dengan keunggulan segera setelah registrasi. Nantinya Anda bisa beralih ke model dinamis.</li>
+      </ul>
+    srcHash: 8dad5890e802
+  vi:
+    name: Deal tại union Black Sea trên X-Poker
+    description: >-
+      Deal từ PDH tại union Black Sea trên X-Poker. Pool tốt, khung giờ thuận tiện cho người chơi từ CIS, các bàn ổn
+      định, không quá tải regular.
+    geo: CIS
+    body: >-
+      <h3>Mô tả</h3>
+
+      <p>Deal poker tại club PDH BlackSea (id club: 2445928), thuộc union CIS lớn Black Sea trên nền tảng X-Poker. Club
+      thuộc sở hữu của PokerDealsHub, đảm bảo sự an toàn cho bạn cùng dịch vụ chăm sóc khách hàng đẳng cấp cao nhất
+      24/7.</p>
+
+
+      <h3>Về union</h3>
+
+      <p>Black Sea là một union phổ biến trên nền tảng X-Poker, chuyên về người chơi đến từ các nước CIS. Union mang đến
+      đa dạng bàn chơi và thể loại với traffic ổn định và cao vào bất kỳ thời điểm nào trong ngày.</p>
+
+      <p>Các thể loại có sẵn: MTT, NLH, OFC, PLO4/5/6, Short Deck(6+), cùng với các biến thể: Double Board và Bomb Pot.
+      Vào bất kỳ thời điểm nào trong ngày đều có thể tìm thấy bàn chơi ở mọi mức cược. Cao điểm hoạt động rơi vào khoảng
+      14:00 - 22:00 theo GMT+3.</p>
+
+
+      <h3>Về deal</h3>
+
+      <p>Người chơi được lựa chọn giữa:</p>
+
+      <ul>
+          <li><strong>Rakeback động lên đến 70%</strong> Rakeback phụ thuộc vào khối lượng rake hằng tuần.</li>
+          <li><strong>Rakeback cố định 40%</strong> Nhận cơ hội bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang mô hình động.</li>
+      </ul>
+    srcHash: 8dad5890e802
+  fil:
+    name: Deal sa union na Black Sea sa X-Poker
+    description: >-
+      Deal mula sa PDH sa union na Black Sea sa X-Poker. Magandang pool, maginhawang oras para sa mga manlalaro mula sa
+      CIS, at matatatag na mesa na hindi punong-puno ng regular.
+    geo: CIS
+    body: >-
+      <h3>Paglalarawan</h3>
+
+      <p>Poker deal sa club na PDH BlackSea (id ng club: 2445928), na bahagi ng malaking CIS union na Black Sea sa
+      platform na X-Poker. Pag-aari ng PokerDealsHub ang club, kaya garantisado ang iyong kaligtasan at top-tier na
+      customer service 24/7.</p>
+
+
+      <h3>Tungkol sa union</h3>
+
+      <p>Ang Black Sea ay isang sikat na union sa platform na X-Poker, na nakatuon sa mga manlalaro mula sa mga bansang
+      CIS. Nag-aalok ang union ng malawak na pagpipilian ng mga mesa at format ng laro na may matatag at mataas na
+      traffic anumang oras ng araw.</p>
+
+      <p>Mga disiplinang available: MTT, NLH, OFC, PLO4/5/6, Short Deck(6+), gayundin ang mga variation: Double Board at
+      Bomb Pot. Anumang oras ng araw ay may mahahanap na laro sa lahat ng limit. Ang peak ng aktibidad ay sa pagitan ng
+      14:00 - 22:00 sa GMT+3.</p>
+
+
+      <h3>Tungkol sa deal</h3>
+
+      <p>Maaaring pumili ang mga manlalaro sa pagitan ng:</p>
+
+      <ul>
+          <li><strong>Dynamic na rakeback hanggang 70%</strong> Nakadepende ang rakeback sa lingguhang volume ng rake.</li>
+          <li><strong>Fixed na rakeback 40%</strong> Makakuha ng pagkakataong magsimulang maglaro nang may bentahe kaagad pagkatapos magrehistro. Maaari kang lumipat sa dynamic sa bandang huli.</li>
+      </ul>
+    srcHash: 8dad5890e802
 body: >-
   <h3>Описание</h3>
 

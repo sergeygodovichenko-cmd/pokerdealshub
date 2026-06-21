@@ -551,3 +551,279 @@ i18n:
           </script>
         </article>
     srcHash: df82cfa66b56
+  he:
+    title: "Bomb pot, Pot-or-Fold ו-double board: מודיפיקציות בפוקר ואיך מרוויחים מהן"
+    description: >-
+      סקירה של פורמטים לא שגרתיים בפוקר — bomb pot, Pot-or-Fold ו-double board. איך הם עובדים, איך הם משפיעים על הרייק
+      והשונות, ואיך מרוויחים בפורמטים האלה בעזרת rakeback ב-PokerDealsHub.
+    body: |-
+      <article>
+            
+
+            <p>אפליקציות פוקר מודרניות מטמיעות יותר ויותר מודיפיקציות לא שגרתיות של פורמטים, כמו bomb pot, Pot-or-Fold ו-double board. אפשר למצוא את המצבים האלה ב-<a href="/he/deals/pppoker/" target="_blank" rel="nofollow">PPPoker</a>, <a href="/he/deals/clubgg/" target="_blank" rel="nofollow">ClubGG</a> ו-<a href="/he/deals/xpoker/" target="_blank" rel="nofollow">X-Poker</a>, במיוחד באיגודים פרטיים עם חוקים מותאמים אישית. הפורמטים החדשים הופכים את המשחק לדינמי ואטרקטיבי יותר — במיוחד עבור שחקנים רקרייטיביים. באופן כללי, רוב החובבים כבר משחקים די טוב NLH ו-PLO סטנדרטיים, אבל הפורמטים החדשים עדיין נשארים עבורם חידה לא פתורה, שבה הם עלולים לאבד יותר מדי EV.</p>
+          
+            <p>עם זאת, הפורמטים האלה מגבירים את השונות ולעיתים קרובות מעלים את הרייק. בלי rakeback המשחק בהם עלול להפוך להפסדי אפילו לשחקנים חזקים. אבל עם תנאים טובים מהשותפים של <strong>PokerDealsHub</strong> אפשר להפוך את הפורמטים האלה למקור רווח.</p>
+          
+            <h2>Bomb pot: קופה כבר מהפלופ</h2>
+            <p>ב-bomb pot כל שחקן מכניס אנטה עוד לפני החלוקה, והיד מתחילה מיד מהפלופ. זה אומר שאתה תמיד משתתף ב-multipot ונלחם מול טווח מלא, 100%, של היריבים.</p>
+            <p>בתנאים כאלה חשוב לשחק ידיים עם פוטנציאל נאטס גבוה — קונקטורים בעלי צבע אחיד, זוגות חזקים, ידיים עם אפשרות להשלים סטרייט או פלאש. ולהפך, אין טעם לשחק יתר על המידה סטים על בורדים עם פלאש- או סטרייט-דרו: ההסתברות שליריב יש נאטס ב-multipot גבוהה הרבה יותר.</p>
+          
+            <h2>Double board: שני בורדים, שתי החלטות</h2>
+            <p>בפורמטים האלה נפרשים על השולחן מיד שני פלופ-בורדים. הניצחון נקבע על כל בורד בנפרד, והקופה יכולה להתחלק. זה מוסיף עומק למשחק, אבל גם מגדיל את עומס הרייק — שהרי הרייק נגבה אפילו מקופות מחולקות.</p>
+            <p>אחד הסיכונים האופייניים — אתה מפסיד בורד אחד, ובשני מתחלק על הקופה. כתוצאה מכך אתה מקבל רק רבע מהקופה הכוללת, ולמעשה מאבד חצי מההשקעה. כלל אצבע: תהיה אגרסיבי אם יש לך נאטס על בורד אחד או כמעט נאטס על שניהם.</p>
+          
+            <h2>Pot-or-Fold: מינימום החלטות, מקסימום לחץ</h2>
+            <p>הפורמט Pot-or-Fold מופיע גם ב-NLH וגם ב-PLO. מכל שחקן נגבית אנטה ונבנית קופה. מיד מחולק פלופ. לכל שחקן יש רק 2 אפשרויות: להמר בגודל הקופה (pot bet) או לעשות פולד.</p>
+            <p>האסטרטגיה המרכזית כאן היא להתחשב בפוזיציה שלך (כמה שחקנים נשארו אחריך), בפוזיציה של היריב שהימר, ובמספר השחקנים שעשו קול. ככל שהפוזיציה שלך מאוחרת יותר, כך הטווח שלך לאגרסיביות יכול להיות רחב יותר אם עדיין אף אחד לא הימר. במקביל, לידיים ה-value עם אקוויטי טוב צריך לערבב סמי-בלאפים — ידיים עם אקוויטי חלש. את ההימורים מיריבים בפוזיציות מוקדמות כדאי לכבד ולהיכנס לקופה רק עם ידיים חזקות. ואילו כשאתה על הבאטון, חשוב להתחשב בתדירות ההגנה המינימלית, כדי לא לאפשר לשחקנים בפוזיציות מאוחרות «להדפיס כסף» על ידי בלאף תכוף מדי נגדך.</p>
+          
+            <h2>הרייק עולה, אבל זה לא גזר דין</h2>
+            <p>בכל הפורמטים האלה הקופות נוטות להיות גדולות יותר, והרייק לאורך זמן עולה. זה הופך את ה-rakeback לחלק חובה מהאסטרטגיה: רק הוא מאפשר לקזז את הפסדי העמלות ולשחק ברווח.</p>
+            <p>ב-<a href="/he/deals/" target="_blank" rel="nofollow">PokerDealsHub</a> תמצא <a href="/he/deals/" target="_blank" rel="nofollow">עסקאות rakeback</a> עם תנאים משופרים על <strong>PPPoker</strong>, <strong>ClubGG</strong> ו-<strong>X-Poker</strong>. שחק חכם, נצל את היתרונות של הפורמטים וקבל החזר עמלה כבר מהיד הראשונה.</p>
+          
+            <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Article",
+              "headline": "Bomb pot, Pot-or-Fold ו-double board: מודיפיקציות בפוקר ואיך מרוויחים מהן",
+              "description": "סקירה של פורמטים לא שגרתיים בפוקר — bomb pot, Pot-or-Fold, double board. איך הם עובדים, למה הם מגדילים את הרייק ואיך rakeback מ-PokerDealsHub עוזר לשחק ברווח.",
+              "author": {
+                "@type": "Organization",
+                "name": "PokerDealsHub",
+                "url": "https://pokerdealshub.com"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "PokerDealsHub",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://pokerdealshub.com/logo.png"
+                }
+              },
+              "datePublished": "2025-11-06",
+              "dateModified": "2025-11-06",
+              "inLanguage": "he"
+            }
+            </script>
+          </article>
+    srcHash: df82cfa66b56
+  ar:
+    title: "Bomb pot وPot-or-Fold وdouble board: تعديلات البوكر وكيف تربح منها"
+    description: >-
+      نظرة على صيغ البوكر غير التقليدية — bomb pot وPot-or-Fold وdouble board. كيف تعمل، وكيف تؤثر على الريك والتباين،
+      وكيف تربح في هذه الصيغ بمساعدة rakeback على PokerDealsHub.
+    body: |-
+      <article>
+            
+
+            <p>تعتمد تطبيقات البوكر الحديثة بشكل متزايد تعديلات غير تقليدية للصيغ، مثل bomb pot وPot-or-Fold وdouble board. يمكن مصادفة هذه الأوضاع في <a href="/ar/deals/pppoker/" target="_blank" rel="nofollow">PPPoker</a> و<a href="/ar/deals/clubgg/" target="_blank" rel="nofollow">ClubGG</a> و<a href="/ar/deals/xpoker/" target="_blank" rel="nofollow">X-Poker</a>، وخاصة في الاتحادات الخاصة ذات القواعد المخصصة. تجعل الصيغ الجديدة اللعب أكثر ديناميكية وجاذبية — خاصة للاعبين الترفيهيين. بشكل عام، يلعب معظم الهواة بالفعل NLH وPLO القياسيين بشكل جيد إلى حد ما، لكن الصيغ الجديدة ما زالت تمثل لهم لغزاً غير محلول، حيث قد يتنازلون عن الكثير من EV.</p>
+          
+            <p>ومع ذلك، فإن هذه الصيغ ترفع التباين وغالباً ما تزيد الريك. بدون rakeback قد يصبح اللعب فيها خاسراً حتى للاعبين الأقوياء. لكن مع الشروط الجيدة من شركاء <strong>PokerDealsHub</strong> يمكن تحويل هذه الصيغ إلى مصدر للربح.</p>
+          
+            <h2>Bomb pot: القدر منذ الفلوب</h2>
+            <p>في bomb pot يضع كل لاعب أنتيه قبل توزيع الأوراق، ويبدأ التوزيع مباشرة من الفلوب. هذا يعني أنك تشارك دائماً في multipot وتواجه مدى خصومك الكامل بنسبة 100%.</p>
+            <p>في مثل هذه الظروف من المهم لعب الأيدي ذات إمكانية الناتس العالية — الكونكتورات أحادية اللون، الأزواج القوية، الأيدي التي يمكنها تكوين ستريت أو فلاش. وبالعكس، لا ينبغي المبالغة في لعب السِتات على بوردات بها فلاش-درو أو ستريت-درو: فاحتمال امتلاك الخصم للناتس في multipot أعلى بكثير.</p>
+          
+            <h2>Double board: بوردان، قراران</h2>
+            <p>في هذه الصيغ يُوزَّع على الطاولة بوردا فلوب في آنٍ واحد. يُحسم الفوز على كل بورد على حدة، ويمكن أن تُقسَّم القدر. هذا يضيف عمقاً للعب، لكنه يزيد أيضاً عبء الريك — إذ يُؤخذ الريك حتى من القدور المقسومة.</p>
+            <p>أحد المخاطر النمطية — أنك تخسر بورداً واحداً، وتقتسم القدر على الآخر. ونتيجة لذلك تحصل على ربع القدر الإجمالي فقط، فاقداً عملياً نصف استثمارك. القاعدة العملية: كن عدوانياً إذا كان لديك ناتس على بورد واحد أو شبه ناتس على كليهما.</p>
+          
+            <h2>Pot-or-Fold: أقل قرارات، أقصى ضغط</h2>
+            <p>تظهر صيغة Pot-or-Fold في كلٍّ من NLH وPLO. يُؤخذ من كل لاعب أنتيه ويتكوّن القدر. ويُوزَّع الفلوب فوراً. لكل لاعب خياران فقط: الرهان بحجم القدر (pot bet) أو الفولد.</p>
+            <p>الاستراتيجية الأساسية هنا هي مراعاة موضعك (كم لاعباً تبقى خلفك)، وموضع الخصم الذي راهن، وعدد اللاعبين الذين كولوا. كلما كان موضعك متأخراً أكثر، كلما اتسع المدى الذي يمكنك العدوان به إذا لم يراهن أحد بعد. وفي الوقت نفسه، يجب أن تمزج مع أيدي value ذات الإكويتي الجيد أنصاف-بلوفات — أيدي بإكويتي ضعيف. أما رهانات الخصوم من المواضع المبكرة فينبغي احترامها والدخول في القدر فقط بأيدٍ قوية. وعندما تكون على الباتون، من المهم مراعاة الحد الأدنى لتكرار الدفاع، حتى لا تسمح للاعبين في المواضع المتأخرة بـ«طباعة المال» عبر البلوف بكثرة مفرطة ضدك.</p>
+          
+            <h2>الريك يرتفع، لكنه ليس حكماً نهائياً</h2>
+            <p>في كل هذه الصيغ تصبح القدور أكبر في الغالب، ويرتفع الريك على المدى الطويل. هذا يجعل rakeback جزءاً إلزامياً من الاستراتيجية: فهو وحده يتيح تعويض خسائر العمولة واللعب بربح.</p>
+            <p>على <a href="/ar/deals/" target="_blank" rel="nofollow">PokerDealsHub</a> ستجد <a href="/ar/deals/" target="_blank" rel="nofollow">صفقات rakeback</a> بشروط محسّنة على <strong>PPPoker</strong> و<strong>ClubGG</strong> و<strong>X-Poker</strong>. العب بذكاء، واستفد من مزايا الصيغ، واحصل على استرداد العمولة منذ اليد الأولى.</p>
+          
+            <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Article",
+              "headline": "Bomb pot وPot-or-Fold وdouble board: تعديلات البوكر وكيف تربح منها",
+              "description": "نظرة على صيغ البوكر غير التقليدية — bomb pot وPot-or-Fold وdouble board. كيف تعمل، ولماذا تزيد الريك، وكيف يساعد rakeback من PokerDealsHub على اللعب بربح.",
+              "author": {
+                "@type": "Organization",
+                "name": "PokerDealsHub",
+                "url": "https://pokerdealshub.com"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "PokerDealsHub",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://pokerdealshub.com/logo.png"
+                }
+              },
+              "datePublished": "2025-11-06",
+              "dateModified": "2025-11-06",
+              "inLanguage": "ar"
+            }
+            </script>
+          </article>
+    srcHash: df82cfa66b56
+  id:
+    title: "Bomb pot, Pot-or-Fold, dan double board: modifikasi poker dan cara menghasilkan dari semuanya"
+    description: >-
+      Ulasan format poker non-standar — bomb pot, Pot-or-Fold, dan double board. Cara kerjanya, pengaruhnya terhadap
+      rake dan variance, serta cara menghasilkan di format-format ini lewat rakeback di PokerDealsHub.
+    body: |-
+      <article>
+            
+
+            <p>Aplikasi poker modern semakin sering menerapkan modifikasi format non-standar, seperti bomb pot, Pot-or-Fold, dan double board. Mode-mode ini bisa kamu temukan di <a href="/id/deals/pppoker/" target="_blank" rel="nofollow">PPPoker</a>, <a href="/id/deals/clubgg/" target="_blank" rel="nofollow">ClubGG</a>, dan <a href="/id/deals/xpoker/" target="_blank" rel="nofollow">X-Poker</a>, terutama di union privat dengan aturan kustom. Format baru membuat permainan lebih dinamis dan menarik — terutama bagi pemain rekreasional. Secara umum, sebagian besar pemain amatir sudah cukup mahir bermain NLH dan PLO standar, tetapi format baru masih menjadi teka-teki yang belum terpecahkan bagi mereka, di mana mereka bisa memberikan terlalu banyak EV.</p>
+          
+            <p>Meski begitu, format-format ini meningkatkan variance dan sering kali menaikkan rake. Tanpa rakeback, bermain di format ini bisa menjadi merugikan bahkan bagi pemain kuat. Tetapi dengan kondisi yang baik dari mitra <strong>PokerDealsHub</strong>, format-format ini bisa diubah menjadi sumber keuntungan.</p>
+          
+            <h2>Bomb pot: pot sejak flop</h2>
+            <p>Di bomb pot setiap pemain menyetor ante bahkan sebelum kartu dibagi, dan tangan langsung dimulai dari flop. Artinya, kamu selalu ikut dalam multipot dan bertarung melawan rentang penuh, 100% dari lawan.</p>
+            <p>Dalam kondisi seperti ini penting untuk memainkan tangan dengan potensi nuts yang tinggi — connector sewarna, pasangan kuat, tangan yang berpeluang menyusun straight atau flush. Sebaliknya, jangan terlalu memaksakan set di board dengan flush- atau straight-draw: kemungkinan lawan punya nuts di multipot jauh lebih tinggi.</p>
+          
+            <h2>Double board: dua board, dua keputusan</h2>
+            <p>Di format ini dua flop board dibagikan sekaligus di meja. Kemenangan ditentukan pada setiap board secara terpisah, dan pot bisa terbagi. Ini menambah kedalaman permainan, tetapi juga menambah beban rake — sebab rake tetap dipungut bahkan dari pot yang terbagi.</p>
+            <p>Salah satu risiko khas — kamu kalah di satu board, dan di board lainnya membagi pot. Akibatnya kamu hanya mendapat seperempat dari total pot, yang secara praktis berarti kehilangan setengah dari investasimu. Heuristik: bersikaplah agresif jika kamu punya nuts di satu board atau nyaris nuts di keduanya.</p>
+          
+            <h2>Pot-or-Fold: minimum keputusan, maksimum tekanan</h2>
+            <p>Format Pot-or-Fold muncul baik di NLH maupun PLO. Dari setiap pemain dipungut ante dan terbentuklah pot. Flop langsung dibagikan. Setiap pemain hanya punya 2 opsi: bertaruh sebesar pot (pot bet) atau fold.</p>
+            <p>Strategi kunci di sini adalah memperhitungkan posisimu (berapa pemain yang tersisa di belakang), posisi lawan yang bertaruh, dan jumlah pemain yang melakukan call. Semakin lambat posisimu, semakin lebar rentang yang bisa kamu pakai untuk agresi jika belum ada yang bertaruh. Sementara itu, ke tangan value dengan equity bagus perlu dicampurkan semi-bluff — tangan dengan equity lemah. Taruhan dari lawan di posisi awal sebaiknya dihormati dan masuk ke pot hanya dengan tangan kuat. Namun saat berada di button, penting memperhitungkan frekuensi pertahanan minimum, agar pemain di posisi akhir tidak bisa «mencetak uang» dengan terlalu sering menggertak terhadapmu.</p>
+          
+            <h2>Rake naik, tapi itu bukan vonis</h2>
+            <p>Di semua format ini pot cenderung menjadi lebih besar, dan rake dalam jangka panjang ikut naik. Ini membuat rakeback menjadi bagian wajib dari strategi: hanya rakeback yang memungkinkan untuk menutup kerugian komisi dan bermain dengan profit.</p>
+            <p>Di <a href="/id/deals/" target="_blank" rel="nofollow">PokerDealsHub</a> kamu akan menemukan <a href="/id/deals/" target="_blank" rel="nofollow">deal rakeback</a> dengan kondisi lebih tinggi di <strong>PPPoker</strong>, <strong>ClubGG</strong>, dan <strong>X-Poker</strong>. Bermainlah dengan cerdas, manfaatkan keunggulan format, dan dapatkan pengembalian komisi sejak tangan pertama.</p>
+          
+            <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Article",
+              "headline": "Bomb pot, Pot-or-Fold, dan double board: modifikasi poker dan cara menghasilkan dari semuanya",
+              "description": "Ulasan format poker non-standar — bomb pot, Pot-or-Fold, double board. Cara kerjanya, mengapa menaikkan rake, dan bagaimana rakeback dari PokerDealsHub membantu bermain dengan profit.",
+              "author": {
+                "@type": "Organization",
+                "name": "PokerDealsHub",
+                "url": "https://pokerdealshub.com"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "PokerDealsHub",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://pokerdealshub.com/logo.png"
+                }
+              },
+              "datePublished": "2025-11-06",
+              "dateModified": "2025-11-06",
+              "inLanguage": "id"
+            }
+            </script>
+          </article>
+    srcHash: df82cfa66b56
+  vi:
+    title: "Bomb pot, Pot-or-Fold và double board: các biến thể poker và cách kiếm lời từ chúng"
+    description: >-
+      Tổng quan về các thể thức poker phi tiêu chuẩn — bomb pot, Pot-or-Fold và double board. Cách chúng hoạt động, ảnh
+      hưởng đến rake và variance ra sao, và cách kiếm lời ở các thể thức này nhờ rakeback trên PokerDealsHub.
+    body: |-
+      <article>
+            
+
+            <p>Các ứng dụng poker hiện đại ngày càng đưa vào những biến thể thể thức phi tiêu chuẩn, như bomb pot, Pot-or-Fold và double board. Bạn có thể bắt gặp các chế độ này ở <a href="/vi/deals/pppoker/" target="_blank" rel="nofollow">PPPoker</a>, <a href="/vi/deals/clubgg/" target="_blank" rel="nofollow">ClubGG</a> và <a href="/vi/deals/xpoker/" target="_blank" rel="nofollow">X-Poker</a>, đặc biệt là trong các union riêng tư với luật tùy chỉnh. Các thể thức mới khiến trò chơi trở nên năng động và hấp dẫn hơn — nhất là với người chơi giải trí. Nhìn chung, đa số người chơi nghiệp dư đã chơi khá ổn NLH và PLO tiêu chuẩn, nhưng các thể thức mới vẫn là bài toán chưa có lời giải đối với họ, nơi họ có thể đánh mất quá nhiều EV.</p>
+          
+            <p>Tuy nhiên, các thể thức này đẩy variance lên cao và thường làm tăng rake. Nếu không có rakeback, chơi ở các thể thức này có thể trở nên thua lỗ ngay cả với những người chơi mạnh. Nhưng với các điều kiện tốt từ đối tác của <strong>PokerDealsHub</strong>, bạn có thể biến những thể thức này thành nguồn lợi nhuận.</p>
+          
+            <h2>Bomb pot: pot ngay từ flop</h2>
+            <p>Ở bomb pot mỗi người chơi đều đặt ante trước khi chia bài, và ván bài bắt đầu ngay từ flop. Điều này có nghĩa là bạn luôn tham gia vào multipot và đối đầu với toàn bộ range 100% của đối thủ.</p>
+            <p>Trong điều kiện như vậy, quan trọng là chơi những lá có tiềm năng nut cao — connector cùng chất, các đôi mạnh, những lá có khả năng ghép straight hoặc flush. Ngược lại, không nên chơi quá đà các set trên những board có flush- hoặc straight-draw: xác suất đối thủ có nut trong multipot cao hơn nhiều.</p>
+          
+            <h2>Double board: hai board, hai quyết định</h2>
+            <p>Ở các thể thức này, hai board flop được chia ra cùng lúc trên bàn. Phần thắng được tính riêng trên mỗi board, và pot có thể bị chia. Điều này tăng chiều sâu cho ván chơi, nhưng cũng tăng gánh nặng rake — bởi rake vẫn được thu ngay cả từ những pot bị chia.</p>
+            <p>Một trong những rủi ro điển hình — bạn thua một board, còn board kia thì chia pot. Kết quả là bạn chỉ nhận được một phần tư tổng pot, tức là thực tế mất một nửa số tiền đã đặt. Nguyên tắc kinh nghiệm: hãy aggressive nếu bạn có nut trên một board hoặc gần nut trên cả hai.</p>
+          
+            <h2>Pot-or-Fold: tối thiểu quyết định, tối đa áp lực</h2>
+            <p>Thể thức Pot-or-Fold xuất hiện ở cả NLH lẫn PLO. Mỗi người chơi đều bị thu ante và tạo thành một pot. Flop được chia ngay lập tức. Mỗi người chơi chỉ có 2 lựa chọn: cược bằng kích thước pot (pot bet) hoặc fold.</p>
+            <p>Chiến lược then chốt ở đây là cân nhắc vị trí của bạn (còn bao nhiêu người chơi phía sau), vị trí của đối thủ đã cược, và số người chơi đã call. Vị trí của bạn càng muộn thì range để aggressive càng có thể rộng hơn nếu chưa ai cược. Đồng thời, với các lá value có equity tốt cần pha thêm semi-bluff — những lá có equity yếu. Cược từ các đối thủ ở vị trí sớm thì nên tôn trọng và chỉ vào pot với những lá mạnh. Còn khi ở button, quan trọng là tính đến tần suất phòng thủ tối thiểu, để không cho phép người chơi ở vị trí muộn «in tiền» bằng cách bluff quá thường xuyên với bạn.</p>
+          
+            <h2>Rake tăng, nhưng đó không phải là bản án</h2>
+            <p>Ở tất cả các thể thức này, các pot thường trở nên lớn hơn, và rake về lâu dài tăng lên. Điều này khiến rakeback trở thành phần bắt buộc của chiến lược: chỉ có nó mới giúp bù đắp các khoản phí hoa hồng và chơi có lời.</p>
+            <p>Tại <a href="/vi/deals/" target="_blank" rel="nofollow">PokerDealsHub</a> bạn sẽ tìm thấy <a href="/vi/deals/" target="_blank" rel="nofollow">các deal rakeback</a> với điều kiện ưu đãi hơn trên <strong>PPPoker</strong>, <strong>ClubGG</strong> và <strong>X-Poker</strong>. Hãy chơi thông minh, tận dụng ưu thế của các thể thức và nhận lại hoa hồng ngay từ ván bài đầu tiên.</p>
+          
+            <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Article",
+              "headline": "Bomb pot, Pot-or-Fold và double board: các biến thể poker và cách kiếm lời từ chúng",
+              "description": "Tổng quan về các thể thức poker phi tiêu chuẩn — bomb pot, Pot-or-Fold, double board. Cách chúng hoạt động, vì sao chúng làm tăng rake và cách rakeback từ PokerDealsHub giúp chơi có lời.",
+              "author": {
+                "@type": "Organization",
+                "name": "PokerDealsHub",
+                "url": "https://pokerdealshub.com"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "PokerDealsHub",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://pokerdealshub.com/logo.png"
+                }
+              },
+              "datePublished": "2025-11-06",
+              "dateModified": "2025-11-06",
+              "inLanguage": "vi"
+            }
+            </script>
+          </article>
+    srcHash: df82cfa66b56
+  fil:
+    title: "Bomb pot, Pot-or-Fold, at double board: mga modipikasyon ng poker at paano kumita mula rito"
+    description: >-
+      Pagtingin sa mga di-karaniwang format ng poker — bomb pot, Pot-or-Fold, at double board. Kung paano ito gumagana,
+      paano nito naaapektuhan ang rake at variance, at paano kumita sa mga format na ito gamit ang rakeback sa
+      PokerDealsHub.
+    body: |-
+      <article>
+            
+
+            <p>Lalong madalas nang ipinapatupad ng mga modernong poker app ang mga di-karaniwang modipikasyon ng format, tulad ng bomb pot, Pot-or-Fold, at double board. Makikita mo ang mga mode na ito sa <a href="/fil/deals/pppoker/" target="_blank" rel="nofollow">PPPoker</a>, <a href="/fil/deals/clubgg/" target="_blank" rel="nofollow">ClubGG</a>, at <a href="/fil/deals/xpoker/" target="_blank" rel="nofollow">X-Poker</a>, lalo na sa mga pribadong union na may custom na mga patakaran. Ginagawang mas dinamiko at mas kaakit-akit ng mga bagong format ang laro — lalo na para sa mga recreational player. Sa pangkalahatan, ang karamihan sa mga baguhan ay medyo magaling na maglaro ng standard na NLH at PLO, ngunit ang mga bagong format ay nananatiling palaisipang hindi pa nalulutas para sa kanila, kung saan maaari silang masyadong magbigay ng EV.</p>
+          
+            <p>Gayunpaman, pinapataas ng mga format na ito ang variance at madalas na nagdaragdag ng rake. Kung walang rakeback, ang paglalaro rito ay maaaring maging lugi kahit para sa malalakas na manlalaro. Ngunit sa magagandang kondisyon mula sa mga partner ng <strong>PokerDealsHub</strong>, maaaring gawing pinagkukunan ng kita ang mga format na ito.</p>
+          
+            <h2>Bomb pot: pot mula pa sa flop</h2>
+            <p>Sa bomb pot ang bawat manlalaro ay nag-aabono ng ante bago pa man mamigay ng baraha, at ang hand ay agad na nagsisimula mula sa flop. Ibig sabihin, palagi kang kasali sa multipot at lumalaban ka sa buo, 100% na range ng mga kalaban.</p>
+            <p>Sa ganitong mga kondisyon mahalagang maglaro ng mga hand na may mataas na potensyal na nuts — mga connector na iisa ang suit, malalakas na pares, mga hand na may pagkakataong makabuo ng straight o flush. Sa kabaligtaran, huwag masyadong i-overplay ang mga set sa mga board na may flush- o straight-draw: mas mataas nang husto ang posibilidad na may nuts ang kalaban sa multipot.</p>
+          
+            <h2>Double board: dalawang board, dalawang desisyon</h2>
+            <p>Sa mga format na ito, dalawang flop board ang sabay na ibinibigay sa mesa. Ang panalo ay itinatakda sa bawat board nang hiwalay, at maaaring mahati ang pot. Nagdaragdag ito ng lalim sa laro, ngunit pinapalaki rin nito ang pasanin sa rake — dahil kinukuha ang rake kahit sa mga hating pot.</p>
+            <p>Isa sa mga tipikal na panganib — natatalo ka sa isang board, at sa kabilang board ay naghahati ng pot. Bilang resulta, isang-kapat lamang ng kabuuang pot ang nakukuha mo, na sa katotohanan ay pagkawala ng kalahati ng iyong puhunan. Heuristic: maging agresibo kung mayroon kang nuts sa isang board o halos nuts sa pareho.</p>
+          
+            <h2>Pot-or-Fold: minimum na desisyon, maximum na presyon</h2>
+            <p>Ang format na Pot-or-Fold ay makikita kapwa sa NLH at sa PLO. Mula sa bawat manlalaro ay kinukuha ang ante at nabubuo ang pot. Agad na ibinibigay ang flop. Ang bawat manlalaro ay may 2 opsyon lamang: tumaya ng kasinlaki ng pot (pot bet) o mag-fold.</p>
+            <p>Ang pangunahing estratehiya rito ay isaalang-alang ang iyong posisyon (ilang manlalaro ang natitira sa likod mo), ang posisyon ng kalaban na tumaya, at ang bilang ng mga manlalarong nag-call. Mas huli ang iyong posisyon, mas malawak ang maaari mong range para sa agresyon kung wala pang tumataya. Kasabay nito, sa mga value hand na may magandang equity ay kailangang haluan ng semi-bluff — mga hand na may mahinang equity. Ang mga taya mula sa mga kalaban sa maagang posisyon ay dapat igalang at pumasok sa pot lamang nang may malalakas na hand. Samantala, kapag nasa button ka, mahalagang isaalang-alang ang minimum na dalas ng depensa, upang hindi mapahintulutan ang mga manlalaro sa huling posisyon na «mag-print ng pera» sa pamamagitan ng masyadong madalas na pag-bluff laban sa iyo.</p>
+          
+            <h2>Tumataas ang rake, ngunit hindi ito hatol na kamatayan</h2>
+            <p>Sa lahat ng mga format na ito, ang mga pot ay madalas na nagiging mas malaki, at ang rake sa mahabang panahon ay tumataas. Dahil dito, ang rakeback ay nagiging sapilitang bahagi ng estratehiya: ito lamang ang nagpapahintulot na mabawasan ang mga pagkalugi sa komisyon at maglaro nang may tubo.</p>
+            <p>Sa <a href="/fil/deals/" target="_blank" rel="nofollow">PokerDealsHub</a> makikita mo ang mga <a href="/fil/deals/" target="_blank" rel="nofollow">rakeback deal</a> na may mas mataas na kondisyon sa <strong>PPPoker</strong>, <strong>ClubGG</strong>, at <strong>X-Poker</strong>. Maglaro nang matalino, samantalahin ang mga bentahe ng mga format at kumuha ng refund ng komisyon mula pa sa unang hand.</p>
+          
+            <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Article",
+              "headline": "Bomb pot, Pot-or-Fold, at double board: mga modipikasyon ng poker at paano kumita mula rito",
+              "description": "Pagtingin sa mga di-karaniwang format ng poker — bomb pot, Pot-or-Fold, double board. Kung paano ito gumagana, bakit nito pinapataas ang rake at paano nakakatulong ang rakeback mula sa PokerDealsHub para maglaro nang may tubo.",
+              "author": {
+                "@type": "Organization",
+                "name": "PokerDealsHub",
+                "url": "https://pokerdealshub.com"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "PokerDealsHub",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://pokerdealshub.com/logo.png"
+                }
+              },
+              "datePublished": "2025-11-06",
+              "dateModified": "2025-11-06",
+              "inLanguage": "fil"
+            }
+            </script>
+          </article>
+    srcHash: df82cfa66b56

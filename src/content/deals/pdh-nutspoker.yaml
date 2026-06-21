@@ -426,6 +426,240 @@ i18n:
         <li><strong>%25 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
     srcHash: 8ed24c54d0e2
+  he:
+    name: דיל ב-NUTS POKER עם רייקבק מ-PDH
+    description: דיל באפליקציית הפוקר NUTS POKER עם קופה מרכזית ועיבוד אוטומטי של הפקדות ומשיכות. הרבה שחקנים רקרייטיביים מאסיה.
+    geo: אסיה, CIS
+    bonus: עד $1000 על ההפקדה הראשונה
+    body: >-
+      <h3>תיאור</h3>
+
+      <p>מועדון PDH Nuts Poker הוא המועדון הרשמי של Poker Deals Hub באפליקציית הפוקר המרכזית NUTS POKER. זהו חדר פוקר
+      אונליין קלאסי עם מערכת התחשבנות אחידה ותמיכה בפתרונות תשלום דיגיטליים. הרבה שחקנים רקרייטיביים מאסיה.</p>
+
+      <h3>על האפליקציה</h3>
+
+      <p>NUTS POKER היא אפליקציית פוקר מרכזית. למרות שיש לה מערכת מועדונים, המועדונים משמשים רק להקצאת רייקבק לשחקנים.
+      כל המשחקים מתרחשים בפול שחקנים משותף. הפקדות וקאשאאוטים מבוצעים דרך עיבוד אוטומטי. הממשק פשוט ונוח עד מאוד: המשחק
+      נפתח בכמה קליקים, הסטטיסטיקות והקופה משולבות לחלוטין במערכת, ושירות הביטחון מפקח על המשחק מסביב לשעון.</p>
+
+      <p>מאפיינים עיקריים:</p>
+
+      <ul>
+
+      <li>תמיכה בכל הפורמטים הפופולריים — NLH, PLO4/5/6, MTT, SpinUp</li>
+
+      <li>קליינטים ל-iOS, Android ו-Windows</li>
+
+      <li>המשחק רץ 24/7 בלימיטים נמוכים ובינוניים</li>
+
+      <li>מבצעים קבועים וטורנירים חינמיים. ערבות שיא לפרירול – $36,000!</li>
+
+      </ul>
+
+      <h3>על הדיל</h3>
+
+      <p>השחקנים יכולים לבחור:</p>
+
+      <ul>
+
+      <li><strong>רייקבק דינמי עד 50%</strong> הרייקבק תלוי בנפח הרייק השבועי.</li>
+
+      <li><strong>רייקבק קבוע 25%</strong> קבלו אפשרות להתחיל לשחק עם יתרון מיד לאחר ההרשמה. בהמשך ניתן לעבור למערכת
+      דינמית.</li>
+
+      </ul>
+    srcHash: 8ed24c54d0e2
+  ar:
+    name: صفقة في NUTS POKER مع rakeback من PDH
+    description: صفقة في تطبيق البوكر NUTS POKER بكاشير مركزي ومعالجة آلية للإيداع/السحب. عدد كبير من اللاعبين الترفيهيين من آسيا.
+    geo: آسيا، CIS
+    bonus: حتى $1000 على الإيداع الأول
+    body: >-
+      <h3>الوصف</h3>
+
+      <p>نادي PDH Nuts Poker هو النادي الرسمي لـ Poker Deals Hub في تطبيق البوكر المركزي NUTS POKER. إنها غرفة بوكر
+      أونلاين كلاسيكية بنظام تسوية موحّد ودعم لحلول الدفع الرقمية. عدد كبير من اللاعبين الترفيهيين من آسيا.</p>
+
+      <h3>عن التطبيق</h3>
+
+      <p>NUTS POKER تطبيق بوكر مركزي. ورغم أنه يملك نظام أندية، إلا أن الأندية تُستخدم فقط لتخصيص الـ rakeback للاعبين.
+      وتجري كل الألعاب في player pool مشترك. تتم عمليات الإيداع والـ cashout عبر معالجة آلية. الواجهة بسيطة ومريحة إلى
+      أقصى حد: تبدأ اللعبة بنقرتين، والإحصائيات والكاشير مدمجة بالكامل في النظام، وفريق الأمن يراقب اللعب على مدار
+      الساعة.</p>
+
+      <p>أبرز الميزات:</p>
+
+      <ul>
+
+      <li>دعم جميع الأنماط الشائعة — NLH، PLO4/5/6، MTT، SpinUp</li>
+
+      <li>برامج لـ iOS وAndroid وWindows</li>
+
+      <li>اللعب متواصل 24/7 على الـ limits المنخفضة والمتوسطة</li>
+
+      <li>عروض منتظمة وبطولات مجانية. ضمان freeroll قياسي – $36,000!</li>
+
+      </ul>
+
+      <h3>عن الصفقة</h3>
+
+      <p>يمكن للاعبين الاختيار:</p>
+
+      <ul>
+
+      <li><strong>rakeback ديناميكي حتى 50%</strong> يعتمد الـ rakeback على حجم الـ rake الأسبوعي.</li>
+
+      <li><strong>rakeback ثابت 25%</strong> احصل على فرصة لبدء اللعب بأفضلية فور التسجيل. ويمكنك لاحقاً الانتقال إلى
+      نظام ديناميكي.</li>
+
+      </ul>
+    srcHash: 8ed24c54d0e2
+  id:
+    name: Deal di NUTS POKER dengan rakeback dari PDH
+    description: >-
+      Deal di aplikasi poker NUTS POKER dengan cashier terpusat dan pemrosesan deposit/withdrawal otomatis. Banyak
+      pemain rekreasional dari Asia.
+    geo: Asia, CIS
+    bonus: hingga $1000 untuk deposit pertama
+    body: >-
+      <h3>Deskripsi</h3>
+
+      <p>Club PDH Nuts Poker adalah club resmi Poker Deals Hub di aplikasi poker terpusat NUTS POKER. Ini adalah ruang
+      poker online klasik dengan sistem penyelesaian terpadu dan dukungan untuk solusi pembayaran digital. Banyak pemain
+      rekreasional dari Asia.</p>
+
+      <h3>Tentang Aplikasi</h3>
+
+      <p>NUTS POKER adalah aplikasi poker terpusat. Meskipun memiliki sistem club, club hanya digunakan untuk memberikan
+      rakeback kepada pemain. Semua permainan berlangsung di player pool bersama. Deposit dan cashout diproses secara
+      otomatis. Antarmukanya sangat sederhana dan nyaman: permainan dimulai hanya dengan beberapa klik, statistik dan
+      cashier terintegrasi penuh ke dalam sistem, dan tim keamanan mengawasi permainan sepanjang waktu.</p>
+
+      <p>Fitur utama:</p>
+
+      <ul>
+
+      <li>Dukungan untuk semua format populer — NLH, PLO4/5/6, MTT, SpinUp</li>
+
+      <li>Klien untuk iOS, Android, dan Windows</li>
+
+      <li>Permainan berlangsung 24/7 di stake rendah dan menengah</li>
+
+      <li>Promosi rutin dan turnamen gratis. Garansi freeroll rekor – $36,000!</li>
+
+      </ul>
+
+      <h3>Tentang Deal</h3>
+
+      <p>Pemain dapat memilih:</p>
+
+      <ul>
+
+      <li><strong>Rakeback dinamis hingga 50%</strong> Rakeback bergantung pada volume rake mingguan.</li>
+
+      <li><strong>Rakeback tetap 25%</strong> Dapatkan kesempatan untuk mulai bermain dengan keunggulan langsung setelah
+      mendaftar. Nantinya Anda bisa beralih ke sistem dinamis.</li>
+
+      </ul>
+    srcHash: 8ed24c54d0e2
+  vi:
+    name: Deal tại NUTS POKER với rakeback từ PDH
+    description: >-
+      Deal trên ứng dụng poker NUTS POKER với cashier tập trung và xử lý nạp/rút tiền tự động. Nhiều người chơi giải trí
+      đến từ Châu Á.
+    geo: Châu Á, CIS
+    bonus: lên đến $1000 cho lần nạp đầu tiên
+    body: >-
+      <h3>Mô tả</h3>
+
+      <p>Club PDH Nuts Poker là club chính thức của Poker Deals Hub trên ứng dụng poker tập trung NUTS POKER. Đây là một
+      phòng poker online cổ điển với hệ thống thanh toán thống nhất và hỗ trợ các giải pháp thanh toán kỹ thuật số.
+      Nhiều người chơi giải trí đến từ Châu Á.</p>
+
+      <h3>Về ứng dụng</h3>
+
+      <p>NUTS POKER là một ứng dụng poker tập trung. Dù có hệ thống club, các club chỉ được dùng để gán rakeback cho
+      người chơi. Tất cả các ván đều diễn ra trong một player pool chung. Việc nạp tiền và cashout được thực hiện qua xử
+      lý tự động. Giao diện cực kỳ đơn giản và tiện lợi: ván chơi khởi động chỉ với vài cú nhấp, thống kê và cashier
+      được tích hợp hoàn toàn vào hệ thống, và bộ phận an ninh giám sát ván chơi 24/24.</p>
+
+      <p>Các tính năng chính:</p>
+
+      <ul>
+
+      <li>Hỗ trợ tất cả các format phổ biến — NLH, PLO4/5/6, MTT, SpinUp</li>
+
+      <li>Client cho iOS, Android và Windows</li>
+
+      <li>Game diễn ra 24/7 ở các mức stake thấp và trung bình</li>
+
+      <li>Khuyến mãi thường xuyên và giải đấu miễn phí. Bảo đảm freeroll kỷ lục – $36,000!</li>
+
+      </ul>
+
+      <h3>Về Deal</h3>
+
+      <p>Người chơi có thể lựa chọn:</p>
+
+      <ul>
+
+      <li><strong>Rakeback động lên đến 50%</strong> Rakeback phụ thuộc vào khối lượng rake hằng tuần.</li>
+
+      <li><strong>Rakeback cố định 25%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Sau này bạn có thể chuyển
+      sang hệ thống động.</li>
+
+      </ul>
+    srcHash: 8ed24c54d0e2
+  fil:
+    name: Deal sa NUTS POKER na may rakeback mula sa PDH
+    description: >-
+      Deal sa poker app na NUTS POKER na may sentralisadong cashier at awtomatikong pagproseso ng deposit/withdrawal.
+      Maraming recreational na manlalaro mula sa Asia.
+    geo: Asia, CIS
+    bonus: hanggang $1000 sa unang deposit
+    body: >-
+      <h3>Paglalarawan</h3>
+
+      <p>Ang PDH Nuts Poker Club ang opisyal na club ng Poker Deals Hub sa sentralisadong poker app na NUTS POKER. Isa
+      itong klasikong online poker room na may pinag-isang sistema ng settlement at suporta sa mga digital na solusyon
+      sa pagbabayad. Maraming recreational na manlalaro mula sa Asia.</p>
+
+      <h3>Tungkol sa App</h3>
+
+      <p>Ang NUTS POKER ay isang sentralisadong poker app. Bagaman mayroon itong sistema ng club, ginagamit lamang ang
+      mga club para mag-assign ng rakeback sa mga manlalaro. Lahat ng laro ay nagaganap sa iisang player pool. Ang mga
+      deposit at cashout ay pinoproseso nang awtomatiko. Napakasimple at maginhawa ng interface: nagsisimula ang laro sa
+      ilang klik lamang, ganap na nakaintegrate sa sistema ang estadistika at cashier, at sinusubaybayan ng security
+      team ang laro buong araw.</p>
+
+      <p>Mga pangunahing tampok:</p>
+
+      <ul>
+
+      <li>Suporta sa lahat ng sikat na format — NLH, PLO4/5/6, MTT, SpinUp</li>
+
+      <li>Mga client para sa iOS, Android, at Windows</li>
+
+      <li>Tuloy-tuloy ang laro 24/7 sa mababa at katamtamang stake</li>
+
+      <li>Regular na mga promo at libreng torneo. Record na garantiya ng freeroll – $36,000!</li>
+
+      </ul>
+
+      <h3>Tungkol sa Deal</h3>
+
+      <p>Maaaring pumili ang mga manlalaro:</p>
+
+      <ul>
+
+      <li><strong>Dynamic na rakeback hanggang 50%</strong> Nakadepende ang rakeback sa lingguhang volume ng rake.</li>
+
+      <li><strong>Fixed na rakeback na 25%</strong> Magkaroon ng pagkakataong magsimulang maglaro nang may bentahe
+      kaagad pagkatapos magrehistro. Maaari kang lumipat sa dynamic na sistema mamaya.</li>
+
+      </ul>
+    srcHash: 8ed24c54d0e2
 body: >-
   <h3>Описание</h3>
 

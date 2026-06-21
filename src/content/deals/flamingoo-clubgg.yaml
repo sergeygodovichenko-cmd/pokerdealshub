@@ -376,6 +376,178 @@ i18n:
 
       </ul>
     srcHash: 352ebb4e8ac8
+  he:
+    name: דיל באיחוד Flamingoo ב-ClubGG
+    description: >-
+      דיל באיחוד Flamingoo ב-ClubGG. רייקבק גבוה של עד 55% ומשחק פעיל מסביב לשעון בכל הפורמטים. PDH משמש כסוכן וכערב
+      לתשלומים.
+    geo: ארה"ב
+    body: >-
+      <h3>תיאור</h3>
+
+      <p>דיל פוקר במועדון Monkeys Paradise, החבר באיחוד הבינלאומי Flamingoo ב-ClubGG — האפליקציה הרשמית של GGPoker. מעבר
+      לפלטפורמה אמינה, המועדון מציע זירה מצוינת לשחקנים רקרייישנליים.</p>
+
+
+      <h3>על האיחוד</h3>
+
+      <p>Flamingoo הוא אחד האיחודים המובילים בפלטפורמות ClubGG ו-PokerBros, עם התמקדות בשוק האמריקאי. האיחוד נוסד ב-2020
+      ובנה לעצמו מוניטין של שותף אמין לשחקנים בכל הרמות.</p>
+
+      <p>דיסציפלינות זמינות: NLH, PLO4/5/6, MTT. המשחק פעיל מסביב לשעון.</p>
+
+
+      <h3>על הדיל</h3>
+
+      <p>השחקנים יכולים לבחור בין:</p>
+
+      <ul>
+
+      <li><strong>רייקבק דינמי עד 60%</strong> הרייקבק תלוי בנפח הרייק השבועי שלך.</li>
+
+      <li><strong>רייקבק קבוע 30%</strong> התחילו לשחק עם יתרון מיד עם ההרשמה. בהמשך תוכלו לעבור למסלול הדינמי.</li>
+
+      </ul>
+    srcHash: 352ebb4e8ac8
+  ar:
+    name: صفقة في اتحاد Flamingoo على ClubGG
+    description: >-
+      صفقة في اتحاد Flamingoo على ClubGG. ريك باك مرتفع يصل إلى 55% ولعب نشط على مدار الساعة في جميع الصيغ. تعمل PDH
+      كوكيل وضامن للمدفوعات.
+    geo: الولايات المتحدة
+    body: >-
+      <h3>الوصف</h3>
+
+      <p>صفقة بوكر في نادي Monkeys Paradise، العضو في اتحاد Flamingoo الدولي على ClubGG — التطبيق الرسمي من GGPoker. إلى
+      جانب منصة موثوقة، يوفر النادي بيئة ممتازة للاعبين الترفيهيين.</p>
+
+
+      <h3>عن الاتحاد</h3>
+
+      <p>Flamingoo من أبرز الاتحادات على منصتي ClubGG و PokerBros، ويركّز على السوق الأمريكي. تأسس الاتحاد عام 2020 وبنى
+      سمعة كشريك موثوق للاعبين من جميع المستويات.</p>
+
+      <p>التخصصات المتاحة: NLH وPLO4/5/6 وMTT. اللعب نشط على مدار الساعة.</p>
+
+
+      <h3>عن الصفقة</h3>
+
+      <p>يمكن للاعبين الاختيار بين:</p>
+
+      <ul>
+
+      <li><strong>ريك باك ديناميكي يصل إلى 60%</strong> يعتمد الريك باك على حجم الريك الأسبوعي لديك.</li>
+
+      <li><strong>ريك باك ثابت 30%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا الانتقال إلى الخيار
+      الديناميكي.</li>
+
+      </ul>
+    srcHash: 352ebb4e8ac8
+  id:
+    name: Deal di union Flamingoo di ClubGG
+    description: >-
+      Deal di union Flamingoo di ClubGG. Rakeback tinggi hingga 55% dan permainan aktif 24/7 di semua format. PDH
+      bertindak sebagai agen dan penjamin pembayaran.
+    geo: AS
+    body: >-
+      <h3>Deskripsi</h3>
+
+      <p>Deal poker di klub Monkeys Paradise, yang tergabung dalam union internasional Flamingoo di ClubGG — aplikasi
+      resmi dari GGPoker. Selain platform yang andal, klub ini menawarkan lapangan yang bagus untuk pemain
+      rekreasional.</p>
+
+
+      <h3>Tentang Union</h3>
+
+      <p>Flamingoo adalah salah satu union terdepan di platform ClubGG dan PokerBros, dengan fokus pada pasar Amerika.
+      Didirikan pada 2020, union ini telah dikenal sebagai mitra tepercaya bagi pemain di semua level.</p>
+
+      <p>Disiplin yang tersedia: NLH, PLO4/5/6, MTT. Permainan aktif berjalan 24/7.</p>
+
+
+      <h3>Tentang Deal</h3>
+
+      <p>Pemain dapat memilih antara:</p>
+
+      <ul>
+
+      <li><strong>Rakeback dinamis hingga 60%</strong> Rakeback bergantung pada volume rake mingguan Anda.</li>
+
+      <li><strong>Rakeback tetap 30%</strong> Mulailah bermain dengan keuntungan langsung setelah mendaftar. Nanti Anda
+      bisa beralih ke opsi dinamis.</li>
+
+      </ul>
+    srcHash: 352ebb4e8ac8
+  vi:
+    name: Deal tại union Flamingoo trên ClubGG
+    description: >-
+      Deal tại union Flamingoo trên ClubGG. Rakeback cao tới 55% và bàn chơi sôi động 24/7 ở mọi thể loại. PDH đóng vai
+      trò đại lý và bên bảo đảm thanh toán.
+    geo: Mỹ
+    body: >-
+      <h3>Mô tả</h3>
+
+      <p>Deal poker tại club Monkeys Paradise, thuộc union quốc tế Flamingoo trên ClubGG — ứng dụng chính thức của
+      GGPoker. Bên cạnh một nền tảng đáng tin cậy, club mang đến môi trường tuyệt vời cho người chơi giải trí.</p>
+
+
+      <h3>Về union</h3>
+
+      <p>Flamingoo là một trong những union hàng đầu trên nền tảng ClubGG và PokerBros, tập trung vào thị trường Mỹ.
+      Thành lập năm 2020, union đã tạo dựng uy tín là đối tác đáng tin cậy cho người chơi ở mọi trình độ.</p>
+
+      <p>Các thể loại có sẵn: NLH, PLO4/5/6, MTT. Bàn chơi sôi động suốt ngày đêm.</p>
+
+
+      <h3>Về deal</h3>
+
+      <p>Người chơi có thể chọn giữa:</p>
+
+      <ul>
+
+      <li><strong>Rakeback động tới 60%</strong> Mức rakeback phụ thuộc vào khối lượng rake hàng tuần của bạn.</li>
+
+      <li><strong>Rakeback cố định 30%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Sau này bạn có thể chuyển
+      sang phương án động.</li>
+
+      </ul>
+    srcHash: 352ebb4e8ac8
+  fil:
+    name: Deal sa union na Flamingoo sa ClubGG
+    description: >-
+      Deal sa union na Flamingoo sa ClubGG. Mataas na rakeback na hanggang 55% at aktibong laro 24/7 sa lahat ng format.
+      Ang PDH ang agent at tagagarantiya ng mga payout.
+    geo: USA
+    body: >-
+      <h3>Paglalarawan</h3>
+
+      <p>Poker deal sa club na Monkeys Paradise, na bahagi ng internasyonal na union na Flamingoo sa ClubGG — ang
+      opisyal na app ng GGPoker. Bukod sa maaasahang platform, nag-aalok ang club ng mahusay na larangan para sa mga
+      recreational player.</p>
+
+
+      <h3>Tungkol sa Union</h3>
+
+      <p>Ang Flamingoo ay isa sa mga nangungunang union sa mga platform na ClubGG at PokerBros, na nakatuon sa merkadong
+      Amerikano. Itinatag noong 2020, nakilala ito bilang maaasahang partner para sa mga manlalaro sa lahat ng
+      antas.</p>
+
+      <p>Mga available na disiplina: NLH, PLO4/5/6, MTT. Aktibo ang laro sa buong maghapon.</p>
+
+
+      <h3>Tungkol sa Deal</h3>
+
+      <p>Maaaring pumili ang mga manlalaro sa:</p>
+
+      <ul>
+
+      <li><strong>Dynamic na rakeback hanggang 60%</strong> Nakadepende ang rakeback sa lingguhang rake volume mo.</li>
+
+      <li><strong>Fixed na rakeback 30%</strong> Magsimulang maglaro nang may bentahe agad pagkatapos mag-register.
+      Maaari kang lumipat sa dynamic na opsyon sa bandang huli.</li>
+
+      </ul>
+    srcHash: 352ebb4e8ac8
 body: >-
   <h3>Описание</h3>
 

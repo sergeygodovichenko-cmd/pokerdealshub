@@ -794,3 +794,343 @@ i18n:
               </div>
             </div>
     srcHash: b340d6d58e27
+  he:
+    title: תנאי שימוש
+    description: "תנאי השימוש באתר PokerDealsHub: כללי שימוש, אחריות והגבלות."
+    body: |-
+      <div class="prose prose-invert max-w-none">
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <p class="text-neutral-300 mb-4">
+                  עדכון אחרון: 19 באוקטובר 2025
+                </p>
+                <p class="text-neutral-300">
+                  ברוכים הבאים לאתר PokerDealsHub ("אנחנו", "שלנו", "אותנו"). בשימוש באתר שלנו, אתה מסכים לתנאי השימוש הללו. אנא קרא אותם בעיון לפני תחילת השימוש באתר.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">1. מטרת האתר</h2>
+                <p class="text-neutral-300">
+                  PokerDealsHub מספקת חומרים מידעיים על אפליקציות פוקר, איגודים והעסקאות הזמינות. איננו מפעיל הימורים ואיננו מספקים אפשרות לשחק בכסף אמיתי. כל המידע באתר הוא בעל אופי הסברתי ושיווקי בלבד.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">2. אחריות המשתמשים</h2>
+                <p class="text-neutral-300">
+                  המשתמש נושא באחריות מלאה לעמידה בחוקי ארצו הנוגעים למשחקים מקוונים ולבידור הימורים. איננו אחראים לשימוש במידע המסופק בתחומי שיפוט שבהם פוקר מקוון עשוי להיות מוגבל או אסור.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">3. דיוק המידע</h2>
+                <p class="text-neutral-300">
+                  אנו שואפים לספק מידע מהימן ועדכני בלבד, אך איננו מתחייבים לדיוק, לשלמות ולעדכניות של הנתונים בנוגע לעסקאות, בונוסים ושותפים. תנאי ההצעות עשויים להשתנות ללא הודעה מוקדמת.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">4. קישורים חיצוניים</h2>
+                <p class="text-neutral-300">
+                  האתר עשוי להכיל קישורים למשאבים של צד שלישי. איננו שולטים בתוכן של אתרים אלה ואיננו אחראים לו, וכן איננו אחראים לתוצאות אפשריות של מעבר דרך קישורים חיצוניים. בשימוש בהם, אתה פועל על אחריותך.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">5. הגבלת אחריות</h2>
+                <p class="text-neutral-300">
+                  PokerDealsHub אינה אחראית לכל נזק, ישיר או עקיף, שנגרם כתוצאה משימוש במידע המוצג באתר. איננו מתחייבים לפעולה רציפה של המשאב ולשמירת הנתונים במקרה של תקלות טכניות.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">6. שינויים בתנאים</h2>
+                <p class="text-neutral-300">
+                  אנו שומרים לעצמנו את הזכות לשנות או להוסיף לתנאי השימוש הללו בכל עת. הגרסה העדכנית של המסמך זמינה תמיד בעמוד זה. בהמשך השימוש באתר לאחר שינויים, אתה מאשר את הסכמתך אליהם.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+                <h2 class="text-2xl font-semibold text-gold mb-4">7. יצירת קשר</h2>
+                <p class="text-neutral-300 mb-3">
+                  אם יש לך שאלות בנוגע לתנאים אלה, צור איתנו קשר:
+                </p>
+                <p class="text-neutral-300">
+                  Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
+                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                </p>
+              </div>
+            </div>
+    srcHash: b340d6d58e27
+  ar:
+    title: شروط الاستخدام
+    description: "شروط استخدام موقع PokerDealsHub: قواعد الاستخدام والمسؤولية والقيود."
+    body: |-
+      <div class="prose prose-invert max-w-none">
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <p class="text-neutral-300 mb-4">
+                  آخر تحديث: 19 أكتوبر 2025
+                </p>
+                <p class="text-neutral-300">
+                  مرحبًا بك في موقع PokerDealsHub ("نحن"، "لنا"، "خاصتنا"). باستخدامك لموقعنا، فإنك توافق على شروط الاستخدام هذه. يرجى قراءتها بعناية قبل البدء في استخدام الموقع.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">1. الغرض من الموقع</h2>
+                <p class="text-neutral-300">
+                  يقدم PokerDealsHub مواد معلوماتية عن تطبيقات البوكر والاتحادات والصفقات المتاحة. نحن لسنا مشغّلًا لألعاب القمار ولا نوفر إمكانية اللعب بأموال حقيقية. جميع المعلومات الموجودة على الموقع ذات طابع تعريفي وتسويقي حصرًا.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">2. مسؤولية المستخدمين</h2>
+                <p class="text-neutral-300">
+                  يتحمل المستخدم المسؤولية الكاملة عن الالتزام بقوانين بلده المتعلقة بالألعاب عبر الإنترنت وأنشطة القمار. نحن لسنا مسؤولين عن استخدام المعلومات المقدَّمة في الولايات القضائية التي قد يكون فيها البوكر عبر الإنترنت مقيدًا أو محظورًا.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">3. دقة المعلومات</h2>
+                <p class="text-neutral-300">
+                  نحرص على تقديم معلومات موثوقة ومحدَّثة فقط، إلا أننا لا نضمن دقة واكتمال وحداثة البيانات المتعلقة بالصفقات والمكافآت والشركاء. قد تتغير شروط العروض دون إشعار مسبق.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">4. الروابط الخارجية</h2>
+                <p class="text-neutral-300">
+                  قد يحتوي الموقع على روابط لمصادر خارجية. نحن لا نتحكم في محتوى هذه المواقع ولسنا مسؤولين عنه، كما لسنا مسؤولين عن العواقب المحتملة للانتقال عبر الروابط الخارجية. باستخدامك لها، فإنك تتصرف على مسؤوليتك الخاصة.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">5. تحديد المسؤولية</h2>
+                <p class="text-neutral-300">
+                  لا يتحمل PokerDealsHub المسؤولية عن أي خسائر، مباشرة أو غير مباشرة، تنشأ نتيجة استخدام المعلومات المنشورة على الموقع. نحن لا نضمن التشغيل المتواصل للموقع وسلامة البيانات في حال حدوث أعطال تقنية.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">6. تغيير الشروط</h2>
+                <p class="text-neutral-300">
+                  نحتفظ بالحق في تعديل أو استكمال شروط الاستخدام هذه في أي وقت. النسخة الحالية من الوثيقة متاحة دائمًا على هذه الصفحة. باستمرارك في استخدام الموقع بعد التغييرات، فإنك تؤكد موافقتك عليها.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+                <h2 class="text-2xl font-semibold text-gold mb-4">7. التواصل</h2>
+                <p class="text-neutral-300 mb-3">
+                  إذا كانت لديك أسئلة بخصوص هذه الشروط، فتواصل معنا:
+                </p>
+                <p class="text-neutral-300">
+                  Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
+                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                </p>
+              </div>
+            </div>
+    srcHash: b340d6d58e27
+  id:
+    title: Syarat Penggunaan
+    description: "Syarat penggunaan situs PokerDealsHub: aturan penggunaan, tanggung jawab, dan batasan."
+    body: |-
+      <div class="prose prose-invert max-w-none">
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <p class="text-neutral-300 mb-4">
+                  Pembaruan terakhir: 19 Oktober 2025
+                </p>
+                <p class="text-neutral-300">
+                  Selamat datang di situs PokerDealsHub ("kami", "milik kami"). Dengan menggunakan situs kami, Anda menyetujui Syarat Penggunaan ini. Harap baca dengan saksama sebelum mulai menggunakan situs.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">1. Tujuan situs</h2>
+                <p class="text-neutral-300">
+                  PokerDealsHub menyediakan materi informatif tentang aplikasi poker, union, dan deal yang tersedia. Kami bukan operator perjudian dan tidak menyediakan kemampuan untuk bermain dengan uang sungguhan. Semua informasi di situs bersifat informatif dan pemasaran semata.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">2. Tanggung jawab pengguna</h2>
+                <p class="text-neutral-300">
+                  Pengguna bertanggung jawab penuh atas kepatuhan terhadap hukum negaranya yang berkaitan dengan permainan online dan hiburan judi. Kami tidak bertanggung jawab atas penggunaan informasi yang disediakan di yurisdiksi tempat poker online mungkin dibatasi atau dilarang.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">3. Keakuratan informasi</h2>
+                <p class="text-neutral-300">
+                  Kami berupaya menyediakan hanya informasi yang dapat dipercaya dan terkini, namun kami tidak menjamin keakuratan, kelengkapan, dan ketepatan waktu data tentang deal, bonus, dan mitra. Syarat penawaran dapat berubah tanpa pemberitahuan sebelumnya.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">4. Tautan eksternal</h2>
+                <p class="text-neutral-300">
+                  Situs dapat memuat tautan ke sumber daya pihak ketiga. Kami tidak mengontrol dan tidak bertanggung jawab atas konten situs tersebut, serta atas kemungkinan konsekuensi dari mengikuti tautan eksternal. Dengan menggunakannya, Anda bertindak atas risiko Anda sendiri.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">5. Pembatasan tanggung jawab</h2>
+                <p class="text-neutral-300">
+                  PokerDealsHub tidak bertanggung jawab atas kerugian apa pun, langsung maupun tidak langsung, yang timbul akibat penggunaan informasi yang ditampilkan di situs. Kami tidak menjamin operasi situs yang tanpa gangguan dan keamanan data jika terjadi gangguan teknis.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">6. Perubahan syarat</h2>
+                <p class="text-neutral-300">
+                  Kami berhak mengubah atau menambah Syarat Penggunaan ini kapan saja. Versi terbaru dokumen selalu tersedia di halaman ini. Dengan terus menggunakan situs setelah perubahan, Anda mengonfirmasi persetujuan Anda terhadapnya.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+                <h2 class="text-2xl font-semibold text-gold mb-4">7. Kontak</h2>
+                <p class="text-neutral-300 mb-3">
+                  Jika Anda memiliki pertanyaan terkait Syarat ini, hubungi kami:
+                </p>
+                <p class="text-neutral-300">
+                  Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
+                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                </p>
+              </div>
+            </div>
+    srcHash: b340d6d58e27
+  vi:
+    title: Điều khoản sử dụng
+    description: "Điều khoản sử dụng trang web PokerDealsHub: quy tắc sử dụng, trách nhiệm và giới hạn."
+    body: |-
+      <div class="prose prose-invert max-w-none">
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <p class="text-neutral-300 mb-4">
+                  Cập nhật lần cuối: ngày 19 tháng 10 năm 2025
+                </p>
+                <p class="text-neutral-300">
+                  Chào mừng bạn đến với trang web PokerDealsHub ("chúng tôi", "của chúng tôi"). Bằng việc sử dụng trang web của chúng tôi, bạn đồng ý với các Điều khoản sử dụng này. Vui lòng đọc kỹ trước khi bắt đầu sử dụng trang web.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">1. Mục đích của trang web</h2>
+                <p class="text-neutral-300">
+                  PokerDealsHub cung cấp các tài liệu thông tin về các ứng dụng poker, union và những deal hiện có. Chúng tôi không phải là nhà điều hành cờ bạc và không cung cấp khả năng chơi bằng tiền thật. Mọi thông tin trên trang web chỉ mang tính chất giới thiệu và tiếp thị.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">2. Trách nhiệm của người dùng</h2>
+                <p class="text-neutral-300">
+                  Người dùng chịu hoàn toàn trách nhiệm tuân thủ luật pháp của quốc gia mình liên quan đến trò chơi trực tuyến và giải trí cờ bạc. Chúng tôi không chịu trách nhiệm về việc sử dụng thông tin được cung cấp tại những khu vực pháp lý nơi poker trực tuyến có thể bị hạn chế hoặc cấm.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">3. Độ chính xác của thông tin</h2>
+                <p class="text-neutral-300">
+                  Chúng tôi cố gắng chỉ cung cấp thông tin đáng tin cậy và cập nhật, tuy nhiên chúng tôi không bảo đảm tính chính xác, đầy đủ và kịp thời của dữ liệu về các deal, tiền thưởng và đối tác. Điều kiện của các ưu đãi có thể thay đổi mà không cần báo trước.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">4. Liên kết bên ngoài</h2>
+                <p class="text-neutral-300">
+                  Trang web có thể chứa các liên kết đến các nguồn của bên thứ ba. Chúng tôi không kiểm soát và không chịu trách nhiệm về nội dung của các trang web đó, cũng như về những hậu quả có thể xảy ra khi truy cập qua các liên kết bên ngoài. Khi sử dụng chúng, bạn tự chịu rủi ro.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">5. Giới hạn trách nhiệm</h2>
+                <p class="text-neutral-300">
+                  PokerDealsHub không chịu trách nhiệm về bất kỳ thiệt hại nào, trực tiếp hay gián tiếp, phát sinh do việc sử dụng thông tin được đăng trên trang web. Chúng tôi không bảo đảm hoạt động liên tục của trang web và sự an toàn của dữ liệu khi xảy ra sự cố kỹ thuật.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">6. Thay đổi điều khoản</h2>
+                <p class="text-neutral-300">
+                  Chúng tôi bảo lưu quyền thay đổi hoặc bổ sung các Điều khoản sử dụng này bất cứ lúc nào. Phiên bản hiện hành của tài liệu luôn có sẵn trên trang này. Khi tiếp tục sử dụng trang web sau khi có thay đổi, bạn xác nhận sự đồng ý của mình với những thay đổi đó.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+                <h2 class="text-2xl font-semibold text-gold mb-4">7. Liên hệ</h2>
+                <p class="text-neutral-300 mb-3">
+                  Nếu bạn có thắc mắc về các Điều khoản này, hãy liên hệ với chúng tôi:
+                </p>
+                <p class="text-neutral-300">
+                  Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
+                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                </p>
+              </div>
+            </div>
+    srcHash: b340d6d58e27
+  fil:
+    title: Mga Tuntunin ng Paggamit
+    description: "Mga tuntunin ng paggamit ng site na PokerDealsHub: mga panuntunan sa paggamit, pananagutan, at mga limitasyon."
+    body: |-
+      <div class="prose prose-invert max-w-none">
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <p class="text-neutral-300 mb-4">
+                  Huling na-update: Oktubre 19, 2025
+                </p>
+                <p class="text-neutral-300">
+                  Maligayang pagdating sa site na PokerDealsHub ("kami", "amin"). Sa paggamit ng aming site, sumasang-ayon ka sa mga Tuntunin ng Paggamit na ito. Pakibasa nang mabuti bago simulan ang paggamit ng site.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">1. Layunin ng site</h2>
+                <p class="text-neutral-300">
+                  Nagbibigay ang PokerDealsHub ng mga materyal na pang-impormasyon tungkol sa mga poker app, union, at mga available na deal. Hindi kami isang operator ng sugal at hindi kami nagbibigay ng kakayahang maglaro gamit ang totoong pera. Lahat ng impormasyon sa site ay para lamang sa pang-impormasyon at pang-marketing na layunin.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">2. Pananagutan ng mga user</h2>
+                <p class="text-neutral-300">
+                  Ang user ang may buong pananagutan sa pagsunod sa mga batas ng kanyang bansa na may kinalaman sa mga online na laro at libangang sugal. Hindi kami mananagot sa paggamit ng ibinigay na impormasyon sa mga hurisdiksyon kung saan maaaring limitado o ipinagbabawal ang online poker.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">3. Katumpakan ng impormasyon</h2>
+                <p class="text-neutral-300">
+                  Sinisikap naming magbigay lamang ng maaasahan at napapanahong impormasyon, ngunit hindi namin ginagarantiyahan ang katumpakan, pagkakumpleto, at pagiging napapanahon ng data tungkol sa mga deal, bonus, at partner. Maaaring magbago ang mga kondisyon ng mga alok nang walang paunang abiso.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">4. Mga panlabas na link</h2>
+                <p class="text-neutral-300">
+                  Maaaring maglaman ang site ng mga link sa mga third-party na mapagkukunan. Hindi namin kinokontrol at hindi kami mananagot sa nilalaman ng mga ganitong site, gayundin sa mga posibleng kahihinatnan ng pagsunod sa mga panlabas na link. Sa paggamit ng mga ito, kumikilos ka sa iyong sariling panganib.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">5. Limitasyon ng pananagutan</h2>
+                <p class="text-neutral-300">
+                  Hindi mananagot ang PokerDealsHub sa anumang pinsala, direkta man o hindi direkta, na nagmula sa paggamit ng impormasyong nakalagay sa site. Hindi namin ginagarantiyahan ang walang patid na operasyon ng mapagkukunan at ang kaligtasan ng data kapag may teknikal na kabiguan.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">6. Mga pagbabago sa mga tuntunin</h2>
+                <p class="text-neutral-300">
+                  Nakalaan sa amin ang karapatang baguhin o dagdagan ang mga Tuntunin ng Paggamit na ito anumang oras. Ang kasalukuyang bersyon ng dokumento ay laging available sa page na ito. Sa pagpapatuloy ng paggamit ng site pagkatapos ng mga pagbabago, kinukumpirma mo ang iyong pagsang-ayon sa mga ito.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+                <h2 class="text-2xl font-semibold text-gold mb-4">7. Kontak</h2>
+                <p class="text-neutral-300 mb-3">
+                  Kung may mga tanong ka tungkol sa mga Tuntuning ito, makipag-ugnayan sa amin:
+                </p>
+                <p class="text-neutral-300">
+                  Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
+                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                </p>
+              </div>
+            </div>
+    srcHash: b340d6d58e27
