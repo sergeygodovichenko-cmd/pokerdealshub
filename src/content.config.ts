@@ -64,4 +64,28 @@ const deals = defineCollection({
   }),
 });
 
-export const collections = { deals };
+// Per-locale translation block for guides (filled by the pipeline).
+const guideTranslation = z.object({
+  title: z.string().optional(),
+  description: z.string().optional(),
+  body: z.string().optional(),
+});
+
+const guides = defineCollection({
+  loader: glob({ pattern: "*.yaml", base: "./src/content/guides" }),
+  schema: z.object({
+    date: z.coerce.date(),
+    category: z.enum(["guide", "review"]).default("guide"),
+    draft: z.boolean().default(false),
+
+    // localized SOURCE fields (ru)
+    title: z.string(),
+    description: z.string(),
+    body: z.string(),
+
+    // generated translations (managed by `npm run translate`)
+    i18n: z.record(z.string(), guideTranslation).default({}),
+  }),
+});
+
+export const collections = { deals, guides };

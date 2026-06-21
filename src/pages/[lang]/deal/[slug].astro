@@ -4,14 +4,12 @@ import Breadcrumbs from "../../../components/Breadcrumbs.astro";
 import RelatedDeals from "../../../components/RelatedDeals.astro";
 import { getCollection } from "astro:content";
 import { useTranslations } from "../../../i18n/utils";
+import { locales, type Locale } from "../../../i18n/ui";
 import { badgeLabels, tooltips, labl, localizeDeal } from "../../../utils/dealHelpers";
 
-const ACTIVE_LANGS = ["en", "ru", "uz"] as const;
-
 export async function getStaticPaths() {
-  const langs = ["en", "ru", "uz"];
   const deals = await getCollection("deals");
-  return langs.flatMap((lang) =>
+  return locales.flatMap((lang) =>
     deals.map((entry) => ({
       params: { lang, slug: entry.id },
       props: { deal: entry.data, slug: entry.id },
@@ -20,7 +18,7 @@ export async function getStaticPaths() {
 }
 
 const { deal, slug } = Astro.props;
-const lang = Astro.params.lang as (typeof ACTIVE_LANGS)[number];
+const lang = Astro.params.lang as Locale;
 const t = useTranslations(lang);
 const L = labl[lang];
 

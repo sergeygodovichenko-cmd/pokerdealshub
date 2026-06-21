@@ -1,0 +1,103 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { useTranslations } from "../../../i18n/utils";
+import { locales } from "../../../i18n/ui";
+import { getCollection } from "astro:content";
+import { localizeGuide } from "../../../utils/dealHelpers";
+
+export function getStaticPaths() {
+  return locales.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as string;
+const t = useTranslations(lang as any);
+
+const all = await getCollection("guides", ({ data }) => !data.draft);
+const guides = all
+  .map((entry) => ({ slug: entry.id, ...entry.data, ...localizeGuide(entry.data, lang) }))
+  .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+const dateLocale: Record<string, string> = { ru: "ru-RU", en: "en-US", uz: "uz-UZ" };
+const catLabel: Record<string, { guide: string; review: string }> = {
+  ru: { guide: "Гайд", review: "Обзор" },
+  en: { guide: "Guide", review: "Review" },
+  uz: { guide: "Qo‘llanma", review: "Sharh" },
+};
+const readMore: Record<string, string> = { ru: "Читать далее", en: "Read more", uz: "Batafsil" };
+const aboutBlock: Record<string, { title: string; p1: string; p2: string }> = {
+  ru: {
+    title: "О разделе гайдов",
+    p1: "В этом разделе мы публикуем подробные гайды и обзоры покерных приложений, союзов и сделок. Наша цель — помочь разобраться в условиях игры и выбрать лучшее предложение.",
+    p2: "Все материалы основаны на реальном игровом опыте и проверенной информации.",
+  },
+  en: {
+    title: "About the Guides Section",
+    p1: "Here we publish detailed guides and reviews of poker apps, unions, and deals. Our goal is to help you understand the playing conditions and choose the best offer.",
+    p2: "All guides are based on real playing experience and verified information.",
+  },
+  uz: {
+    title: "Qo‘llanmalar bo‘limi haqida",
+    p1: "Bu bo‘limda poker ilovalari, ittifoqlar va bitimlar bo‘yicha batafsil qo‘llanma va sharhlar chop etamiz. Maqsadimiz — o‘yin shartlarini tushunishga va eng yaxshi taklifni tanlashga yordam berish.",
+    p2: "Barcha materiallar haqiqiy o‘yin tajribasi va tekshirilgan ma'lumotlarga asoslangan.",
+  },
+};
+const about = aboutBlock[lang] ?? aboutBlock.en;
+
+const itemListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  itemListElement: guides.map((g, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    item: {
+      "@type": "Article",
+      headline: g.title,
+      description: g.description,
+      datePublished: new Date(g.date).toISOString().slice(0, 10),
+      url: `https://pokerdealshub.com/${lang}/guides/${g.slug}/`,
+    },
+  })),
+};
+---
+
+<BaseLayout title={`${t("guides.title")} — PokerDealsHub`} description={t("guides.subtitle")}>
+  <div class="container mx-auto px-4 py-12">
+    <div class="max-w-4xl mx-auto mb-12 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold text-gold mb-6">{t("guides.title")}</h1>
+      <p class="text-neutral-300 text-lg">{t("guides.subtitle")}</p>
+    </div>
+
+    <div class="max-w-4xl mx-auto">
+      <div class="grid grid-cols-1 gap-6">
+        {guides.map((guide) => (
+          <article class="bg-neutral-900 border border-neutral-800 rounded-xl p-6 hover:border-gold transition-all group">
+            <div class="flex items-start justify-between mb-3">
+              <span class={`text-xs px-3 py-1 rounded-full ${guide.category === "guide" ? "bg-blue-500/20 text-blue-400" : "bg-green-500/20 text-green-400"}`}>
+                {(catLabel[lang] ?? catLabel.en)[guide.category as "guide" | "review"]}
+              </span>
+              <time class="text-sm text-neutral-500">
+                {new Date(guide.date).toLocaleDateString(dateLocale[lang] ?? "en-US", { year: "numeric", month: "long", day: "numeric" })}
+              </time>
+            </div>
+            <h2 class="text-2xl font-semibold text-gold group-hover:text-gold-light transition-colors mb-3">
+              <a href={`/${lang}/guides/${guide.slug}/`}>{guide.title}</a>
+            </h2>
+            <p class="text-neutral-400 mb-4">{guide.description}</p>
+            <a href={`/${lang}/guides/${guide.slug}/`} class="inline-flex items-center text-gold hover:text-gold-light transition-colors text-sm font-medium">
+              {readMore[lang] ?? readMore.en}
+              <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+            </a>
+          </article>
+        ))}
+      </div>
+
+      <div class="mt-12 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+        <h2 class="text-2xl font-semibold text-gold mb-4">{about.title}</h2>
+        <p class="text-neutral-300 mb-4">{about.p1}</p>
+        <p class="text-neutral-300">{about.p2}</p>
+      </div>
+    </div>
+  </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />
+</BaseLayout>

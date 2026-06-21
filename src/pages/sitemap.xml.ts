@@ -1,124 +1,61 @@
-import type { APIRoute } from 'astro';
-import deals from '../data/deals.json';
-import filterContent from '../data/filterContent.json';
+import type { APIRoute } from "astro";
+import { getCollection } from "astro:content";
+import filterContent from "../data/filterContent.json";
+import { locales } from "../i18n/ui";
 
-const SITE_URL = 'https://pokerdealshub.com';
+const SITE_URL = "https://pokerdealshub.com";
 
-const languageEntries = [
-  { lang: 'ru', hreflang: 'ru-RU' },
-  { lang: 'en', hreflang: 'en-US' },
-  { lang: 'es', hreflang: 'es-ES' },
-  { lang: 'uz', hreflang: 'uz-Latn-UZ' },
-];
+const HREFLANG: Record<string, string> = {
+  ru: "ru-RU",
+  en: "en-US",
+  uz: "uz-Latn-UZ",
+};
 
 interface SitemapURL {
   loc: string;
-  lastmod: string;
   changefreq: string;
   priority: number;
   alternates?: Array<{ lang: string; href: string }>;
 }
 
+// Build a localized URL set for a path template, with hreflang alternates.
+function localized(pathFor: (lang: string) => string, changefreq: string, priority: number): SitemapURL[] {
+  const alternates = locales.map((lang) => ({ lang: HREFLANG[lang], href: `${SITE_URL}${pathFor(lang)}` }));
+  return locales.map((lang) => ({ loc: `${SITE_URL}${pathFor(lang)}`, changefreq, priority, alternates }));
+}
+
 export const GET: APIRoute = async () => {
   const lastmod = new Date().toISOString();
-  const urls: SitemapURL[] = [];
+  const deals = await getCollection("deals");
+  const guides = await getCollection("guides", ({ data }) => !data.draft);
+  const filters = Object.keys((filterContent as any).ru ?? {});
 
-  const mainPages = languageEntries.map(({ lang }) => ({
-    path: `/${lang}/`,
-    priority: 1.0,
-    changefreq: 'daily',
-  }));
-
-  mainPages.forEach((page) => {
-    const alternates = languageEntries.map(({ lang, hreflang }) => ({
-      lang: hreflang,
-      href: `${SITE_URL}/${lang}/`,
-    }));
-
-    urls.push({
-      loc: `${SITE_URL}${page.path}`,
-      lastmod,
-      changefreq: page.changefreq,
-      priority: page.priority,
-      alternates,
-    });
-  });
-
-  const activeLangs = languageEntries.map(({ lang }) => lang);
-
-  deals.forEach((deal) => {
-    activeLangs.forEach((lang) => {
-      const alternates = languageEntries.map(({ lang: altLang, hreflang }) => ({
-        lang: hreflang,
-        href: `${SITE_URL}/${altLang}/deal/${deal.slug}/`,
-      }));
-
-      urls.push({
-        loc: `${SITE_URL}/${lang}/deal/${deal.slug}/`,
-        lastmod,
-        changefreq: 'weekly',
-        priority: 0.9,
-        alternates,
-      });
-    });
-  });
-
-  const filters = Object.keys(filterContent.ru);
-  filters.forEach((filter) => {
-    activeLangs.forEach((lang) => {
-      const alternates = languageEntries.map(({ lang: altLang, hreflang }) => ({
-        lang: hreflang,
-        href: `${SITE_URL}/${altLang}/deals/${filter}/`,
-      }));
-
-      urls.push({
-        loc: `${SITE_URL}/${lang}/deals/${filter}/`,
-        lastmod,
-        changefreq: 'weekly',
-        priority: 0.8,
-        alternates,
-      });
-    });
-  });
-
-  const staticPages = languageEntries.flatMap(({ lang }) => [
-    { path: `/${lang}/guides/`, priority: 0.7, changefreq: 'monthly' },
-    { path: `/${lang}/guides/pppoker-guide/`, priority: 0.7, changefreq: 'monthly' },
-    { path: `/${lang}/about/`, priority: 0.5, changefreq: 'monthly' },
-    { path: `/${lang}/add-deal/`, priority: 0.5, changefreq: 'monthly' },
-    { path: `/${lang}/privacy/`, priority: 0.5, changefreq: 'monthly' },
-    { path: `/${lang}/terms/`, priority: 0.5, changefreq: 'monthly' },
-  ]);
-
-  staticPages.forEach((page) => {
-    urls.push({
-      loc: `${SITE_URL}${page.path}`,
-      lastmod,
-      changefreq: page.changefreq,
-      priority: page.priority,
-    });
-  });
+  const urls: SitemapURL[] = [
+    ...localized((l) => `/${l}/`, "daily", 1.0),
+    ...localized((l) => `/${l}/deals/`, "daily", 0.9),
+    ...localized((l) => `/${l}/guides/`, "weekly", 0.7),
+    ...deals.flatMap((d) => localized((l) => `/${l}/deal/${d.id}/`, "weekly", 0.9)),
+    ...guides.flatMap((g) => localized((l) => `/${l}/guides/${g.id}/`, "monthly", 0.7)),
+    ...filters.flatMap((f) => localized((l) => `/${l}/deals/${f}/`, "weekly", 0.8)),
+    ...["about", "add-deal", "privacy", "terms"].flatMap((p) =>
+      localized((l) => `/${l}/${p}/`, "monthly", 0.5)
+    ),
+  ];
 
   const xmlUrls = urls
     .map((url) => {
-      const alternates = url.alternates
-        ? url.alternates
-            .map(
-              (alt) =>
-                `    <xhtml:link rel="alternate" hreflang="${alt.lang}" href="${alt.href}" />`
-            )
-            .join('\n')
-        : '';
-
+      const alternates = (url.alternates ?? [])
+        .map((alt) => `    <xhtml:link rel="alternate" hreflang="${alt.lang}" href="${alt.href}" />`)
+        .join("\n");
       return `  <url>
     <loc>${url.loc}</loc>
-    <lastmod>${url.lastmod}</lastmod>
+    <lastmod>${lastmod}</lastmod>
     <changefreq>${url.changefreq}</changefreq>
     <priority>${url.priority}</priority>
 ${alternates}
   </url>`;
     })
-    .join('\n');
+    .join("\n");
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -127,8 +64,6 @@ ${xmlUrls}
 </urlset>`;
 
   return new Response(sitemap, {
-    headers: {
-      'Content-Type': 'application/xml; charset=utf-8',
-    },
+    headers: { "Content-Type": "application/xml; charset=utf-8" },
   });
 };

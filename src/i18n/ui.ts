@@ -7,6 +7,12 @@ export const languages = {
 
 export const defaultLang = 'ru';
 
+// Active locales that get built/rendered. The source language is `defaultLang` (ru);
+// the others are produced by the translation pipeline. Add a locale here (and run
+// `npm run translate`) to expand coverage — e.g. towards the planned top-8.
+export const locales = ['ru', 'en', 'uz'] as const;
+export type Locale = (typeof locales)[number];
+
 export const ui = {
   ru: {
     'nav.deals': 'Сделки',

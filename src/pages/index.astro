@@ -23,7 +23,6 @@
     <link rel="alternate" hreflang="x-default" href="https://pokerdealshub.com/" />
     <link rel="alternate" hreflang="en" href="https://pokerdealshub.com/en/" />
     <link rel="alternate" hreflang="ru" href="https://pokerdealshub.com/ru/" />
-    <!-- <link rel="alternate" hreflang="es" href="https://pokerdealshub.com/es/" /> -->
 
 
     <style>
@@ -113,11 +112,7 @@
         (function () {
           try {
             const lang = (navigator.languages && navigator.languages[0]) || navigator.language || "en";
-            const short = lang.toLowerCase().startsWith("ru")
-              ? "ru"
-              : lang.toLowerCase().startsWith("es")
-              ? "es"
-              : "en";
+            const short = lang.toLowerCase().startsWith("ru") ? "ru" : "en";
             // лёгкая задержка — чтобы контент успел прогрузиться
             setTimeout(() => {
               window.location.replace(`/${short}/`);

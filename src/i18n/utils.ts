@@ -1,4 +1,4 @@
-import { ui, defaultLang } from './ui';
+import { ui, defaultLang, locales } from './ui';
 
 export function getLangFromUrl(url: URL) {
   const [, lang] = url.pathname.split('/');
@@ -20,9 +20,7 @@ export function getLocalizedPath(path: string, lang: keyof typeof ui) {
 }
 
 export function getAlternateLanguages(currentPath: string, currentLang: string) {
-  const langs = (Object.keys(ui) as Array<keyof typeof ui>).filter(
-    (lang) => lang !== currentLang
-  );
+  const langs = locales.filter((lang) => lang !== currentLang);
   const pathWithoutLang = currentPath.replace(`/${currentLang}`, '');
 
   return langs.map(lang => ({
