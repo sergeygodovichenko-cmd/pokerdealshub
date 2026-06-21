@@ -12,8 +12,18 @@ Status of the refactor + the SEO/LLM recommendations. Branch: `source` (producti
 - Deal hide/unhide: `hidden` flag + `npm run deal:hide/show/list` (instant, reversible).
 - SEO/LLM baseline: AI-crawler `robots.txt`, `/llms.txt` + `/llms-full.txt`, indexable root, JSON-LD (Organization/Offer/Article/Breadcrumb/WebSite), hreflang + canonical + sitemap.
 
+## ✅ Done (cont.)
+- **#8 Cutover** — production is live on pokerdealshub.com; Netlify production branch = `source` (push to source auto-deploys). Rollback: republish Netlify deploy `main@e06bdce` / backup branch `backup-prod-dist-20260621`.
+- Root `/` language hub: lists all 15 locales (native names) + hreflang for 15 + smart browser-language redirect (was only en/ru).
+
 ## ▶️ Next (priority)
-- [ ] **#8 Cutover** — switch Netlify to build from `source` (`netlify.toml` ready). Tag current dist for rollback → branch-deploy preview → approve → point `main` at source. Makes everything live on pokerdealshub.com.
+- [ ] **Translate the `playpoker` landing to all 15 locales** — it's still only en/ru/uz and per-lang (not in the `[lang]` system). Collapse to `[lang]/playpoker.astro` (extract its ~20 hardcoded strings) + translate, OR move it into the `pages` collection. (Confirm it's still used for campaigns first.)
+
+## 🤖 AI agent for incoming requests (TG + Discord) — separate service (task #14)
+Always-on bot (NOT the static site). Telegram + Discord → Claude agent grounded on PDH content (`llms-full.txt` / deals+guides), answers competently in the query language. Two-way human handoff (agent escalates; operator can take over → pauses agent for that thread → release). Needs persistent host (VPS/Fly/Railway) + `ANTHROPIC_API_KEY` at runtime. Recommend Claude Agent SDK. Guardrails: 18+, no payments/credentials → human. Open scoping questions: channels (existing TG bot? Discord server?), agent scope (info-only vs lead-handling), operators/handoff UX, hosting.
+
+## ♻️ Site: Discord instead of WhatsApp
+- [ ] Replace WhatsApp (`wa.me/...`) with Discord on deal contact block, About, Add-deal (all 15 locales). Needs the Discord invite URL.
 
 ## 🔎 SEO / LLM optimization backlog
 Paid ads are banned, so organic SEO + LLM/answer-engine recommendation is the growth channel.
