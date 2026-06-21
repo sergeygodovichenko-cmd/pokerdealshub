@@ -56,8 +56,6 @@ i18n:
     body: >-
       <article>
 
-      <h1>Complete PPPoker Guide: Deals, Unions and Rakeback</h1>
-
       <p>PPPoker is one of the most popular decentralized poker apps, offering players access to numerous clubs and
       unions worldwide.</p>
 
@@ -84,25 +82,33 @@ i18n:
 
       <h3>PPPfish Union</h3>
 
-      <p>One of the largest and most reliable unions in PPPoker. Offers:
+      <p>One of the largest and most reliable unions in PPPoker. Offers:</p>
 
-      - Stable 55-60% rakeback
+      <ul>
 
-      - 24/7 support
+      <li>Stable 55–60% rakeback</li>
 
-      - Fast payouts
+      <li>24/7 support</li>
 
-      - International player pool</p>
+      <li>Fast payouts</li>
+
+      <li>International player pool</li>
+
+      </ul>
 
       <h3>ElDorado Union</h3>
 
-      <p>Premium union focused on the Asian region:
+      <p>Premium union focused on the Asian region:</p>
 
-      - High 24/7 traffic
+      <ul>
 
-      - Special bonuses for regular players
+      <li>High 24/7 traffic</li>
 
-      - VIP program</p>
+      <li>Special bonuses for regular players</li>
+
+      <li>VIP program</li>
+
+      </ul>
 
       <h2>How to Start Playing</h2>
 
@@ -120,7 +126,7 @@ i18n:
 
       <h2>Best PPPoker Deals</h2>
 
-      <p>Check out our verified <a href="/en/">PPPoker deals</a> to choose optimal terms.</p>
+      <p>Check out our verified <a href="/en/deals/">PPPoker deals</a> to choose optimal terms.</p>
 
       <hr />
 
@@ -129,64 +135,56 @@ i18n:
       </article>
     srcHash: 4a5da0c93075
   uz:
-    title: "PPPoker bo'yicha to'liq qo'llanma: bitimlar, ittifoqlar va rakebek"
-    description: PPPoker ilovasi, mashhur ittifoqlar va eng yaxshi rakebekli bitimlarni tanlash bo'yicha qisqa sharh.
+    title: "PPPoker boʻyicha toʻliq qoʻllanma: bitimlar, ittifoqlar va reyk-bek"
+    description: PPPoker ilovasi boʻyicha batafsil qoʻllanma, ittifoqlar sharhi va reyk-bek boʻyicha eng yaxshi takliflar.
     body: |-
       <article>
-        <h1>PPPoker bo'yicha to'liq qo'llanma: bitimlar, ittifoqlar va rakebek</h1>
-        
+        <h1>PPPoker boʻyicha toʻliq qoʻllanma: bitimlar, ittifoqlar va reyk-bek</h1>
 
-        <p>PPPoker — eng mashhur markazlashmagan poker ilovalaridan biri. U dunyo bo'ylab o'nlab klublar va ittifoqlarga kirish beradi.</p>
+        <p>PPPoker — eng mashhur markazlashmagan poker ilovalaridan biri boʻlib, oʻyinchilarga butun dunyo boʻylab koʻplab klublar va ittifoqlarga kirish imkonini beradi.</p>
 
         <h2>PPPoker nima?</h2>
-        <p>PPPoker xususiy klub tamoyiliga asoslangan mobil poker ilovasi. Markazlashgan xonalardan farqli ravishda, o'yinchilar mustaqil klublarga qo'shiladi, klublar esa ittifoqlarga birlashadi.</p>
+        <p>PPPoker — yopiq klublar tamoyili boʻyicha ishlaydigan mobil poker ilovasi. Markazlashgan xonalardan farqli oʻlaroq, bu yerda oʻyinchilar ittifoqlarga birlashadigan mustaqil klublarga qoʻshiladi.</p>
 
-        <h2>PPPokerning afzalliklari</h2>
+        <h2>PPPoker afzalliklari</h2>
         <ul>
-          <li><strong>Yuqori rakebek</strong>: 60% va undan yuqori</li>
-          <li><strong>Yumshoq stollar</strong>: xususiy klub modeli tufayli</li>
-          <li><strong>Moslashuvchan shartlar</strong>: har bir klub o'z qoidalarini belgilaydi</li>
+          <li><strong>Yuqori reyk-bek</strong>: 60% gacha va undan ham yuqori</li>
+          <li><strong>Yumshoq stollar</strong>: yopiq klublar tufayli</li>
+          <li><strong>Moslashuvchan shartlar</strong>: har bir klub oʻz qoidalarini belgilaydi</li>
           <li><strong>Formatlar xilma-xilligi</strong>: NLH, PLO, OFC va boshqalar</li>
         </ul>
 
         <h2>Mashhur ittifoqlar</h2>
 
         <h3>PPPfish ittifoqi</h3>
-        <p>PPPoker dagi eng yirik va ishonchli ittifoqlardan biri. Taklif etadi:</p>
+        <p>PPPoker’dagi eng yirik va eng ishonchli ittifoqlardan biri. Taklif etadi:</p>
         <ul>
-          <li>Barqaror 55–60% rakebek</li>
-          <li>24/7 qo'llab-quvvatlash</li>
-          <li>Tezkor to'lovlar</li>
-          <li>Xalqaro o'yinchi puli</li>
+          <li>Barqaror 55–60% reyk-bek</li>
+          <li>Sutka davomida qoʻllab-quvvatlash</li>
+          <li>Tezkor toʻlovlar</li>
+          <li>Xalqaro oʻyinchilar havzasi</li>
         </ul>
 
         <h3>El Dorado ittifoqi</h3>
-        <p>Osiyo va Lotin Amerikasi yo'nalishiga e'tibor qaratgan premium ittifoq:</p>
+        <p>Osiyo mintaqasiga moʻljallangan premium ittifoq:</p>
         <ul>
-          <li>Sutka davomida yuqori trafik</li>
-          <li>Reglar uchun maxsus bonuslar</li>
+          <li>24/7 yuqori trafik</li>
+          <li>Doimiy oʻyinchilar uchun maxsus bonuslar</li>
           <li>VIP dastur</li>
         </ul>
 
-        <h3>Nuts PrimeTime ittifoqi</h3>
-        <ul>
-          <li>PPPoker ekotizimining eng taniqli ittifoqlaridan</li>
-          <li>Yuqori rakebek va shaffof shartlar</li>
-          <li>Yevropa va Osiyodan kuchli, ammo yumshoqroq maydon</li>
-        </ul>
-
-        <h2>Qanday boshlash kerak</h2>
+        <h2>Qanday oʻynashni boshlash kerak</h2>
         <ol>
           <li>PPPoker ilovasini yuklab oling</li>
-          <li>Klub ID olish uchun agent bilan bog'laning</li>
-          <li>Agent orqali balansni to'ldiring</li>
-          <li>O'ynashni boshlang va rakebek oling</li>
+          <li>Klub ID’sini olish uchun agent bilan bogʻlaning</li>
+          <li>Agent orqali balansni toʻldiring</li>
+          <li>Oʻynashni boshlang va reyk-bek oling</li>
         </ol>
 
-        <h2>Eng yaxshi PPPoker bitimlari</h2>
-        <p>Tekshirilgan <a href="/uz/deals/pppoker/">PPPoker bitimlarini</a> ko'ring va o'zingizga eng mos shartlarni tanlang.</p>
-        <hr />
-        <p><em>Shaxsiy taklif kerakmi? <a href="/uz/about/">Biz bilan bog'laning</a></em></p>
+        <h2>PPPoker’dagi eng yaxshi bitimlar</h2>
+        <p>Eng qulay shartlarni tanlash uchun bizning tekshirilgan <a href="/uz/deals/pppoker/">PPPoker bitimlarimiz</a> bilan tanishing.</p>
+
+        <p><em>Shaxsiy taklif olmoqchimisiz? <a href="/uz/about/">Biz bilan bogʻlaning</a></em></p>
       </article>
     srcHash: 4a5da0c93075
   uk:
@@ -347,14 +345,14 @@ i18n:
     description: Guía detallada de la app PPPoker, reseñas de uniones y las mejores ofertas de rakeback.
     body: |-
       <article>
-        <p>PPPoker es una de las aplicaciones de poker descentralizadas más populares, que ofrece a los jugadores acceso a multitud de clubes y uniones en todo el mundo.</p>
+        <p>PPPoker es una de las aplicaciones de póker descentralizadas más populares y ofrece a los jugadores acceso a multitud de clubes y uniones de todo el mundo.</p>
 
         <h2>¿Qué es PPPoker?</h2>
-        <p>PPPoker es una aplicación móvil de poker que funciona con el sistema de clubes cerrados. A diferencia de las salas centralizadas, aquí los jugadores se unen a clubes independientes que se agrupan en uniones.</p>
+        <p>PPPoker es una aplicación móvil de póker que funciona con un sistema de clubes cerrados. A diferencia de las salas centralizadas, aquí los jugadores se unen a clubes independientes que se agrupan en uniones.</p>
 
         <h2>Ventajas de PPPoker</h2>
         <ul>
-          <li><strong>Rakeback alto</strong>: hasta 60% e incluso más</li>
+          <li><strong>Rakeback alto</strong>: hasta el 60 % e incluso más</li>
           <li><strong>Mesas blandas</strong>: gracias a los clubes cerrados</li>
           <li><strong>Condiciones flexibles</strong>: cada club fija sus propias reglas</li>
           <li><strong>Variedad de formatos</strong>: NLH, PLO, OFC y más</li>
@@ -365,13 +363,13 @@ i18n:
         <h3>PPPfish Union</h3>
         <p>Una de las uniones más grandes y fiables de PPPoker. Ofrece:</p>
         <ul>
-          <li>Rakeback estable del 55–60%</li>
+          <li>Rakeback estable del 55-60 %</li>
           <li>Soporte 24/7</li>
           <li>Pagos rápidos</li>
           <li>Pool de jugadores internacional</li>
         </ul>
 
-        <h3>ElDorado Union</h3>
+        <h3>El Dorado Union</h3>
         <p>Unión premium enfocada en la región asiática:</p>
         <ul>
           <li>Tráfico alto 24/7</li>
@@ -384,7 +382,7 @@ i18n:
           <li>Descarga la app PPPoker</li>
           <li>Contacta con un agente para conseguir el ID del club</li>
           <li>Recarga tu saldo a través del agente</li>
-          <li>Empieza a jugar y recibe tu rakeback</li>
+          <li>Empieza a jugar y recibe rakeback</li>
         </ol>
 
         <h2>Las mejores deals de PPPoker</h2>
@@ -394,14 +392,14 @@ i18n:
       </article>
     srcHash: 4a5da0c93075
   pt:
-    title: "Guia completo do PPPoker: deals, unions e rakeback"
-    description: Guia detalhado do app PPPoker, análises de unions e as melhores ofertas de rakeback.
+    title: "Guia completo do PPPoker: ofertas, uniões e rakeback"
+    description: Guia detalhado do app PPPoker, análises de uniões e as melhores ofertas de rakeback.
     body: |-
       <article>
-        <p>O PPPoker é um dos aplicativos de poker descentralizados mais populares, oferecendo aos jogadores acesso a diversos clubes e unions ao redor do mundo.</p>
+        <p>O PPPoker é um dos aplicativos de poker descentralizados mais populares, oferecendo aos jogadores acesso a diversos clubes e uniões ao redor do mundo.</p>
 
         <h2>O que é o PPPoker?</h2>
-        <p>O PPPoker é um aplicativo móvel de poker que funciona no modelo de clubes fechados. Diferente das salas centralizadas, aqui os jogadores entram em clubes independentes que se reúnem em unions.</p>
+        <p>O PPPoker é um aplicativo móvel de poker que funciona no modelo de clubes fechados. Diferente das salas centralizadas, aqui os jogadores entram em clubes independentes que se reúnem em uniões.</p>
 
         <h2>Vantagens do PPPoker</h2>
         <ul>
@@ -411,19 +409,19 @@ i18n:
           <li><strong>Variedade de formatos</strong>: NLH, PLO, OFC e outros</li>
         </ul>
 
-        <h2>Unions populares</h2>
+        <h2>Uniões populares</h2>
 
-        <h3>PPPfish Union</h3>
-        <p>Uma das maiores e mais confiáveis unions do PPPoker. Oferece:</p>
+        <h3>União PPPfish</h3>
+        <p>Uma das maiores e mais confiáveis uniões do PPPoker. Oferece:</p>
         <ul>
           <li>Rakeback estável de 55–60%</li>
           <li>Suporte 24/7</li>
           <li>Pagamentos rápidos</li>
-          <li>Player pool internacional</li>
+          <li>Pool de jogadores internacional</li>
         </ul>
 
-        <h3>ElDorado Union</h3>
-        <p>Union premium com foco na região asiática:</p>
+        <h3>União ElDorado</h3>
+        <p>União premium com foco na região asiática:</p>
         <ul>
           <li>Tráfego alto 24/7</li>
           <li>Bônus especiais para jogadores regulares</li>
@@ -438,8 +436,8 @@ i18n:
           <li>Comece a jogar e receba seu rakeback</li>
         </ol>
 
-        <h2>As melhores deals no PPPoker</h2>
-        <p>Confira nossas <a href="/pt/deals/">deals verificadas no PPPoker</a> para escolher as melhores condições.</p>
+        <h2>As melhores ofertas no PPPoker</h2>
+        <p>Confira nossas <a href="/pt/deals/">ofertas verificadas no PPPoker</a> para escolher as melhores condições.</p>
 
         <p><em>Quer uma oferta personalizada? <a href="/pt/about/">Entre em contato</a></em></p>
       </article>
@@ -456,10 +454,10 @@ i18n:
 
         <h2>Les avantages de PPPoker</h2>
         <ul>
-          <li><strong>Rakeback élevé</strong>: jusqu'à 60% voire plus</li>
-          <li><strong>Tables soft</strong>: grâce aux clubs fermés</li>
-          <li><strong>Conditions flexibles</strong>: chaque club fixe ses propres règles</li>
-          <li><strong>Variété de formats</strong>: NLH, PLO, OFC et d'autres</li>
+          <li><strong>Rakeback élevé</strong> : jusqu'à 60% voire plus</li>
+          <li><strong>Tables soft</strong> : grâce aux clubs fermés</li>
+          <li><strong>Conditions flexibles</strong> : chaque club fixe ses propres règles</li>
+          <li><strong>Variété de formats</strong> : NLH, PLO, OFC et d'autres</li>
         </ul>
 
         <h2>Les unions populaires</h2>
@@ -496,14 +494,14 @@ i18n:
       </article>
     srcHash: 4a5da0c93075
   tr:
-    title: "Eksiksiz PPPoker rehberi: deal'ler, union'lar ve rakeback"
-    description: PPPoker uygulamasının ayrıntılı rehberi, union incelemeleri ve en iyi rakeback teklifleri.
+    title: "Eksiksiz PPPoker rehberi: anlaşmalar, birlikler ve rakeback"
+    description: PPPoker uygulamasının ayrıntılı rehberi, birlik incelemeleri ve en iyi rakeback teklifleri.
     body: |-
       <article>
-        <p>PPPoker, oyunculara dünya genelinde çok sayıda kulüp ve union'a erişim sunan en popüler merkeziyetsiz poker uygulamalarından biridir.</p>
+        <p>PPPoker, oyunculara dünya genelinde çok sayıda kulüp ve birliğe erişim sunan en popüler merkeziyetsiz poker uygulamalarından biridir.</p>
 
         <h2>PPPoker nedir?</h2>
-        <p>PPPoker, kapalı kulüpler mantığıyla çalışan bir mobil poker uygulamasıdır. Merkezi room'ların aksine burada oyuncular, union'lar altında birleşen bağımsız kulüplere katılır.</p>
+        <p>PPPoker, kapalı kulüpler mantığıyla çalışan bir mobil poker uygulamasıdır. Merkezi odaların aksine burada oyuncular, birlikler altında toplanan bağımsız kulüplere katılır.</p>
 
         <h2>PPPoker'ın avantajları</h2>
         <ul>
@@ -513,19 +511,19 @@ i18n:
           <li><strong>Format çeşitliliği</strong>: NLH, PLO, OFC ve diğerleri</li>
         </ul>
 
-        <h2>Popüler union'lar</h2>
+        <h2>Popüler birlikler</h2>
 
         <h3>PPPfish Union</h3>
-        <p>PPPoker'daki en büyük ve en güvenilir union'lardan biri. Sunduğu olanaklar:</p>
+        <p>PPPoker'daki en büyük ve en güvenilir birliklerden biri. Sunduğu olanaklar:</p>
         <ul>
           <li>İstikrarlı %55–60 rakeback</li>
           <li>7/24 destek</li>
           <li>Hızlı ödemeler</li>
-          <li>Uluslararası player pool</li>
+          <li>Uluslararası oyuncu havuzu</li>
         </ul>
 
         <h3>ElDorado Union</h3>
-        <p>Asya bölgesine odaklanan premium union:</p>
+        <p>Asya bölgesine odaklanan premium birlik:</p>
         <ul>
           <li>7/24 yüksek trafik</li>
           <li>Düzenli oyunculara özel bonuslar</li>
@@ -535,71 +533,71 @@ i18n:
         <h2>Nasıl oynamaya başlanır</h2>
         <ol>
           <li>PPPoker uygulamasını indirin</li>
-          <li>Kulüp ID'sini almak için bir agent ile iletişime geçin</li>
-          <li>Agent aracılığıyla bakiyenizi yükleyin</li>
+          <li>Kulüp ID'sini almak için bir aracıyla iletişime geçin</li>
+          <li>Aracı üzerinden bakiyenizi yükleyin</li>
           <li>Oynamaya başlayın ve rakeback kazanın</li>
         </ol>
 
-        <h2>PPPoker'daki en iyi deal'ler</h2>
-        <p>En iyi koşulları seçmek için doğrulanmış <a href="/tr/deals/">PPPoker deal'lerimize</a> göz atın.</p>
+        <h2>PPPoker'daki en iyi anlaşmalar</h2>
+        <p>En iyi koşulları seçmek için doğrulanmış <a href="/tr/deals/">PPPoker anlaşmalarımıza</a> göz atın.</p>
 
         <p><em>Kişiye özel bir teklif mi istiyorsunuz? <a href="/tr/about/">Bizimle iletişime geçin</a></em></p>
       </article>
     srcHash: 4a5da0c93075
   he:
-    title: "מדריך מלא ל-PPPoker: דילים, יוניונים ורייקבק"
-    description: מדריך מפורט לאפליקציית PPPoker, סקירות של יוניונים והצעות הרייקבק הטובות ביותר.
+    title: "מדריך מלא ל-PPPoker: דילים, איחודים ורייקבק"
+    description: מדריך מפורט לאפליקציית PPPoker, סקירות של איחודים והצעות הרייקבק הטובות ביותר.
     body: |-
       <article>
-        <p>PPPoker היא אחת מאפליקציות הפוקר המבוזרות הפופולריות ביותר, ומציעה לשחקנים גישה למגוון רחב של מועדונים ויוניונים ברחבי העולם.</p>
+        <p>PPPoker היא אחת מאפליקציות הפוקר המבוזרות הפופולריות ביותר, המעניקה לשחקנים גישה למגוון רחב של מועדונים ואיחודים מרחבי העולם.</p>
 
         <h2>מה זה PPPoker?</h2>
-        <p>PPPoker היא אפליקציית מובייל למשחק פוקר הפועלת לפי עיקרון של מועדונים סגורים. בניגוד לחדרים מרכזיים, כאן השחקנים מצטרפים למועדונים עצמאיים שמתאחדים ליוניונים.</p>
+        <p>PPPoker היא אפליקציית פוקר לנייד הפועלת על בסיס מועדונים סגורים. בניגוד לחדרי פוקר ריכוזיים, כאן השחקנים מצטרפים למועדונים עצמאיים המתאגדים יחד לאיחודים.</p>
 
         <h2>היתרונות של PPPoker</h2>
         <ul>
-          <li><strong>רייקבק גבוה</strong>: עד 60% ויותר</li>
+          <li><strong>רייקבק גבוה</strong>: עד 60% ומעלה</li>
           <li><strong>שולחנות רכים</strong>: בזכות המועדונים הסגורים</li>
           <li><strong>תנאים גמישים</strong>: כל מועדון קובע את הכללים שלו</li>
           <li><strong>מגוון פורמטים</strong>: NLH, PLO, OFC ועוד</li>
         </ul>
 
-        <h2>יוניונים פופולריים</h2>
+        <h2>איחודים פופולריים</h2>
 
         <h3>PPPfish Union</h3>
-        <p>אחד היוניונים הגדולים והאמינים ביותר ב-PPPoker. מציע:</p>
+        <p>אחד האיחודים הגדולים והאמינים ביותר ב-PPPoker. מציע:</p>
         <ul>
           <li>רייקבק יציב של 55–60%</li>
           <li>תמיכה מסביב לשעון</li>
           <li>משיכות מהירות</li>
-          <li>מאגר שחקנים בינלאומי</li>
+          <li>פּוּל שחקנים בינלאומי</li>
         </ul>
 
         <h3>ElDorado Union</h3>
-        <p>יוניון פרימיום עם דגש על האזור האסייתי:</p>
+        <p>איחוד פרימיום עם דגש על אזור אסיה:</p>
         <ul>
           <li>תנועה גבוהה 24/7</li>
-          <li>בונוסים מיוחדים לשחקנים קבועים</li>
+          <li>בונוסים מיוחדים לשחקנים רגולרים</li>
           <li>תוכנית VIP</li>
         </ul>
 
         <h2>איך מתחילים לשחק</h2>
         <ol>
           <li>הורידו את אפליקציית PPPoker</li>
-          <li>צרו קשר עם סוכן כדי לקבל ID של מועדון</li>
-          <li>הטעינו את היתרה דרך הסוכן</li>
+          <li>צרו קשר עם סוכן כדי לקבל מזהה מועדון (ID)</li>
+          <li>טענו את היתרה דרך הסוכן</li>
           <li>התחילו לשחק וקבלו רייקבק</li>
         </ol>
 
         <h2>הדילים הטובים ביותר ב-PPPoker</h2>
-        <p>הכירו את <a href="/he/deals/">הדילים המאומתים שלנו ל-PPPoker</a> כדי לבחור את התנאים האופטימליים.</p>
+        <p>עיינו ב<a href="/he/deals/">דילים המאומתים שלנו ל-PPPoker</a> כדי לבחור את התנאים האופטימליים.</p>
 
         <p><em>רוצים לקבל הצעה אישית? <a href="/he/about/">צרו איתנו קשר</a></em></p>
       </article>
     srcHash: 4a5da0c93075
   ar:
-    title: "الدليل الكامل لـ PPPoker: الصفقات والاتحادات والريك باك"
-    description: دليل مفصّل لتطبيق PPPoker، مراجعات للاتحادات وأفضل عروض الريك باك.
+    title: "الدليل الكامل لـ PPPoker: الصفقات والاتحادات والريكباك"
+    description: دليل مفصّل لتطبيق PPPoker، مراجعات للاتحادات وأفضل عروض الريكباك.
     body: |-
       <article>
         <p>يُعد PPPoker أحد أكثر تطبيقات البوكر اللامركزية شهرة، إذ يتيح للاعبين الوصول إلى عدد كبير من الأندية والاتحادات حول العالم.</p>
@@ -609,7 +607,7 @@ i18n:
 
         <h2>مزايا PPPoker</h2>
         <ul>
-          <li><strong>ريك باك مرتفع</strong>: حتى 60% وأكثر</li>
+          <li><strong>ريكباك مرتفع</strong>: حتى 60% وأكثر</li>
           <li><strong>طاولات سهلة</strong>: بفضل الأندية المغلقة</li>
           <li><strong>شروط مرنة</strong>: كل نادٍ يضع قواعده الخاصة</li>
           <li><strong>تنوع الصيغ</strong>: NLH وPLO وOFC وغيرها</li>
@@ -620,7 +618,7 @@ i18n:
         <h3>PPPfish Union</h3>
         <p>أحد أكبر وأوثق الاتحادات في PPPoker. ويقدّم:</p>
         <ul>
-          <li>ريك باك ثابت بنسبة 55–60%</li>
+          <li>ريكباك ثابت بنسبة 55–60%</li>
           <li>دعم على مدار الساعة</li>
           <li>سحوبات سريعة</li>
           <li>تجمّع دولي للاعبين</li>
@@ -639,7 +637,7 @@ i18n:
           <li>حمّل تطبيق PPPoker</li>
           <li>تواصل مع وكيل للحصول على ID النادي</li>
           <li>اشحن رصيدك عبر الوكيل</li>
-          <li>ابدأ اللعب واحصل على الريك باك</li>
+          <li>ابدأ اللعب واحصل على الريكباك</li>
         </ol>
 
         <h2>أفضل الصفقات على PPPoker</h2>
@@ -655,13 +653,13 @@ i18n:
       <article>
         <p>PPPoker adalah salah satu aplikasi poker terdesentralisasi paling populer, yang memberi pemain akses ke banyak klub dan union di seluruh dunia.</p>
 
-        <h2>Apa itu PPPoker?</h2>
+        <h2>Apa Itu PPPoker?</h2>
         <p>PPPoker adalah aplikasi mobile untuk bermain poker yang bekerja dengan prinsip klub tertutup. Berbeda dengan room terpusat, di sini pemain bergabung ke klub-klub independen yang tergabung dalam union.</p>
 
         <h2>Kelebihan PPPoker</h2>
         <ul>
           <li><strong>Rakeback tinggi</strong>: hingga 60% bahkan lebih</li>
-          <li><strong>Meja yang soft</strong>: berkat klub tertutup</li>
+          <li><strong>Meja yang soft</strong>: berkat sistem klub tertutup</li>
           <li><strong>Syarat yang fleksibel</strong>: setiap klub menetapkan aturannya sendiri</li>
           <li><strong>Beragam format</strong>: NLH, PLO, OFC, dan lainnya</li>
         </ul>
@@ -674,7 +672,7 @@ i18n:
           <li>Rakeback stabil 55–60%</li>
           <li>Dukungan 24 jam</li>
           <li>Penarikan cepat</li>
-          <li>Kumpulan pemain internasional</li>
+          <li>Pool pemain internasional</li>
         </ul>
 
         <h3>ElDorado Union</h3>
@@ -700,54 +698,54 @@ i18n:
       </article>
     srcHash: 4a5da0c93075
   vi:
-    title: "Hướng dẫn đầy đủ về PPPoker: deal, union và rakeback"
-    description: Hướng dẫn chi tiết về ứng dụng PPPoker, đánh giá các union và những ưu đãi rakeback tốt nhất.
+    title: "Hướng dẫn đầy đủ về PPPoker: kèo, liên minh và rakeback"
+    description: Hướng dẫn chi tiết về ứng dụng PPPoker, đánh giá các liên minh và những ưu đãi rakeback tốt nhất.
     body: |-
       <article>
-        <p>PPPoker là một trong những ứng dụng poker phi tập trung phổ biến nhất, mang đến cho người chơi quyền truy cập vào nhiều club và union trên khắp thế giới.</p>
+        <p>PPPoker là một trong những ứng dụng poker phi tập trung phổ biến nhất, mang đến cho người chơi quyền truy cập vào nhiều câu lạc bộ và liên minh trên khắp thế giới.</p>
 
         <h2>PPPoker là gì?</h2>
-        <p>PPPoker là một ứng dụng poker trên di động hoạt động theo nguyên tắc club kín. Khác với các room tập trung, ở đây người chơi tham gia các club độc lập được hợp nhất thành các union.</p>
+        <p>PPPoker là một ứng dụng chơi poker trên di động, vận hành theo nguyên tắc câu lạc bộ kín. Khác với các phòng tập trung, ở đây người chơi tham gia các câu lạc bộ độc lập được hợp nhất thành các liên minh.</p>
 
         <h2>Ưu điểm của PPPoker</h2>
         <ul>
           <li><strong>Rakeback cao</strong>: lên đến 60% hoặc hơn</li>
-          <li><strong>Bàn mềm</strong>: nhờ các club kín</li>
-          <li><strong>Điều kiện linh hoạt</strong>: mỗi club tự đặt ra luật riêng</li>
+          <li><strong>Bàn mềm</strong>: nhờ các câu lạc bộ kín</li>
+          <li><strong>Điều kiện linh hoạt</strong>: mỗi câu lạc bộ tự đặt ra luật riêng</li>
           <li><strong>Đa dạng thể loại</strong>: NLH, PLO, OFC và nhiều hơn nữa</li>
         </ul>
 
-        <h2>Các union phổ biến</h2>
+        <h2>Các liên minh phổ biến</h2>
 
         <h3>PPPfish Union</h3>
-        <p>Một trong những union lớn và uy tín nhất trên PPPoker. Cung cấp:</p>
+        <p>Một trong những liên minh lớn và uy tín nhất trên PPPoker. Cung cấp:</p>
         <ul>
           <li>Rakeback ổn định 55–60%</li>
-          <li>Hỗ trợ 24/7</li>
+          <li>Hỗ trợ suốt ngày đêm</li>
           <li>Rút tiền nhanh</li>
-          <li>Hồ người chơi quốc tế</li>
+          <li>Lượng người chơi quốc tế</li>
         </ul>
 
         <h3>ElDorado Union</h3>
-        <p>Union cao cấp tập trung vào khu vực châu Á:</p>
+        <p>Liên minh cao cấp tập trung vào khu vực Châu Á:</p>
         <ul>
           <li>Lượng người chơi cao 24/7</li>
-          <li>Tiền thưởng đặc biệt cho người chơi thường xuyên</li>
+          <li>Thưởng đặc biệt cho người chơi thường xuyên</li>
           <li>Chương trình VIP</li>
         </ul>
 
         <h2>Cách bắt đầu chơi</h2>
         <ol>
           <li>Tải ứng dụng PPPoker</li>
-          <li>Liên hệ với agent để nhận ID club</li>
-          <li>Nạp số dư thông qua agent</li>
+          <li>Liên hệ với đại lý để nhận ID câu lạc bộ</li>
+          <li>Nạp số dư thông qua đại lý</li>
           <li>Bắt đầu chơi và nhận rakeback</li>
         </ol>
 
-        <h2>Những deal tốt nhất trên PPPoker</h2>
-        <p>Hãy tham khảo <a href="/vi/deals/">các deal PPPoker đã được kiểm chứng của chúng tôi</a> để chọn điều kiện tối ưu nhất.</p>
+        <h2>Những kèo tốt nhất trên PPPoker</h2>
+        <p>Hãy tham khảo <a href="/vi/deals/">các kèo PPPoker đã được kiểm chứng của chúng tôi</a> để chọn điều kiện tối ưu nhất.</p>
 
-        <p><em>Bạn muốn nhận ưu đãi cá nhân? <a href="/vi/about/">Liên hệ với chúng tôi</a></em></p>
+        <p><em>Bạn muốn nhận ưu đãi riêng? <a href="/vi/about/">Hãy liên hệ với chúng tôi</a></em></p>
       </article>
     srcHash: 4a5da0c93075
   fil:

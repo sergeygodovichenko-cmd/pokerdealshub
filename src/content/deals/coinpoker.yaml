@@ -48,7 +48,7 @@ i18n:
       independent of the operator. CoinPoker has become a benchmark for transparency and trust among crypto poker
       projects.</p>
 
-      <h3>Our offer</h3>
+      <h3>About the Deal</h3>
 
       <p>By registering through our link, you get:</p>
 
@@ -62,7 +62,7 @@ i18n:
       benefits!</p>
     srcHash: 9e6165b85efe
   es:
-    name: Oferta en la sala de poker CoinPoker
+    name: Oferta en la sala de póker CoinPoker
     description: >-
       Oferta en la popular app CoinPoker, con cajero centralizado y procesamiento automático de ingresos/retiros. Mucho
       jugador recreativo de Asia.
@@ -71,7 +71,7 @@ i18n:
     body: >-
       <h3>Sobre CoinPoker</h3>
 
-      <p>CoinPoker es la primera sala de poker cripto verdaderamente exitosa, que une el mundo del poker y el de la
+      <p>CoinPoker es la primera sala de póker cripto verdaderamente exitosa, que une el mundo del póker y el de la
       blockchain. Aquí todos los pagos se manejan en USDT, y el token CHP se usa para rakeback, bonos y promociones
       dentro del juego. La plataforma funciona al margen de bancos e intermediarios, ofreciendo depósitos y retiros
       instantáneos a través de monederos cripto.</p>
@@ -79,7 +79,7 @@ i18n:
       <p>La gran particularidad de CoinPoker es su generador de números aleatorios (RNG) descentralizado, que se forma
       con la participación de los jugadores y no se puede manipular. Gracias a ello, el resultado de cada mano se puede
       verificar y la integridad del juego no depende del operador. CoinPoker se ha convertido en un referente de
-      transparencia y confianza entre los proyectos de poker cripto.</p>
+      transparencia y confianza entre los proyectos de póker cripto.</p>
 
       <h3>Sobre la oferta</h3>
 
@@ -95,35 +95,37 @@ i18n:
       ventajas.</p>
     srcHash: 9e6165b85efe
   uz:
-    name: CoinPoker xonasida bitim
+    name: CoinPoker xonasidagi bitim
     description: >-
-      Markazlashgan kassa va avtomatik kiritish/chiqarish bilan mashhur CoinPoker ilovasida bitim. Osiyodan ko'plab
-      rekreatsion o'yinchilar.
+      Markazlashgan kassa va depozit/yechib olishning avtomatik qayta ishlanishiga ega mashhur CoinPoker ilovasidagi
+      bitim. Osiyodan koʻplab rekreatsion oʻyinchilar.
     geo: Global, Osiyo, AQSh
     bonus: 1-depozitga +150%
     body: >-
       <h3>CoinPoker haqida</h3>
 
-      <p>CoinPoker — poker va blokcheynni bog‘lagan birinchi muvaffaqiyatli kripto poker xonasi. Barcha tranzaksiyalar
-      USDTda amalga oshiriladi, rakebek, bonus va aksiyalar uchun esa CHP tokeni ishlatiladi. Platforma bank va
-      vositachilardan mustaqil, kripto hamyonlar orqali depozit va yechishlar darhol.</p>
+      <p>CoinPoker — poker va blokcheyn dunyosini birlashtirgan birinchi haqiqatan ham muvaffaqiyatli kripto-poker
+      xonasi. Bu yerda barcha hisob-kitoblar USDTda yuritiladi, CHP tokeni esa reyk-bek, bonuslar va oʻyin ichidagi
+      aksiyalar uchun ishlatiladi. Platforma banklar va vositachilardan mustaqil ishlaydi, kripto-hamyonlar orqali
+      depozit va yechib olishni bir zumda taʼminlaydi.</p>
 
-      <p>CoinPoker’ning asosiy xususiyati — markazlashmagan RNG, o‘yinchilar ishtirokida yaratilgan va manipulyatsiya
-      qilib bo‘lmaydi. Har bir qo‘lni tekshirish mumkin, shuning uchun o‘yin adolati operatorga bog‘liq emas. CoinPoker
-      kripto poker loyihalari orasida shaffoflik va ishonch mezoniga aylandi.</p>
+      <p>CoinPoker’ning asosiy xususiyati — oʻyinchilar ishtirokida shakllanadigan va soxtalashtirib boʻlmaydigan
+      markazlashmagan tasodifiy sonlar generatori (RNG). Shu tufayli har bir qoʻlning natijasini tekshirish mumkin,
+      oʻyin halolligi esa operatorga bogʻliq emas. CoinPoker kripto-poker loyihalari orasida shaffoflik va ishonch
+      namunasiga aylandi.</p>
 
-      <h3>Bizning taklif</h3>
+      <h3>Bitim haqida</h3>
 
-      <p>Havolamiz orqali ro‘yxatdan o‘tsangiz, quyidagilarni olasiz:</p>
+      <p>Havolamiz orqali roʻyxatdan oʻtsangiz, quyidagilarni olasiz:</p>
 
       <ul>
-        <li><strong>Sobit rakebek 33%</strong> — ro‘yxatdan o‘tgan zahoti ustunlik bilan boshlang, keyin xohlansa dinamik tizimga o‘tish mumkin.</li>
-        <li><strong>Bonus 1-depozitga +150%</strong> — $2000 gacha xush kelibsiz bonus.</li>
+        <li><strong>Qatʼiy reyk-bek 33%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
+        <li><strong>1-depozitga +150% bonus</strong> — roʻyxatdan oʻtganlik uchun $2000 gacha bonus.</li>
       </ul>
 
-      <p>CoinPoker’da ro‘yxatdan o‘ting <a
+      <p>Barcha bonuslar va imtiyozlardan foydalanish uchun CoinPoker xonasida <a
       href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/" rel="nofollow noopener
-      noreferrer" target="_blank">ushbu havola orqali</a> va barcha bonus va imtiyozlardan foydalaning!</p>
+      noreferrer" target="_blank">ushbu havola orqali</a> roʻyxatdan oʻting!</p>
     srcHash: 9e6165b85efe
   uk:
     name: Угода в покер-румі CoinPoker
@@ -244,8 +246,8 @@ i18n:
   pt:
     name: Oferta na sala de poker CoinPoker
     description: >-
-      Oferta no popular app CoinPoker, com caixa centralizado e processamento automático de depósitos/saques. Muito
-      jogador recreativo da Ásia.
+      Oferta no popular app CoinPoker, com caixa centralizado e processamento automático de depósitos/saques. Muitos
+      jogadores recreativos da Ásia.
     geo: Global, Ásia, EUA
     bonus: +150% no 1º depósito
     body: >-
@@ -341,7 +343,7 @@ i18n:
     srcHash: 9e6165b85efe
   he:
     name: דיל בחדר הפוקר CoinPoker
-    description: דיל באפליקציה הפופולרית CoinPoker עם קופה מרוכזת ועיבוד אוטומטי של הפקדות ומשיכות. הרבה שחקנים רקרייישנל מאסיה.
+    description: דיל באפליקציה הפופולרית CoinPoker עם קופה מרוכזת ועיבוד אוטומטי של הפקדות ומשיכות. הרבה שחקנים חובבים מאסיה.
     geo: גלובל, אסיה, ארה"ב
     bonus: +150% על ההפקדה הראשונה
     body: >-
@@ -385,8 +387,8 @@ i18n:
 
 
       <p>CoinPoker هي أول غرفة بوكر كريبتو ناجحة فعلاً، تجمع بين عالم البوكر والبلوكتشين. تتم جميع التسويات هنا بعملة
-      USDT، بينما يُستخدم رمز CHP للرايك باك والبونص والعروض داخل اللعبة. تعمل المنصة بشكل مستقل عن البنوك والوسطاء،
-      وتضمن إيداعات وسحوبات فورية عبر محافظ الكريبتو.</p>
+      USDT، بينما يُستخدم رمز CHP للريكباك والبونص والعروض داخل اللعبة. تعمل المنصة بشكل مستقل عن البنوك والوسطاء، وتضمن
+      إيداعات وسحوبات فورية عبر محافظ الكريبتو.</p>
 
 
       <p>الميزة الأساسية في CoinPoker هي مولّد الأرقام العشوائية (RNG) اللامركزي، الذي يتشكّل بمشاركة اللاعبين ولا يمكن
@@ -401,7 +403,7 @@ i18n:
 
 
       <ul>
-        <li><strong>رايك باك ثابت 33%</strong> – ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقاً الانتقال إلى النظام الديناميكي.</li>
+        <li><strong>ريكباك ثابت 33%</strong> – ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقاً الانتقال إلى النظام الديناميكي.</li>
         <li><strong>بونص +150% على الإيداع الأول</strong> – بونص ترحيبي حتى $2000.</li>
       </ul>
 
@@ -422,8 +424,8 @@ i18n:
 
       <p>CoinPoker adalah crypto poker room pertama yang benar-benar sukses, menyatukan dunia poker dan blockchain.
       Semua transaksi di sini dilakukan dalam USDT, sementara token CHP digunakan untuk rakeback, bonus, dan promosi
-      dalam game. Platform ini beroperasi secara independen dari bank dan perantara, memastikan deposit dan penarikan
-      instan melalui dompet crypto.</p>
+      dalam permainan. Platform ini beroperasi secara independen dari bank dan perantara, memastikan deposit dan
+      penarikan instan melalui dompet crypto.</p>
 
 
       <p>Keunggulan utama CoinPoker adalah random number generator (RNG) terdesentralisasi, yang dibentuk dengan
@@ -439,7 +441,7 @@ i18n:
 
 
       <ul>
-        <li><strong>Fixed rakeback 33%</strong> – Mulai bermain dengan keunggulan langsung setelah mendaftar. Nantinya Anda bisa beralih ke sistem dinamis.</li>
+        <li><strong>Rakeback tetap 33%</strong> – Mulai bermain dengan keunggulan langsung setelah mendaftar. Nantinya Anda bisa beralih ke sistem dinamis.</li>
         <li><strong>Bonus +150% pada deposit pertama</strong> – Bonus selamat datang hingga $2000.</li>
       </ul>
 
@@ -449,41 +451,40 @@ i18n:
       keuntungannya!</p>
     srcHash: 9e6165b85efe
   vi:
-    name: Deal tại phòng poker CoinPoker
+    name: Kèo tại phòng poker CoinPoker
     description: >-
-      Deal trên ứng dụng phổ biến CoinPoker với cashier tập trung và xử lý nạp/rút tự động. Nhiều người chơi giải trí
-      đến từ Châu Á.
+      Kèo trên ứng dụng phổ biến CoinPoker với quầy giao dịch tập trung và xử lý nạp/rút tiền tự động. Đông người chơi
+      giải trí đến từ Châu Á.
     geo: Toàn cầu, Châu Á, Mỹ
     bonus: +150% cho lần nạp đầu
     body: >-
       <h3>Về CoinPoker</h3>
 
 
-      <p>CoinPoker là phòng poker crypto thành công thực sự đầu tiên, kết nối thế giới poker với blockchain. Mọi giao
-      dịch ở đây đều được thực hiện bằng USDT, còn token CHP được dùng cho rakeback, bonus và các khuyến mãi trong game.
-      Nền tảng hoạt động độc lập với ngân hàng và bên trung gian, đảm bảo nạp và rút tức thì qua ví crypto.</p>
+      <p>CoinPoker là phòng poker tiền mã hóa thực sự thành công đầu tiên, kết nối thế giới poker với blockchain. Mọi
+      giao dịch ở đây đều được thực hiện bằng USDT, còn token CHP được dùng cho rakeback, thưởng và các chương trình
+      khuyến mãi trong ứng dụng. Nền tảng hoạt động độc lập với ngân hàng và bên trung gian, đảm bảo nạp và rút tiền tức
+      thì qua ví tiền mã hóa.</p>
 
 
-      <p>Đặc điểm chính của CoinPoker là bộ tạo số ngẫu nhiên (RNG) phi tập trung, được hình thành với sự tham gia của
-      người chơi và không thể bị làm giả. Nhờ đó, kết quả của mỗi hand đều có thể kiểm chứng, và tính công bằng của ván
-      chơi không phụ thuộc vào nhà điều hành. CoinPoker đã trở thành chuẩn mực về sự minh bạch và niềm tin trong các dự
-      án poker crypto.</p>
+      <p>Đặc điểm nổi bật của CoinPoker là bộ tạo số ngẫu nhiên (RNG) phi tập trung, được hình thành với sự tham gia của
+      người chơi và không thể bị làm giả. Nhờ đó, kết quả của mỗi ván bài đều có thể kiểm chứng, và tính công bằng của
+      ván chơi không phụ thuộc vào nhà điều hành. CoinPoker đã trở thành chuẩn mực về sự minh bạch và niềm tin trong số
+      các dự án poker tiền mã hóa.</p>
 
 
-      <h3>Ưu đãi của chúng tôi</h3>
-
+      <h3>Về kèo</h3>
 
       <p>Khi đăng ký qua liên kết của chúng tôi, bạn nhận được:</p>
 
-
       <ul>
-        <li><strong>Rakeback cố định 33%</strong> – Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang hệ thống động.</li>
-        <li><strong>Bonus +150% cho lần nạp đầu</strong> – Thưởng chào mừng lên đến $2000.</li>
+        <li><strong>Rakeback cố định 33%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
+        <li><strong>Thưởng +150% cho lần nạp đầu</strong> Thưởng chào mừng lên đến $2000.</li>
       </ul>
 
 
-      <p>Đăng ký CoinPoker <a href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/"
-      rel="nofollow noopener noreferrer" target="_blank">qua liên kết này</a> để tận dụng tất cả các bonus và ưu
+      <p>Hãy đăng ký CoinPoker <a href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/"
+      rel="nofollow noopener noreferrer" target="_blank">qua liên kết này</a> để tận dụng mọi khoản thưởng và ưu
       đãi!</p>
     srcHash: 9e6165b85efe
   fil:
@@ -491,7 +492,7 @@ i18n:
     description: >-
       Deal sa sikat na app na CoinPoker na may sentralisadong cashier at awtomatikong pagproseso ng deposito/withdrawal.
       Maraming recreational players mula sa Asia.
-    geo: Global, Asia, USA
+    geo: Global, Asya, USA
     bonus: +150% sa unang deposito
     body: >-
       <h3>Tungkol sa CoinPoker</h3>

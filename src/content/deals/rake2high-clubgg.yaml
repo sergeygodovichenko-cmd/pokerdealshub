@@ -30,8 +30,8 @@ i18n:
   en:
     name: Deal in Rake2High union on ClubGG
     description: >-
-      It’s an active Asian community with a comfortable atmosphere and soft games, featuring many recreational players
-      from Taiwan and nearby regions.
+      A deal in the Taiwanese Rake2High union on ClubGG. It’s an active Asian community with a comfortable atmosphere
+      and soft games, with plenty of recreational players from Taiwan and nearby regions.
     geo: Taiwan, Asia
     body: >-
       <h3>Description</h3>
@@ -59,13 +59,13 @@ i18n:
   es:
     name: Oferta en la unión Rake2High en ClubGG
     description: >-
-      Oferta en la unión taiwanesa Rake2High en ClubGG. Es una comunidad asiática activa, con juego cómodo y campo soft,
-      donde hay muchos jugadores recreativos de Taiwán y regiones vecinas.
+      Oferta en la unión taiwanesa Rake2High en ClubGG. Es una comunidad asiática activa, con juego cómodo y campo
+      blando, donde hay muchos jugadores recreativos de Taiwán y regiones vecinas.
     geo: Taiwán, Asia
     body: >-
       <h3>Descripción</h3>
 
-      <p>Oferta de poker en el club Rake2Win, que forma parte de la unión taiwanesa Rake2High en ClubGG. En el club se
+      <p>Oferta de póker en el club Rake2Win, que forma parte de la unión taiwanesa Rake2High en ClubGG. En el club se
       juega sobre todo en límites bajos.</p>
 
 
@@ -86,32 +86,32 @@ i18n:
       </ul>
     srcHash: 4ab56cc57f2d
   uz:
-    name: Rake2High ittifoqi bitimi — ClubGG
+    name: ClubGG’dagi Rake2High ittifoqida bitim
     description: >-
-      Qulay muhitli faol osiyolik hamjamiyat: Tayvan va yaqin mintaqalardan ko'plab rekreatsion o'yinchilar, yumshoq
-      o'yinlar.
+      ClubGG’dagi tayvanlik Rake2High ittifoqidagi bitim. Bu — qulay oʻyin va yumshoq maydonga ega faol osiyo
+      hamjamiyati boʻlib, unda Tayvan va qoʻshni mintaqalardan koʻplab rekreatsion oʻyinchilar bor.
     geo: Tayvan, Osiyo
     body: >-
       <h3>Tavsif</h3>
 
-      <p>ClubGG dagi tayvanlik Rake2High ittifoqi tarkibidagi Rake2Win klubida bitim. Klub asosan past limitlardagi
-      o‘yinlarga yo‘naltirilgan.</p>
+      <p>ClubGG’dagi tayvanlik Rake2High ittifoqi tarkibiga kiruvchi Rake2Win klubidagi poker bitimi. Klubda asosan past
+      limitlarda oʻynaladi.</p>
 
 
       <h3>Ittifoq haqida</h3>
 
-      <p>Rake2High — ClubGG platformasidagi eng dinamik tayvan ittifoqlaridan biri, Osiyodagi ko‘plab klublarni
-      birlashtiradi. Ittifoq rekreatsion o‘yinchilarga e’tibor beradi va past hamda o‘rta limitlarda doimiy ekshen bilan
-      faol stollarni taklif qiladi.</p>
+      <p>Rake2High — ClubGG platformasidagi eng dinamik tayvanlik ittifoqlardan biri boʻlib, Osiyodagi koʻplab klublarni
+      birlashtiradi. Ittifoq rekreatsion oʻyinchilarga moʻljallangan va past hamda oʻrta limitlarda doimiy faollik bilan
+      jonli maydon taklif etadi.</p>
 
 
       <h3>Bitim haqida</h3>
 
-      <p>O‘yinchilar quyidagi variantlardan birini tanlashi mumkin:</p>
+      <p>Oʻyinchilar tanlash uchun quyidagilarga ega:</p>
 
       <ul>
-        <li><strong>45% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
-        <li><strong>Sobit rakebek 30%</strong> — ro‘yxatdan o‘tgach darhol barqaror foiz, keyin xohlansa dinamik modelga o‘tish mumkin.</li>
+        <li><strong>45% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
+        <li><strong>Qatʼiy reyk-bek 30%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
       </ul>
     srcHash: 4ab56cc57f2d
   uk:
@@ -293,7 +293,7 @@ i18n:
       <h3>Birlik hakkında</h3>
 
       <p>Rake2High, ClubGG platformundaki en dinamik Tayvan birliklerinden biridir ve Asya'nın dört bir yanından pek çok
-      kulübü bir araya getirir. Birlik rekreasyonel oyunculara yöneliktir ve düşük ile orta limitlerde sürekli action
+      kulübü bir araya getirir. Birlik rekreasyonel oyunculara yöneliktir ve düşük ile orta limitlerde sürekli aksiyon
       içeren aktif bir saha sunar.</p>
 
 
@@ -309,8 +309,8 @@ i18n:
   he:
     name: דיל באיחוד Rake2High ב-ClubGG
     description: >-
-      דיל באיחוד הטייוואני Rake2High ב-ClubGG. זוהי קהילה אסייתית פעילה עם משחק נוח ושדה רך, שבה הרבה שחקנים
-      רקריאציוניים מטייוואן ומאזורים שכנים.
+      דיל באיחוד הטייוואני Rake2High ב-ClubGG. זוהי קהילה אסייתית פעילה עם משחק נוח ושדה רך, שבה הרבה שחקנים חובבים
+      מטייוואן ומאזורים שכנים.
     geo: טייוואן, אסיה
     body: >-
       <h3>תיאור</h3>
@@ -321,7 +321,7 @@ i18n:
       <h3>על האיחוד</h3>
 
       <p>Rake2High הוא אחד האיחודים הטייוואניים הדינמיים ביותר בפלטפורמת ClubGG, ומאגד מועדונים רבים מאסיה. האיחוד מתמקד
-      בשחקנים רקריאציוניים ומציע שדה פעיל עם אקשן מתמיד בלימיטים הנמוכים והבינוניים.</p>
+      בשחקנים חובבים ומציע שדה פעיל עם אקשן מתמיד בלימיטים הנמוכים והבינוניים.</p>
 
 
       <h3>על הדיל</h3>
@@ -357,8 +357,8 @@ i18n:
       <p>يُتاح للاعبين الاختيار بين:</p>
 
       <ul>
-        <li><strong>رِيك باك ديناميكي حتى 45%</strong> يعتمد الرِيك باك على حجم الرِيك الأسبوعي.</li>
-        <li><strong>رِيك باك ثابت 30%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا التحول إلى الرِيك باك الديناميكي.</li>
+        <li><strong>ريكباك ديناميكي حتى 45%</strong> يعتمد الريكباك على حجم الريك الأسبوعي.</li>
+        <li><strong>ريكباك ثابت 30%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا التحول إلى الريكباك الديناميكي.</li>
       </ul>
     srcHash: 4ab56cc57f2d
   id:
@@ -377,8 +377,8 @@ i18n:
       <h3>Tentang union</h3>
 
       <p>Rake2High adalah salah satu union Taiwan paling dinamis di platform ClubGG, yang menghimpun banyak club dari
-      Asia. Union ini berfokus pada pemain rekreasional dan menawarkan field aktif dengan action terus-menerus di limit
-      rendah dan menengah.</p>
+      Asia. Union ini berfokus pada pemain rekreasional dan menawarkan field aktif dengan aksi yang terus-menerus di
+      limit rendah dan menengah.</p>
 
 
       <h3>Tentang deal</h3>
@@ -387,36 +387,36 @@ i18n:
 
       <ul>
         <li><strong>Rakeback dinamis hingga 45%</strong> Rakeback bergantung pada volume rake mingguan.</li>
-        <li><strong>Rakeback tetap 30%</strong> Mulai bermain dengan keuntungan langsung setelah mendaftar. Nantinya kamu bisa beralih ke rakeback dinamis.</li>
+        <li><strong>Rakeback tetap 30%</strong> Mulai bermain dengan keuntungan langsung setelah mendaftar. Nantinya Anda bisa beralih ke rakeback dinamis.</li>
       </ul>
     srcHash: 4ab56cc57f2d
   vi:
-    name: Deal tại union Rake2High trên ClubGG
+    name: Kèo tại liên minh Rake2High trên ClubGG
     description: >-
-      Deal trong union Rake2High của Đài Loan trên ClubGG. Đây là một cộng đồng châu Á sôi động với lối chơi thoải mái
-      và field mềm, nơi có nhiều người chơi giải trí đến từ Đài Loan và các khu vực lân cận.
+      Kèo tại liên minh Rake2High của Đài Loan trên ClubGG. Đây là một cộng đồng Châu Á sôi động với lối chơi thoải mái
+      và sân chơi mềm, nơi có nhiều người chơi giải trí đến từ Đài Loan và các khu vực lân cận.
     geo: Đài Loan, Châu Á
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Deal poker tại club Rake2Win thuộc union Rake2High của Đài Loan trên ClubGG. Người chơi tại club chủ yếu chơi ở
-      các mức cược thấp.</p>
+      <p>Kèo poker tại câu lạc bộ Rake2Win, thuộc liên minh Rake2High của Đài Loan trên ClubGG. Người chơi tại câu lạc
+      bộ chủ yếu chơi ở các mức cược thấp.</p>
 
 
-      <h3>Về union</h3>
+      <h3>Về liên minh</h3>
 
-      <p>Rake2High là một trong những union Đài Loan năng động nhất trên nền tảng ClubGG, quy tụ nhiều club từ châu Á.
-      Union tập trung vào người chơi giải trí và mang đến một field sôi động với action liên tục ở các mức cược thấp và
-      trung bình.</p>
+      <p>Rake2High là một trong những liên minh năng động nhất của Đài Loan trên nền tảng ClubGG, quy tụ nhiều câu lạc
+      bộ đến từ Châu Á. Liên minh tập trung vào người chơi giải trí và mang đến một sân chơi sôi động với nhịp độ liên
+      tục ở các mức cược thấp và trung bình.</p>
 
 
-      <h3>Về deal</h3>
+      <h3>Về kèo</h3>
 
-      <p>Người chơi có thể lựa chọn:</p>
+      <p>Người chơi được lựa chọn giữa:</p>
 
       <ul>
-        <li><strong>Rakeback linh hoạt lên đến 45%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
-        <li><strong>Rakeback cố định 30%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang rakeback linh hoạt.</li>
+        <li><strong>Rakeback động lên đến 45%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
+        <li><strong>Rakeback cố định 30%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
       </ul>
     srcHash: 4ab56cc57f2d
   fil:

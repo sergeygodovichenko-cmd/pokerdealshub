@@ -29,7 +29,7 @@ geo: Австралия, Океания
 bonus: ""
 i18n:
   en:
-    name: PPPfish Union Deal on PPPoker.
+    name: PPPfish Union Deal on PPPoker
     description: >-
       A deal in a major Australian union with plenty of loose players. Great lineups for PLO5 and PLO6, excellent
       rakeback.
@@ -41,7 +41,7 @@ i18n:
       base consists mainly of Australians and Chinese.</p>
 
 
-      <h3>About the PPPfish poker Union</h3>
+      <h3>About the PPPfish Union on PPPoker</h3>
 
       <p>PPPFish is the largest Australian union, mainly featuring recreational players from China and Australia. The
       union is known for its soft fields in tournaments and Omaha games.</p>
@@ -68,14 +68,14 @@ i18n:
     body: >-
       <h3>Descripción</h3>
 
-      <p>Oferta de poker en el club Kangaroo, que forma parte de la conocida unión PPPFish en PPPoker. En el club juegan
+      <p>Oferta de póker en el club Kangaroo, que forma parte de la conocida unión PPPFish en PPPoker. En el club juegan
       principalmente australianos y chinos.</p>
 
 
       <h3>Sobre la unión PPPFish en PPPoker</h3>
 
       <p>PPPFish es la mayor unión australiana, donde juegan sobre todo jugadores recreativos de China y Australia. La
-      unión es famosa por su campo soft en torneos y en Omaha.</p>
+      unión es famosa por su campo blando en torneos y en Omaha.</p>
 
       <p>Disciplinas disponibles: NLH, PLO4/5/6, MTT y también los modificadores Bomb Pot, Pot Or Fold y Double Board.
       El juego activo se da sobre todo de 7:00 a 14:00 GMT (UTC+0).</p>
@@ -91,32 +91,34 @@ i18n:
       </ul>
     srcHash: 3c59e7458fde
   uz:
-    name: PPPfish ittifoqi bitimi — PPPoker
-    description: Yirik avstraliyalik ittifoq, ko'p bo'shashgan o'yinchilar. PLO5 va PLO6 uchun ajoyib stol tarkibi, a'lo rakebek.
-    geo: Avstraliya, Okea
+    name: PPPoker’dagi PPPfish ittifoqida bitim
+    description: >-
+      Koʻplab loʻz oʻyinchilarga ega yirik avstraliyalik ittifoqdagi bitim. PLO5 va PLO6’da yaxshi tarkiblar, ajoyib
+      reyk-bek.
+    geo: Avstraliya, Okeaniya
     body: >-
       <h3>Tavsif</h3>
 
-      <p>PPPoker dagi mashhur PPPfish ittifoqiga kiruvchi Kangaroo klubidagi bitim. Klub o‘yinchilarining asosiy qismi
-      Avstraliya va Xitoydan, maydon yumshoq.</p>
+      <p>PPPoker’dagi mashhur PPPfish ittifoqi tarkibiga kiruvchi Kangaroo klubidagi poker bitimi. Klubda asosan
+      avstraliyaliklar va xitoyliklar oʻynaydi.</p>
 
 
-      <h3>PPPfish ittifoqi haqida</h3>
+      <h3>PPPoker’dagi PPPfish ittifoqi haqida</h3>
 
-      <p>PPPfish — PPPoker dagi eng yirik avstraliyalik ittifoq. Rekreatsion o‘yinchilarning ulushi katta, ayniqsa
-      turnirlar va Omaxada maydon juda yumshoq.</p>
+      <p>PPPfish — eng yirik avstraliyalik ittifoq boʻlib, unda asosan Xitoy va Avstraliyadan kelgan rekreatsion
+      oʻyinchilar oʻynaydi. Ittifoq turnirlar va Omahadagi yumshoq maydoni bilan mashhur.</p>
 
-      <p>Mavjud o‘yinlar: NLH, PLO4/5/6, MTT hamda Bomb Pot, Pot or Fold, Double Board kabi modifikatorlar. Eng faol
-      vaqt odatda 07:00–14:00 GMT (UTC+0).</p>
+      <p>Mavjud intizomlar: NLH, PLO4/5/6, MTT, shuningdek Bomb Pot, Pot Or Fold va Double Board modifikatorlari. Faol
+      oʻyin asosan GMT (UTC+0) boʻyicha 7:00–14:00 da boradi.</p>
 
 
       <h3>Bitim haqida</h3>
 
-      <p>O‘yinchilar quyidagi variantlardan birini tanlashi mumkin:</p>
+      <p>Oʻyinchilar tanlash uchun quyidagilarga ega:</p>
 
       <ul>
-        <li><strong>55% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
-        <li><strong>Sobit rakebek 35%</strong> — hajmdan qat’i nazar barqaror foiz, keyin xohlansa dinamik rejimga o‘tish mumkin.</li>
+        <li><strong>55% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
+        <li><strong>Qatʼiy reyk-bek 35%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
       </ul>
     srcHash: 3c59e7458fde
   uk:
@@ -295,7 +297,9 @@ i18n:
     srcHash: 3c59e7458fde
   tr:
     name: PPPoker'da PPPfish birliğinde anlaşma
-    description: Bol loose oyuncuyla büyük bir Avustralya birliğinde anlaşma. PLO5 ve PLO6 masaları iyi, rakeback mükemmel.
+    description: >-
+      Bol gevşek oynayan oyuncuyla büyük bir Avustralya birliğinde anlaşma. PLO5 ve PLO6 masaları iyi, rakeback
+      mükemmel.
     geo: Avustralya, Okyanusya
     body: >-
       <h3>Açıklama</h3>
@@ -334,8 +338,8 @@ i18n:
 
       <h3>על האיחוד PPPFish ב-PPPoker</h3>
 
-      <p>PPPFish הוא האיחוד האוסטרלי הגדול ביותר, שבו משחקים בעיקר שחקנים רקריאציוניים מסין ומאוסטרליה. האיחוד מפורסם
-      בשדה הרך שלו בטורנירים וב-Omaha.</p>
+      <p>PPPFish הוא האיחוד האוסטרלי הגדול ביותר, שבו משחקים בעיקר שחקנים חובבים מסין ומאוסטרליה. האיחוד מפורסם בשדה הרך
+      שלו בטורנירים וב-Omaha.</p>
 
       <p>דיסציפלינות זמינות: NLH, PLO4/5/6, MTT וכן המודיפיירים Bomb Pot, Pot Or Fold ו-Double Board. משחק פעיל מתנהל
       בעיקר בין השעות 7:00 ל-14:00 לפי GMT (UTC+0).</p>
@@ -352,7 +356,7 @@ i18n:
     srcHash: 3c59e7458fde
   ar:
     name: صفقة في اتحاد PPPfish على PPPoker
-    description: صفقة في اتحاد أسترالي كبير يضم عددًا كبيرًا من اللاعبين الفضفاضين. تشكيلات رائعة في PLO5 وPLO6 ورِيك باك ممتاز.
+    description: صفقة في اتحاد أسترالي كبير يضم عددًا كبيرًا من اللاعبين الفضفاضين. تشكيلات رائعة في PLO5 وPLO6 وريكباك ممتاز.
     geo: أستراليا، أوقيانوسيا
     body: >-
       <h3>الوصف</h3>
@@ -375,8 +379,8 @@ i18n:
       <p>يُتاح للاعبين الاختيار بين:</p>
 
       <ul>
-        <li><strong>رِيك باك ديناميكي حتى 55%</strong> يعتمد الرِيك باك على حجم الرِيك الأسبوعي.</li>
-        <li><strong>رِيك باك ثابت 35%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا التحول إلى الرِيك باك الديناميكي.</li>
+        <li><strong>ريكباك ديناميكي حتى 55%</strong> يعتمد الريكباك على حجم الريك الأسبوعي.</li>
+        <li><strong>ريكباك ثابت 35%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا التحول إلى الريكباك الديناميكي.</li>
       </ul>
     srcHash: 3c59e7458fde
   id:
@@ -397,8 +401,8 @@ i18n:
       <p>PPPFish adalah union Australia terbesar yang sebagian besar diisi pemain rekreasional dari China dan Australia.
       Union ini terkenal dengan field-nya yang lunak di turnamen dan Omaha.</p>
 
-      <p>Disiplin yang tersedia: NLH, PLO4/5/6, MTT, serta modifier Bomb Pot, Pot Or Fold, dan Double Board. Permainan
-      aktif berlangsung terutama pukul 7.00 – 14.00 GMT (UTC+0).</p>
+      <p>Disiplin yang tersedia: NLH, PLO4/5/6, MTT, serta modifikator Bomb Pot, Pot Or Fold, dan Double Board.
+      Permainan aktif berlangsung terutama pukul 7.00 – 14.00 GMT (UTC+0).</p>
 
 
       <h3>Tentang deal</h3>
@@ -407,36 +411,36 @@ i18n:
 
       <ul>
         <li><strong>Rakeback dinamis hingga 55%</strong> Rakeback bergantung pada volume rake mingguan.</li>
-        <li><strong>Rakeback tetap 35%</strong> Mulai bermain dengan keuntungan langsung setelah mendaftar. Nantinya kamu bisa beralih ke rakeback dinamis.</li>
+        <li><strong>Rakeback tetap 35%</strong> Mulai bermain dengan keuntungan langsung setelah mendaftar. Nantinya Anda bisa beralih ke rakeback dinamis.</li>
       </ul>
     srcHash: 3c59e7458fde
   vi:
-    name: Deal tại union PPPfish trên PPPoker
-    description: Deal trong một union lớn của Úc với rất nhiều người chơi loose. Bàn chơi tốt ở PLO5 và PLO6, rakeback tuyệt vời.
+    name: Kèo tại liên minh PPPfish trên PPPoker
+    description: Kèo tại một liên minh lớn của Úc với rất đông người chơi lỏng. Sân chơi tốt ở PLO5 và PLO6, rakeback tuyệt vời.
     geo: Úc, Châu Đại Dương
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Deal poker tại club Kangaroo thuộc union nổi tiếng PPPFish trên PPPoker. Người chơi tại club chủ yếu là người
-      Úc và người Trung Quốc.</p>
+      <p>Kèo poker tại câu lạc bộ Kangaroo, thuộc liên minh nổi tiếng PPPFish trên PPPoker. Người chơi tại câu lạc bộ
+      chủ yếu là người Úc và người Trung Quốc.</p>
 
 
-      <h3>Về union PPPFish trên PPPoker</h3>
+      <h3>Về liên minh PPPFish trên PPPoker</h3>
 
-      <p>PPPFish là union lớn nhất của Úc, nơi chủ yếu là người chơi giải trí đến từ Trung Quốc và Úc. Union nổi tiếng
-      với field mềm ở các giải đấu và ở Omaha.</p>
+      <p>PPPFish là liên minh lớn nhất của Úc, nơi quy tụ chủ yếu là người chơi giải trí đến từ Trung Quốc và Úc. Liên
+      minh nổi tiếng với sân chơi mềm ở các giải đấu và ở thể loại Omaha.</p>
 
-      <p>Các bộ môn có sẵn: NLH, PLO4/5/6, MTT cùng với các modifier Bomb Pot, Pot Or Fold và Double Board. Hoạt động
-      chơi diễn ra chủ yếu từ 7:00 – 14:00 theo giờ GMT (UTC+0).</p>
+      <p>Các thể loại có sẵn: NLH, PLO4/5/6, MTT cùng các biến thể Bomb Pot, Pot Or Fold và Double Board. Hoạt động chơi
+      diễn ra chủ yếu từ 7:00 – 14:00 theo giờ GMT (UTC+0).</p>
 
 
-      <h3>Về deal</h3>
+      <h3>Về kèo</h3>
 
-      <p>Người chơi có thể lựa chọn:</p>
+      <p>Người chơi được lựa chọn giữa:</p>
 
       <ul>
-        <li><strong>Rakeback linh hoạt lên đến 55%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
-        <li><strong>Rakeback cố định 35%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang rakeback linh hoạt.</li>
+        <li><strong>Rakeback động lên đến 55%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
+        <li><strong>Rakeback cố định 35%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
       </ul>
     srcHash: 3c59e7458fde
   fil:

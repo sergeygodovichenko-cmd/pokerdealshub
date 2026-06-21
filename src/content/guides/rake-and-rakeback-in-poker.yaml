@@ -118,43 +118,43 @@ i18n:
       </article>
     srcHash: 9b5123cf4238
   uz:
-    title: Poker rake va rakebek — ko'proq saqlash va aqlli daromad olish
+    title: Pokerda reyk va reyk-bek — qanday qilib ortiqcha bermaslik va koʻproq daromad qilish kerak
     description: >-
-      Poker rake va rakebek nima, rake vinreytingga ta'siri va eng yaxshi rakebek bitimlarini qayerdan topish —
-      PokerDealsHub qo'llanmasi.
+      Pokerda reyk va reyk-bek nima, komissiya vinreytga qanday taʼsir qiladi va nega reyk-bek oʻyinchilar uchun asosiy
+      daromad manbaiga aylandi. Eng yaxshi reyk-bek bitimlarini qayerdan olish mumkin — PokerDealsHub’da.
     body: |-
       <article>
-        <h1>Poker rake va rakebek: qanday qilib ko'proq saqlab, aqlli daromad olish mumkin</h1>
-        
+        <h1>Pokerda reyk va reyk-bek — qanday qilib ortiqcha bermaslik va koʻproq daromad qilish kerak</h1>
 
-        <p>Rake — poker xonasi har o'ynalgan bankdan oladigan komissiya. Odatda u 5% atrofida, dastlab arzimas ko'rinadi. Ammo rake <em>har bir</em> qo'l o'tganda olinadi, va yuzlab qo'llar davomida hatto g'olib o'yinchi ham sezilarli summani komissiyaga boy berishi mumkin.</p>
-        <p>Rake stoldagi har bir harakat uchun ko'rinmas soliq. Poker raqiblarga qarshi o'yindan tashqari tizimga qarshi kurashga aylanadi — siz nafaqat raqiblarni yengishingiz, balki komissiyaning doimiy oqimini ham yutishingiz kerak.</p>
+        <p>Reyk — bu poker xonasi har bir oʻynalgan bankdan oladigan komissiya. Odatda u taxminan 5% ni tashkil etadi va birinchi qarashda arzimasdek tuyuladi. Ammo shuni tushunish muhimki, reyk fishkalar qoʻldan-qoʻlga oʻtgan <em>har gal</em> olinadi. Bitta sessiyada bunday qoʻllar yuzlab boʻlishi mumkin, natijada esa hatto faol plusli oʻyinchi ham sezilarli summani yoʻqotadi.</p>
+        <p>Reyk — stol atrofidagi har bir harakat uchun olinadigan koʻrinmas soliq. Aynan u pokerni boshqa odamlarga qarshi oʻyindan tizimga qarshi oʻyinga aylantiradi, bu yerda nafaqat raqiblarni yutish, balki doimiy komissiya yoʻqotishlarini ham qoplash kerak.</p>
 
-        <h2>Rake vinreyting va foydaga qanday ta'sir qiladi</h2>
-        <p>Rake to'g'ridan-to'g'ri o'yinchining vinreytingini pasaytiradi. Siz raqiblarni muntazam yengishingiz, EV ijobiy bo'lishi mumkin, lekin oy oxirida baribir pul yo'qotishingiz ehtimoli bor — bunga rake sabab bo'ladi. Limitlar va qo'l soni oshgani sayin ta'sir kuchayadi.</p>
-        <p>Shu bilan birga, rake butun sanoatni moliyalashtiradi: xonalar, turnirlar, dasturiy ta'minot va xavfsizlik shu pul hisobiga ishlaydi. Bu zarur “dushman”, lekin uni kamaytirish yo'llarini bilish kerak.</p>
+        <h2>Reyk vinreyt va moliyaviy natijaga qanday taʼsir qiladi</h2>
+        <p>Reyk oʻyinchining vinreytini bevosita kamaytiradi. Raqiblardan barqaror yutib, ijobiy EV’ga ega boʻlish mumkin, ammo oy yakunida baribir minusda qolish ehtimoli bor — bu komissiya tufayli. Limitlar qanchalik yuqori va qoʻllar soni qanchalik koʻp boʻlsa, taʼsir shunchalik sezilarli.</p>
+        <p>Shu bilan birga, reyk oʻz-oʻzidan yovuzlik emas. Usiz poker biznesi mavjud boʻlmasdi: aynan shu komissiyalar hisobiga xonalar yashaydi, turnirlar, qoʻllab-quvvatlash, dasturiy taʼminot va oʻyin xavfsizligi taʼminlanadi. Demak, bu shunday dushmanki, ammo usiz industriya tirik qola olmaydi.</p>
 
-        <h2>Agar rake dushman bo'lsa, rakebek — ittifoqchi</h2>
-        <p>Rakebek — to'langan rakening bir qismini qaytarish. Poker xonasi yoki klub siz yaratgan komissiyaning foizini qaytarib beradi. Oddiy bonus sifatida boshlangan narsa bugun o'yinchilarni jalb qilish va ushlab qolishning asosiy vositasiga aylandi.</p>
-        <p>Bugungi kunda ko'pchilik reglar foydaning asosiy qismini aynan rakebekdan oladi — <strong>PPPoker</strong>, <strong>ClubGG</strong> va <strong>X-Poker</strong>dagi <a href="/uz/deals/">so'nggi rakebek bitimlarini</a> ko'rib chiqing. Rakebeksiz faqat eng zaif raqiblarga qarshi pul ishlash mumkin, bunday stollar esa tobora kamroq. Shu sabab rakebek jiddiy o'yinchilar uchun majburiy, rekreatsion o'yinchilar uchun esa yoqimli va ko'pincha sezilarli bonusdir.</p>
+        <h2>Agar reyk — dushman boʻlsa, reyk-bek — oʻyinchining ittifoqchisi</h2>
+        <p>Reyk-bek — bu toʻlangan reykning bir qismini qaytarish. Oddiyroq aytganda, xona yoki klub oʻyinchiga u allaqachon yaratgan komissiyaning bir foizini qaytaradi. Dastlab reyk-bek shunchaki bonus boʻlgan, ammo vaqt oʻtishi bilan oʻyinchilarni jalb qilish va ushlab qolishning asosiy vositasiga aylandi.</p>
+        <p>Bugun yutuvchi regulyarlarning aksariyati aynan reyk-bek hisobiga daromad qiladi — <strong>PPPoker</strong>, <strong>ClubGG</strong> va <strong>X-Poker</strong> uchun oshirilgan foizlarga ega <a href="/uz/deals/">dolzarb reyk-bek bitimlarini</a> koʻrib chiqing. Reyk-beksiz faqat eng zaif raqiblarga qarshi foydali oʻynash mumkin, ammo bunday stollar tobora kamayib bormoqda. Shu sababli jiddiy oʻyinchilar uchun reyk-bek — strategiyaning majburiy elementi. Rekreatsion oʻyinchilar uchun esa — yoqimli va koʻpincha katta bonus.</p>
 
-        <h2>Rakebekni qanday olish mumkin</h2>
-        <p>Ko'p poker xonalari sodiqlik dasturini taklif qiladi. Odatda rakebek foizi ko'proq rake yaratgan sari oshib boradigan bosqichli tizim. Boshlang'ich darajalar ko'pincha past — 5–10% atrofida, munosib stavkaga chiqish uchun esa muntazam va katta hajmda o'ynash kerak. Tanaffus qilsangiz, darajangiz tushadi.</p>
-        <p>Muqobil yo'l — <strong>rakebek bitimi</strong>. Bu o'yinchi bilan poker klubi, ittifoqi yoki agenti o'rtasidagi kelishuv: tavsiyanoma orqali ro'yxatdan o'tish va darhol yuqori, ko'pincha 50% yoki undan yuqori rakebek stavkasini olish.</p>
-        <p>Bunday formatda har ikki tomon yutadi: klub faol o'yinchiga ega bo'ladi, o'yinchi esa kutishsiz va murakkab shartlarsiz barqaror qaytish oladi. Eng foydali takliflarni <a href="/uz/deals/">PokerDealsHub rakebek takliflari</a> bo'limida topasiz.</p>
+        <h2>Reyk-bekni qanday olish mumkin</h2>
+        <p>Deyarli barcha poker xonalari oʻzining sadoqat dasturlarini taklif etadi. Bu — jamgʻariluvchi bonuslar boʻlib, ularda qaytim foizi reyk yaratilgani sayin oshib boradi. Ammo boshlangʻich darajalar odatda kamtarona — 5–10%, munosib darajaga chiqish uchun esa muntazam va katta hajmda oʻynash kerak. Tanaffus qilsangiz, foiz yana tushadi.</p>
+        <p>Muqobil yoʻl — <strong>reyk-bek bitimi</strong> (rakeback deal). Bu oʻyinchi va poker klubi, ittifoq yoki agent oʻrtasidagi kelishuv. Oʻyinchi referal havola orqali roʻyxatdan oʻtadi va dastlabdanoq qatʼiy yuqori reyk-bek foizini — koʻpincha 50% va undan yuqorisini — oladi.</p>
+        <p>Bunday format ikkala tomon uchun ham foydali: klub faol oʻyinchini oladi, oʻyinchi esa kutishsiz va murakkab shartlarsiz barqaror qaytim oladi. Hozir eng foydali takliflar qayerda ekanini <a href="/uz/deals/">PokerDealsHub reyk-bek takliflari</a> boʻlimida bilib olishingiz mumkin.</p>
 
-        <h2>PokerDealsHub — eksklyuziv rakebek bitimlari katalogi</h2>
-        <p><strong>PokerDealsHub (PDH)</strong> shunchaki klub ro'yxati emas. Bu <strong>to'g'ridan-to'g'ri xonadan olmaysiz</strong> deb ataladigan eksklyuziv rakebek bitimlari katalogi.</p>
-        <p>PDH <strong>PPPoker</strong>, <strong>ClubGG</strong> va <strong>X-Poker</strong>dagi tasdiqlangan klublar va ittifoqlar bilan hamkorlik qiladi, yaxshilangan shartlar taklif qiladi: yuqori rakebek, barqaror to'lovlar va shaffof hisob-kitob. Har bir PDH bitimi odatda ichki sheriklarga yoki top filiallarga beriladigan premium shartlarni ochadi.</p>
-        <p>O'yinchi mos taklifni tanlaydi, darhol ulanishni oladi va ilk sessiyadanoq ko'proq daromad qiladi.</p>
-        <p><strong>PokerDealsHub</strong> tizimni emas, o'z o'yinini oziqlantirmoqchi bo'lganlar uchun yaratilgan. <a href="/uz/deals/">Rakebek bitimlari katalogi</a>ga o'ting va o'zingizga mos taklifni tanlang.</p>
+        <h2>PokerDealsHub — eksklyuziv reyk-bek bitimlari katalogi</h2>
+        <p><strong>PokerDealsHub (PDH)</strong> — bu shunchaki poker klublari roʻyxati emas, balki xonaga “koʻchadan” kelgan holda toʻgʻridan-toʻgʻri olib boʻlmaydigan <strong>eksklyuziv reyk-bek bitimlari</strong> katalogidir.</p>
+        <p>PDH <strong>PPPoker</strong>, <strong>ClubGG</strong> va <strong>X-Poker</strong>’dagi tekshirilgan klublar va ittifoqlar bilan hamkorlik qiladi va oʻyinchilarga yaxshilangan shartlarni taklif etadi: oshirilgan reyk-bek foizi, barqaror toʻlovlar va shaffof hisob-kitob tizimi. PDH’dagi har bir bitim — odatda faqat ichki hamkorlar yoki yirik affiliatlarga ochiq boʻlgan eng yaxshi shartlarda oʻynash imkoniyatidir.</p>
+        <p>Oʻyinchi mos taklifni tanlaydi, bir zumda ulanadi va birinchi qoʻldanoq koʻproq daromad qila boshlaydi.</p>
+
+        <p><strong>PokerDealsHub</strong> tizimni boqish emas, balki foyda bilan oʻynashni istaganlar uchun yaratilgan. <a href="/uz/deals/">Reyk-bek bitimlari katalogiga</a> oʻting va oʻz poker xonangiz uchun eng yaxshi taklifni tanlang.</p>
 
         <script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "Article",
-          "headline": "Poker rake va rakebek: qanday qilib ko'proq saqlab, aqlli daromad olish mumkin",
-          "description": "Poker rake va rakebek nima, rake vinreytingga qanday ta'sir qiladi va eng yaxshi rakebek bitimlarini qayerdan topish — PokerDealsHub qo'llanmasi.",
+          "headline": "Pokerda reyk va reyk-bek: qanday qilib ortiqcha bermaslik va koʻproq daromad qilish kerak",
+          "description": "Pokerda reyk va reyk-bek nima, komissiya vinreytga qanday taʼsir qiladi, nega reyk-bek oʻyinchilar daromadining asosiy vositasiga aylandi va eng yaxshi shartlarni qayerdan olish mumkin — PokerDealsHub’da.",
           "author": {
             "@type": "Organization",
             "name": "PokerDealsHub",
@@ -354,45 +354,45 @@ i18n:
         </article>
     srcHash: 9b5123cf4238
   es:
-    title: Rake y rakeback en el póker — cómo no regalar de más y ganar más
+    title: "Rake y rakeback en el póker: cómo no regalar de más y ganar más"
     description: >-
-      Qué es el rake y el rakeback en el póker, cómo la comisión afecta tu winrate y por qué el rakeback se ha
-      convertido en una fuente clave de ganancias para los jugadores. Dónde conseguir los mejores rakeback deals — en
+      Qué es el rake y el rakeback en el póker, cómo la comisión afecta a tu winrate y por qué el rakeback se ha
+      convertido en una fuente clave de ganancias para los jugadores. Dónde conseguir los mejores deals de rakeback: en
       PokerDealsHub.
     body: |-
       <article>
 
         
 
-        <p>El rake es la comisión que la sala de póker cobra de cada bote jugado. Suele rondar el 5% y, a primera vista, parece insignificante. Pero es importante entender que el rake se cobra <em>cada vez</em> que las fichas cambian de manos. En una sola sesión puede haber cientos de esas manos y, al final, incluso un jugador activo y ganador pierde una cantidad considerable.</p>
+        <p>El rake es la comisión que la sala de póker cobra de cada bote jugado. Suele rondar el 5 % y, a primera vista, parece insignificante. Pero es importante entender que el rake se cobra <em>cada vez</em> que las fichas cambian de manos. En una sola sesión puede haber cientos de esas manos y, al final, incluso un jugador activo y ganador pierde una cantidad considerable.</p>
         <p>El rake es un impuesto invisible sobre cada acción en la mesa. Es justamente lo que convierte el póker de un juego contra otras personas en un juego contra el sistema, donde no solo hay que vencer a los rivales, sino también cubrir las pérdidas constantes por comisión.</p>
 
         <h2>Cómo afecta el rake al winrate y al resultado financiero</h2>
-        <p>El rake reduce directamente el winrate del jugador. Puedes ganar de forma estable a tus rivales, tener un EV positivo y, aun así, terminar el mes en negativo, todo por culpa de la comisión. Cuanto más altos son los limits y más manos juegas, mayor es el impacto.</p>
+        <p>El rake reduce directamente el winrate del jugador. Puedes ganar de forma estable a tus rivales, tener un EV positivo y, aun así, terminar el mes en negativo, todo por culpa de la comisión. Cuanto más altos son los límites y más manos juegas, mayor es el impacto.</p>
         <p>Aun así, el rake no es malo en sí mismo. Sin él no existiría el negocio del póker: con esas comisiones se mantienen las salas, se pagan los torneos, el soporte, el software y la seguridad del juego. Así que es un enemigo sin el cual la industria simplemente no sobreviviría.</p>
 
         <h2>Si el rake es el enemigo, el rakeback es el aliado del jugador</h2>
         <p>El rakeback es la devolución de una parte del rake pagado. Dicho de forma sencilla, la sala o el club devuelve al jugador un porcentaje de la comisión que este ya generó. Al principio el rakeback era solo un bono, pero con el tiempo se convirtió en una herramienta clave para captar y retener jugadores.</p>
-        <p>La mayoría de los regulares ganadores hoy en día ganan precisamente gracias al rakeback: mira los <a href="/es/deals/" >rakeback deals actuales</a> con porcentajes mejorados en <strong>PPPoker</strong>, <strong>ClubGG</strong> y <strong>X-Poker</strong>. Sin rakeback solo se puede jugar de forma rentable contra los oponentes más débiles, pero cada vez quedan menos mesas así. Por eso, para los jugadores serios el rakeback es un elemento obligatorio de la estrategia. Para los recreacionales, un bono agradable, y muchas veces nada pequeño.</p>
+        <p>La mayoría de los regulares ganadores hoy en día ganan precisamente gracias al rakeback: mira los <a href="/es/deals/" >deals de rakeback actuales</a> con porcentajes mejorados en <strong>PPPoker</strong>, <strong>ClubGG</strong> y <strong>X-Poker</strong>. Sin rakeback solo se puede jugar de forma rentable contra los rivales más débiles, pero cada vez quedan menos mesas así. Por eso, para los jugadores serios el rakeback es un elemento obligatorio de la estrategia. Para los recreativos, un bono agradable, y muchas veces nada pequeño.</p>
 
         <h2>Cómo conseguir rakeback</h2>
-        <p>Casi todas las salas de póker ofrecen sus propios programas de fidelización (loyalty program). Son bonos acumulativos en los que el porcentaje de devolución crece a medida que generas rake. Pero los niveles iniciales suelen ser modestos —entre el 5% y el 10%— y, para alcanzar un nivel decente, hay que jugar de forma regular y con grandes volúmenes. Basta con hacer una pausa para que el porcentaje vuelva a caer.</p>
-        <p>La alternativa es el <strong>rakeback deal</strong>. Es un acuerdo entre el jugador y un club, una union o un agente de póker. El jugador se registra a través de un referral link y recibe un porcentaje de rakeback alto y fijo desde el primer momento, a menudo del 50% o más.</p>
+        <p>Casi todas las salas de póker ofrecen sus propios programas de fidelización. Son bonos acumulativos en los que el porcentaje de devolución crece a medida que generas rake. Pero los niveles iniciales suelen ser modestos —entre el 5 % y el 10 %— y, para alcanzar un nivel decente, hay que jugar de forma regular y con grandes volúmenes. Basta con hacer una pausa para que el porcentaje vuelva a caer.</p>
+        <p>La alternativa es la <strong>deal de rakeback</strong>. Es un acuerdo entre el jugador y un club, una unión o un agente de póker. El jugador se registra a través de un enlace de referido y recibe un porcentaje de rakeback alto y fijo desde el primer momento, a menudo del 50 % o más.</p>
         <p>Este formato beneficia a ambas partes: el club consigue un jugador activo y el jugador, una devolución estable sin esperas ni condiciones complicadas. Para saber dónde están ahora las mejores ofertas, visita la sección de <a href="/es/deals/" >ofertas de rakeback de PokerDealsHub</a>.</p>
 
-        <h2>PokerDealsHub — catálogo de rakeback deals exclusivos</h2>
-        <p><strong>PokerDealsHub (PDH)</strong> no es solo una lista de clubs de póker, sino un catálogo de <strong>rakeback deals exclusivos</strong> que no puedes conseguir directamente si llegas a una sala «desde la calle».</p>
-        <p>PDH colabora con clubs y unions de confianza en <strong>PPPoker</strong>, <strong>ClubGG</strong> y <strong>X-Poker</strong>, y ofrece a los jugadores condiciones mejoradas: mayor porcentaje de rakeback, pagos estables y un sistema de cálculo transparente. Cada deal en PDH es la oportunidad de jugar en las mejores condiciones, normalmente reservadas solo a los partners internos o a los top affiliates.</p>
+        <h2>PokerDealsHub: catálogo de deals de rakeback exclusivas</h2>
+        <p><strong>PokerDealsHub (PDH)</strong> no es solo una lista de clubes de póker, sino un catálogo de <strong>deals de rakeback exclusivas</strong> que no puedes conseguir directamente si llegas a una sala «desde la calle».</p>
+        <p>PDH colabora con clubes y uniones de confianza en <strong>PPPoker</strong>, <strong>ClubGG</strong> y <strong>X-Poker</strong>, y ofrece a los jugadores condiciones mejoradas: mayor porcentaje de rakeback, pagos estables y un sistema de cálculo transparente. Cada deal en PDH es la oportunidad de jugar en las mejores condiciones, normalmente reservadas solo a los partners internos o a los afiliados de primer nivel.</p>
         <p>El jugador elige la oferta que más le conviene, recibe una conexión instantánea y empieza a ganar más desde la primera mano.</p>
 
-        <p><strong>PokerDealsHub</strong> está hecho para quienes quieren jugar con ventaja, no alimentar al sistema. Entra en el <a href="/es/deals/" >catálogo de rakeback deals</a> y elige la mejor oferta para tu sala de póker.</p>
+        <p><strong>PokerDealsHub</strong> está hecho para quienes quieren jugar con ventaja, no alimentar al sistema. Entra en el <a href="/es/deals/" >catálogo de deals de rakeback</a> y elige la mejor oferta para tu sala de póker.</p>
 
         <script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "Article",
           "headline": "Rake y rakeback en el póker: cómo no regalar de más y ganar más",
-          "description": "Qué es el rake y el rakeback en el póker, cómo la comisión afecta tu winrate, por qué el rakeback se ha convertido en una herramienta clave de ingresos para los jugadores y dónde conseguir las mejores condiciones — en PokerDealsHub.",
+          "description": "Qué es el rake y el rakeback en el póker, cómo la comisión afecta al winrate, por qué el rakeback se ha convertido en una herramienta clave de ingresos para los jugadores y dónde conseguir las mejores condiciones — en PokerDealsHub.",
           "author": {
             "@type": "Organization",
             "name": "PokerDealsHub",
@@ -418,7 +418,7 @@ i18n:
     title: Rake e rakeback no poker — como não pagar mais do que o necessário e ganhar mais
     description: >-
       O que é rake e rakeback no poker, como a comissão afeta o seu winrate e por que o rakeback se tornou uma fonte de
-      lucro fundamental para os jogadores. Onde conseguir os melhores rakeback deals — na PokerDealsHub.
+      lucro fundamental para os jogadores. Onde conseguir as melhores ofertas de rakeback — na PokerDealsHub.
     body: |-
       <article>
 
@@ -432,20 +432,20 @@ i18n:
         <p>Ainda assim, o rake não é um mal em si. Sem ele não existiria o negócio do poker: são essas comissões que mantêm as salas, pagam os torneios, o suporte, o software e a segurança do jogo. Portanto, é um inimigo sem o qual a indústria simplesmente não sobreviveria.</p>
 
         <h2>Se o rake é o inimigo, o rakeback é o aliado do jogador</h2>
-        <p>O rakeback é a devolução de parte do rake pago. Em outras palavras, a sala ou o club devolve ao jogador um percentual da comissão que ele já gerou. No começo o rakeback era apenas um bônus, mas com o tempo se tornou uma ferramenta fundamental para atrair e reter jogadores.</p>
-        <p>A maioria dos regulares ganhadores hoje lucra justamente graças ao rakeback — veja os <a href="/pt/deals/" >rakeback deals atuais</a> com percentuais aumentados no <strong>PPPoker</strong>, <strong>ClubGG</strong> e <strong>X-Poker</strong>. Sem rakeback, só dá para jogar de forma lucrativa contra os oponentes mais fracos, mas mesas assim são cada vez mais raras. Por isso, para os jogadores sérios o rakeback é um elemento obrigatório da estratégia. Para os recreacionais, é um bônus agradável — e muitas vezes nada pequeno.</p>
+        <p>O rakeback é a devolução de parte do rake pago. Em outras palavras, a sala ou o clube devolve ao jogador um percentual da comissão que ele já gerou. No começo o rakeback era apenas um bônus, mas com o tempo se tornou uma ferramenta fundamental para atrair e reter jogadores.</p>
+        <p>A maioria dos regulares ganhadores hoje lucra justamente graças ao rakeback — veja as <a href="/pt/deals/" >ofertas de rakeback atuais</a> com percentuais aumentados no <strong>PPPoker</strong>, <strong>ClubGG</strong> e <strong>X-Poker</strong>. Sem rakeback, só dá para jogar de forma lucrativa contra os oponentes mais fracos, mas mesas assim são cada vez mais raras. Por isso, para os jogadores sérios o rakeback é um elemento obrigatório da estratégia. Para os recreacionais, é um bônus agradável — e muitas vezes nada pequeno.</p>
 
         <h2>Como conseguir rakeback</h2>
-        <p>Quase todas as salas de poker oferecem seus próprios programas de fidelidade (loyalty program). São bônus cumulativos, em que o percentual de devolução cresce conforme você gera rake. Mas os níveis iniciais costumam ser modestos — de 5% a 10% — e, para chegar a um patamar decente, é preciso jogar com regularidade e em grandes volumes. Basta dar uma pausa para o percentual cair de novo.</p>
-        <p>A alternativa é o <strong>rakeback deal</strong>. É um acordo entre o jogador e um club, uma union ou um agent de poker. O jogador se cadastra por um referral link e recebe um percentual de rakeback alto e fixo desde o início — muitas vezes de 50% ou mais.</p>
-        <p>Esse formato é vantajoso para os dois lados: o club ganha um jogador ativo e o jogador, uma devolução estável, sem espera e sem condições complicadas. Para saber onde estão agora as ofertas mais vantajosas, acesse a seção de <a href="/pt/deals/" >ofertas de rakeback da PokerDealsHub</a>.</p>
+        <p>Quase todas as salas de poker oferecem seus próprios programas de fidelidade. São bônus cumulativos, em que o percentual de devolução cresce conforme você gera rake. Mas os níveis iniciais costumam ser modestos — de 5% a 10% — e, para chegar a um patamar decente, é preciso jogar com regularidade e em grandes volumes. Basta dar uma pausa para o percentual cair de novo.</p>
+        <p>A alternativa é a <strong>oferta de rakeback</strong>. É um acordo entre o jogador e um clube, uma união ou um agente de poker. O jogador se cadastra por um link de indicação e recebe um percentual de rakeback alto e fixo desde o início — muitas vezes de 50% ou mais.</p>
+        <p>Esse formato é vantajoso para os dois lados: o clube ganha um jogador ativo e o jogador, uma devolução estável, sem espera e sem condições complicadas. Para saber onde estão agora as ofertas mais vantajosas, acesse a seção de <a href="/pt/deals/" >ofertas de rakeback da PokerDealsHub</a>.</p>
 
-        <h2>PokerDealsHub — catálogo de rakeback deals exclusivos</h2>
-        <p>A <strong>PokerDealsHub (PDH)</strong> não é apenas uma lista de clubs de poker, e sim um catálogo de <strong>rakeback deals exclusivos</strong> que você não consegue diretamente se chegar a uma sala «de fora».</p>
-        <p>A PDH trabalha com clubs e unions confiáveis no <strong>PPPoker</strong>, <strong>ClubGG</strong> e <strong>X-Poker</strong>, oferecendo aos jogadores condições melhores: percentual de rakeback aumentado, pagamentos estáveis e um sistema de cálculo transparente. Cada deal na PDH é a chance de jogar nas melhores condições, normalmente disponíveis apenas para partners internos ou top affiliates.</p>
+        <h2>PokerDealsHub — catálogo de ofertas de rakeback exclusivas</h2>
+        <p>A <strong>PokerDealsHub (PDH)</strong> não é apenas uma lista de clubes de poker, e sim um catálogo de <strong>ofertas de rakeback exclusivas</strong> que você não consegue diretamente se chegar a uma sala «de fora».</p>
+        <p>A PDH trabalha com clubes e uniões confiáveis no <strong>PPPoker</strong>, <strong>ClubGG</strong> e <strong>X-Poker</strong>, oferecendo aos jogadores condições melhores: percentual de rakeback aumentado, pagamentos estáveis e um sistema de cálculo transparente. Cada oferta na PDH é a chance de jogar nas melhores condições, normalmente disponíveis apenas para parceiros internos ou top afiliados.</p>
         <p>O jogador escolhe a oferta ideal, recebe conexão imediata e começa a ganhar mais já na primeira mão.</p>
 
-        <p>A <strong>PokerDealsHub</strong> foi criada para quem quer jogar com vantagem, e não alimentar o sistema. Acesse o <a href="/pt/deals/" >catálogo de rakeback deals</a> e escolha a melhor oferta para a sua sala de poker.</p>
+        <p>A <strong>PokerDealsHub</strong> foi criada para quem quer jogar com vantagem, e não alimentar o sistema. Acesse o <a href="/pt/deals/" >catálogo de ofertas de rakeback</a> e escolha a melhor oferta para a sua sala de poker.</p>
 
         <script type="application/ld+json">
         {
@@ -485,16 +485,16 @@ i18n:
 
         
 
-        <p>Le rake, c'est la commission que la salle de poker prélève sur chaque pot joué. Il tourne en général autour de 5% et, à première vue, il paraît négligeable. Mais il faut bien comprendre que le rake est prélevé <em>à chaque fois</em> que les chips changent de mains. En une seule session, ces hands peuvent se compter par centaines, et au final, même un joueur actif et gagnant perd une somme non négligeable.</p>
+        <p>Le rake, c'est la commission que la salle de poker prélève sur chaque pot joué. Il tourne en général autour de 5% et, à première vue, il paraît négligeable. Mais il faut bien comprendre que le rake est prélevé <em>à chaque fois</em> que les jetons changent de mains. En une seule session, ces mains peuvent se compter par centaines, et au final, même un joueur actif et gagnant perd une somme non négligeable.</p>
         <p>Le rake est une taxe invisible sur chaque action à la table. C'est précisément lui qui transforme le poker d'un jeu contre d'autres personnes en un jeu contre le système, où il ne suffit pas de battre ses adversaires : il faut aussi compenser les pertes constantes liées à la commission.</p>
 
         <h2>Comment le rake influence le winrate et le résultat financier</h2>
-        <p>Le rake réduit directement le winrate du joueur. On peut battre ses adversaires de façon régulière, avoir un EV positif et, au bout du mois, rester dans le rouge — tout cela à cause de la commission. Plus les limits sont élevées et plus on joue de hands, plus l'impact est important.</p>
+        <p>Le rake réduit directement le winrate du joueur. On peut battre ses adversaires de façon régulière, avoir un EV positif et, au bout du mois, rester dans le rouge — tout cela à cause de la commission. Plus les limites sont élevées et plus on joue de mains, plus l'impact est important.</p>
         <p>Pour autant, le rake n'est pas un mal en soi. Sans lui, le business du poker n'existerait pas : ce sont ces commissions qui font vivre les salles, qui paient les tournois, le support, le logiciel et la sécurité du jeu. C'est donc un ennemi sans lequel l'industrie ne survivrait tout simplement pas.</p>
 
         <h2>Si le rake est l'ennemi, le rakeback est l'allié du joueur</h2>
         <p>Le rakeback, c'est le remboursement d'une partie du rake payé. Autrement dit, la salle ou le club reverse au joueur un pourcentage de la commission qu'il a déjà générée. Au départ, le rakeback n'était qu'un bonus, mais au fil du temps il est devenu un outil clé pour attirer et fidéliser les joueurs.</p>
-        <p>Aujourd'hui, la plupart des regulars gagnants tirent justement leur profit du rakeback — regarde les <a href="/fr/deals/" >rakeback deals actuels</a> avec des pourcentages majorés sur <strong>PPPoker</strong>, <strong>ClubGG</strong> et <strong>X-Poker</strong>. Sans rakeback, on ne peut jouer de façon rentable que contre les adversaires les plus faibles, mais ce genre de table se fait de plus en plus rare. C'est pourquoi, pour les joueurs sérieux, le rakeback est un élément incontournable de la stratégie. Pour les recreational, c'est un bonus agréable — et souvent loin d'être négligeable.</p>
+        <p>Aujourd'hui, la plupart des réguliers gagnants tirent justement leur profit du rakeback — regarde les <a href="/fr/deals/" >rakeback deals actuels</a> avec des pourcentages majorés sur <strong>PPPoker</strong>, <strong>ClubGG</strong> et <strong>X-Poker</strong>. Sans rakeback, on ne peut jouer de façon rentable que contre les adversaires les plus faibles, mais ce genre de table se fait de plus en plus rare. C'est pourquoi, pour les joueurs sérieux, le rakeback est un élément incontournable de la stratégie. Pour les joueurs récréatifs, c'est un bonus agréable — et souvent loin d'être négligeable.</p>
 
         <h2>Comment obtenir du rakeback</h2>
         <p>Presque toutes les salles de poker proposent leurs propres programmes de fidélité (loyalty program). Ce sont des bonus cumulatifs, dont le pourcentage de remboursement augmente à mesure que tu génères du rake. Mais les premiers paliers sont en général modestes — de 5 à 10% — et, pour atteindre un niveau correct, il faut jouer régulièrement et en gros volume. Il suffit de faire une pause pour que le pourcentage retombe.</p>
@@ -504,7 +504,7 @@ i18n:
         <h2>PokerDealsHub — le catalogue de rakeback deals exclusifs</h2>
         <p><strong>PokerDealsHub (PDH)</strong>, ce n'est pas une simple liste de clubs de poker, mais un catalogue de <strong>rakeback deals exclusifs</strong> que l'on ne peut pas obtenir directement en arrivant dans une salle « par la grande porte ».</p>
         <p>PDH collabore avec des clubs et des unions de confiance sur <strong>PPPoker</strong>, <strong>ClubGG</strong> et <strong>X-Poker</strong>, et offre aux joueurs de meilleures conditions : un pourcentage de rakeback majoré, des paiements stables et un système de calcul transparent. Chaque deal sur PDH, c'est la possibilité de jouer dans les meilleures conditions, habituellement réservées aux partenaires internes ou aux top affiliates.</p>
-        <p>Le joueur choisit l'offre qui lui convient, obtient une connexion instantanée et commence à gagner plus dès la première hand.</p>
+        <p>Le joueur choisit l'offre qui lui convient, obtient une connexion instantanée et commence à gagner plus dès la première main.</p>
 
         <p><strong>PokerDealsHub</strong> a été conçu pour ceux qui veulent jouer avec un avantage, et non nourrir le système. Va dans le <a href="/fr/deals/" >catalogue de rakeback deals</a> et choisis la meilleure offre pour ta salle de poker.</p>
 
@@ -539,7 +539,7 @@ i18n:
     title: Pokerde rake ve rakeback — fazladan vermemenin ve daha çok kazanmanın yolu
     description: >-
       Pokerde rake ve rakeback nedir, komisyon winrate'i nasıl etkiler ve rakeback neden oyuncular için temel bir kazanç
-      kaynağı haline geldi. En iyi rakeback deal'leri nereden bulursunuz — PokerDealsHub'da.
+      kaynağı haline geldi. En iyi rakeback anlaşmalarını nereden bulursunuz — PokerDealsHub'da.
     body: |-
       <article>
 
@@ -549,24 +549,24 @@ i18n:
         <p>Rake, masadaki her hamleye uygulanan görünmez bir vergidir. Pokeri diğer insanlara karşı oynanan bir oyundan, sisteme karşı oynanan bir oyuna dönüştüren tam da budur; burada sadece rakipleri yenmek değil, sürekli komisyon kayıplarını da telafi etmek gerekir.</p>
 
         <h2>Rake winrate'i ve finansal sonucu nasıl etkiler</h2>
-        <p>Rake, oyuncunun winrate'ini doğrudan düşürür. Rakiplerinizi istikrarlı şekilde yenebilir, pozitif EV'niz olabilir, ama yine de ayın sonunda eksiye geçebilirsiniz — hepsi komisyon yüzünden. Limits ne kadar yüksekse ve ne kadar çok el oynarsanız, etki o kadar büyük olur.</p>
+        <p>Rake, oyuncunun winrate'ini doğrudan düşürür. Rakiplerinizi istikrarlı şekilde yenebilir, pozitif EV'niz olabilir, ama yine de ayın sonunda eksiye geçebilirsiniz — hepsi komisyon yüzünden. Limitler ne kadar yüksekse ve ne kadar çok el oynarsanız, etki o kadar büyük olur.</p>
         <p>Yine de rake tek başına kötü bir şey değildir. O olmadan poker işi diye bir şey olmazdı: odalar bu komisyonlar sayesinde ayakta kalır, turnuvalar, destek, yazılım ve oyun güvenliği bunlarla finanse edilir. Yani bu, sektörün onsuz hayatta kalamayacağı bir düşmandır.</p>
 
         <h2>Rake düşmansa, rakeback oyuncunun müttefikidir</h2>
-        <p>Rakeback, ödenen rake'in bir kısmının geri ödenmesidir. Basitçe söylemek gerekirse, oda veya club, oyuncunun zaten ürettiği komisyonun bir yüzdesini ona geri verir. Başlangıçta rakeback sadece bir bonustu, ama zamanla oyuncuları çekmenin ve elde tutmanın temel aracı haline geldi.</p>
-        <p>Bugün kazanan regular'ların çoğu tam da rakeback sayesinde para kazanıyor — <strong>PPPoker</strong>, <strong>ClubGG</strong> ve <strong>X-Poker</strong> üzerindeki yükseltilmiş yüzdelere sahip <a href="/tr/deals/" >güncel rakeback deal'lere</a> göz at. Rakeback olmadan ancak en zayıf rakiplere karşı kârlı oynanabilir, ama bu tür masalar giderek azalıyor. Bu yüzden ciddi oyuncular için rakeback, stratejinin olmazsa olmaz bir parçasıdır. Recreational oyuncular için ise hoş bir bonus — ve çoğu zaman hiç de küçük değil.</p>
+        <p>Rakeback, ödenen rake'in bir kısmının geri ödenmesidir. Basitçe söylemek gerekirse, oda veya kulüp, oyuncunun zaten ürettiği komisyonun bir yüzdesini ona geri verir. Başlangıçta rakeback sadece bir bonustu, ama zamanla oyuncuları çekmenin ve elde tutmanın temel aracı haline geldi.</p>
+        <p>Bugün kazanan düzenli oyuncuların çoğu tam da rakeback sayesinde para kazanıyor — <strong>PPPoker</strong>, <strong>ClubGG</strong> ve <strong>X-Poker</strong> üzerindeki yükseltilmiş yüzdelere sahip <a href="/tr/deals/" >güncel rakeback anlaşmalarına</a> göz at. Rakeback olmadan ancak en zayıf rakiplere karşı kârlı oynanabilir, ama bu tür masalar giderek azalıyor. Bu yüzden ciddi oyuncular için rakeback, stratejinin olmazsa olmaz bir parçasıdır. Rekreasyonel oyuncular için ise hoş bir bonus — ve çoğu zaman hiç de küçük değil.</p>
 
         <h2>Rakeback nasıl alınır</h2>
-        <p>Neredeyse tüm poker odaları kendi sadakat programlarını (loyalty program) sunar. Bunlar, ürettiğiniz rake arttıkça geri ödeme yüzdesinin de büyüdüğü kümülatif bonuslardır. Ama başlangıç seviyeleri genellikle mütevazıdır — %5–10 — ve düzgün bir seviyeye ulaşmak için düzenli ve yüksek hacimde oynamak gerekir. Bir ara vermeniz yeterli, yüzde yine düşer.</p>
-        <p>Alternatif ise <strong>rakeback deal</strong>'dir. Bu, oyuncu ile bir poker club'ı, union'ı veya agent'ı arasındaki bir anlaşmadır. Oyuncu bir referral link üzerinden kaydolur ve daha en baştan sabit, yüksek bir rakeback yüzdesi alır — çoğu zaman %50 ve üzeri.</p>
-        <p>Bu format her iki taraf için de avantajlıdır: club aktif bir oyuncu kazanır, oyuncu da beklemeden ve karmaşık şartlar olmadan istikrarlı bir geri ödeme alır. Şu anda en avantajlı tekliflerin nerede olduğunu <a href="/tr/deals/" >PokerDealsHub rakeback teklifleri</a> bölümünde görebilirsin.</p>
+        <p>Neredeyse tüm poker odaları kendi sadakat programları sunar. Bunlar, ürettiğiniz rake arttıkça geri ödeme yüzdesinin de büyüdüğü kümülatif bonuslardır. Ama başlangıç seviyeleri genellikle mütevazıdır — %5–10 — ve düzgün bir seviyeye ulaşmak için düzenli ve yüksek hacimde oynamak gerekir. Bir ara vermeniz yeterli, yüzde yine düşer.</p>
+        <p>Alternatif ise <strong>rakeback anlaşmasıdır</strong>. Bu, oyuncu ile bir poker kulübü, birlik veya aracı arasındaki bir anlaşmadır. Oyuncu bir davet bağlantısı üzerinden kaydolur ve daha en baştan sabit, yüksek bir rakeback yüzdesi alır — çoğu zaman %50 ve üzeri.</p>
+        <p>Bu model her iki taraf için de avantajlıdır: kulüp aktif bir oyuncu kazanır, oyuncu da beklemeden ve karmaşık şartlar olmadan istikrarlı bir geri ödeme alır. Şu anda en avantajlı tekliflerin nerede olduğunu <a href="/tr/deals/" >PokerDealsHub rakeback teklifleri</a> bölümünde görebilirsin.</p>
 
-        <h2>PokerDealsHub — özel rakeback deal'leri kataloğu</h2>
-        <p><strong>PokerDealsHub (PDH)</strong> sadece bir poker club'ları listesi değil, bir odaya «sokaktan» geldiğinizde doğrudan elde edemeyeceğiniz <strong>özel rakeback deal'leri</strong> kataloğudur.</p>
-        <p>PDH; <strong>PPPoker</strong>, <strong>ClubGG</strong> ve <strong>X-Poker</strong> üzerindeki güvenilir club ve union'larla çalışır ve oyunculara daha iyi koşullar sunar: yükseltilmiş rakeback yüzdesi, istikrarlı ödemeler ve şeffaf bir hesaplama sistemi. PDH'deki her deal, normalde yalnızca iç partnerlere veya top affiliate'lere açık olan en iyi koşullarda oynama fırsatıdır.</p>
+        <h2>PokerDealsHub — özel rakeback anlaşmaları kataloğu</h2>
+        <p><strong>PokerDealsHub (PDH)</strong> sadece bir poker kulüpleri listesi değil, bir odaya «sokaktan» geldiğinizde doğrudan elde edemeyeceğiniz <strong>özel rakeback anlaşmaları</strong> kataloğudur.</p>
+        <p>PDH; <strong>PPPoker</strong>, <strong>ClubGG</strong> ve <strong>X-Poker</strong> üzerindeki güvenilir kulüp ve birliklerle çalışır ve oyunculara daha iyi koşullar sunar: yükseltilmiş rakeback yüzdesi, istikrarlı ödemeler ve şeffaf bir hesaplama sistemi. PDH'deki her anlaşma, normalde yalnızca iç ortaklara veya en üst düzey iş ortaklarına açık olan en iyi koşullarda oynama fırsatıdır.</p>
         <p>Oyuncu uygun teklifi seçer, anında bağlanır ve daha ilk elden itibaren daha çok kazanmaya başlar.</p>
 
-        <p><strong>PokerDealsHub</strong>, sistemi beslemek yerine avantajlı oynamak isteyenler için yapıldı. <a href="/tr/deals/" >Rakeback deal'leri kataloğuna</a> geç ve poker odan için en iyi teklifi seç.</p>
+        <p><strong>PokerDealsHub</strong>, sistemi beslemek yerine avantajlı oynamak isteyenler için yapıldı. <a href="/tr/deals/" >Rakeback anlaşmaları kataloğuna</a> geç ve poker odan için en iyi teklifi seç.</p>
 
         <script type="application/ld+json">
         {
@@ -598,67 +598,67 @@ i18n:
   he:
     title: רייק ורייקבק בפוקר — איך לא לשלם יותר מדי ולהרוויח יותר
     description: >-
-      מה זה רייק ורייקבק בפוקר, איך העמלה משפיעה על ה-winrate ולמה הרייקבק הפך למקור הרווח המרכזי עבור שחקנים. איפה
-      משיגים את עסקאות הרייקבק הטובות ביותר — ב-PokerDealsHub.
+      מהם רייק ורייקבק בפוקר, איך העמלה משפיעה על הווינרייט ולמה הרייקבק הפך למקור הרווח המרכזי של השחקנים. היכן משיגים
+      את דילי הרייקבק הטובים ביותר — ב-PokerDealsHub.
     body: |-
       <article>
 
-          
+        
 
-          <p>רייק היא העמלה שחדר הפוקר גובה מכל בנק שמשוחק. בדרך כלל היא עומדת על כ-5%, ובמבט ראשון נראית זניחה. אבל חשוב להבין שהרייק נגבה <em>בכל פעם</em> שהז'יטונים עוברים מיד ליד. במהלך סשן אחד יכולות להיות מאות חלוקות כאלה, ובסופו של דבר אפילו שחקן פעיל ומרוויח מאבד סכום מורגש.</p>
-          <p>רייק הוא מס בלתי נראה על כל פעולה ליד השולחן. בדיוק הוא זה שהופך את הפוקר ממשחק נגד אנשים אחרים למשחק נגד המערכת, שבו צריך לא רק לנצח את היריבים אלא גם לכסות את הפסדי העמלה הקבועים.</p>
+        <p>רייק היא העמלה שחדר הפוקר גובה מכל פוט שמשוחק. בדרך כלל היא עומדת על כ-5%, ובמבט ראשון היא נראית זניחה. אבל חשוב להבין שהרייק נגבה <em>בכל פעם</em> שהז'יטונים עוברים מיד ליד. במהלך סשן אחד יכולות להיות מאות ידיים כאלה, ובסופו של דבר אפילו שחקן פעיל ומרוויח מאבד סכום מורגש.</p>
+        <p>הרייק הוא מס נסתר על כל פעולה ליד השולחן. הוא בדיוק מה שהופך את הפוקר ממשחק נגד אנשים אחרים למשחק נגד המערכת, שבו צריך לא רק לנצח את היריבים אלא גם לכסות את הפסדי העמלה הקבועים.</p>
 
-          <h2>איך הרייק משפיע על ה-winrate ועל התוצאה הכספית</h2>
-          <p>הרייק מקטין ישירות את ה-winrate של השחקן. אפשר לנצח את היריבים באופן יציב, להחזיק EV חיובי, אבל בסיכום החודש להישאר במינוס — והכל בגלל העמלה. ככל שהלימיטים גבוהים יותר וככל שיש יותר חלוקות, כך ההשפעה משמעותית יותר.</p>
-          <p>עם זאת, הרייק אינו רע בפני עצמו. בלעדיו לא היה קיים עסק הפוקר: בדיוק מהעמלות האלה מתקיימים החדרים, ממומנים הטורנירים, התמיכה, הסופטוור ואבטחת המשחקים. אז זהו אויב שבלעדיו התעשייה פשוט לא הייתה שורדת.</p>
+        <h2>איך הרייק משפיע על הווינרייט ועל התוצאה הכספית</h2>
+        <p>הרייק מקטין ישירות את הווינרייט של השחקן. אפשר לנצח באופן עקבי את היריבים, להחזיק ב-EV חיובי, ועדיין לסיים את החודש במינוס — והכול בגלל העמלה. ככל שהלימיטים גבוהים יותר וככל שמשחקים יותר ידיים, כך ההשפעה משמעותית יותר.</p>
+        <p>עם זאת, הרייק אינו רע כשלעצמו. בלעדיו לא היה קיים עסק הפוקר: מהעמלות האלה בדיוק מתקיימים החדרים, ממומנים הטורנירים, התמיכה, התוכנה ואבטחת המשחקים. אז זהו אויב שבלעדיו התעשייה פשוט לא הייתה שורדת.</p>
 
-          <h2>אם הרייק הוא אויב, אז הרייקבק הוא בן הברית של השחקן</h2>
-          <p>רייקבק הוא החזר של חלק מהרייק ששולם. במילים פשוטות, החדר או הקלאב מחזיר לשחקן אחוז מהעמלה שהוא כבר ייצר. במקור הרייקבק היה סתם בונוס, אבל עם הזמן הפך לכלי מרכזי למשיכת שחקנים ולשימורם.</p>
-          <p>רוב הרגולרים המרוויחים כיום מרוויחים דווקא בזכות הרייקבק — ראו <a href="/he/deals/" >עסקאות רייקבק עדכניות</a> עם אחוזים מוגברים ב-<strong>PPPoker</strong>, <strong>ClubGG</strong> ו-<strong>X-Poker</strong>. בלי רייקבק אפשר לשחק ברווחיות רק נגד היריבים החלשים ביותר, אבל שולחנות כאלה הולכים ומתמעטים. לכן עבור שחקנים רציניים הרייקבק הוא מרכיב חובה באסטרטגיה. עבור שחקנים רקריאטיביים — בונוס נעים, ולעיתים קרובות לא קטן.</p>
+        <h2>אם הרייק הוא אויב, הרי שהרייקבק הוא בעל ברית של השחקן</h2>
+        <p>רייקבק הוא החזר של חלק מהרייק ששולם. במילים פשוטות, החדר או המועדון מחזירים לשחקן אחוז מהעמלה שהוא כבר ייצר. בתחילה הרייקבק היה סתם בונוס, אך עם הזמן הפך לכלי מרכזי למשיכת שחקנים ולשימורם.</p>
+        <p>רוב הרגולרים המרוויחים כיום מרוויחים בדיוק הודות לרייקבק — ראו את <a href="/he/deals/" >דילי הרייקבק העדכניים</a> עם אחוזים מוגדלים ב-<strong>PPPoker</strong>, <strong>ClubGG</strong> ו-<strong>X-Poker</strong>. בלי רייקבק אפשר לשחק ברווח רק נגד היריבים החלשים ביותר, אבל שולחנות כאלה הולכים ומתמעטים. לכן עבור שחקנים רציניים הרייקבק הוא מרכיב חובה באסטרטגיה. עבור שחקנים חובבים — בונוס נעים, ולעיתים קרובות לא קטן.</p>
 
-          <h2>איך משיגים רייקבק</h2>
-          <p>כמעט כל חדרי הפוקר מציעים תוכניות נאמנות משלהם. אלה בונוסים מצטברים, שבהם אחוז ההחזר עולה ככל שמייצרים יותר רייק. אבל הרמות ההתחלתיות בדרך כלל צנועות — 5–10%, וכדי להגיע לרמה ראויה צריך לשחק בקביעות ובנפחים גדולים. מספיק לעצור לרגע, והאחוז שוב יורד.</p>
-          <p>אלטרנטיבה היא <strong>עסקת רייקבק</strong> (rakeback deal). זהו הסכם בין שחקן לבין קלאב פוקר, יוניון או agent. השחקן נרשם דרך קישור הפניה ומקבל אחוז רייקבק גבוה וקבוע מההתחלה — לעיתים קרובות 50% ומעלה.</p>
-          <p>פורמט כזה משתלם לשני הצדדים: הקלאב מקבל שחקן פעיל, והשחקן — החזר יציב ללא המתנה וללא תנאים מסובכים. כדי לדעת איפה כרגע ההצעות המשתלמות ביותר, אפשר לעיין במדור <a href="/he/deals/" >הצעות רייקבק של PokerDealsHub</a>.</p>
+        <h2>איך להשיג רייקבק</h2>
+        <p>כמעט כל חדרי הפוקר מציעים תוכניות נאמנות משלהם. אלה בונוסים מצטברים, שבהם אחוז ההחזר גדל ככל שמייצרים יותר רייק. אבל הרמות ההתחלתיות בדרך כלל צנועות — 5–10%, וכדי להגיע לרמה ראויה צריך לשחק באופן קבוע ובנפחים גדולים. מספיק לעצור לרגע, והאחוז שוב צונח.</p>
+        <p>החלופה היא <strong>דיל רייקבק</strong> (rakeback deal). זהו הסכם בין השחקן לבין מועדון פוקר, איחוד או סוכן. השחקן נרשם דרך קישור הפניה ומקבל אחוז רייקבק גבוה וקבוע כבר מההתחלה — לעיתים קרובות 50% ומעלה.</p>
+        <p>פורמט כזה משתלם לשני הצדדים: המועדון מקבל שחקן פעיל, והשחקן — החזר יציב ללא המתנה וללא תנאים מסובכים. כדי לגלות היכן נמצאות כרגע ההצעות המשתלמות ביותר, אפשר לעיין במדור <a href="/he/deals/" >הצעות הרייקבק של PokerDealsHub</a>.</p>
 
-          <h2>PokerDealsHub — קטלוג עסקאות רייקבק בלעדיות</h2>
-          <p><strong>PokerDealsHub (PDH)</strong> — זו לא סתם רשימה של קלאבים של פוקר, אלא קטלוג של <strong>עסקאות רייקבק בלעדיות</strong>, שאי אפשר להשיג ישירות אם מגיעים לחדר "מהרחוב".</p>
-          <p>PDH משתפת פעולה עם קלאבים ויוניונים מאומתים ב-<strong>PPPoker</strong>, <strong>ClubGG</strong> ו-<strong>X-Poker</strong>, ומציעה לשחקנים תנאים משופרים: אחוז רייקבק מוגבר, תשלומים יציבים ומערכת חישובים שקופה. כל עסקה ב-PDH היא הזדמנות לשחק בתנאים הטובים ביותר, שבדרך כלל זמינים רק לשותפים פנימיים או ל-affiliates מובילים.</p>
-          <p>השחקן בוחר את ההצעה המתאימה, מקבל חיבור מיידי ומתחיל להרוויח יותר כבר מהחלוקה הראשונה.</p>
+        <h2>PokerDealsHub — קטלוג דילי רייקבק בלעדיים</h2>
+        <p><strong>PokerDealsHub (PDH)</strong> הוא לא סתם רשימה של מועדוני פוקר, אלא קטלוג של <strong>דילי רייקבק בלעדיים</strong> שאי אפשר להשיג ישירות אם מגיעים לחדר "מהרחוב".</p>
+        <p>PDH משתף פעולה עם מועדונים ואיחודים מאומתים ב-<strong>PPPoker</strong>, <strong>ClubGG</strong> ו-<strong>X-Poker</strong>, ומציע לשחקנים תנאים משופרים: אחוז רייקבק מוגדל, תשלומים יציבים ומערכת חישוב שקופה. כל דיל ב-PDH הוא הזדמנות לשחק בתנאים הטובים ביותר, שבדרך כלל זמינים רק לשותפים פנימיים או למשווקים מובילים.</p>
+        <p>השחקן בוחר את ההצעה המתאימה, מקבל חיבור מיידי ומתחיל להרוויח יותר כבר מהיד הראשונה.</p>
 
-          <p><strong>PokerDealsHub</strong> נוצר עבור מי שרוצה לשחק ברווח, ולא להזין את המערכת. עברו אל <a href="/he/deals/" >קטלוג עסקאות הרייקבק</a> ובחרו את ההצעה הטובה ביותר עבור חדר הפוקר שלכם.</p>
+        <p><strong>PokerDealsHub</strong> נוצר עבור מי שרוצה לשחק ברווח, ולא להזין את המערכת. עברו אל <a href="/he/deals/" >קטלוג דילי הרייקבק</a> ובחרו את ההצעה הטובה ביותר עבור חדר הפוקר שלכם.</p>
 
-          <script type="application/ld+json">
-          {
-            "@context": "https://schema.org",
-            "@type": "Article",
-            "headline": "רייק ורייקבק בפוקר: איך לא לשלם יותר מדי ולהרוויח יותר",
-            "description": "מה זה רייק ורייקבק בפוקר, איך העמלה משפיעה על ה-winrate, למה הרייקבק הפך לכלי המרכזי להכנסת השחקנים ואיפה משיגים את התנאים הטובים ביותר — ב-PokerDealsHub.",
-            "author": {
-              "@type": "Organization",
-              "name": "PokerDealsHub",
-              "url": "https://pokerdealshub.com"
-            },
-            "publisher": {
-              "@type": "Organization",
-              "name": "PokerDealsHub",
-              "logo": {
-                "@type": "ImageObject",
-                "url": "https://pokerdealshub.com/logo.png"
-              }
-            },
-            "datePublished": "2025-11-05",
-            "dateModified": "2025-11-05",
-            "inLanguage": "he"
-          }
-          </script>
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": "רייק ורייקבק בפוקר: איך לא לשלם יותר מדי ולהרוויח יותר",
+          "description": "מהם רייק ורייקבק בפוקר, איך העמלה משפיעה על הווינרייט, למה הרייקבק הפך לכלי המרכזי להכנסת השחקנים והיכן משיגים את התנאים הטובים ביותר — ב-PokerDealsHub.",
+          "author": {
+            "@type": "Organization",
+            "name": "PokerDealsHub",
+            "url": "https://pokerdealshub.com"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "PokerDealsHub",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://pokerdealshub.com/logo.png"
+            }
+          },
+          "datePublished": "2025-11-05",
+          "dateModified": "2025-11-05",
+          "inLanguage": "he"
+        }
+        </script>
 
-        </article>
+      </article>
     srcHash: 9b5123cf4238
   ar:
     title: الريك والريكباك في البوكر — كيف لا تدفع أكثر من اللازم وتربح أكثر
     description: >-
-      ما هو الريك والريكباك في البوكر، وكيف تؤثر العمولة على الـ winrate ولماذا أصبح الريكباك المصدر الرئيسي للربح
+      ما هو الريك والريكباك في البوكر، وكيف تؤثر العمولة على معدل الربح ولماذا أصبح الريكباك المصدر الرئيسي للربح
       للاعبين. أين تحصل على أفضل صفقات الريكباك — على PokerDealsHub.
     body: |-
       <article>
@@ -668,22 +668,22 @@ i18n:
           <p>الريك هو العمولة التي تأخذها غرفة البوكر من كل بنك يُلعب. عادةً ما تبلغ حوالي 5%، وللوهلة الأولى تبدو غير مهمة. لكن من المهم أن تدرك أن الريك يُؤخذ <em>في كل مرة</em> تنتقل فيها الرقائق من يد إلى يد. خلال جلسة واحدة قد تكون هناك مئات من هذه التوزيعات، وفي النهاية حتى اللاعب النشط الرابح يخسر مبلغًا ملموسًا.</p>
           <p>الريك ضريبة غير مرئية على كل إجراء على الطاولة. وهو بالضبط ما يحوّل البوكر من لعبة ضد أشخاص آخرين إلى لعبة ضد النظام، حيث يجب ألا تتغلب على خصومك فحسب، بل أن تغطي أيضًا خسائر العمولة المستمرة.</p>
 
-          <h2>كيف يؤثر الريك على الـ winrate والنتيجة المالية</h2>
-          <p>الريك يقلل بشكل مباشر من الـ winrate للاعب. يمكنك أن تربح من خصومك باستمرار، وأن يكون لديك EV إيجابي، لكن في نهاية الشهر تبقى في الخسارة — وكل ذلك بسبب العمولة. كلما ارتفعت الـ limits وزاد عدد التوزيعات، كان التأثير أكبر.</p>
+          <h2>كيف يؤثر الريك على معدل الربح والنتيجة المالية</h2>
+          <p>الريك يقلل بشكل مباشر من معدل ربح اللاعب. يمكنك أن تربح من خصومك باستمرار، وأن يكون لديك EV إيجابي، لكن في نهاية الشهر تبقى في الخسارة — وكل ذلك بسبب العمولة. كلما ارتفعت الحدود وزاد عدد التوزيعات، كان التأثير أكبر.</p>
           <p>ومع ذلك، فإن الريك ليس شرًا في حد ذاته. فبدونه لما وُجد عمل البوكر: فمن هذه العمولات تعيش الغرف، وتُموَّل بطولات الـ MTT، والدعم، والسوفت وأمان الألعاب. لذا فهو عدو لولاه لما استطاعت الصناعة أن تبقى ببساطة.</p>
 
           <h2>إذا كان الريك عدوًا، فإن الريكباك حليف اللاعب</h2>
-          <p>الريكباك هو استرداد جزء من الريك المدفوع. ببساطة، تعيد الغرفة أو الكلوب للاعب نسبة من العمولة التي سبق أن ولّدها. في البداية كان الريكباك مجرد bonus، لكنه مع الوقت أصبح أداة رئيسية لجذب اللاعبين والاحتفاظ بهم.</p>
-          <p>معظم الـ regulars الرابحين اليوم يربحون تحديدًا بفضل الريكباك — انظر <a href="/ar/deals/" >صفقات الريكباك الحالية</a> بنسب مرتفعة على <strong>PPPoker</strong> و<strong>ClubGG</strong> و<strong>X-Poker</strong>. بدون الريكباك يمكنك اللعب بربحية فقط ضد أضعف الخصوم، لكن مثل هذه الطاولات تتناقص باستمرار. لذلك بالنسبة للاعبين الجادين، الريكباك عنصر إلزامي في الاستراتيجية. وبالنسبة للاعبين الترفيهيين — bonus لطيف، وغالبًا لا بأس به.</p>
+          <p>الريكباك هو استرداد جزء من الريك المدفوع. ببساطة، تعيد الغرفة أو الكلوب للاعب نسبة من العمولة التي سبق أن ولّدها. في البداية كان الريكباك مجرد مكافأة، لكنه مع الوقت أصبح أداة رئيسية لجذب اللاعبين والاحتفاظ بهم.</p>
+          <p>معظم اللاعبين النظاميين الرابحين اليوم يربحون تحديدًا بفضل الريكباك — انظر <a href="/ar/deals/" >صفقات الريكباك الحالية</a> بنسب مرتفعة على <strong>PPPoker</strong> و<strong>ClubGG</strong> و<strong>X-Poker</strong>. بدون الريكباك يمكنك اللعب بربحية فقط ضد أضعف الخصوم، لكن مثل هذه الطاولات تتناقص باستمرار. لذلك بالنسبة للاعبين الجادين، الريكباك عنصر إلزامي في الاستراتيجية. وبالنسبة للاعبين الترفيهيين — مكافأة لطيفة، وغالبًا لا بأس بها.</p>
 
           <h2>كيف تحصل على الريكباك</h2>
-          <p>تقريبًا كل غرف البوكر تقدم برامج ولاء خاصة بها. وهي bonuses تراكمية، حيث ترتفع نسبة الاسترداد كلما ولّدت ريكًا أكثر. لكن المستويات الأولية عادةً متواضعة — 5–10%، وللوصول إلى مستوى محترم يجب أن تلعب بانتظام وبأحجام كبيرة. يكفي أن تتوقف قليلًا، وتنخفض النسبة مجددًا.</p>
-          <p>البديل هو <strong>صفقة الريكباك</strong> (rakeback deal). وهي اتفاق بين اللاعب وكلوب البوكر أو الـ union أو الـ agent. يسجّل اللاعب عبر رابط الإحالة ويحصل على نسبة ريكباك ثابتة ومرتفعة منذ البداية — غالبًا 50% فأكثر.</p>
-          <p>هذا الشكل مفيد للطرفين: الكلوب يحصل على لاعب نشط، واللاعب — على استرداد مستقر دون انتظار ودون شروط معقدة. لمعرفة أين توجد حاليًا أكثر العروض فائدة، يمكنك الاطلاع على قسم <a href="/ar/deals/" >عروض الريكباك على PokerDealsHub</a>.</p>
+          <p>تقريبًا كل غرف البوكر تقدم برامج ولاء خاصة بها. وهي مكافآت تراكمية، حيث ترتفع نسبة الاسترداد كلما ولّدت ريكًا أكثر. لكن المستويات الأولية عادةً متواضعة — 5–10%، وللوصول إلى مستوى محترم يجب أن تلعب بانتظام وبأحجام كبيرة. يكفي أن تتوقف قليلًا، وتنخفض النسبة مجددًا.</p>
+          <p>البديل هو <strong>صفقة الريكباك</strong>. وهي اتفاق بين اللاعب ونادي البوكر أو الاتحاد أو الوكيل. يسجّل اللاعب عبر رابط الإحالة ويحصل على نسبة ريكباك ثابتة ومرتفعة منذ البداية — غالبًا 50% فأكثر.</p>
+          <p>هذا الشكل مفيد للطرفين: النادي يحصل على لاعب نشط، واللاعب — على استرداد مستقر دون انتظار ودون شروط معقدة. لمعرفة أين توجد حاليًا أكثر العروض فائدة، يمكنك الاطلاع على قسم <a href="/ar/deals/" >عروض الريكباك على PokerDealsHub</a>.</p>
 
           <h2>PokerDealsHub — كتالوج صفقات الريكباك الحصرية</h2>
-          <p><strong>PokerDealsHub (PDH)</strong> — ليست مجرد قائمة بكلوبات البوكر، بل كتالوج <strong>صفقات ريكباك حصرية</strong> لا يمكن الحصول عليها مباشرةً إذا أتيت إلى الغرفة "من الشارع".</p>
-          <p>تتعاون PDH مع كلوبات و unions موثوقة على <strong>PPPoker</strong> و<strong>ClubGG</strong> و<strong>X-Poker</strong>، وتقدم للاعبين شروطًا محسّنة: نسبة ريكباك مرتفعة، ومدفوعات مستقرة، ونظام حسابات شفاف. كل صفقة على PDH هي فرصة للعب بأفضل الشروط، التي تكون عادةً متاحة فقط للشركاء الداخليين أو كبار الـ affiliates.</p>
+          <p><strong>PokerDealsHub (PDH)</strong> — ليست مجرد قائمة بأندية البوكر، بل كتالوج <strong>صفقات ريكباك حصرية</strong> لا يمكن الحصول عليها مباشرةً إذا أتيت إلى الغرفة "من الشارع".</p>
+          <p>تتعاون PDH مع أندية واتحادات موثوقة على <strong>PPPoker</strong> و<strong>ClubGG</strong> و<strong>X-Poker</strong>، وتقدم للاعبين شروطًا محسّنة: نسبة ريكباك مرتفعة، ومدفوعات مستقرة، ونظام حسابات شفاف. كل صفقة على PDH هي فرصة للعب بأفضل الشروط، التي تكون عادةً متاحة فقط للشركاء الداخليين أو كبار المسوّقين بالعمولة.</p>
           <p>يختار اللاعب العرض المناسب، ويحصل على ربط فوري، ويبدأ بالربح أكثر منذ التوزيعة الأولى.</p>
 
           <p>أُنشئت <strong>PokerDealsHub</strong> لمن يريد اللعب بربح، لا أن يُطعم النظام. انتقل إلى <a href="/ar/deals/" >كتالوج صفقات الريكباك</a> واختر أفضل عرض لغرفة البوكر الخاصة بك.</p>
@@ -693,7 +693,7 @@ i18n:
             "@context": "https://schema.org",
             "@type": "Article",
             "headline": "الريك والريكباك في البوكر: كيف لا تدفع أكثر من اللازم وتربح أكثر",
-            "description": "ما هو الريك والريكباك في البوكر، وكيف تؤثر العمولة على الـ winrate، ولماذا أصبح الريكباك الأداة الرئيسية لدخل اللاعبين وأين تحصل على أفضل الشروط — على PokerDealsHub.",
+            "description": "ما هو الريك والريكباك في البوكر، وكيف تؤثر العمولة على معدل الربح، ولماذا أصبح الريكباك الأداة الرئيسية لدخل اللاعبين وأين تحصل على أفضل الشروط — على PokerDealsHub.",
             "author": {
               "@type": "Organization",
               "name": "PokerDealsHub",
@@ -716,44 +716,44 @@ i18n:
         </article>
     srcHash: 9b5123cf4238
   id:
-    title: Rake dan rakeback di poker — cara tidak membayar berlebih dan menghasilkan lebih banyak
+    title: Rake dan rakeback di poker — cara berhenti membayar berlebih dan menghasilkan lebih banyak
     description: >-
-      Apa itu rake dan rakeback di poker, bagaimana komisi memengaruhi winrate dan mengapa rakeback menjadi sumber
-      keuntungan utama bagi pemain. Di mana mendapatkan deal rakeback terbaik — di PokerDealsHub.
+      Apa itu rake dan rakeback di poker, bagaimana komisi memengaruhi winrate, dan mengapa rakeback menjadi sumber
+      keuntungan utama bagi pemain. Temukan deal rakeback terbaik — di PokerDealsHub.
     body: |-
       <article>
 
           
 
           <p>Rake adalah komisi yang dipungut poker room dari setiap pot yang dimainkan. Biasanya sekitar 5%, dan sekilas terlihat tidak signifikan. Namun penting untuk dipahami bahwa rake dipungut <em>setiap kali</em> chip berpindah tangan. Dalam satu sesi bisa ada ratusan hand seperti itu, dan pada akhirnya bahkan pemain aktif yang profit pun kehilangan jumlah yang cukup terasa.</p>
-          <p>Rake adalah pajak tak terlihat atas setiap aksi di meja. Justru rake inilah yang mengubah poker dari permainan melawan orang lain menjadi permainan melawan sistem, di mana kamu tidak hanya harus mengalahkan lawan tetapi juga menutup kerugian komisi yang terus-menerus.</p>
+          <p>Rake adalah pajak tak terlihat atas setiap aksi di meja. Justru rake inilah yang mengubah poker dari permainan melawan orang lain menjadi permainan melawan sistem, di mana kamu tidak hanya harus mengalahkan lawan, tetapi juga menutup kerugian komisi yang terus-menerus.</p>
 
           <h2>Bagaimana rake memengaruhi winrate dan hasil finansial</h2>
-          <p>Rake secara langsung menurunkan winrate pemain. Kamu bisa secara konsisten menang dari lawan, memiliki EV positif, tetapi di akhir bulan tetap minus — semuanya karena komisi. Semakin tinggi limit dan semakin banyak hand, semakin besar pengaruhnya.</p>
-          <p>Meski begitu, rake bukanlah hal buruk dengan sendirinya. Tanpanya bisnis poker tidak akan ada: dari komisi inilah room hidup, turnamen dibiayai, begitu juga support, software dan keamanan permainan. Jadi ini adalah musuh yang tanpanya industri ini tidak akan bisa bertahan.</p>
+          <p>Rake secara langsung menurunkan winrate pemain. Kamu bisa menang secara konsisten dari lawan, memiliki EV positif, tetapi di akhir bulan tetap merugi — semuanya karena komisi. Semakin tinggi limit dan semakin banyak hand, semakin besar pengaruhnya.</p>
+          <p>Meski begitu, rake bukanlah hal buruk dengan sendirinya. Tanpanya, bisnis poker tidak akan ada: dari komisi inilah room hidup, turnamen dibiayai, begitu juga dukungan, perangkat lunak, dan keamanan permainan. Jadi, ini adalah musuh yang tanpanya industri ini tidak akan bisa bertahan.</p>
 
           <h2>Jika rake adalah musuh, maka rakeback adalah sekutu pemain</h2>
-          <p>Rakeback adalah pengembalian sebagian rake yang telah dibayarkan. Sederhananya, room atau club mengembalikan kepada pemain sebagian persen komisi yang sudah ia hasilkan. Awalnya rakeback hanya sekadar bonus, tetapi seiring waktu menjadi alat utama untuk menarik dan mempertahankan pemain.</p>
-          <p>Sebagian besar regular yang profit saat ini menghasilkan justru berkat rakeback — lihat <a href="/id/deals/" >deal rakeback terkini</a> dengan persentase yang lebih tinggi di <strong>PPPoker</strong>, <strong>ClubGG</strong> dan <strong>X-Poker</strong>. Tanpa rakeback, bermain secara menguntungkan hanya mungkin melawan lawan yang paling lemah, tetapi meja seperti itu semakin sedikit. Karena itu, bagi pemain serius rakeback adalah elemen wajib dalam strategi. Bagi pemain rekreasi — bonus yang menyenangkan, dan sering kali tidak sedikit.</p>
+          <p>Rakeback adalah pengembalian sebagian rake yang telah dibayarkan. Sederhananya, room atau club mengembalikan kepada pemain sebagian dari komisi yang sudah ia hasilkan. Awalnya rakeback hanya sekadar bonus, tetapi seiring waktu menjadi alat utama untuk menarik dan mempertahankan pemain.</p>
+          <p>Sebagian besar regular yang profit saat ini justru menghasilkan berkat rakeback — lihat <a href="/id/deals/" >deal rakeback terkini</a> dengan persentase yang lebih tinggi di <strong>PPPoker</strong>, <strong>ClubGG</strong>, dan <strong>X-Poker</strong>. Tanpa rakeback, bermain dengan menguntungkan hanya mungkin melawan lawan yang paling lemah, tetapi meja seperti itu semakin sedikit. Karena itu, bagi pemain serius rakeback adalah elemen wajib dalam strategi. Bagi pemain rekreasional, rakeback adalah bonus yang menyenangkan, dan sering kali tidak sedikit jumlahnya.</p>
 
           <h2>Cara mendapatkan rakeback</h2>
-          <p>Hampir semua poker room menawarkan program loyalitas mereka sendiri. Ini adalah bonus akumulatif, di mana persentase pengembalian naik seiring dengan rake yang dihasilkan. Tetapi level awalnya biasanya rendah — 5–10%, dan untuk mencapai level yang layak kamu perlu bermain secara rutin dan dalam volume besar. Cukup berhenti sejenak, dan persentasenya turun lagi.</p>
-          <p>Alternatifnya adalah <strong>deal rakeback</strong> (rakeback deal). Ini adalah kesepakatan antara pemain dengan poker club, union atau agent. Pemain mendaftar melalui link referral dan mendapatkan persentase rakeback tetap yang tinggi sejak awal — sering kali 50% ke atas.</p>
-          <p>Format seperti ini menguntungkan kedua belah pihak: club mendapatkan pemain aktif, dan pemain — pengembalian yang stabil tanpa menunggu dan tanpa syarat yang rumit. Untuk mengetahui di mana saat ini penawaran paling menguntungkan, kamu bisa melihat bagian <a href="/id/deals/" >penawaran rakeback PokerDealsHub</a>.</p>
+          <p>Hampir semua poker room menawarkan program loyalitasnya sendiri. Ini adalah bonus akumulatif, di mana persentase pengembalian naik seiring dengan rake yang dihasilkan. Namun, level awalnya biasanya rendah — 5–10%, dan untuk mencapai level yang layak kamu perlu bermain secara rutin dalam volume besar. Cukup berhenti sejenak, dan persentasenya pun turun lagi.</p>
+          <p>Alternatifnya adalah <strong>deal rakeback</strong> (rakeback deal). Ini adalah kesepakatan antara pemain dengan poker club, union, atau agen. Pemain mendaftar melalui tautan referral dan mendapatkan persentase rakeback tetap yang tinggi sejak awal — sering kali 50% ke atas.</p>
+          <p>Format seperti ini menguntungkan kedua belah pihak: club mendapatkan pemain aktif, dan pemain mendapatkan pengembalian yang stabil tanpa masa tunggu serta tanpa syarat yang rumit. Untuk mengetahui di mana penawaran paling menguntungkan saat ini, kamu bisa melihat bagian <a href="/id/deals/" >penawaran rakeback PokerDealsHub</a>.</p>
 
           <h2>PokerDealsHub — katalog deal rakeback eksklusif</h2>
-          <p><strong>PokerDealsHub (PDH)</strong> — bukan sekadar daftar poker club, melainkan katalog <strong>deal rakeback eksklusif</strong> yang tidak bisa kamu dapatkan secara langsung jika datang ke room "dari jalanan".</p>
-          <p>PDH bekerja sama dengan club dan union terpercaya di <strong>PPPoker</strong>, <strong>ClubGG</strong> dan <strong>X-Poker</strong>, menawarkan kepada pemain kondisi yang lebih baik: persentase rakeback yang lebih tinggi, pembayaran yang stabil dan sistem perhitungan yang transparan. Setiap deal di PDH adalah kesempatan untuk bermain dengan kondisi terbaik, yang biasanya hanya tersedia untuk partner internal atau affiliate teratas.</p>
+          <p><strong>PokerDealsHub (PDH)</strong> bukan sekadar daftar poker club, melainkan katalog <strong>deal rakeback eksklusif</strong> yang tidak bisa kamu dapatkan secara langsung jika datang ke room "dari jalanan".</p>
+          <p>PDH bekerja sama dengan club dan union terpercaya di <strong>PPPoker</strong>, <strong>ClubGG</strong>, dan <strong>X-Poker</strong>, menawarkan kepada pemain kondisi yang lebih baik: persentase rakeback yang lebih tinggi, pembayaran yang stabil, dan sistem perhitungan yang transparan. Setiap deal di PDH adalah kesempatan untuk bermain dengan kondisi terbaik, yang biasanya hanya tersedia bagi mitra internal atau afiliasi teratas.</p>
           <p>Pemain memilih penawaran yang sesuai, mendapatkan koneksi instan, dan mulai menghasilkan lebih banyak sejak hand pertama.</p>
 
-          <p><strong>PokerDealsHub</strong> dibuat untuk mereka yang ingin bermain secara menguntungkan, bukan memberi makan sistem. Buka <a href="/id/deals/" >katalog deal rakeback</a> dan pilih penawaran terbaik untuk poker room kamu.</p>
+          <p><strong>PokerDealsHub</strong> dibuat untuk mereka yang ingin bermain dengan menguntungkan, bukan memberi makan sistem. Buka <a href="/id/deals/" >katalog deal rakeback</a> dan pilih penawaran terbaik untuk poker room kamu.</p>
 
           <script type="application/ld+json">
           {
             "@context": "https://schema.org",
             "@type": "Article",
-            "headline": "Rake dan rakeback di poker: cara tidak membayar berlebih dan menghasilkan lebih banyak",
-            "description": "Apa itu rake dan rakeback di poker, bagaimana komisi memengaruhi winrate, mengapa rakeback menjadi alat utama pendapatan pemain dan di mana mendapatkan kondisi terbaik — di PokerDealsHub.",
+            "headline": "Rake dan rakeback di poker: cara berhenti membayar berlebih dan menghasilkan lebih banyak",
+            "description": "Apa itu rake dan rakeback di poker, bagaimana komisi memengaruhi winrate, mengapa rakeback menjadi alat utama pendapatan pemain, dan di mana mendapatkan kondisi terbaik — di PokerDealsHub.",
             "author": {
               "@type": "Organization",
               "name": "PokerDealsHub",
@@ -778,42 +778,42 @@ i18n:
   vi:
     title: Rake và rakeback trong poker — cách không trả thừa và kiếm được nhiều hơn
     description: >-
-      Rake và rakeback trong poker là gì, hoa hồng ảnh hưởng đến winrate ra sao và vì sao rakeback trở thành nguồn lợi
-      nhuận then chốt của người chơi. Nơi nhận các deal rakeback tốt nhất — tại PokerDealsHub.
+      Rake và rakeback trong poker là gì, khoản phí ảnh hưởng đến winrate ra sao và vì sao rakeback trở thành nguồn lợi
+      nhuận then chốt của người chơi. Nơi nhận các kèo rakeback tốt nhất — tại PokerDealsHub.
     body: |-
       <article>
 
-          
 
-          <p>Rake là khoản hoa hồng mà phòng poker thu từ mỗi pot được chơi. Thông thường nó khoảng 5%, và thoạt nhìn có vẻ không đáng kể. Nhưng điều quan trọng cần hiểu là rake được thu <em>mỗi lần</em> chip chuyển từ tay người này sang tay người khác. Trong một phiên có thể có hàng trăm hand như vậy, và cuối cùng ngay cả người chơi tích cực đang thắng cũng mất một khoản đáng kể.</p>
-          <p>Rake là một loại thuế vô hình đánh lên mọi hành động tại bàn. Chính nó biến poker từ một trò chơi đối đầu với người khác thành trò chơi đối đầu với hệ thống, nơi bạn không chỉ phải thắng đối thủ mà còn phải bù lại những khoản hoa hồng mất đi liên tục.</p>
+
+          <p>Rake là khoản phí mà phòng poker thu từ mỗi pot được chơi. Thông thường nó vào khoảng 5%, và thoạt nhìn có vẻ không đáng kể. Nhưng điều quan trọng cần hiểu là rake được thu <em>mỗi lần</em> chip chuyển từ tay người này sang tay người khác. Trong một phiên có thể có hàng trăm ván bài như vậy, và cuối cùng ngay cả một người chơi tích cực đang thắng cũng mất một khoản đáng kể.</p>
+          <p>Rake là một loại thuế vô hình đánh lên mọi hành động tại bàn. Chính nó biến poker từ một trò chơi đối đầu với người khác thành trò chơi đối đầu với hệ thống, nơi bạn không chỉ phải thắng đối thủ mà còn phải bù lại những khoản phí mất đi liên tục.</p>
 
           <h2>Rake ảnh hưởng đến winrate và kết quả tài chính như thế nào</h2>
-          <p>Rake trực tiếp làm giảm winrate của người chơi. Bạn có thể thắng đối thủ một cách ổn định, có EV dương, nhưng đến cuối tháng vẫn lỗ — tất cả là vì hoa hồng. Limit càng cao và số hand càng nhiều thì ảnh hưởng càng lớn.</p>
-          <p>Tuy vậy, rake bản thân nó không phải là điều xấu. Không có nó thì ngành kinh doanh poker đã không tồn tại: chính nhờ các khoản hoa hồng này mà các phòng tồn tại, các giải MTT được tài trợ, cùng với hỗ trợ, software và an toàn của các ván chơi. Vậy nên đây là kẻ thù mà thiếu nó thì ngành công nghiệp đơn giản là không thể sống nổi.</p>
+          <p>Rake trực tiếp làm giảm winrate của người chơi. Bạn có thể thắng đối thủ một cách ổn định, có EV dương, nhưng đến cuối tháng vẫn lỗ — tất cả là vì khoản phí này. Mức cược càng cao và số ván bài càng nhiều thì ảnh hưởng càng lớn.</p>
+          <p>Tuy vậy, bản thân rake không phải điều xấu. Không có nó thì ngành kinh doanh poker đã không tồn tại: chính nhờ các khoản phí này mà các phòng tồn tại, các giải MTT được tài trợ, cùng với dịch vụ hỗ trợ, phần mềm và an ninh cho các ván chơi. Vậy nên đây là kẻ thù mà thiếu nó thì cả ngành đơn giản là không thể sống nổi.</p>
 
           <h2>Nếu rake là kẻ thù, thì rakeback là đồng minh của người chơi</h2>
-          <p>Rakeback là việc hoàn lại một phần rake đã trả. Nói đơn giản, phòng hoặc club hoàn lại cho người chơi một phần trăm hoa hồng mà họ đã tạo ra. Ban đầu rakeback chỉ đơn thuần là một bonus, nhưng theo thời gian đã trở thành công cụ then chốt để thu hút và giữ chân người chơi.</p>
-          <p>Phần lớn các regular đang thắng ngày nay kiếm lời chính nhờ rakeback — hãy xem <a href="/vi/deals/" >các deal rakeback hiện hành</a> với tỷ lệ phần trăm cao hơn trên <strong>PPPoker</strong>, <strong>ClubGG</strong> và <strong>X-Poker</strong>. Nếu không có rakeback, bạn chỉ có thể chơi có lời khi đối đầu với những đối thủ yếu nhất, nhưng những bàn như vậy ngày càng ít đi. Vì thế, đối với người chơi nghiêm túc, rakeback là yếu tố bắt buộc trong chiến lược. Còn với người chơi giải trí — đó là một bonus dễ chịu, và thường không hề nhỏ.</p>
+          <p>Rakeback là việc hoàn lại một phần rake đã trả. Nói đơn giản, phòng hoặc câu lạc bộ hoàn lại cho người chơi một phần khoản phí mà họ đã tạo ra. Ban đầu rakeback chỉ đơn thuần là một khoản thưởng, nhưng theo thời gian đã trở thành công cụ then chốt để thu hút và giữ chân người chơi.</p>
+          <p>Phần lớn những người chơi thường xuyên đang thắng ngày nay kiếm lời chính nhờ rakeback — hãy xem <a href="/vi/deals/">các kèo rakeback hiện hành</a> với mức cao hơn trên <strong>PPPoker</strong>, <strong>ClubGG</strong> và <strong>X-Poker</strong>. Nếu không có rakeback, bạn chỉ có thể chơi có lời khi đối đầu với những đối thủ yếu nhất, nhưng những bàn như vậy ngày càng ít đi. Vì thế, với người chơi nghiêm túc, rakeback là yếu tố bắt buộc trong chiến lược. Còn với người chơi giải trí — đó là một khoản thưởng dễ chịu, và thường không hề nhỏ.</p>
 
           <h2>Cách nhận rakeback</h2>
-          <p>Gần như tất cả các phòng poker đều có chương trình khách hàng thân thiết riêng. Đó là các bonus tích lũy, trong đó tỷ lệ hoàn lại tăng theo lượng rake tạo ra. Nhưng các cấp khởi đầu thường khiêm tốn — 5–10%, và để đạt được mức xứng đáng thì cần chơi đều đặn với khối lượng lớn. Chỉ cần ngừng một thời gian, tỷ lệ lại tụt xuống.</p>
-          <p>Một lựa chọn thay thế là <strong>deal rakeback</strong> (rakeback deal). Đó là thỏa thuận giữa người chơi với poker club, union hoặc agent. Người chơi đăng ký qua link giới thiệu và nhận được tỷ lệ rakeback cố định cao ngay từ đầu — thường là 50% trở lên.</p>
-          <p>Hình thức này có lợi cho cả hai bên: club có được người chơi tích cực, còn người chơi — nhận khoản hoàn lại ổn định mà không phải chờ đợi và không có điều kiện phức tạp. Để biết hiện nay đâu là những ưu đãi có lợi nhất, bạn có thể xem trong mục <a href="/vi/deals/" >các ưu đãi rakeback của PokerDealsHub</a>.</p>
+          <p>Gần như tất cả các phòng poker đều có chương trình tri ân riêng. Đó là các khoản thưởng tích lũy, trong đó mức hoàn lại tăng theo lượng rake bạn tạo ra. Nhưng các cấp khởi đầu thường khiêm tốn — 5–10%, và để đạt được mức xứng đáng thì cần chơi đều đặn với khối lượng lớn. Chỉ cần ngừng một thời gian, mức ấy lại tụt xuống.</p>
+          <p>Một lựa chọn thay thế là <strong>kèo rakeback</strong> (rakeback deal). Đó là thỏa thuận giữa người chơi với một câu lạc bộ poker, liên minh hoặc đại lý. Người chơi đăng ký qua liên kết giới thiệu và nhận mức rakeback cố định cao ngay từ đầu — thường là 50% trở lên.</p>
+          <p>Hình thức này có lợi cho cả hai bên: câu lạc bộ có được người chơi tích cực, còn người chơi nhận khoản hoàn lại ổn định mà không phải chờ đợi và không kèm điều kiện phức tạp. Để biết hiện nay đâu là những ưu đãi có lợi nhất, bạn có thể xem trong mục <a href="/vi/deals/">các ưu đãi rakeback của PokerDealsHub</a>.</p>
 
-          <h2>PokerDealsHub — danh mục các deal rakeback độc quyền</h2>
-          <p><strong>PokerDealsHub (PDH)</strong> — không chỉ là một danh sách các poker club, mà là danh mục các <strong>deal rakeback độc quyền</strong> mà bạn không thể nhận trực tiếp nếu đến phòng "từ ngoài đường vào".</p>
-          <p>PDH hợp tác với các club và union uy tín trên <strong>PPPoker</strong>, <strong>ClubGG</strong> và <strong>X-Poker</strong>, mang đến cho người chơi những điều kiện tốt hơn: tỷ lệ rakeback cao hơn, thanh toán ổn định và hệ thống tính toán minh bạch. Mỗi deal trên PDH là một cơ hội để chơi với những điều kiện tốt nhất, vốn thường chỉ dành cho các đối tác nội bộ hoặc affiliate hàng đầu.</p>
-          <p>Người chơi chọn ưu đãi phù hợp, được kết nối tức thì và bắt đầu kiếm được nhiều hơn ngay từ hand đầu tiên.</p>
+          <h2>PokerDealsHub — danh mục các kèo rakeback độc quyền</h2>
+          <p><strong>PokerDealsHub (PDH)</strong> không chỉ là một danh sách các câu lạc bộ poker, mà là danh mục các <strong>kèo rakeback độc quyền</strong> mà bạn không thể nhận trực tiếp nếu đến phòng "từ ngoài đường vào".</p>
+          <p>PDH hợp tác với các câu lạc bộ và liên minh uy tín trên <strong>PPPoker</strong>, <strong>ClubGG</strong> và <strong>X-Poker</strong>, mang đến cho người chơi những điều kiện tốt hơn: mức rakeback cao hơn, thanh toán ổn định và hệ thống tính toán minh bạch. Mỗi kèo trên PDH là một cơ hội để chơi với những điều kiện tốt nhất, vốn thường chỉ dành cho các đối tác nội bộ hoặc các đối tác tiếp thị hàng đầu.</p>
+          <p>Người chơi chọn ưu đãi phù hợp, được kết nối tức thì và bắt đầu kiếm được nhiều hơn ngay từ ván bài đầu tiên.</p>
 
-          <p><strong>PokerDealsHub</strong> được tạo ra cho những ai muốn chơi có lợi, chứ không phải nuôi sống hệ thống. Hãy vào <a href="/vi/deals/" >danh mục các deal rakeback</a> và chọn ưu đãi tốt nhất cho phòng poker của bạn.</p>
+          <p><strong>PokerDealsHub</strong> được tạo ra cho những ai muốn chơi có lợi, chứ không phải nuôi sống hệ thống. Hãy vào <a href="/vi/deals/">danh mục các kèo rakeback</a> và chọn ưu đãi tốt nhất cho phòng poker của bạn.</p>
 
           <script type="application/ld+json">
           {
             "@context": "https://schema.org",
             "@type": "Article",
             "headline": "Rake và rakeback trong poker: cách không trả thừa và kiếm được nhiều hơn",
-            "description": "Rake và rakeback trong poker là gì, hoa hồng ảnh hưởng đến winrate ra sao, vì sao rakeback trở thành công cụ thu nhập then chốt của người chơi và nơi nhận điều kiện tốt nhất — tại PokerDealsHub.",
+            "description": "Rake và rakeback trong poker là gì, khoản phí ảnh hưởng đến winrate ra sao, vì sao rakeback trở thành công cụ thu nhập then chốt của người chơi và nơi nhận điều kiện tốt nhất — tại PokerDealsHub.",
             "author": {
               "@type": "Organization",
               "name": "PokerDealsHub",
@@ -846,25 +846,25 @@ i18n:
 
           
 
-          <p>Ang rake ay ang komisyong kinukuha ng poker room sa bawat pot na nalalaro. Karaniwang nasa mga 5% ito, at sa unang tingin ay parang hindi gaanong mahalaga. Ngunit mahalagang maunawaan na ang rake ay kinukuha <em>sa bawat pagkakataon</em> na lumilipat ang chips mula sa isang kamay patungo sa iba. Sa isang session, maaaring may daan-daang ganitong hand, at sa huli kahit ang aktibong nananalong manlalaro ay nawawalan ng kapansin-pansing halaga.</p>
-          <p>Ang rake ay isang hindi nakikitang buwis sa bawat aksyon sa mesa. Ito mismo ang nagpapalit sa poker mula sa larong laban sa ibang tao tungo sa larong laban sa sistema, kung saan kailangan mong hindi lamang talunin ang mga kalaban kundi pati na rin masakop ang patuloy na pagkalugi sa komisyon.</p>
+          <p>Ang rake ay ang komisyong kinukuha ng poker room sa bawat pot na nalalaro. Karaniwang nasa mga 5% ito, at sa unang tingin ay parang hindi gaanong mahalaga. Ngunit mahalagang maunawaan na kinukuha ang rake <em>sa bawat pagkakataon</em> na lumilipat ang chips mula sa isang kamay patungo sa iba. Sa isang session, maaaring may daan-daang ganitong hand, at sa huli kahit ang aktibong nananalong manlalaro ay nawawalan ng kapansin-pansing halaga.</p>
+          <p>Ang rake ay parang hindi nakikitang buwis sa bawat aksyon sa mesa. Ito mismo ang nagpapalit sa poker mula sa larong laban sa ibang tao tungo sa larong laban sa sistema, kung saan kailangan mong hindi lamang talunin ang mga kalaban kundi sapatan din ang patuloy na pagkalugi mula sa komisyon.</p>
 
           <h2>Paano nakakaapekto ang rake sa winrate at sa resultang pinansyal</h2>
-          <p>Direktang binabawasan ng rake ang winrate ng manlalaro. Maaari kang tuluy-tuloy na manalo laban sa mga kalaban, magkaroon ng positibong EV, ngunit sa katapusan ng buwan ay manatiling lugi — lahat dahil sa komisyon. Habang tumataas ang limits at habang dumarami ang hand, lalong nagiging malaki ang epekto.</p>
-          <p>Gayunpaman, ang rake ay hindi masama sa kanyang sarili. Kung wala ito ay hindi maiiral ang negosyo ng poker: dahil sa mga komisyong ito nabubuhay ang mga room, napopondohan ang mga MTT, ang support, ang software at ang seguridad ng mga laro. Kaya ito ay kaaway na kung wala ay hindi na lang makakaligtas ang industriya.</p>
+          <p>Direktang binabawasan ng rake ang winrate ng manlalaro. Maaari kang tuluy-tuloy na manalo laban sa mga kalaban, magkaroon ng positibong EV, ngunit sa katapusan ng buwan ay manatiling lugi — lahat dahil sa komisyon. Habang tumataas ang limit at dumarami ang hand, lalo ring lumalaki ang epekto nito.</p>
+          <p>Gayunpaman, hindi naman masama ang rake sa kanyang sarili. Kung wala ito, hindi maiiral ang negosyo ng poker: dahil sa mga komisyong ito nabubuhay ang mga room, napopondohan ang mga turnamento, ang support, ang software, at ang seguridad ng mga laro. Kaya ito ay isang kaaway na kung wala, hindi na rin makakaligtas ang industriya.</p>
 
           <h2>Kung ang rake ay kaaway, ang rakeback naman ay kakampi ng manlalaro</h2>
-          <p>Ang rakeback ay ang pagbabalik ng bahagi ng rake na naibayad na. Sa madaling salita, ibinabalik ng room o club sa manlalaro ang isang porsyento ng komisyon na nagawa na niya. Sa simula, ang rakeback ay isa lamang bonus, ngunit sa paglipas ng panahon ay naging pangunahing kasangkapan sa pag-akit at pagpapanatili ng mga manlalaro.</p>
-          <p>Karamihan sa mga nananalong regular ngayon ay kumikita mismo dahil sa rakeback — tingnan ang <a href="/fil/deals/" >mga kasalukuyang rakeback deal</a> na may mas mataas na porsyento sa <strong>PPPoker</strong>, <strong>ClubGG</strong> at <strong>X-Poker</strong>. Kung walang rakeback, maaari ka lamang maglaro nang may tubo laban sa pinakamahihinang kalaban, ngunit paunti nang paunti ang ganitong mga mesa. Kaya para sa seryosong manlalaro, ang rakeback ay sapilitang bahagi ng estratehiya. Para sa mga recreational na manlalaro — isa itong kaaya-ayang bonus, at madalas ay hindi maliit.</p>
+          <p>Ang rakeback ay ang pagbabalik ng bahagi ng rake na naibayad na. Sa madaling salita, ibinabalik ng room o club sa manlalaro ang isang porsyento ng komisyong nalikha na niya. Sa simula, isa lamang bonus ang rakeback, ngunit sa paglipas ng panahon ay naging pangunahing kasangkapan ito sa pag-akit at pagpapanatili ng mga manlalaro.</p>
+          <p>Karamihan sa mga nananalong regular ngayon ay kumikita mismo dahil sa rakeback — tingnan ang <a href="/fil/deals/" >mga kasalukuyang rakeback deal</a> na may mas mataas na porsyento sa <strong>PPPoker</strong>, <strong>ClubGG</strong> at <strong>X-Poker</strong>. Kung walang rakeback, maaari ka lamang maglaro nang may tubo laban sa pinakamahihinang kalaban, ngunit paunti na nang paunti ang ganitong mga mesa. Kaya para sa seryosong manlalaro, ang rakeback ay sapilitang bahagi ng estratehiya. Para naman sa mga recreational na manlalaro — isa itong kaaya-ayang bonus, at madalas ay hindi maliit.</p>
 
           <h2>Paano makakuha ng rakeback</h2>
-          <p>Halos lahat ng poker room ay nag-aalok ng sarili nilang loyalty program. Ito ay mga akumulatibong bonus, kung saan tumataas ang porsyento ng pagbabalik habang dumarami ang nalilikhang rake. Ngunit ang mga panimulang antas ay karaniwang katamtaman lamang — 5–10%, at upang umabot sa karapat-dapat na antas ay kailangang maglaro nang regular at sa malalaking volume. Sapat na ang huminto nang sandali, at babagsak na naman ang porsyento.</p>
-          <p>Ang alternatibo ay ang <strong>rakeback deal</strong> (rakeback deal). Ito ay kasunduan sa pagitan ng manlalaro at ng poker club, union o agent. Magrerehistro ang manlalaro sa pamamagitan ng referral link at makakakuha ng nakapirming mataas na porsyento ng rakeback mula pa sa simula — madalas na 50% pataas.</p>
-          <p>Ang ganitong porma ay kapaki-pakinabang sa magkabilang panig: nakakakuha ang club ng aktibong manlalaro, at ang manlalaro naman — ng matatag na pagbabalik nang walang paghihintay at walang masalimuot na mga kundisyon. Upang malaman kung saan ngayon ang pinakamagagandang alok, maaari mong tingnan ang seksyong <a href="/fil/deals/" >mga rakeback offer ng PokerDealsHub</a>.</p>
+          <p>Halos lahat ng poker room ay nag-aalok ng sarili nilang loyalty program. Ito ay mga akumulatibong bonus kung saan tumataas ang porsyento ng pagbabalik habang dumarami ang nalilikhang rake. Ngunit ang mga panimulang antas ay karaniwang katamtaman lamang — 5–10%, at upang umabot sa karapat-dapat na antas ay kailangang maglaro nang regular at sa malalaking volume. Huminto ka lang nang sandali, at babagsak na naman ang porsyento.</p>
+          <p>Ang alternatibo ay ang <strong>rakeback deal</strong>. Ito ay kasunduan sa pagitan ng manlalaro at ng poker club, union, o agent. Magrerehistro ang manlalaro sa pamamagitan ng referral link at makakakuha ng nakapirming mataas na porsyento ng rakeback mula pa sa simula — madalas na 50% pataas.</p>
+          <p>Kapaki-pakinabang ang ganitong porma sa magkabilang panig: nakakakuha ang club ng aktibong manlalaro, at ang manlalaro naman ay nakakakuha ng matatag na pagbabalik nang walang paghihintay at walang masalimuot na kundisyon. Para malaman kung saan ngayon ang pinakamagagandang alok, tingnan ang seksyong <a href="/fil/deals/" >mga rakeback offer ng PokerDealsHub</a>.</p>
 
-          <h2>PokerDealsHub — katalogo ng eksklusibong rakeback deal</h2>
-          <p>Ang <strong>PokerDealsHub (PDH)</strong> — ay hindi lamang isang listahan ng mga poker club, kundi isang katalogo ng <strong>eksklusibong rakeback deal</strong> na hindi mo makukuha nang direkta kung pupunta ka sa room "mula sa kalsada".</p>
-          <p>Nakikipagtulungan ang PDH sa mga pinagkakatiwalaang club at union sa <strong>PPPoker</strong>, <strong>ClubGG</strong> at <strong>X-Poker</strong>, na nag-aalok sa mga manlalaro ng mas magagandang kundisyon: mas mataas na porsyento ng rakeback, matatag na payout at malinaw na sistema ng kalkulasyon. Ang bawat deal sa PDH ay pagkakataong maglaro sa pinakamagagandang kundisyon, na karaniwang abot lamang ng mga internal na partner o nangungunang affiliate.</p>
+          <h2>PokerDealsHub — katalogo ng mga eksklusibong rakeback deal</h2>
+          <p>Ang <strong>PokerDealsHub (PDH)</strong> ay hindi lamang isang listahan ng mga poker club, kundi isang katalogo ng <strong>mga eksklusibong rakeback deal</strong> na hindi mo makukuha nang direkta kung pupunta ka sa room "mula sa kalsada".</p>
+          <p>Nakikipagtulungan ang PDH sa mga pinagkakatiwalaang club at union sa <strong>PPPoker</strong>, <strong>ClubGG</strong> at <strong>X-Poker</strong>, na nag-aalok sa mga manlalaro ng mas magagandang kundisyon: mas mataas na porsyento ng rakeback, matatag na payout, at malinaw na sistema ng kalkulasyon. Ang bawat deal sa PDH ay pagkakataong maglaro sa pinakamagagandang kundisyon na karaniwang abot lamang ng mga internal na partner o nangungunang affiliate.</p>
           <p>Pipiliin ng manlalaro ang angkop na alok, makakakuha ng agarang koneksyon, at magsisimulang kumita nang mas malaki mula pa sa unang hand.</p>
 
           <p>Ang <strong>PokerDealsHub</strong> ay ginawa para sa mga gustong maglaro nang may tubo, hindi para pakainin ang sistema. Pumunta sa <a href="/fil/deals/" >katalogo ng mga rakeback deal</a> at piliin ang pinakamagandang alok para sa iyong poker room.</p>

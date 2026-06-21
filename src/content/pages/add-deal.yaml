@@ -237,12 +237,12 @@ i18n:
             </div>
     srcHash: 8a47b36574b3
   uz:
-    title: Bitimingizni saytga qo'shing
-    description: PokerDealsHub’da poker bitimingizni joylashtiring. Klublar, ittifoqlar va agentlar uchun platforma
+    title: Oʻz bitimingizni saytga qoʻshing
+    description: Oʻz poker bitimingizni PokerDealsHub’da joylashtiring. Klublar, ittifoqlar va agentlik tarmoqlari uchun platforma
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                Biz klublar va ittifoqlarning tasdiqlangan poker takliflarini chop etamiz. Joylashtirish obro' va shartlar tekshirilgandan so'ng mumkin.
+                Biz klublar va ittifoqlarning tekshirilgan poker takliflarini eʼlon qilamiz. Joylashtirish obroʻ va bitim shartlari tekshirilgandan soʻng mumkin boʻladi.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Talablar</h2>
@@ -251,37 +251,37 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Tekshirilgan klub yoki ittifoq obro‘si</span>
+                  <span>Klub yoki ittifoqning tasdiqlangan obroʻsi</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Shaffof rakebek va to‘lov shartlari</span>
+                  <span>Shaffof reyk-bek va toʻlov shartlari</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Faol o‘yinchi bazasi va trafik</span>
+                  <span>Faol oʻyinchilar bazasi va trafik</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Ishonchli o‘yinchi qo‘llab-quvvatlovi</span>
+                  <span>Ishonchli oʻyinchilarni qoʻllab-quvvatlash</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Shartlar va hujjatlarni tasdiqlashga tayyorgarlik</span>
+                  <span>Shartlar va hujjatlarni tekshirishga tayyorlik</span>
                 </li>
               </ul>
 
               <div class="bg-gold/10 border border-gold/30 rounded-xl p-6">
                 <p class="text-neutral-300 mb-6 text-lg font-medium text-center">
-                  Muloqot uchun biz bilan bog'laning:
+                  Muhokama uchun biz bilan bogʻlaning:
                 </p>
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
@@ -313,34 +313,34 @@ i18n:
             </div>
 
             <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
-              <h2 class="text-2xl font-semibold text-gold mb-4">Why List Your Deal on PokerDealsHub?</h2>
+              <h2 class="text-2xl font-semibold text-gold mb-4">Nega aynan PokerDealsHub’da bitim joylashtirish kerak?</h2>
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
-                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Target Audience</h3>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Maqsadli auditoriya</h3>
                   <p class="text-neutral-400 text-sm">
-                    Our site is visited by active players looking for profitable terms and new deals
+                    Saytimizga foydali shartlar va yangi bitimlarni qidirayotgan faol oʻyinchilar tashrif buyuradi
                   </p>
                 </div>
 
                 <div>
-                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">SEO Optimization</h3>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">SEO optimizatsiya</h3>
                   <p class="text-neutral-400 text-sm">
-                    Each deal gets a dedicated page optimized for search engines
+                    Har bir bitim qidiruv tizimlari uchun optimallashtirilgan alohida sahifaga ega boʻladi
                   </p>
                 </div>
 
                 <div>
-                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">International Reach</h3>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Xalqaro qamrov</h3>
                   <p class="text-neutral-400 text-sm">
-                    The site is available in Russian, English, and Spanish
+                    Sayt rus, ingliz va ispan tillarida mavjud
                   </p>
                 </div>
 
                 <div>
-                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Transparency</h3>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Shaffoflik</h3>
                   <p class="text-neutral-400 text-sm">
-                    We publish only verified offers with real terms
+                    Biz faqat real shartlarga ega tekshirilgan takliflarni eʼlon qilamiz
                   </p>
                 </div>
               </div>
@@ -348,10 +348,10 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300 text-sm">
-                Listing a poker deal on PokerDealsHub is an opportunity to attract targeted players from different regions.
-                We work with clubs on <a href="/en/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+                PokerDealsHub’da poker bitimini joylashtirish — turli mintaqalardagi maqsadli oʻyinchilarni jalb qilish imkoniyatidir.
+                Biz <a href="/uz/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
       >PPPoker, ClubGG, X-Poker</a>
-                and other platforms. If you're looking for a reliable platform to promote your union or club, contact us.
+                va boshqa platformalardagi klublar bilan ishlaymiz. Agar siz oʻz ittifoqingiz yoki klubingizni ilgari surish uchun ishonchli maydon qidirsangiz, biz bilan bogʻlaning.
               </p>
             </div>
     srcHash: 8a47b36574b3
@@ -711,11 +711,11 @@ i18n:
     srcHash: 8a47b36574b3
   es:
     title: Añade tu deal al sitio
-    description: Publica tu deal de póker en PokerDealsHub. Plataforma para clubes, uniones y redes de agentes
+    description: Publica tu deal de póker en PokerDealsHub. La plataforma para clubes, uniones y redes de agentes
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                Publicamos ofertas de póker verificadas de clubes y uniones. La publicación está disponible tras verificar la reputación y las condiciones del deal.
+                Publicamos ofertas de póker verificadas de clubes y uniones. La publicación está disponible tras comprobar la reputación y las condiciones del deal.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Requisitos</h2>
@@ -724,7 +724,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Reputación verificada del club o la unión</span>
+                  <span>Reputación verificada del club o de la unión</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -799,21 +799,21 @@ i18n:
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">Optimización SEO</h3>
                   <p class="text-neutral-400 text-sm">
-                    Cada deal recibe una página propia, optimizada para los motores de búsqueda
+                    Cada deal recibe su propia página, optimizada para los motores de búsqueda
                   </p>
                 </div>
 
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">Alcance internacional</h3>
                   <p class="text-neutral-400 text-sm">
-                    El sitio está disponible en español, inglés y otros idiomas
+                    El sitio está disponible en ruso, inglés y español
                   </p>
                 </div>
 
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">Transparencia</h3>
                   <p class="text-neutral-400 text-sm">
-                    Publicamos solo ofertas verificadas con condiciones reales
+                    Publicamos únicamente ofertas verificadas con condiciones reales
                   </p>
                 </div>
               </div>
@@ -821,7 +821,7 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300 text-sm">
-                Publicar un deal de póker en PokerDealsHub es una oportunidad para atraer jugadores específicos de distintas regiones.
+                Publicar un deal de póker en PokerDealsHub es una oportunidad de atraer a jugadores específicos de distintas regiones.
                 Trabajamos con clubes en <a href="/es/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
       >PPPoker, ClubGG, X-Poker</a>
                 y otras plataformas. Si buscas una plataforma fiable para promocionar tu unión o tu club, contáctanos.
@@ -829,12 +829,12 @@ i18n:
             </div>
     srcHash: 8a47b36574b3
   pt:
-    title: Adicione seu deal ao site
-    description: Publique seu deal de pôquer no PokerDealsHub. Plataforma para clubes, uniões e redes de agentes
+    title: Adicione seu oferta ao site
+    description: Publique seu oferta de poker no PokerDealsHub. Plataforma para clubes, uniões e redes de agentes
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                Publicamos ofertas de pôquer verificadas de clubes e uniões. A publicação fica disponível após a verificação da reputação e das condições do deal.
+                Publicamos ofertas de poker verificadas de clubes e uniões. A publicação fica disponível após a verificação da reputação e das condições da oferta.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Requisitos</h2>
@@ -905,20 +905,20 @@ i18n:
             </div>
 
             <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
-              <h2 class="text-2xl font-semibold text-gold mb-4">Por que publicar seu deal no PokerDealsHub?</h2>
+              <h2 class="text-2xl font-semibold text-gold mb-4">Por que publicar seu oferta no PokerDealsHub?</h2>
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">Público-alvo</h3>
                   <p class="text-neutral-400 text-sm">
-                    Nosso site recebe jogadores ativos em busca de condições vantajosas e novos deals
+                    Nosso site recebe jogadores ativos em busca de condições vantajosas e novos ofertas
                   </p>
                 </div>
 
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">Otimização SEO</h3>
                   <p class="text-neutral-400 text-sm">
-                    Cada deal ganha uma página própria, otimizada para os mecanismos de busca
+                    Cada oferta ganha uma página própria, otimizada para os mecanismos de busca
                   </p>
                 </div>
 
@@ -940,7 +940,7 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300 text-sm">
-                Publicar um deal de pôquer no PokerDealsHub é uma oportunidade de atrair jogadores específicos de diferentes regiões.
+                Publicar uma oferta de poker no PokerDealsHub é uma oportunidade de atrair jogadores específicos de diferentes regiões.
                 Trabalhamos com clubes em <a href="/pt/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
       >PPPoker, ClubGG, X-Poker</a>
                 e outras plataformas. Se você procura uma plataforma confiável para divulgar sua união ou seu clube, entre em contato.
@@ -1186,12 +1186,12 @@ i18n:
             </div>
     srcHash: 8a47b36574b3
   he:
-    title: הוסף את העסקה שלך לאתר
-    description: פרסם את עסקת הפוקר שלך ב-PokerDealsHub. פלטפורמה למועדונים, איגודים ורשתות סוכנים
+    title: הוסיפו את הדיל שלכם לאתר
+    description: פרסמו את דיל הפוקר שלכם ב-PokerDealsHub. הפלטפורמה למועדונים, איחודים ורשתות סוכנים
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                אנו מפרסמים הצעות פוקר מאומתות ממועדונים ואיגודים. הפרסום זמין לאחר בדיקת המוניטין ותנאי העסקה.
+                אנחנו מפרסמים הצעות פוקר מאומתות ממועדונים ומאיחודים. הפרסום זמין לאחר בדיקת המוניטין ותנאי הדיל.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">דרישות</h2>
@@ -1200,7 +1200,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>מוניטין מאומת של המועדון או האיגוד</span>
+                  <span>מוניטין מאומת של המועדון או האיחוד</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -1218,13 +1218,13 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>תמיכה אמינה בשחקנים</span>
+                  <span>תמיכת שחקנים אמינה</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>נכונות לבדיקת תנאים ומסמכים</span>
+                  <span>נכונות לבדיקת התנאים והמסמכים</span>
                 </li>
               </ul>
 
@@ -1262,25 +1262,25 @@ i18n:
             </div>
 
             <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
-              <h2 class="text-2xl font-semibold text-gold mb-4">למה כדאי לפרסם עסקה ב-PokerDealsHub?</h2>
+              <h2 class="text-2xl font-semibold text-gold mb-4">למה כדאי לפרסם דיל ב-PokerDealsHub?</h2>
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">קהל יעד</h3>
                   <p class="text-neutral-400 text-sm">
-                    את האתר שלנו פוקדים שחקנים פעילים המחפשים תנאים משתלמים ועסקאות חדשות
+                    את האתר שלנו מבקרים שחקנים פעילים שמחפשים תנאים משתלמים ודילים חדשים
                   </p>
                 </div>
 
                 <div>
-                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">אופטימיזציית SEO</h3>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">אופטימיזציה ל-SEO</h3>
                   <p class="text-neutral-400 text-sm">
-                    כל עסקה מקבלת עמוד נפרד, מותאם למנועי חיפוש
+                    כל דיל מקבל עמוד נפרד שמותאם למנועי חיפוש
                   </p>
                 </div>
 
                 <div>
-                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">כיסוי בינלאומי</h3>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">פריסה בינלאומית</h3>
                   <p class="text-neutral-400 text-sm">
                     האתר זמין ברוסית, אנגלית וספרדית
                   </p>
@@ -1289,7 +1289,7 @@ i18n:
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">שקיפות</h3>
                   <p class="text-neutral-400 text-sm">
-                    אנו מפרסמים רק הצעות מאומתות עם תנאים אמיתיים
+                    אנחנו מפרסמים רק הצעות מאומתות עם תנאים אמיתיים
                   </p>
                 </div>
               </div>
@@ -1297,9 +1297,10 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300 text-sm">
-                פרסום עסקת פוקר ב-PokerDealsHub הוא הזדמנות למשוך שחקנים ממוקדים מאזורים שונים. אנו עובדים עם מועדונים ב-<a href="/he/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+                פרסום דיל פוקר ב-PokerDealsHub הוא הזדמנות למשוך שחקני יעד מאזורים שונים.
+                אנחנו עובדים עם מועדונים ב<a href="/he/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
       >PPPoker, ClubGG, X-Poker</a>
-                ובפלטפורמות נוספות. אם אתם מחפשים פלטפורמה אמינה לקידום האיגוד או המועדון שלכם, צרו איתנו קשר.
+                ובפלטפורמות נוספות. אם אתם מחפשים פלטפורמה אמינה לקידום האיחוד או המועדון שלכם, צרו איתנו קשר.
               </p>
             </div>
     srcHash: 8a47b36574b3
@@ -1324,7 +1325,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>شروط شفافة للريك باك والمدفوعات</span>
+                  <span>شروط شفافة للريكباك والمدفوعات</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -1422,12 +1423,12 @@ i18n:
             </div>
     srcHash: 8a47b36574b3
   id:
-    title: Tambahkan deal Anda ke situs
+    title: Tambahkan deal Anda ke situs kami
     description: Pasang deal poker Anda di PokerDealsHub. Platform untuk klub, union, dan jaringan agen
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                Kami mempublikasikan penawaran poker terverifikasi dari klub dan union. Pemasangan tersedia setelah pemeriksaan reputasi dan syarat deal.
+                Kami mempublikasikan penawaran poker terverifikasi dari klub dan union. Pemasangan tersedia setelah kami memverifikasi reputasi dan ketentuan deal.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Persyaratan</h2>
@@ -1442,13 +1443,13 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Syarat rakeback dan pembayaran yang transparan</span>
+                  <span>Ketentuan rakeback dan pembayaran yang transparan</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Basis pemain aktif dan traffic</span>
+                  <span>Basis pemain aktif dan trafik</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -1460,7 +1461,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Kesiapan untuk pemeriksaan syarat dan dokumen</span>
+                  <span>Kesiapan untuk verifikasi ketentuan dan dokumen</span>
                 </li>
               </ul>
 
@@ -1502,9 +1503,9 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
-                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Audiens sasaran</h3>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Audiens yang tepat sasaran</h3>
                   <p class="text-neutral-400 text-sm">
-                    Situs kami dikunjungi oleh pemain aktif yang mencari syarat menguntungkan dan deal baru
+                    Situs kami dikunjungi pemain aktif yang mencari ketentuan menguntungkan dan deal baru
                   </p>
                 </div>
 
@@ -1525,7 +1526,7 @@ i18n:
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">Transparansi</h3>
                   <p class="text-neutral-400 text-sm">
-                    Kami hanya mempublikasikan penawaran terverifikasi dengan syarat yang nyata
+                    Kami hanya mempublikasikan penawaran terverifikasi dengan ketentuan yang nyata
                   </p>
                 </div>
               </div>
@@ -1533,19 +1534,19 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300 text-sm">
-                Memasang deal poker di PokerDealsHub adalah peluang untuk menarik pemain sasaran dari berbagai wilayah. Kami bekerja dengan klub di <a href="/id/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+                Memasang deal poker di PokerDealsHub adalah peluang untuk menjangkau pemain yang tepat sasaran dari berbagai wilayah. Kami bekerja sama dengan klub di <a href="/id/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
       >PPPoker, ClubGG, X-Poker</a>
-                dan platform lainnya. Jika Anda mencari platform andal untuk mempromosikan union atau klub Anda, hubungi kami.
+                dan platform lainnya. Jika Anda mencari platform yang andal untuk mempromosikan union atau klub Anda, hubungi kami.
               </p>
             </div>
     srcHash: 8a47b36574b3
   vi:
-    title: Thêm deal của bạn vào trang web
-    description: Đăng deal poker của bạn lên PokerDealsHub. Nền tảng cho các club, union và mạng lưới đại lý
+    title: Thêm kèo của bạn vào trang web
+    description: Đăng kèo poker của bạn lên PokerDealsHub. Nền tảng dành cho các câu lạc bộ, liên minh và mạng lưới đại lý
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                Chúng tôi đăng các ưu đãi poker đã xác minh từ các club và union. Việc đăng được thực hiện sau khi kiểm tra uy tín và điều kiện của deal.
+                Chúng tôi đăng các ưu đãi poker đã được kiểm chứng từ các câu lạc bộ và liên minh. Việc đăng tải được thực hiện sau khi kiểm tra uy tín và điều kiện của kèo.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Yêu cầu</h2>
@@ -1554,7 +1555,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Uy tín đã được xác nhận của club hoặc union</span>
+                  <span>Uy tín đã được xác nhận của câu lạc bộ hoặc liên minh</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -1566,25 +1567,25 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Cộng đồng người chơi tích cực và lượng traffic</span>
+                  <span>Cộng đồng người chơi tích cực và lượng người chơi ổn định</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Hỗ trợ người chơi đáng tin cậy</span>
+                  <span>Dịch vụ hỗ trợ người chơi đáng tin cậy</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Sẵn sàng kiểm tra điều kiện và tài liệu</span>
+                  <span>Sẵn sàng cho việc kiểm tra điều kiện và giấy tờ</span>
                 </li>
               </ul>
 
               <div class="bg-gold/10 border border-gold/30 rounded-xl p-6">
                 <p class="text-neutral-300 mb-6 text-lg font-medium text-center">
-                  Liên hệ với chúng tôi để trao đổi:
+                  Hãy liên hệ với chúng tôi để trao đổi:
                 </p>
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
@@ -1616,20 +1617,20 @@ i18n:
             </div>
 
             <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
-              <h2 class="text-2xl font-semibold text-gold mb-4">Vì sao nên đăng deal trên PokerDealsHub?</h2>
+              <h2 class="text-2xl font-semibold text-gold mb-4">Vì sao nên đăng kèo trên PokerDealsHub?</h2>
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
-                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Đối tượng mục tiêu</h3>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Đúng đối tượng mục tiêu</h3>
                   <p class="text-neutral-400 text-sm">
-                    Trang web của chúng tôi được truy cập bởi những người chơi tích cực đang tìm kiếm điều kiện hấp dẫn và deal mới
+                    Trang web của chúng tôi thu hút những người chơi tích cực đang tìm kiếm điều kiện hấp dẫn và các kèo mới
                   </p>
                 </div>
 
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">Tối ưu SEO</h3>
                   <p class="text-neutral-400 text-sm">
-                    Mỗi deal có một trang riêng, được tối ưu cho công cụ tìm kiếm
+                    Mỗi kèo có một trang riêng, được tối ưu cho các công cụ tìm kiếm
                   </p>
                 </div>
 
@@ -1643,7 +1644,7 @@ i18n:
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">Minh bạch</h3>
                   <p class="text-neutral-400 text-sm">
-                    Chúng tôi chỉ đăng các ưu đãi đã xác minh với điều kiện thực tế
+                    Chúng tôi chỉ đăng các ưu đãi đã được kiểm chứng với điều kiện có thật
                   </p>
                 </div>
               </div>
@@ -1651,9 +1652,10 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300 text-sm">
-                Đăng deal poker trên PokerDealsHub là cơ hội thu hút người chơi mục tiêu từ nhiều khu vực khác nhau. Chúng tôi hợp tác với các club trên <a href="/vi/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+                Đăng kèo poker trên PokerDealsHub là cơ hội thu hút đúng những người chơi mục tiêu từ nhiều khu vực khác nhau.
+                Chúng tôi hợp tác với các câu lạc bộ trên <a href="/vi/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
       >PPPoker, ClubGG, X-Poker</a>
-                và các nền tảng khác. Nếu bạn đang tìm một nền tảng đáng tin cậy để quảng bá union hoặc club của mình, hãy liên hệ với chúng tôi.
+                và các nền tảng khác. Nếu bạn đang tìm một nền tảng đáng tin cậy để quảng bá liên minh hoặc câu lạc bộ của mình, hãy liên hệ với chúng tôi.
               </p>
             </div>
     srcHash: 8a47b36574b3
@@ -1663,7 +1665,7 @@ i18n:
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                Naglalathala kami ng mga na-verify na poker offer mula sa mga club at union. Available ang paglalathala matapos ang pagsusuri ng reputasyon at mga kondisyon ng deal.
+                Naglalathala kami ng mga na-verify na poker offer mula sa mga club at union. Magagamit ang paglalathala matapos masuri ang reputasyon at mga kondisyon ng deal.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Mga Kinakailangan</h2>
@@ -1696,13 +1698,13 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                   </svg>
-                  <span>Handa para sa pagsusuri ng mga kondisyon at dokumento</span>
+                  <span>Handang sumailalim sa pagsusuri ng mga kondisyon at dokumento</span>
                 </li>
               </ul>
 
               <div class="bg-gold/10 border border-gold/30 rounded-xl p-6">
                 <p class="text-neutral-300 mb-6 text-lg font-medium text-center">
-                  Makipag-ugnayan sa amin para pag-usapan:
+                  Makipag-ugnayan sa amin para mapag-usapan ito:
                 </p>
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
@@ -1740,14 +1742,14 @@ i18n:
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">Target na audience</h3>
                   <p class="text-neutral-400 text-sm">
-                    Ang aming site ay binibisita ng mga aktibong manlalaro na naghahanap ng kapaki-pakinabang na kondisyon at mga bagong deal
+                    Binibisita ang aming site ng mga aktibong manlalaro na naghahanap ng kapaki-pakinabang na kondisyon at mga bagong deal
                   </p>
                 </div>
 
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">SEO optimization</h3>
                   <p class="text-neutral-400 text-sm">
-                    Bawat deal ay may sariling page na na-optimize para sa mga search engine
+                    May sariling page ang bawat deal na na-optimize para sa mga search engine
                   </p>
                 </div>
 
@@ -1769,7 +1771,7 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300 text-sm">
-                Ang pag-post ng poker deal sa PokerDealsHub ay pagkakataon na maakit ang mga target na manlalaro mula sa iba't ibang rehiyon. Nakikipagtulungan kami sa mga club sa <a href="/fil/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+                Ang pag-post ng poker deal sa PokerDealsHub ay isang pagkakataon na makaakit ng mga target na manlalaro mula sa iba't ibang rehiyon. Nakikipagtransaksyon kami sa mga club sa <a href="/fil/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
       >PPPoker, ClubGG, X-Poker</a>
                 at iba pang platform. Kung naghahanap ka ng maaasahang platform para i-promote ang iyong union o club, makipag-ugnayan sa amin.
               </p>

@@ -77,7 +77,7 @@ i18n:
     body: >-
       <h3>Descripción</h3>
 
-      <p>Oferta de poker en el club PDH Dorado (id del club: 4693054), que forma parte de la conocida unión brasileña El
+      <p>Oferta de póker en el club PDH Dorado (id del club: 4693054), que forma parte de la conocida unión brasileña El
       Dorado.</p>
 
       <p>El club está gestionado por PokerDealsHub, lo que garantiza condiciones transparentes y justas y un servicio al
@@ -88,7 +88,7 @@ i18n:
 
       <p>El Dorado (Unión Dorada) es la mayor unión brasileña en PPPoker, con jugadores de Latinoamérica y Europa. La
       unión ofrece una amplia variedad de mesas y límites, y es especialmente famosa por sus PLO5 y PLO6. Hay muchas
-      variantes de juego, como Bomb Pot, Double Board y HeadsUp.</p>
+      variantes de juego, como Bomb Pot, Double Board y Heads-Up.</p>
 
       <p>Los brasileños son conocidos por su estilo loose-agresivo. Por eso, los jugadores disciplinados con una
       estrategia equilibrada suelen sacar una ventaja considerable.</p>
@@ -107,40 +107,41 @@ i18n:
       </ul>
     srcHash: e05756aa0081
   uz:
-    name: El Dorado ittifoqi bitimi — PPPoker
+    name: PPPoker’dagi El Dorado ittifoqida bitim
     description: >-
-      Eng yirik braziliyalik ittifoq: ko'plab luz o'yinchilar, PLO5/PLO6 uchun zo'r tarkib, yuqori rakebek va yoqimli
-      ro'yxatdan o'tish bonusi.
-    geo: Latam, Evropa
+      Koʻplab loʻz oʻyinchilarga ega eng yirik braziliyalik ittifoqdagi bitim. PLO5 va PLO6’da ajoyib tarkiblar, eng
+      yaxshi reyk-bek va yoqimli roʻyxatdan oʻtish bonusi.
+    geo: Lotin Amerikasi, Yevropa
     body: >-
       <h3>Tavsif</h3>
 
-      <p>PDH Dorado klubidagi (ID: 4693054) bitim, u PPPoker dagi mashhur Braziliya ittifoqi El Dorado tarkibiga
-      kiradi.</p>
+      <p>Mashhur braziliyalik El Dorado ittifoqi tarkibiga kiruvchi PDH Dorado klubidagi (klub ID: 4693054) poker
+      bitimi.</p>
 
-      <p>Klub PokerDealsHub tomonidan boshqariladi, bu shaffof va adolatli shartlar hamda 24/7 yuqori darajadagi
-      xizmatni kafolatlaydi.</p>
+      <p>Klub PokerDealsHub boshqaruvida boʻlib, bu shaffof va halol shartlar hamda eng yuqori darajadagi 24/7 mijozlar
+      xizmatini kafolatlaydi.</p>
 
 
       <h3>Ittifoq haqida</h3>
 
-      <p>El Dorado — PPPoker dagi eng yirik Braziliya ittifoqi bo‘lib, Lotin Amerikasi va Yevropadan o‘yinchilarni
-      birlashtiradi. Keng limitlar va stollar, ayniqsa PLO5 va PLO6 eksheni bilan mashhur. Bomb Pot, Double Board,
-      Heads-Up kabi variantlar ham bor.</p>
+      <p>El Dorado (Unión Dorada) — PPPoker’dagi eng yirik braziliyalik ittifoq boʻlib, Lotin Amerikasi va Yevropa
+      oʻyinchilarini birlashtiradi. Ittifoq keng tanlovdagi stollar va limitlarni taklif etadi, ayniqsa PLO5 va PLO6
+      bilan mashhur. Bomb Pot, Double Board va Heads-Up kabi koʻplab oʻyin variatsiyalari mavjud.</p>
 
-      <p>Braziliyalik o‘yinchilar lüz-agr uslubda o‘ynashi bilan tanilgan, bu esa intizomli va balansli strategiyaga ega
-      o‘yinchilarga katta ustunlik beradi.</p>
+      <p>Braziliyaliklar pokerda loʻz-agressiv uslubi bilan tanilgan. Shu sababli muvozanatli strategiyaga ega intizomli
+      oʻyinchilar, qoida tariqasida, sezilarli ustunlikka erishadi.</p>
 
-      <p>Tavsiya etilgan fanlar: PLO4, PLO5, PLO6. O‘yinlar sutka davomida, pik vaqti GMT-3 bo‘yicha 18:00–20:00.</p>
+      <p>Tavsiya etiladigan intizomlar: PLO4, PLO5, PLO6. Oʻyin sutka davomida boradi, faollik choʻqqisi GMT-3 boʻyicha
+      18:00–20:00 ga toʻgʻri keladi.</p>
 
 
       <h3>Bitim haqida</h3>
 
-      <p>O‘yinchilar quyidagi variantlardan birini tanlashi mumkin:</p>
+      <p>Oʻyinchilar tanlash uchun quyidagilarga ega:</p>
 
       <ul>
-        <li><strong>70% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
-        <li><strong>Sobit rakebek 35%</strong> — darhol barqaror foiz, keyin xohlansa dinamik variantga o‘tish mumkin.</li>
+        <li><strong>70% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
+        <li><strong>Qatʼiy reyk-bek 35%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
       </ul>
     srcHash: e05756aa0081
   uk:
@@ -362,8 +363,8 @@ i18n:
   tr:
     name: PPPoker'da El Dorado birliğinde anlaşma
     description: >-
-      Bol loose oyuncuyla en büyük Brezilya birliğinde anlaşma. PLO5 ve PLO6 masaları harika, rakeback en iyisi ve kayıt
-      bonusu da güzel.
+      Bol gevşek oynayan oyuncuyla en büyük Brezilya birliğinde anlaşma. PLO5 ve PLO6 masaları harika, rakeback en iyisi
+      ve kayıt bonusu da güzel.
     geo: Latin Amerika, Avrupa
     body: >-
       <h3>Açıklama</h3>
@@ -436,8 +437,8 @@ i18n:
   ar:
     name: صفقة في اتحاد El Dorado على PPPoker
     description: >-
-      صفقة في أكبر اتحاد برازيلي مع عدد كبير من اللاعبين الـ loose. تشكيلات ممتازة على PLO5 وPLO6، وأفضل rakeback
-      ومكافأة تسجيل مميزة.
+      صفقة في أكبر اتحاد برازيلي مع عدد كبير من اللاعبين المندفعين. تشكيلات ممتازة على PLO5 وPLO6، وأفضل ريكباك ومكافأة
+      تسجيل مميزة.
     geo: أمريكا اللاتينية، أوروبا
     body: >-
       <h3>الوصف</h3>
@@ -450,10 +451,10 @@ i18n:
       <h3>عن الاتحاد</h3>
 
       <p>El Dorado (Unión Dorada) هو أكبر اتحاد برازيلي على PPPoker، يضم لاعبين من أمريكا اللاتينية وأوروبا. يقدّم
-      الاتحاد تشكيلة واسعة من الطاولات والـ limits، ويشتهر بشكل خاص بفضل PLO5 وPLO6. كما يوجد الكثير من أنماط اللعب مثل
-      Bomb Pot وDouble Board وHeadsUp.</p>
+      الاتحاد تشكيلة واسعة من الطاولات والحدود، ويشتهر بشكل خاص بفضل PLO5 وPLO6. كما يوجد الكثير من أنماط اللعب مثل Bomb
+      Pot وDouble Board وHeadsUp.</p>
 
-      <p>يشتهر البرازيليون بأسلوب لعبهم الـ loose العدواني في البوكر. ولهذا فإن اللاعبين المنضبطين أصحاب الاستراتيجية
+      <p>يشتهر البرازيليون بأسلوب لعبهم المندفع العدواني في البوكر. ولهذا فإن اللاعبين المنضبطين أصحاب الاستراتيجية
       المتوازنة يحصلون عادةً على أفضلية كبيرة.</p>
 
       <p>التخصصات الموصى بها: PLO4، PLO5، PLO6. اللعب متواصل على مدار الساعة، وتبلغ ذروة النشاط بين الساعة 18:00 و20:00
@@ -465,9 +466,9 @@ i18n:
 
       <ul>
 
-      <li><strong>rakeback ديناميكي حتى 70%</strong> يعتمد الـ rakeback على حجم الـ rake الأسبوعي.</li>
+      <li><strong>ريكباك ديناميكي حتى 70%</strong> يعتمد الريكباك على حجم الريك الأسبوعي.</li>
 
-      <li><strong>rakeback ثابت 35%</strong> احصل على فرصة لبدء اللعب بأفضلية فور التسجيل. ويمكنك لاحقاً الانتقال إلى
+      <li><strong>ريكباك ثابت 35%</strong> احصل على فرصة لبدء اللعب بأفضلية فور التسجيل. ويمكنك لاحقاً الانتقال إلى
       الديناميكي.</li>
 
       </ul>
@@ -513,42 +514,41 @@ i18n:
       </ul>
     srcHash: e05756aa0081
   vi:
-    name: Deal tại union El Dorado trên PPPoker
+    name: Kèo tại liên minh El Dorado trên PPPoker
     description: >-
-      Deal tại union Brazil lớn nhất với rất nhiều người chơi loose. Bàn PLO5 và PLO6 cực chất, rakeback tốt nhất và
-      bonus đăng ký hấp dẫn.
+      Kèo tại liên minh lớn nhất của Brazil với rất đông người chơi lỏng. Sân chơi PLO5 và PLO6 cực chất, rakeback tốt
+      nhất và thưởng đăng ký hấp dẫn.
     geo: Mỹ Latinh, Châu Âu
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Deal poker tại club PDH Dorado (id club: 4693054), thuộc union Brazil nổi tiếng El Dorado.</p>
+      <p>Kèo poker tại câu lạc bộ PDH Dorado (id câu lạc bộ: 4693054), thuộc liên minh nổi tiếng của Brazil là El
+      Dorado.</p>
 
-      <p>Club do PokerDealsHub quản lý, đảm bảo điều kiện minh bạch, công bằng và dịch vụ khách hàng đẳng cấp cao nhất
-      24/7.</p>
+      <p>Câu lạc bộ do PokerDealsHub điều hành, đảm bảo điều kiện minh bạch, công bằng và dịch vụ chăm sóc khách hàng
+      đẳng cấp hàng đầu 24/7.</p>
 
-      <h3>Về Union</h3>
 
-      <p>El Dorado (Unión Dorada) là union Brazil lớn nhất trên PPPoker, với người chơi đến từ Mỹ Latinh và Châu Âu.
-      Union cung cấp nhiều lựa chọn bàn và limit, đặc biệt nổi tiếng nhờ PLO5 và PLO6. Có nhiều biến thể game như Bomb
-      Pot, Double Board và HeadsUp.</p>
+      <h3>Về liên minh</h3>
 
-      <p>Người chơi Brazil nổi tiếng với lối chơi loose-aggressive trong poker. Vì vậy, những người chơi kỷ luật với
-      chiến lược cân bằng thường có lợi thế đáng kể.</p>
+      <p>El Dorado (Unión Dorada) là liên minh lớn nhất của Brazil trên PPPoker, với người chơi đến từ Mỹ Latinh và Châu
+      Âu. Liên minh cung cấp nhiều lựa chọn bàn và mức cược, đặc biệt nổi tiếng nhờ PLO5 và PLO6. Có nhiều biến thể như
+      Bomb Pot, Double Board và Heads-Up.</p>
 
-      <p>Các thể loại nên chơi: PLO4, PLO5, PLO6. Game diễn ra suốt ngày đêm, cao điểm hoạt động rơi vào khoảng 18:00 -
-      20:00 theo giờ GMT-3.</p>
+      <p>Người chơi Brazil nổi tiếng với lối chơi lỏng và quyết liệt. Vì vậy, những người chơi kỷ luật với chiến lược
+      cân bằng thường có lợi thế đáng kể.</p>
 
-      <h3>Về Deal</h3>
+      <p>Các thể loại nên chơi: PLO4, PLO5, PLO6. Bàn chơi diễn ra suốt ngày đêm, cao điểm hoạt động rơi vào khoảng
+      18:00 – 20:00 theo giờ GMT-3.</p>
 
-      <p>Người chơi có thể lựa chọn giữa:</p>
+
+      <h3>Về kèo</h3>
+
+      <p>Người chơi được lựa chọn giữa:</p>
 
       <ul>
-
-      <li><strong>Rakeback động lên đến 70%</strong> Rakeback phụ thuộc vào khối lượng rake hằng tuần.</li>
-
-      <li><strong>Rakeback cố định 35%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Sau này bạn có thể chuyển
-      sang loại động.</li>
-
+        <li><strong>Rakeback động lên đến 70%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
+        <li><strong>Rakeback cố định 35%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
       </ul>
     srcHash: e05756aa0081
   fil:
@@ -556,7 +556,7 @@ i18n:
     description: >-
       Deal sa pinakamalaking Brazilian union na may maraming loose na manlalaro. Mahuhusay na lineup sa PLO5 at PLO6,
       pinakamahusay na rakeback at kaaya-ayang signup bonus.
-    geo: Latin America, Europe
+    geo: Latin America, Europa
     body: >-
       <h3>Paglalarawan</h3>
 

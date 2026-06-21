@@ -27,7 +27,7 @@ geo: США
 bonus: ""
 i18n:
   en:
-    name: Paradise union Deal on PokerBros
+    name: Paradise Union Deal on PokerBros
     description: Plenty of active tables, transparent terms, and high rakeback — the best offer on Poker Bros.
     geo: USA
     body: >-
@@ -54,8 +54,8 @@ i18n:
       <p>Players can choose between the following options:</p>
 
       <ul>
-        <li><strong>Dynamic rakeback up to 55%</strong> Rakeback depends on the weekly rake volume.</li>
-        <li><strong>Fixed rakeback 25%</strong> Get the opportunity to start playing with an advantage right after registration. Later, you can switch to the dynamic option.</li>
+        <li><strong>Dynamic rakeback up to 55%</strong> — The rakeback rate depends on your weekly rake volume.</li>
+        <li><strong>Fixed rakeback 25%</strong> — Start playing with an advantage right after registration, and switch to the dynamic option later if you prefer.</li>
       </ul>
     srcHash: 894f2a95744a
   es:
@@ -90,34 +90,35 @@ i18n:
       </ul>
     srcHash: 894f2a95744a
   uz:
-    name: Paradise ittifoqi bitimi — PokerBros
-    description: Ko'plab faol stollar, shaffof shartlar va yuqori rakebek — PokerBros dagi eng yaxshi takliflardan biri.
+    name: PokerBros’dagi Paradise ittifoqida bitim
+    description: Koʻplab faol stollar, shaffof shartlar va yuqori reyk-bek — PokerBros’dagi eng yaxshi taklif.
     geo: AQSh
     body: >-
       <h3>Tavsif</h3>
 
-      <p>Monkeys VIPS — PokerBros platformasidagi Paradise ittifoqining eksklyuziv klubi. Klub 19:00–23:00 (GMT-7)
-      oralig‘ida barcha limitlarda faol o‘yin va yuqori rakebek taklif qiladi, bu uni Shimoliy va Janubiy Amerika
-      o‘yinchilari uchun ideal qiladi.</p>
+      <p>Monkeys VIPS — PokerBros platformasidagi Paradise ittifoqining eksklyuziv klubi. Klub GMT-7 boʻyicha 19:00 dan
+      23:00 gacha barcha limitlarda yuqori reyk-bek va faol oʻyin taklif etadi. Shimoliy va Janubiy Amerika oʻyinchilari
+      uchun ideal.</p>
 
 
       <h3>Ittifoq haqida</h3>
 
-      <p>Paradise — PokerBros platformasidagi eng yirik ittifoqlardan biri, butun dunyodan 30 dan ortiq klubni
-      birlashtiradi. Ittifoq NLH, PLO4/5/6, MTT va boshqa formatlarning keng tanlovini taklif etadi. O‘yinlar asosan
-      past va o‘rta limitlarda bo‘lib, rekreatsion o‘yinchilar ulushi katta.</p>
+      <p>Paradise Union — PokerBros platformasidagi eng yirik ittifoqlardan biri boʻlib, butun dunyodan 30 dan ortiq
+      klubni birlashtiradi. Ittifoq NLH, PLO4/5/6, MTT va boshqa formatlarni oʻz ichiga olgan rang-barang oʻyin
+      formatlarini taklif etadi. Oʻyin asosan oʻrta va past limitlarda boradi. Ittifoq oʻzining rekreatsion oʻyinchilari
+      bilan mashhur.</p>
 
-      <p>Mavjud formatlar: NLH, PLO4/5/6, MTT hamda Bomb Pot modifikatori. Barcha limitlarda 24/7 faol stollar, AQShdan
-      ko‘plab rekreatsion o‘yinchilar.</p>
+      <p>Mavjud intizomlar: NLH, PLO4/5/6, MTT, shuningdek Bomb Pot modifikatori. Faol oʻyin AQShdan koʻplab rekreatsion
+      oʻyinchilar bilan barcha limitlarda sutka davomida boradi.</p>
 
 
       <h3>Bitim haqida</h3>
 
-      <p>O‘yinchilar quyidagi variantlardan birini tanlashi mumkin:</p>
+      <p>Oʻyinchilar tanlash uchun quyidagilarga ega:</p>
 
       <ul>
-        <li><strong>55% gacha dinamik rakebek</strong> — rakebek haftalik rake hajmiga bog‘liq.</li>
-        <li><strong>Sobit rakebek 25%</strong> — ro‘yxatdan o‘tgan zahoti ustunlik bilan boshlang, keyin xohlansa dinamik modelga o‘tish mumkin.</li>
+        <li><strong>55% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
+        <li><strong>Qatʼiy reyk-bek 25%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
       </ul>
     srcHash: 894f2a95744a
   uk:
@@ -340,10 +341,10 @@ i18n:
 
       <p>Paradise Union הוא אחד האיחודים הגדולים בפלטפורמת PokerBros, ומאגד יותר מ-30 מועדונים עם שחקנים מכל העולם.
       האיחוד מציע מגוון פורמטים, כולל NLH, PLO4/5/6, MTT ועוד. המשחק מתנהל בעיקר בלימיטים בינוניים ונמוכים. האיחוד ידוע
-      בשחקנים הרקריאציוניים שלו.</p>
+      בשחקנים החובבים שלו.</p>
 
       <p>דיסציפלינות זמינות: NLH, PLO4/5/6, MTT וכן המודיפייר Bomb Pot. משחק פעיל מתנהל מסביב לשעון בכל הלימיטים עם הרבה
-      שחקנים רקריאציוניים מארה"ב.</p>
+      שחקנים חובבים מארה"ב.</p>
 
 
       <h3>על הדיל</h3>
@@ -357,13 +358,13 @@ i18n:
     srcHash: 894f2a95744a
   ar:
     name: صفقة في اتحاد Paradise على PokerBros
-    description: الكثير من الطاولات النشطة وشروط شفافة ورِيك باك مرتفع — أفضل عرض على Poker Bros.
+    description: الكثير من الطاولات النشطة وشروط شفافة وريكباك مرتفع — أفضل عرض على Poker Bros.
     geo: الولايات المتحدة
     body: >-
       <h3>الوصف</h3>
 
-      <p>Monkeys VIPS نادٍ حصري ضمن اتحاد Paradise على منصة PokerBros. يقدّم النادي رِيك باك مرتفعًا ولعبًا نشطًا على
-      جميع الحدود من الساعة 19:00 حتى 23:00 بتوقيت GMT-7. خيار مثالي للاعبين من أمريكا الشمالية والجنوبية.</p>
+      <p>Monkeys VIPS نادٍ حصري ضمن اتحاد Paradise على منصة PokerBros. يقدّم النادي ريكباك مرتفعًا ولعبًا نشطًا على جميع
+      الحدود من الساعة 19:00 حتى 23:00 بتوقيت GMT-7. خيار مثالي للاعبين من أمريكا الشمالية والجنوبية.</p>
 
 
       <h3>عن الاتحاد</h3>
@@ -381,14 +382,14 @@ i18n:
       <p>يُتاح للاعبين الاختيار بين:</p>
 
       <ul>
-        <li><strong>رِيك باك ديناميكي حتى 55%</strong> يعتمد الرِيك باك على حجم الرِيك الأسبوعي.</li>
-        <li><strong>رِيك باك ثابت 25%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا التحول إلى الرِيك باك الديناميكي.</li>
+        <li><strong>ريكباك ديناميكي حتى 55%</strong> يعتمد الريكباك على حجم الريك الأسبوعي.</li>
+        <li><strong>ريكباك ثابت 25%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا التحول إلى الريكباك الديناميكي.</li>
       </ul>
     srcHash: 894f2a95744a
   id:
     name: Deal di union Paradise pada PokerBros
     description: Banyak meja aktif, syarat transparan, dan rakeback tinggi — penawaran terbaik di Poker Bros.
-    geo: Amerika Serikat
+    geo: AS
     body: >-
       <h3>Deskripsi</h3>
 
@@ -404,8 +405,8 @@ i18n:
       lainnya. Permainan umumnya berlangsung di limit menengah dan rendah. Union ini dikenal dengan banyaknya pemain
       rekreasional.</p>
 
-      <p>Disiplin yang tersedia: NLH, PLO4/5/6, MTT, serta modifier Bomb Pot. Permainan aktif berlangsung sepanjang hari
-      di semua limit dengan banyak pemain rekreasional dari AS.</p>
+      <p>Disiplin yang tersedia: NLH, PLO4/5/6, MTT, serta modifikator Bomb Pot. Permainan aktif berlangsung sepanjang
+      hari di semua limit dengan banyak pemain rekreasional dari AS.</p>
 
 
       <h3>Tentang deal</h3>
@@ -414,45 +415,45 @@ i18n:
 
       <ul>
         <li><strong>Rakeback dinamis hingga 55%</strong> Rakeback bergantung pada volume rake mingguan.</li>
-        <li><strong>Rakeback tetap 25%</strong> Mulai bermain dengan keuntungan langsung setelah mendaftar. Nantinya kamu bisa beralih ke rakeback dinamis.</li>
+        <li><strong>Rakeback tetap 25%</strong> Mulai bermain dengan keuntungan langsung setelah mendaftar. Nantinya Anda bisa beralih ke rakeback dinamis.</li>
       </ul>
     srcHash: 894f2a95744a
   vi:
-    name: Deal tại union Paradise trên PokerBros
-    description: Nhiều bàn đang hoạt động, điều khoản minh bạch và rakeback cao — ưu đãi tốt nhất trên Poker Bros.
-    geo: Hoa Kỳ
+    name: Kèo tại liên minh Paradise trên PokerBros
+    description: Nhiều bàn đang sôi động, điều khoản minh bạch và rakeback cao — ưu đãi tốt nhất trên PokerBros.
+    geo: Mỹ
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Monkeys VIPS là club độc quyền trong union Paradise trên nền tảng PokerBros. Club mang đến rakeback cao và lối
-      chơi sôi động ở mọi mức cược từ 19:00 đến 23:00 theo giờ GMT-7. Lựa chọn lý tưởng cho người chơi từ Bắc và Nam
-      Mỹ.</p>
+      <p>Monkeys VIPS là câu lạc bộ độc quyền trong liên minh Paradise trên nền tảng PokerBros. Câu lạc bộ mang đến
+      rakeback cao và bàn chơi sôi động ở mọi mức cược từ 19:00 đến 23:00 theo giờ GMT-7. Lựa chọn lý tưởng cho người
+      chơi từ Bắc Mỹ và Nam Mỹ.</p>
 
 
-      <h3>Về union</h3>
+      <h3>Về liên minh</h3>
 
-      <p>Paradise Union là một trong những union lớn nhất trên nền tảng PokerBros, quy tụ hơn 30 club với người chơi từ
-      khắp nơi trên thế giới. Union cung cấp nhiều thể thức chơi đa dạng, gồm NLH, PLO4/5/6, MTT và nhiều thể thức khác.
-      Trận đấu chủ yếu diễn ra ở các mức cược trung bình và thấp. Union nổi tiếng với lượng người chơi giải trí đông
-      đảo.</p>
+      <p>Paradise Union là một trong những liên minh lớn nhất trên nền tảng PokerBros, quy tụ hơn 30 câu lạc bộ với
+      người chơi từ khắp nơi trên thế giới. Liên minh cung cấp nhiều thể loại đa dạng, gồm NLH, PLO4/5/6, MTT và nhiều
+      thể loại khác. Bàn chơi chủ yếu diễn ra ở các mức cược trung bình và thấp. Liên minh nổi tiếng với lượng người
+      chơi giải trí đông đảo.</p>
 
-      <p>Các bộ môn có sẵn: NLH, PLO4/5/6, MTT cùng với modifier Bomb Pot. Hoạt động chơi diễn ra suốt ngày đêm ở mọi
-      mức cược với rất nhiều người chơi giải trí đến từ Mỹ.</p>
+      <p>Các thể loại có sẵn: NLH, PLO4/5/6, MTT cùng biến thể Bomb Pot. Hoạt động chơi diễn ra suốt ngày đêm ở mọi mức
+      cược với rất nhiều người chơi giải trí đến từ Mỹ.</p>
 
 
-      <h3>Về deal</h3>
+      <h3>Về kèo</h3>
 
-      <p>Người chơi có thể lựa chọn:</p>
+      <p>Người chơi được lựa chọn giữa:</p>
 
       <ul>
-        <li><strong>Rakeback linh hoạt lên đến 55%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
-        <li><strong>Rakeback cố định 25%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang rakeback linh hoạt.</li>
+        <li><strong>Rakeback động lên đến 55%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
+        <li><strong>Rakeback cố định 25%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
       </ul>
     srcHash: 894f2a95744a
   fil:
     name: Deal sa union na Paradise sa PokerBros
     description: Maraming aktibong mesa, malinaw na mga tuntunin, at mataas na rakeback — ang pinakamagandang alok sa Poker Bros.
-    geo: Estados Unidos
+    geo: USA
     body: >-
       <h3>Paglalarawan</h3>
 

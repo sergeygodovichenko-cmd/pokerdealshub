@@ -55,8 +55,8 @@ i18n:
       <p>Players are offered a choice of:</p>
 
       <ul>
-        <li><strong>Dynamic rakeback up to 70%</strong> The rakeback rate depends on the player’s weekly rake volume.</li>
-        <li><strong>Fixed rakeback 35%</strong> Start playing with an advantage right after registration. You can switch to a dynamic rakeback later.</li>
+        <li><strong>Dynamic rakeback up to 70%</strong> — The rakeback rate depends on your weekly rake volume.</li>
+        <li><strong>Fixed rakeback 35%</strong> — Start playing with an advantage right after registration, and switch to the dynamic option later if you prefer.</li>
       </ul>
     srcHash: 89881dc14ead
   es:
@@ -68,14 +68,14 @@ i18n:
     body: >-
       <h3>Descripción</h3>
 
-      <p>Oferta de poker en el club Illuminator, que forma parte de la conocida unión NUTS PrimeTime. Club id: 4663296.
+      <p>Oferta de póker en el club Illuminator, que forma parte de la conocida unión NUTS PrimeTime. Club id: 4663296.
       El club está gestionado por PokerDealsHub, lo que garantiza tu seguridad y un servicio al cliente de primer nivel
       24/7.</p>
 
 
       <h3>Sobre la unión</h3>
 
-      <p>Nuts PrimeTime es una de las mayores agrupaciones de jugadores de poker de todo el mundo, incluidos EE. UU.,
+      <p>Nuts PrimeTime es una de las mayores agrupaciones de jugadores de póker de todo el mundo, incluidos EE. UU.,
       Canadá, Australia y los países de la CEI. La unión se fundó en 2018 y es famosa por su reputación impecable.</p>
 
       <p>Disciplinas disponibles: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck (6+). A
@@ -92,32 +92,36 @@ i18n:
       </ul>
     srcHash: 89881dc14ead
   uz:
-    name: Nuts PrimeTime ittifoqi bitimi — PPPoker
-    description: Mashhur Nuts PrimeTime ittifoqida PDHdan a'lo rakebek. Fan va limitlar keng, o'yinlar 24/7.
+    name: PPPoker’dagi NUTS PrimeTime ittifoqida bitim
+    description: >-
+      PDH’ning mashhur NUTS PrimeTime ittifoqidagi ajoyib reyk-bekka ega bitimi. Intizom va limitlar tanlovi keng, oʻyin
+      24/7 boradi.
     geo: AQSh, MDH
     body: >-
       <h3>Tavsif</h3>
 
-      <p>PPPoker dagi mashhur NUTS PrimeTime ittifoqi tarkibidagi Illuminator klubida (ID: 4663296) bitim. Klub
-      PokerDealsHub tomonidan boshqariladi, shuning uchun xavfsizlik va 24/7 xizmat kafolatlangan.</p>
+      <p>Mashhur NUTS PrimeTime ittifoqi tarkibiga kiruvchi Illuminator klubidagi poker bitimi. Klub ID: 4663296. Klub
+      PokerDealsHub boshqaruvida boʻlib, bu sizning xavfsizligingizni va eng yuqori darajadagi 24/7 mijozlar xizmatini
+      kafolatlaydi.</p>
 
 
       <h3>Ittifoq haqida</h3>
 
-      <p>Nuts PrimeTime — dunyodagi eng yirik poker ittifoqlaridan biri, AQSh, Kanada, Avstraliya va MDH mamlakatlaridan
-      o‘yinchilarni birlashtiradi. 2018 yilda tashkil topgan, obro‘si juda toza.</p>
+      <p>Nuts PrimeTime — AQSh, Kanada, Avstraliya va MDH mamlakatlari oʻyinchilarini, ya’ni butun dunyo boʻylab poker
+      oʻyinchilarini birlashtirgan eng yirik birlashmalardan biri. Ittifoq 2018 yilda tashkil etilgan va benuqson
+      obroʻsi bilan mashhur.</p>
 
-      <p>Mavjud formatlar: MTT, kesh, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot or Fold, Short Deck (6+). Barcha
-      limitlarda sutka davomida o‘yin bor.</p>
+      <p>Mavjud intizomlar: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck (6+). Sutkaning
+      istalgan vaqtida barcha limitlarda oʻyin topish mumkin.</p>
 
 
       <h3>Bitim haqida</h3>
 
-      <p>O‘yinchilarga tanlash uchun ikkita model taklif qilinadi:</p>
+      <p>Oʻyinchilar tanlash uchun quyidagilarga ega:</p>
 
       <ul>
-        <li><strong>70% gacha dinamik rakebek</strong> — stavka o‘yinchining haftalik rake hajmiga bog‘liq.</li>
-        <li><strong>Sobit rakebek 35%</strong> — ro‘yxatdan o‘tgan zahoti ustunlik bilan o‘ynang, keyin xohlansa dinamik rakebekka o‘tish mumkin.</li>
+        <li><strong>70% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
+        <li><strong>Qatʼiy reyk-bek 35%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
       </ul>
     srcHash: 89881dc14ead
   uk:
@@ -253,7 +257,7 @@ i18n:
 
       <h3>Sobre a união</h3>
 
-      <p>A Nuts PrimeTime é uma das maiores reuniões de jogadores de poker do mundo todo, incluindo EUA, Canadá,
+      <p>A Nuts PrimeTime é uma das maiores comunidades de jogadores de poker do mundo todo, incluindo EUA, Canadá,
       Austrália e países da CEI. A união foi fundada em 2018 e é famosa por sua reputação impecável.</p>
 
       <p>Disciplinas disponíveis: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck (6+). A
@@ -285,8 +289,8 @@ i18n:
       <h3>À propos de l'union</h3>
 
       <p>Nuts PrimeTime est l'une des plus grandes communautés de joueurs de poker du monde entier, incluant les
-      États-Unis, le Canada, l'Australie et les pays de la CEI. L'union a été fondée en 2018 et est réputée pour sa
-      réputation irréprochable.</p>
+      États-Unis, le Canada, l'Australie et les pays de la CEI. L'union a été fondée en 2018 et jouit d'une réputation
+      irréprochable.</p>
 
       <p>Disciplines disponibles : MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck (6+). À
       toute heure, on trouve de l'action à toutes les limites.</p>
@@ -364,8 +368,8 @@ i18n:
   ar:
     name: صفقة في اتحاد NUTS PrimeTime على PPPoker
     description: >-
-      صفقة من PDH مع ريك باك ممتاز في اتحاد NUTS PrimeTime الشهير. تشكيلة واسعة من التخصصات والحدود، واللعب يجري على
-      مدار الساعة.
+      صفقة من PDH مع ريكباك ممتاز في اتحاد NUTS PrimeTime الشهير. تشكيلة واسعة من التخصصات والحدود، واللعب يجري على مدار
+      الساعة.
     geo: الولايات المتحدة، رابطة الدول المستقلة
     body: >-
       <h3>الوصف</h3>
@@ -388,14 +392,14 @@ i18n:
       <p>يمكن للاعبين الاختيار بين:</p>
 
       <ul>
-          <li><strong>ريك باك ديناميكي يصل إلى 70%</strong> يعتمد الريك باك على حجم الريك الأسبوعي لديك.</li>
-          <li><strong>ريك باك ثابت 35%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا الانتقال إلى الخيار الديناميكي.</li>
+          <li><strong>ريكباك ديناميكي يصل إلى 70%</strong> يعتمد الريكباك على حجم الريك الأسبوعي لديك.</li>
+          <li><strong>ريكباك ثابت 35%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا الانتقال إلى الخيار الديناميكي.</li>
       </ul>
     srcHash: 89881dc14ead
   id:
     name: Deal di union NUTS PrimeTime di PPPoker
     description: >-
-      Deal dari PDH dengan rakeback mantap di union populer NUTS PrimeTime. Pilihan disiplin dan limit yang luas,
+      Deal dari PDH dengan rakeback yang bagus di union populer NUTS PrimeTime. Pilihan disiplin dan limit yang luas,
       permainan berjalan 24/7.
     geo: AS, CIS
     body: >-
@@ -424,34 +428,35 @@ i18n:
       </ul>
     srcHash: 89881dc14ead
   vi:
-    name: Deal tại union NUTS PrimeTime trên PPPoker
+    name: Kèo tại liên minh NUTS PrimeTime trên PPPoker
     description: >-
-      Deal từ PDH với rakeback hấp dẫn tại union nổi tiếng NUTS PrimeTime. Đa dạng thể loại và mức cược, bàn chơi diễn
-      ra 24/7.
-    geo: Mỹ, CIS
+      Kèo từ PDH với rakeback hấp dẫn tại liên minh nổi tiếng NUTS PrimeTime. Đa dạng thể loại và mức cược, bàn chơi
+      diễn ra suốt 24/7.
+    geo: Mỹ, SNG
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Deal poker tại club Illuminator, thuộc union nổi tiếng NUTS PrimeTime. Club id: 4663296. Club do PokerDealsHub
-      quản lý, đảm bảo an toàn cho bạn cùng dịch vụ khách hàng đẳng cấp cao nhất 24/7.</p>
+      <p>Kèo poker tại câu lạc bộ Illuminator, thuộc liên minh nổi tiếng NUTS PrimeTime. Id câu lạc bộ: 4663296. Câu lạc
+      bộ do PokerDealsHub điều hành, đảm bảo an toàn cho bạn cùng dịch vụ chăm sóc khách hàng đẳng cấp hàng đầu
+      24/7.</p>
 
 
-      <h3>Về union</h3>
+      <h3>Về liên minh</h3>
 
       <p>Nuts PrimeTime là một trong những cộng đồng người chơi poker lớn nhất từ khắp thế giới, bao gồm Mỹ, Canada, Úc
-      và các nước CIS. Thành lập năm 2018, union nổi tiếng với uy tín trong sạch.</p>
+      và các nước SNG. Thành lập năm 2018, liên minh nổi tiếng với uy tín trong sạch.</p>
 
-      <p>Các thể loại có sẵn: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck(6+). Bất kỳ lúc
+      <p>Các thể loại có sẵn: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck (6+). Bất kỳ lúc
       nào trong ngày bạn cũng tìm được bàn chơi ở mọi mức cược.</p>
 
 
-      <h3>Về deal</h3>
+      <h3>Về kèo</h3>
 
-      <p>Người chơi có thể chọn giữa:</p>
+      <p>Người chơi được lựa chọn giữa:</p>
 
       <ul>
-          <li><strong>Rakeback động tới 70%</strong> Mức rakeback phụ thuộc vào khối lượng rake hàng tuần của bạn.</li>
-          <li><strong>Rakeback cố định 35%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Sau này bạn có thể chuyển sang phương án động.</li>
+        <li><strong>Rakeback động lên đến 70%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
+        <li><strong>Rakeback cố định 35%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
       </ul>
     srcHash: 89881dc14ead
   fil:

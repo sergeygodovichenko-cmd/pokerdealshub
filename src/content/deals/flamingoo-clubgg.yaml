@@ -74,7 +74,7 @@ i18n:
     body: >-
       <h3>Descripción</h3>
 
-      <p>Oferta de poker en el club Monkeys Paradise, que forma parte de la unión internacional Flamingoo en ClubGG, la
+      <p>Oferta de póker en el club Monkeys Paradise, que forma parte de la unión internacional Flamingoo en ClubGG, la
       app oficial de GGPoker. Además de una plataforma fiable, el club ofrece un escenario excelente para los jugadores
       recreativos.</p>
 
@@ -102,35 +102,38 @@ i18n:
       </ul>
     srcHash: 352ebb4e8ac8
   uz:
-    name: Flamingoo ittifoqi bitimi — ClubGG
+    name: ClubGG’dagi Flamingoo ittifoqida bitim
     description: >-
-      Flamingoo ittifoqida 55% gacha rakebek va barcha formatlarda 24/7 ekshen. PDH agent va to'lov kafolati sifatida
-      ishlaydi.
+      ClubGG’dagi Flamingoo ittifoqidagi bitim. 55% gacha yuqori reyk-bek va barcha formatlarda sutka boʻyi faol oʻyin.
+      PDH agent va toʻlovlar kafili sifatida ish koʻradi.
     geo: AQSh
     body: >-
       <h3>Tavsif</h3>
 
-      <p>ClubGG’dagi xalqaro Flamingoo ittifoqi tarkibidagi Monkeys Paradise klubida bitim. Bu GGPoker’ning rasmiy
-      ilovasi bo‘lib, ishonchli platformaga qo‘shimcha ravishda rekreatsion o‘yinchilar uchun ajoyib muhit yaratadi.</p>
+      <p>GGPoker’ning rasmiy ilovasi boʻlmish ClubGG’dagi xalqaro Flamingoo ittifoqi tarkibiga kiruvchi Monkeys Paradise
+      klubidagi poker bitimi. Ishonchli platformaga qoʻshimcha ravishda, klub rekreatsion oʻyinchilar uchun ajoyib
+      maydon taklif etadi.</p>
 
 
       <h3>Ittifoq haqida</h3>
 
-      <p>Flamingoo — ClubGG va PokerBros platformalaridagi yetakchi ittifoqlardan biri, Amerika bozoriga yo‘naltirilgan.
-      2020 yilda tashkil topgan va barcha darajadagi o‘yinchilar uchun ishonchli hamkor sifatida obro‘ to‘plagan.</p>
+      <p>Flamingoo — ClubGG va PokerBros platformalaridagi yetakchi ittifoqlardan biri boʻlib, Amerika bozoriga
+      ixtisoslashgan. Ittifoq 2020 yilda tashkil etilgan va barcha darajadagi oʻyinchilar uchun ishonchli hamkor
+      sifatida oʻzini namoyon qilgan.</p>
 
-      <p>Mavjud o‘yinlar: NLH, PLO4/5/6 va MTT. Sutka davomida faol stollar mavjud.</p>
+      <p>Mavjud intizomlar: NLH, PLO4/5/6, MTT. Faol oʻyin sutka davomida boradi.</p>
 
 
       <h3>Bitim haqida</h3>
 
-      <p>O‘yinchilar quyidagi variantlardan birini tanlashi mumkin:</p>
+      <p>Oʻyinchilar tanlash uchun quyidagilarga ega:</p>
 
       <ul>
 
-      <li><strong>60% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
+      <li><strong>60% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
 
-      <li><strong>Sobit rakebek 30%</strong> — darhol barqaror foiz, keyin xohlansa dinamik rejimga o‘tish mumkin.</li>
+      <li><strong>Qatʼiy reyk-bek 30%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash
+      imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
 
       </ul>
     srcHash: 352ebb4e8ac8
@@ -386,7 +389,7 @@ i18n:
       <h3>תיאור</h3>
 
       <p>דיל פוקר במועדון Monkeys Paradise, החבר באיחוד הבינלאומי Flamingoo ב-ClubGG — האפליקציה הרשמית של GGPoker. מעבר
-      לפלטפורמה אמינה, המועדון מציע זירה מצוינת לשחקנים רקרייישנליים.</p>
+      לפלטפורמה אמינה, המועדון מציע זירה מצוינת לשחקנים חובבים.</p>
 
 
       <h3>על האיחוד</h3>
@@ -412,7 +415,7 @@ i18n:
   ar:
     name: صفقة في اتحاد Flamingoo على ClubGG
     description: >-
-      صفقة في اتحاد Flamingoo على ClubGG. ريك باك مرتفع يصل إلى 55% ولعب نشط على مدار الساعة في جميع الصيغ. تعمل PDH
+      صفقة في اتحاد Flamingoo على ClubGG. ريكباك مرتفع يصل إلى 55% ولعب نشط على مدار الساعة في جميع الصيغ. تعمل PDH
       كوكيل وضامن للمدفوعات.
     geo: الولايات المتحدة
     body: >-
@@ -436,9 +439,9 @@ i18n:
 
       <ul>
 
-      <li><strong>ريك باك ديناميكي يصل إلى 60%</strong> يعتمد الريك باك على حجم الريك الأسبوعي لديك.</li>
+      <li><strong>ريكباك ديناميكي يصل إلى 60%</strong> يعتمد الريكباك على حجم الريك الأسبوعي لديك.</li>
 
-      <li><strong>ريك باك ثابت 30%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا الانتقال إلى الخيار
+      <li><strong>ريكباك ثابت 30%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا الانتقال إلى الخيار
       الديناميكي.</li>
 
       </ul>
@@ -453,7 +456,7 @@ i18n:
       <h3>Deskripsi</h3>
 
       <p>Deal poker di klub Monkeys Paradise, yang tergabung dalam union internasional Flamingoo di ClubGG — aplikasi
-      resmi dari GGPoker. Selain platform yang andal, klub ini menawarkan lapangan yang bagus untuk pemain
+      resmi dari GGPoker. Selain platform yang andal, klub ini menawarkan field yang bagus untuk pemain
       rekreasional.</p>
 
 
@@ -479,35 +482,36 @@ i18n:
       </ul>
     srcHash: 352ebb4e8ac8
   vi:
-    name: Deal tại union Flamingoo trên ClubGG
+    name: Kèo tại liên minh Flamingoo trên ClubGG
     description: >-
-      Deal tại union Flamingoo trên ClubGG. Rakeback cao tới 55% và bàn chơi sôi động 24/7 ở mọi thể loại. PDH đóng vai
-      trò đại lý và bên bảo đảm thanh toán.
+      Kèo tại liên minh Flamingoo trên ClubGG. Rakeback cao tới 55% và bàn chơi sôi động suốt ngày đêm ở mọi thể loại.
+      PDH đóng vai trò đại lý và bên bảo đảm thanh toán.
     geo: Mỹ
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Deal poker tại club Monkeys Paradise, thuộc union quốc tế Flamingoo trên ClubGG — ứng dụng chính thức của
-      GGPoker. Bên cạnh một nền tảng đáng tin cậy, club mang đến môi trường tuyệt vời cho người chơi giải trí.</p>
+      <p>Kèo poker tại câu lạc bộ Monkeys Paradise, thuộc liên minh quốc tế Flamingoo trên ClubGG — ứng dụng chính thức
+      của GGPoker. Bên cạnh một nền tảng đáng tin cậy, câu lạc bộ còn mang đến môi trường tuyệt vời cho người chơi giải
+      trí.</p>
 
 
-      <h3>Về union</h3>
+      <h3>Về liên minh</h3>
 
-      <p>Flamingoo là một trong những union hàng đầu trên nền tảng ClubGG và PokerBros, tập trung vào thị trường Mỹ.
-      Thành lập năm 2020, union đã tạo dựng uy tín là đối tác đáng tin cậy cho người chơi ở mọi trình độ.</p>
+      <p>Flamingoo là một trong những liên minh hàng đầu trên nền tảng ClubGG và PokerBros, tập trung vào thị trường Mỹ.
+      Thành lập năm 2020, liên minh đã tạo dựng uy tín là đối tác đáng tin cậy cho người chơi ở mọi trình độ.</p>
 
       <p>Các thể loại có sẵn: NLH, PLO4/5/6, MTT. Bàn chơi sôi động suốt ngày đêm.</p>
 
 
-      <h3>Về deal</h3>
+      <h3>Về kèo</h3>
 
-      <p>Người chơi có thể chọn giữa:</p>
+      <p>Người chơi được lựa chọn giữa:</p>
 
       <ul>
 
-      <li><strong>Rakeback động tới 60%</strong> Mức rakeback phụ thuộc vào khối lượng rake hàng tuần của bạn.</li>
+      <li><strong>Rakeback động lên đến 60%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
 
-      <li><strong>Rakeback cố định 30%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Sau này bạn có thể chuyển
+      <li><strong>Rakeback cố định 30%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển
       sang phương án động.</li>
 
       </ul>

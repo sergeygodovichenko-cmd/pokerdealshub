@@ -210,50 +210,50 @@ i18n:
                 Our goal is to create a transparent and convenient platform for finding poker deals. We don't charge players
                 any commission and work only with verified partners. All featured deals are available for players from
                 different regions, no KYC required. <a href="/en/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
-      >Pick you poker deal</a>.
+      >Pick your poker deal</a>.
               </p>
             </div>
     srcHash: 8e6819f2d4fb
   uz:
-    title: PokerDealsHub haqida
-    description: PokerDealsHub — markazlashgan va klub asosidagi takliflarni birlashtiruvchi mustaqil poker bitimlari vitrinasidir
+    title: PokerDealsHub loyihasi haqida
+    description: PokerDealsHub — markazlashgan va markazlashmagan takliflarni birlashtiruvchi mustaqil poker bitimlari vitrinasi
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                PokerDealsHub — mustaqil poker bitimlari vitrinasidir, u markazlashgan va klub tizimidagi takliflarni butun dunyo bo'ylab o'yinchilar va agentlar uchun birlashtiradi.
+                PokerDealsHub — bu butun dunyo boʻylab oʻyinchilar va agentlar uchun markazlashgan va markazlashmagan takliflarni birlashtiruvchi mustaqil poker bitimlari vitrinasi.
               </p>
 
-              <h2 class="text-2xl font-semibold text-gold mb-4">Bizning tamoyillar</h2>
+              <h2 class="text-2xl font-semibold text-gold mb-4">Bizning tamoyillarimiz</h2>
               <ul class="space-y-3 text-neutral-300">
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Tekshirilgan bitimlar:</strong> Har bir taklif e’lon qilinishidan oldin qo‘lda tekshiriladi</span>
+                  <span><strong class="text-neutral-100">Tekshirilgan bitimlar:</strong> Barcha takliflar eʼlon qilinishidan oldin tekshiruvdan oʻtadi</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Shaffof shartlar:</strong> Rakebek va shartlar bo‘yicha to‘liq va tushunarli ma’lumot</span>
+                  <span><strong class="text-neutral-100">Shaffof shartlar:</strong> Reyk-bek va shartlar haqida toʻliq maʼlumot</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Xalqaro yondashuv:</strong> Barcha mintaqalardagi o‘yinchilar uchun mos bitimlar</span>
+                  <span><strong class="text-neutral-100">Xalqaro yondashuv:</strong> Dunyoning barcha mintaqalaridagi oʻyinchilar uchun bitimlar</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Hamkorlikka ochiqmiz:</strong> Klublar va ittifoqlar bilan to‘g‘ridan-to‘g‘ri ishlaymiz</span>
+                  <span><strong class="text-neutral-100">Hamkorlikka ochiqlik:</strong> Klublar va ittifoqlar bilan toʻgʻridan-toʻgʻri ishlaymiz</span>
                 </li>
               </ul>
             </div>
 
             <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
-              <h2 class="text-2xl font-semibold text-gold mb-6">Kontaktlar</h2>
+              <h2 class="text-2xl font-semibold text-gold mb-6">Aloqa</h2>
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
@@ -282,7 +282,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">WhatsApp</p>
-                    <p class="text-sm text-neutral-400">Open chat</p>
+                    <p class="text-sm text-neutral-400">Chatni ochish</p>
                   </div>
                 </a>
 
@@ -302,21 +302,21 @@ i18n:
 
               <div class="mt-8 pt-8 border-t border-neutral-800">
                 <p class="text-neutral-300 mb-4">
-                  Agar siz ittifoq yoki agentlik tarmog‘ini vakillik qilayotgan bo‘lsangiz va taklifingizni saytga joylamoqchi bo‘lsangiz:
+                  Agar siz ittifoq yoki agentlik tarmogʻini vakil qilsangiz va oʻz bitimingizni saytda joylashtirmoqchi boʻlsangiz:
                 </p>
                 <a
                   href="/uz/add-deal/"
                   class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
-                  Bitim qo‘shish
+                  Bitim qoʻshish
                 </a>
               </div>
             </div>
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300">
-                Maqsadimiz — poker bitimlarini topish uchun shaffof va qulay platforma yaratish. Biz o‘yinchilardan hech qanday komissiya olmaymiz va faqat tekshirilgan hamkorlar bilan ishlaymiz. Barcha bitimlar turli mintaqalardagi o‘yinchilar uchun, KYC talab qilinmaydi. <a href="/uz/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
-      >Bitimni tanlang</a>.
+                Maqsadimiz — poker bitimlarini izlash uchun shaffof va qulay platforma yaratish. Biz oʻyinchilardan komissiya olmaymiz va faqat tekshirilgan hamkorlar bilan ishlaymiz. Taqdim etilgan barcha bitimlar turli mintaqalardagi oʻyinchilar uchun va KYC identifikatsiyasisiz mavjud. <a href="/uz/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+      >Oʻz poker bitimingizni tanlang</a>.
               </p>
             </div>
     srcHash: 8e6819f2d4fb
@@ -642,11 +642,11 @@ i18n:
     srcHash: 8e6819f2d4fb
   es:
     title: Sobre el proyecto PokerDealsHub
-    description: "PokerDealsHub: un escaparate independiente de deals de poker que reúne ofertas centralizadas y descentralizadas"
+    description: "PokerDealsHub: un escaparate independiente de deals de póker que reúne ofertas centralizadas y descentralizadas"
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                PokerDealsHub es un escaparate independiente de deals de poker que reúne ofertas centralizadas y descentralizadas para jugadores y agentes de todo el mundo.
+                PokerDealsHub es un escaparate independiente de deals de póker que reúne ofertas centralizadas y descentralizadas para jugadores y agentes de todo el mundo.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Nuestros principios</h2>
@@ -655,25 +655,25 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Deals verificados:</strong> Todas las ofertas se verifican antes de su publicación</span>
+                  <span><strong class="text-neutral-100">Deals verificados:</strong> todas las ofertas se verifican antes de publicarse</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Condiciones transparentes:</strong> Información completa sobre el rakeback y las condiciones</span>
+                  <span><strong class="text-neutral-100">Condiciones transparentes:</strong> información completa sobre el rakeback y las condiciones</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Enfoque internacional:</strong> Deals para jugadores de todas las regiones del mundo</span>
+                  <span><strong class="text-neutral-100">Enfoque internacional:</strong> deals para jugadores de todas las regiones del mundo</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Abiertos a colaboraciones:</strong> Trabajamos directamente con clubes y uniones</span>
+                  <span><strong class="text-neutral-100">Abiertos a colaboraciones:</strong> trabajamos directamente con clubes y uniones</span>
                 </li>
               </ul>
             </div>
@@ -741,18 +741,18 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300">
-                Nuestro objetivo es crear una plataforma transparente y cómoda para encontrar deals de poker. No cobramos comisión a los jugadores y trabajamos solo con socios verificados. Todos los deals presentados están disponibles para jugadores de distintas regiones, sin identificación KYC. <a href="/es/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
-          >Elige tu deal de poker</a>.
+                Nuestro objetivo es crear una plataforma transparente y cómoda para encontrar deals de póker. No cobramos comisión a los jugadores y trabajamos únicamente con socios verificados. Todos los deals presentados están disponibles para jugadores de distintas regiones y sin identificación KYC. <a href="/es/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+          >Elige tu deal de póker</a>.
               </p>
             </div>
     srcHash: 8e6819f2d4fb
   pt:
     title: Sobre o projeto PokerDealsHub
-    description: "PokerDealsHub: uma vitrine independente de deals de poker que reúne ofertas centralizadas e descentralizadas"
+    description: "PokerDealsHub: uma vitrine independente de ofertas de poker que reúne ofertas centralizadas e descentralizadas"
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                O PokerDealsHub é uma vitrine independente de deals de poker que reúne ofertas centralizadas e descentralizadas para jogadores e agentes do mundo todo.
+                O PokerDealsHub é uma vitrine independente de ofertas de poker que reúne ofertas centralizadas e descentralizadas para jogadores e agentes do mundo todo.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Nossos princípios</h2>
@@ -761,7 +761,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Deals verificados:</strong> Todas as ofertas são verificadas antes da publicação</span>
+                  <span><strong class="text-neutral-100">Ofertas verificadas:</strong> Todas as ofertas são verificadas antes da publicação</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -773,7 +773,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Abordagem internacional:</strong> Deals para jogadores de todas as regiões do mundo</span>
+                  <span><strong class="text-neutral-100">Abordagem internacional:</strong> Ofertas para jogadores de todas as regiões do mundo</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -834,21 +834,21 @@ i18n:
 
               <div class="mt-8 pt-8 border-t border-neutral-800">
                 <p class="text-neutral-300 mb-4">
-                  Se você representa uma união ou uma rede de agentes e quer divulgar o seu deal no site:
+                  Se você representa uma união ou uma rede de agentes e quer divulgar o seu oferta no site:
                 </p>
                 <a
                   href="/pt/add-deal/"
                   class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
-                  Adicionar deal
+                  Adicionar oferta
                 </a>
               </div>
             </div>
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300">
-                Nosso objetivo é criar uma plataforma transparente e prática para encontrar deals de poker. Não cobramos comissão dos jogadores e trabalhamos apenas com parceiros verificados. Todos os deals apresentados estão disponíveis para jogadores de diferentes regiões, sem identificação KYC. <a href="/pt/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
-          >Escolha o seu deal de poker</a>.
+                Nosso objetivo é criar uma plataforma transparente e prática para encontrar ofertas de poker. Não cobramos comissão dos jogadores e trabalhamos apenas com parceiros verificados. Todos as ofertas apresentadas estão disponíveis para jogadores de diferentes regiões, sem identificação KYC. <a href="/pt/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+          >Escolha o seu oferta de poker</a>.
               </p>
             </div>
     srcHash: 8e6819f2d4fb
@@ -964,7 +964,7 @@ i18n:
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                PokerDealsHub, merkezi ve merkeziyetsiz teklifleri dünyanın her yerindeki oyuncular ve agentler için bir araya getiren bağımsız bir poker anlaşmaları vitrinidir.
+                PokerDealsHub, merkezi ve merkeziyetsiz teklifleri dünyanın her yerindeki oyuncular ve aracılar için bir araya getiren bağımsız bir poker anlaşmaları vitrinidir.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">İlkelerimiz</h2>
@@ -991,7 +991,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">İş birliğine açığız:</strong> Kulüpler ve union'larla doğrudan çalışıyoruz</span>
+                  <span><strong class="text-neutral-100">İş birliğine açığız:</strong> Kulüpler ve birliklerle doğrudan çalışıyoruz</span>
                 </li>
               </ul>
             </div>
@@ -1046,7 +1046,7 @@ i18n:
 
               <div class="mt-8 pt-8 border-t border-neutral-800">
                 <p class="text-neutral-300 mb-4">
-                  Bir union veya agent ağını temsil ediyorsanız ve anlaşmanızı sitede yayınlamak istiyorsanız:
+                  Bir birliği veya aracı ağını temsil ediyorsanız ve anlaşmanızı sitede yayınlamak istiyorsanız:
                 </p>
                 <a
                   href="/tr/add-deal/"
@@ -1066,11 +1066,11 @@ i18n:
     srcHash: 8e6819f2d4fb
   he:
     title: אודות הפרויקט PokerDealsHub
-    description: PokerDealsHub — חלון ראווה עצמאי לעסקאות פוקר, המאגד הצעות מרוכזות ומבוזרות
-    body: |-
+    description: PokerDealsHub — חלון ראווה עצמאי לדילים בפוקר, המאגד הצעות מרוכזות ומבוזרות
+    body: |
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                PokerDealsHub הוא חלון ראווה עצמאי לעסקאות פוקר, המאגד הצעות מרוכזות ומבוזרות עבור שחקנים וסוכנים מכל העולם.
+                PokerDealsHub הוא חלון ראווה עצמאי לדילים בפוקר, המאגד הצעות מרוכזות ומבוזרות עבור שחקנים וסוכנים מכל רחבי העולם.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">העקרונות שלנו</h2>
@@ -1079,7 +1079,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">עסקאות מאומתות:</strong> כל ההצעות עוברות בדיקה לפני הפרסום</span>
+                  <span><strong class="text-neutral-100">דילים מאומתים:</strong> כל ההצעות עוברות בדיקה לפני הפרסום</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -1091,13 +1091,13 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">גישה בינלאומית:</strong> עסקאות לשחקנים מכל אזורי העולם</span>
+                  <span><strong class="text-neutral-100">גישה בינלאומית:</strong> דילים לשחקנים מכל אזורי העולם</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">פתיחות לשותפויות:</strong> אנו עובדים ישירות עם מועדונים ואיגודים</span>
+                  <span><strong class="text-neutral-100">פתיחות לשיתופי פעולה:</strong> אנו עובדים ישירות עם מועדונים ואיחודים</span>
                 </li>
               </ul>
             </div>
@@ -1132,7 +1132,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">WhatsApp</p>
-                    <p class="text-sm text-neutral-400">פתח צ׳אט</p>
+                    <p class="text-sm text-neutral-400">פתח צ'אט</p>
                   </div>
                 </a>
 
@@ -1152,21 +1152,21 @@ i18n:
 
               <div class="mt-8 pt-8 border-t border-neutral-800">
                 <p class="text-neutral-300 mb-4">
-                  אם אתם מייצגים איגוד או רשת סוכנים ורוצים לפרסם את העסקה שלכם באתר:
+                  אם אתה מייצג איחוד או רשת סוכנים ומעוניין לפרסם את הדיל שלך באתר:
                 </p>
                 <a
                   href="/he/add-deal/"
                   class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
-                  הוסף עסקה
+                  הוסף דיל
                 </a>
               </div>
             </div>
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300">
-                המטרה שלנו היא ליצור פלטפורמה שקופה ונוחה לחיפוש עסקאות פוקר. איננו גובים עמלה מהשחקנים ועובדים רק עם שותפים מאומתים. כל העסקאות המוצגות זמינות לשחקנים מאזורים שונים, וללא אימות KYC. <a href="/he/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
-      >בחר את עסקת הפוקר שלך</a>.
+                המטרה שלנו היא ליצור פלטפורמה שקופה ונוחה לחיפוש דילים בפוקר. איננו גובים עמלה מהשחקנים ועובדים רק עם שותפים מאומתים. כל הדילים המוצגים זמינים לשחקנים מאזורים שונים, וללא אימות KYC. <a href="/he/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+      >בחר את דיל הפוקר שלך</a>.
               </p>
             </div>
     srcHash: 8e6819f2d4fb
@@ -1191,7 +1191,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">شروط شفافة:</strong> معلومات كاملة عن الريك باك والشروط</span>
+                  <span><strong class="text-neutral-100">شروط شفافة:</strong> معلومات كاملة عن الريكباك والشروط</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -1277,7 +1277,7 @@ i18n:
             </div>
     srcHash: 8e6819f2d4fb
   id:
-    title: Tentang proyek PokerDealsHub
+    title: Tentang PokerDealsHub
     description: PokerDealsHub — etalase deal poker independen yang menyatukan penawaran tersentralisasi dan terdesentralisasi
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
@@ -1297,19 +1297,19 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Syarat transparan:</strong> Informasi lengkap tentang rakeback dan syarat</span>
+                  <span><strong class="text-neutral-100">Ketentuan transparan:</strong> Informasi lengkap tentang rakeback dan ketentuannya</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Pendekatan internasional:</strong> Deal untuk pemain dari semua wilayah dunia</span>
+                  <span><strong class="text-neutral-100">Pendekatan internasional:</strong> Deal untuk pemain dari semua wilayah di dunia</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Terbuka untuk kemitraan:</strong> Kami bekerja langsung dengan klub dan union</span>
+                  <span><strong class="text-neutral-100">Terbuka untuk kemitraan:</strong> Kami bekerja sama langsung dengan klub dan union</span>
                 </li>
               </ul>
             </div>
@@ -1364,7 +1364,7 @@ i18n:
 
               <div class="mt-8 pt-8 border-t border-neutral-800">
                 <p class="text-neutral-300 mb-4">
-                  Jika Anda mewakili union atau jaringan agen dan ingin menampilkan deal Anda di situs:
+                  Jika Anda mewakili union atau jaringan agen dan ingin menampilkan deal Anda di situs ini:
                 </p>
                 <a
                   href="/id/add-deal/"
@@ -1377,18 +1377,18 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300">
-                Tujuan kami adalah menciptakan platform yang transparan dan nyaman untuk mencari deal poker. Kami tidak memungut komisi dari pemain dan hanya bekerja dengan mitra terverifikasi. Semua deal yang ditampilkan tersedia untuk pemain dari berbagai wilayah, tanpa verifikasi KYC. <a href="/id/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+                Tujuan kami adalah membangun platform yang transparan dan mudah digunakan untuk mencari deal poker. Kami tidak memungut komisi dari pemain dan hanya bekerja sama dengan mitra terverifikasi. Semua deal yang ditampilkan tersedia untuk pemain dari berbagai wilayah, tanpa verifikasi KYC. <a href="/id/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
       >Pilih deal poker Anda</a>.
               </p>
             </div>
     srcHash: 8e6819f2d4fb
   vi:
     title: Về dự án PokerDealsHub
-    description: PokerDealsHub — sàn trưng bày deal poker độc lập, tập hợp các ưu đãi tập trung và phi tập trung
+    description: PokerDealsHub — sàn giới thiệu kèo poker độc lập, tập hợp các ưu đãi tập trung và phi tập trung
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                PokerDealsHub là sàn trưng bày deal poker độc lập, tập hợp các ưu đãi tập trung và phi tập trung dành cho người chơi và đại lý trên toàn thế giới.
+                PokerDealsHub là sàn giới thiệu kèo poker độc lập, tập hợp các ưu đãi tập trung và phi tập trung dành cho người chơi và đại lý trên toàn thế giới.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Nguyên tắc của chúng tôi</h2>
@@ -1397,25 +1397,25 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Deal đã xác minh:</strong> Tất cả ưu đãi đều được kiểm tra trước khi đăng</span>
+                  <span><strong class="text-neutral-100">Kèo đã được kiểm chứng:</strong> Mọi ưu đãi đều được kiểm tra trước khi đăng tải</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Điều khoản minh bạch:</strong> Thông tin đầy đủ về rakeback và điều kiện</span>
+                  <span><strong class="text-neutral-100">Điều kiện minh bạch:</strong> Thông tin đầy đủ về rakeback và các điều kiện</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Cách tiếp cận quốc tế:</strong> Deal cho người chơi từ mọi khu vực trên thế giới</span>
+                  <span><strong class="text-neutral-100">Tầm nhìn quốc tế:</strong> Kèo dành cho người chơi từ mọi khu vực trên thế giới</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Cởi mở với hợp tác:</strong> Chúng tôi làm việc trực tiếp với các club và union</span>
+                  <span><strong class="text-neutral-100">Cởi mở hợp tác:</strong> Chúng tôi làm việc trực tiếp với các câu lạc bộ và liên minh</span>
                 </li>
               </ul>
             </div>
@@ -1450,7 +1450,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">WhatsApp</p>
-                    <p class="text-sm text-neutral-400">Mở chat</p>
+                    <p class="text-sm text-neutral-400">Mở cửa sổ trò chuyện</p>
                   </div>
                 </a>
 
@@ -1470,28 +1470,30 @@ i18n:
 
               <div class="mt-8 pt-8 border-t border-neutral-800">
                 <p class="text-neutral-300 mb-4">
-                  Nếu bạn đại diện cho một union hoặc mạng lưới đại lý và muốn đăng deal của mình lên trang web:
+                  Nếu bạn đại diện cho một liên minh hoặc mạng lưới đại lý và muốn đăng kèo của mình lên trang web:
                 </p>
                 <a
                   href="/vi/add-deal/"
                   class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
-                  Thêm Deal
+                  Thêm kèo
                 </a>
               </div>
             </div>
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300">
-                Mục tiêu của chúng tôi là tạo ra một nền tảng minh bạch và tiện lợi để tìm deal poker. Chúng tôi không thu hoa hồng từ người chơi và chỉ hợp tác với các đối tác đã được xác minh. Tất cả deal được giới thiệu đều dành cho người chơi từ nhiều khu vực khác nhau, không cần xác minh KYC. <a href="/vi/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
-      >Chọn deal poker của bạn</a>.
+                Mục tiêu của chúng tôi là tạo ra một nền tảng minh bạch và tiện lợi để tìm kèo poker. Chúng tôi không thu phí từ
+                người chơi và chỉ hợp tác với các đối tác đã được kiểm chứng. Mọi kèo được giới thiệu đều dành cho người chơi từ
+                nhiều khu vực khác nhau, và không cần xác minh KYC. <a href="/vi/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+      >Hãy chọn kèo poker của bạn</a>.
               </p>
             </div>
     srcHash: 8e6819f2d4fb
   fil:
-    title: Tungkol sa proyektong PokerDealsHub
+    title: Tungkol sa PokerDealsHub
     description: >-
-      PokerDealsHub — isang independent na showcase ng mga poker deal na pinagsasama ang sentralisado at
+      Ang PokerDealsHub ay isang independent na showcase ng mga poker deal na pinagsasama ang sentralisado at
       desentralisadong mga alok
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
@@ -1505,7 +1507,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Mga na-verify na deal:</strong> Lahat ng alok ay sinusuri bago i-publish</span>
+                  <span><strong class="text-neutral-100">Mga na-verify na deal:</strong> Sinusuri ang lahat ng alok bago i-publish</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -1517,19 +1519,19 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Internasyonal na pamamaraan:</strong> Mga deal para sa mga manlalaro mula sa lahat ng rehiyon ng mundo</span>
+                  <span><strong class="text-neutral-100">Internasyonal na pananaw:</strong> Mga deal para sa mga manlalaro mula sa lahat ng rehiyon sa mundo</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Bukas sa pakikipagtulungan:</strong> Direkta kaming nakikipagtulungan sa mga club at union</span>
+                  <span><strong class="text-neutral-100">Bukas sa pakikipagsosyo:</strong> Direkta kaming nakikipagtransaksyon sa mga club at union</span>
                 </li>
               </ul>
             </div>
 
             <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
-              <h2 class="text-2xl font-semibold text-gold mb-6">Kontak</h2>
+              <h2 class="text-2xl font-semibold text-gold mb-6">Mga Contact</h2>
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
@@ -1578,7 +1580,7 @@ i18n:
 
               <div class="mt-8 pt-8 border-t border-neutral-800">
                 <p class="text-neutral-300 mb-4">
-                  Kung kumakatawan ka sa isang union o agent network at nais mong i-list ang iyong deal sa site:
+                  Kung kumakatawan ka sa isang union o agent network at gusto mong i-list ang iyong deal sa site:
                 </p>
                 <a
                   href="/fil/add-deal/"
@@ -1591,7 +1593,7 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300">
-                Ang aming layunin ay lumikha ng transparent at maginhawang platform para sa paghahanap ng mga poker deal. Hindi kami naniningil ng komisyon sa mga manlalaro at nakikipagtulungan lamang sa mga na-verify na partner. Lahat ng ipinakitang deal ay available para sa mga manlalaro mula sa iba't ibang rehiyon, nang walang KYC verification. <a href="/fil/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+                Ang aming layunin ay lumikha ng transparent at madaling gamitin na platform para sa paghahanap ng mga poker deal. Hindi kami naniningil ng komisyon sa mga manlalaro at nakikipagtransaksyon lamang kami sa mga na-verify na partner. Available para sa mga manlalaro mula sa iba't ibang rehiyon ang lahat ng ipinakitang deal, at walang KYC identification. <a href="/fil/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
       >Piliin ang iyong poker deal</a>.
               </p>
             </div>

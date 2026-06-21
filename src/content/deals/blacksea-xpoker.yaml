@@ -30,7 +30,9 @@ bonus: ""
 i18n:
   en:
     name: Black Sea Union Deal on X-Poker
-    description: PDH deal in Black Sea union on X-Poker. Quality games with good conditions for CIS players.
+    description: >-
+      A PDH deal in the Black Sea union on X-Poker. A good player pool, convenient hours for CIS players, and stable
+      lineups that aren’t overloaded with regs.
     geo: CIS
     body: >-
       <h3>Description</h3>
@@ -55,7 +57,7 @@ i18n:
       <p>Players can choose between:</p>
 
       <ul>
-        <li><strong>Dynamic rakeback up to 70%</strong> The rakeback rate depends on your weekly rake volume.</li>
+        <li><strong>Dynamic rakeback up to 70%</strong> — The rakeback rate depends on your weekly rake volume.</li>
         <li><strong>Fixed rakeback 40%</strong> Start playing with an advantage right after registration. You can later switch to a dynamic rakeback model.</li>
       </ul>
     srcHash: 8dad5890e802
@@ -68,7 +70,7 @@ i18n:
     body: >-
       <h3>Descripción</h3>
 
-      <p>Oferta de poker en el club PDH BlackSea (id del club: 2445928), que forma parte de la gran unión de la CEI
+      <p>Oferta de póker en el club PDH BlackSea (id del club: 2445928), que forma parte de la gran unión de la CEI
       Black Sea en la plataforma X-Poker. El club pertenece a PokerDealsHub, lo que garantiza tu seguridad y un servicio
       al cliente de primer nivel 24/7.</p>
 
@@ -94,32 +96,37 @@ i18n:
       </ul>
     srcHash: 8dad5890e802
   uz:
-    name: Black Sea ittifoqi bitimi — X-Poker
-    description: PDH bitimi Black Sea ittifoqida. MDH o'yinchilari uchun qulay sharoit va sifatli o'yinlar.
-    geo: Kislota
+    name: X-Poker’dagi Black Sea ittifoqida bitim
+    description: >-
+      PDH’ning X-Poker’dagi Black Sea ittifoqidagi bitimi. Yaxshi havza, MDH oʻyinchilari uchun qulay vaqt, regulyarlar
+      bilan ortiqcha toʻlib ketmagan barqaror tarkiblar.
+    geo: MDH
     body: >-
       <h3>Tavsif</h3>
 
-      <p>X-Poker platformasidagi yirik MDH ittifoqi Black Sea tarkibiga kiruvchi PDH BlackSea klubida (ID 2445928)
-      bitim. Klub PokerDealsHub tasarrufida, bu esa xavfsizlik va 24/7 xizmatni kafolatlaydi.</p>
+      <p>X-Poker platformasidagi yirik MDH ittifoqi Black Sea tarkibiga kiruvchi PDH BlackSea klubidagi (klub ID:
+      2445928) poker bitimi. Klub PokerDealsHub tasarrufida boʻlib, bu sizning xavfsizligingizni va eng yuqori
+      darajadagi 24/7 mijozlar xizmatini kafolatlaydi.</p>
 
 
       <h3>Ittifoq haqida</h3>
 
-      <p>Black Sea — X-Poker platformasidagi mashhur ittifoq, asosan MDH o‘yinchilariga yo‘naltirilgan. Keng turdagi
-      stollar va formatlar, kun davomida barqaror trafik mavjud.</p>
+      <p>Black Sea — X-Poker platformasidagi mashhur ittifoq boʻlib, MDH mamlakatlari oʻyinchilariga ixtisoslashgan.
+      Ittifoq keng tanlovdagi stollar va oʻyin formatlarini taklif etadi, trafik esa kun davomida barqaror yuqori
+      boʻladi.</p>
 
-      <p>Mavjud formatlar: MTT, NLH, OFC, PLO4/5/6, Short Deck (6+), shuningdek Double Board va Bomb Pot. Barcha
-      stavkalarda sutka davomida o‘yin bor, pik vaqt 11:00–19:00 UTC.</p>
+      <p>Mavjud intizomlar: MTT, NLH, OFC, PLO4/5/6, Short Deck (6+), shuningdek Double Board va Bomb Pot
+      variatsiyalari. Sutkaning istalgan vaqtida barcha limitlarda oʻyin topish mumkin. Faollik choʻqqisi GMT+3 boʻyicha
+      14:00–22:00 ga toʻgʻri keladi.</p>
 
 
       <h3>Bitim haqida</h3>
 
-      <p>O‘yinchilar quyidagilarni tanlashi mumkin:</p>
+      <p>Oʻyinchilar tanlash uchun quyidagilarga ega:</p>
 
       <ul>
-        <li><strong>70% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
-        <li><strong>Sobit rakebek 40%</strong> — ro‘yxatdan o‘tgan zahoti barqaror foiz, keyin xohlansa dinamik modelga o‘tish mumkin.</li>
+        <li><strong>70% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
+        <li><strong>Qatʼiy reyk-bek 40%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
       </ul>
     srcHash: 8dad5890e802
   uk:
@@ -341,13 +348,13 @@ i18n:
       </ul>
     srcHash: 8dad5890e802
   he:
-    name: סלקה באיחוד Black Sea ב-X-Poker
-    description: סלקה מבית PDH באיחוד Black Sea ב-X-Poker. פול טוב, זמן נוח לשחקנים מ-CIS, הרכבים יציבים ללא עומס יתר של רגולרים.
-    geo: CIS
+    name: דיל באיחוד Black Sea ב-X-Poker
+    description: דיל מבית PDH באיחוד Black Sea ב-X-Poker. פול טוב, זמן נוח לשחקנים מ-CIS, הרכבים יציבים ללא עומס יתר של רגולרים.
+    geo: חבר העמים
     body: >-
       <h3>תיאור</h3>
 
-      <p>סלקת פוקר במועדון PDH BlackSea (id מועדון: 2445928), שחבר באיחוד CIS הגדול Black Sea בפלטפורמת X-Poker. המועדון
+      <p>דיל פוקר במועדון PDH BlackSea (id מועדון: 2445928), שחבר באיחוד CIS הגדול Black Sea בפלטפורמת X-Poker. המועדון
       בבעלות PokerDealsHub, מה שמבטיח לך אבטחה ושירות לקוחות ברמה הגבוהה ביותר 24/7.</p>
 
 
@@ -360,7 +367,7 @@ i18n:
       ביממה אפשר למצוא משחק בכל הלימיטים. שיא הפעילות הוא בין 14:00 ל-22:00 לפי GMT+3.</p>
 
 
-      <h3>על הסלקה</h3>
+      <h3>על הדיל</h3>
 
       <p>לשחקנים מוצעות שתי אפשרויות לבחירה:</p>
 
@@ -372,20 +379,20 @@ i18n:
   ar:
     name: صفقة في اتحاد Black Sea على X-Poker
     description: >-
-      صفقة من PDH في اتحاد Black Sea على X-Poker. مجموعة لاعبين جيدة، وأوقات مناسبة للاعبين من دول CIS، وطاولات مستقرة
-      دون اكتظاظ بالمحترفين.
-    geo: CIS
+      صفقة من PDH في اتحاد Black Sea على X-Poker. مجموعة لاعبين جيدة، وأوقات مناسبة للاعبين من دول رابطة الدول المستقلة،
+      وطاولات مستقرة دون اكتظاظ بالمحترفين.
+    geo: رابطة الدول المستقلة
     body: >-
       <h3>الوصف</h3>
 
-      <p>صفقة بوكر في نادي PDH BlackSea (معرّف النادي: 2445928)، وهو جزء من اتحاد CIS الكبير Black Sea على منصة X-Poker.
-      النادي مملوك لـ PokerDealsHub، وهو ما يضمن أمانك وخدمة عملاء من أعلى مستوى على مدار الساعة.</p>
+      <p>صفقة بوكر في نادي PDH BlackSea (معرّف النادي: 2445928)، وهو جزء من اتحاد Black Sea الكبير لرابطة الدول المستقلة
+      على منصة X-Poker. النادي مملوك لـ PokerDealsHub، وهو ما يضمن أمانك وخدمة عملاء من أعلى مستوى على مدار الساعة.</p>
 
 
       <h3>عن الاتحاد</h3>
 
-      <p>Black Sea اتحاد شائع على منصة X-Poker، متخصص في اللاعبين من دول CIS. يقدّم الاتحاد تشكيلة واسعة من الطاولات
-      وأنماط اللعب مع حركة مرتفعة وثابتة في أي وقت من اليوم.</p>
+      <p>Black Sea اتحاد شائع على منصة X-Poker، متخصص في اللاعبين من دول رابطة الدول المستقلة. يقدّم الاتحاد تشكيلة
+      واسعة من الطاولات وأنماط اللعب مع حركة مرتفعة وثابتة في أي وقت من اليوم.</p>
 
       <p>الأنظمة المتاحة: MTT وNLH وOFC وPLO4/5/6 وShort Deck(6+)، بالإضافة إلى الأنماط: Double Board وBomb Pot. في أي
       وقت من اليوم يمكنك إيجاد لعب على جميع الحدود. تبلغ ذروة النشاط بين الساعة 14:00 و22:00 بتوقيت GMT+3.</p>
@@ -396,8 +403,8 @@ i18n:
       <p>يُتاح للاعبين الاختيار بين:</p>
 
       <ul>
-          <li><strong>رييك باك ديناميكي حتى 70%</strong> يعتمد الرييك باك على حجم الرييك الأسبوعي.</li>
-          <li><strong>رييك باك ثابت 40%</strong> احصل على فرصة بدء اللعب بأفضلية فور التسجيل. ويمكنك لاحقاً الانتقال إلى الديناميكي.</li>
+          <li><strong>ريكباك ديناميكي حتى 70%</strong> يعتمد الريكباك على حجم الريك الأسبوعي.</li>
+          <li><strong>ريكباك ثابت 40%</strong> احصل على فرصة بدء اللعب بأفضلية فور التسجيل. ويمكنك لاحقاً الانتقال إلى الديناميكي.</li>
       </ul>
     srcHash: 8dad5890e802
   id:
@@ -434,36 +441,37 @@ i18n:
       </ul>
     srcHash: 8dad5890e802
   vi:
-    name: Deal tại union Black Sea trên X-Poker
+    name: Kèo tại liên minh Black Sea trên X-Poker
     description: >-
-      Deal từ PDH tại union Black Sea trên X-Poker. Pool tốt, khung giờ thuận tiện cho người chơi từ CIS, các bàn ổn
-      định, không quá tải regular.
-    geo: CIS
+      Kèo từ PDH tại liên minh Black Sea trên X-Poker. Sân chơi tốt, khung giờ thuận tiện cho người chơi khối SNG, các
+      bàn ổn định và không bị quá tải dân chuyên.
+    geo: SNG
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Deal poker tại club PDH BlackSea (id club: 2445928), thuộc union CIS lớn Black Sea trên nền tảng X-Poker. Club
-      thuộc sở hữu của PokerDealsHub, đảm bảo sự an toàn cho bạn cùng dịch vụ chăm sóc khách hàng đẳng cấp cao nhất
-      24/7.</p>
+      <p>Kèo poker tại câu lạc bộ PDH BlackSea (id câu lạc bộ: 2445928), thuộc liên minh lớn của khối SNG là Black Sea
+      trên nền tảng X-Poker. Câu lạc bộ do PokerDealsHub sở hữu, đảm bảo an toàn cho bạn cùng dịch vụ chăm sóc khách
+      hàng đẳng cấp hàng đầu 24/7.</p>
 
 
-      <h3>Về union</h3>
+      <h3>Về liên minh</h3>
 
-      <p>Black Sea là một union phổ biến trên nền tảng X-Poker, chuyên về người chơi đến từ các nước CIS. Union mang đến
-      đa dạng bàn chơi và thể loại với traffic ổn định và cao vào bất kỳ thời điểm nào trong ngày.</p>
+      <p>Black Sea là một liên minh được ưa chuộng trên nền tảng X-Poker, chuyên phục vụ người chơi đến từ các nước SNG.
+      Liên minh mang đến nhiều lựa chọn bàn và thể loại với lượng người chơi luôn ổn định và đông đảo vào bất kỳ thời
+      điểm nào trong ngày.</p>
 
-      <p>Các thể loại có sẵn: MTT, NLH, OFC, PLO4/5/6, Short Deck(6+), cùng với các biến thể: Double Board và Bomb Pot.
-      Vào bất kỳ thời điểm nào trong ngày đều có thể tìm thấy bàn chơi ở mọi mức cược. Cao điểm hoạt động rơi vào khoảng
-      14:00 - 22:00 theo GMT+3.</p>
+      <p>Các thể loại có sẵn: MTT, NLH, OFC, PLO4/5/6, Short Deck (6+), cùng các biến thể: Double Board và Bomb Pot. Vào
+      bất kỳ thời điểm nào trong ngày đều có thể tìm thấy bàn chơi ở mọi mức cược. Cao điểm hoạt động rơi vào khoảng
+      14:00 – 22:00 theo giờ GMT+3.</p>
 
 
-      <h3>Về deal</h3>
+      <h3>Về kèo</h3>
 
       <p>Người chơi được lựa chọn giữa:</p>
 
       <ul>
-          <li><strong>Rakeback động lên đến 70%</strong> Rakeback phụ thuộc vào khối lượng rake hằng tuần.</li>
-          <li><strong>Rakeback cố định 40%</strong> Nhận cơ hội bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang mô hình động.</li>
+        <li><strong>Rakeback động lên đến 70%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
+        <li><strong>Rakeback cố định 40%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
       </ul>
     srcHash: 8dad5890e802
   fil:
