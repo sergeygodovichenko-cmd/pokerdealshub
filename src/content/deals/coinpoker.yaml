@@ -1,0 +1,51 @@
+app: CoinPoker
+club: "-"
+union: "-"
+logo: coinpoker_logo
+logoimage: /coinpoker_logo.webp
+logoalt: CoinPoker logo
+format: PLO
+type: Centralized
+rakeback: 33%
+fixrb: 33%
+affiliateLink: https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/
+featured: true
+order: 10
+badges:
+  - blockchain
+  - centralized
+  - soft
+  - verified
+ratings:
+  mtt: 4
+  cash: 4
+  plo: 4
+  nlh: 5
+name: Сделка в покер руме CoinPoker
+description: >-
+  Сделка в популярном приложении CoinPoker с централизованной кассой и автоматическим процессингом ввода/вывода средств.
+  Много рекреационных игроков из Азии.
+geo: Глобал, Азия, США
+bonus: +150% на 1й депозит
+i18n:
+  en:
+    name: Deal in CoinPoker poker room
+    description: >-
+      Deal in the popular CoinPoker app with a centralized cashier and automatic deposit/withdrawal processing. Many
+      recreational players from Asia.
+    geo: Global, Asia, USA
+    bonus: +150% on 1st deposit
+  es:
+    name: Oferta de la CoinPoker
+    description: >-
+      Oferta en la popular aplicación CoinPoker con caja centralizada y procesamiento automático de depósitos y retiros.
+      Muchos jugadores recreativos de Asia.
+    geo: Global, Asia, USA
+    bonus: +150% en el 1er depósito
+  uz:
+    name: CoinPoker xonasida bitim
+    description: >-
+      Markazlashgan kassa va avtomatik kiritish/chiqarish bilan mashhur CoinPoker ilovasida bitim. Osiyodan ko'plab
+      rekreatsion o'yinchilar.
+    geo: Global, Osiyo, AQSh
+    bonus: 1-depozitga +150%

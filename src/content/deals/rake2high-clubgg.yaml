@@ -1,0 +1,45 @@
+app: ClubGG
+club: Rake2Win
+union: Rake2High
+logo: pokerbros_logo
+logoimage: /clubGG_logo.webp
+logoalt: ClubGG logo
+format: PLO
+type: Decentralized
+rakeback: 45%
+fixrb: 30%
+affiliateLink: https://t.me/pokerdealshub
+featured: true
+order: 9
+badges:
+  - asia
+  - soft
+  - verified
+ratings:
+  mtt: 3
+  cash: 4
+  plo: 3
+  nlh: 4
+name: Сделка в союзе Rake2High на ClubGG
+description: >-
+  Сделка в тайваньском союзе Rake2High на ClubGG. Это активное азиатское сообщество с комфортной игрой и мягким полем,
+  где много рекреационных игроков из Тайваня и соседних регионов.
+geo: Тайвань, Азия
+bonus: ""
+i18n:
+  en:
+    name: Deal in Rake2High union on ClubGG
+    description: >-
+      It’s an active Asian community with a comfortable atmosphere and soft games, featuring many recreational players
+      from Taiwan and nearby regions.
+    geo: Taiwan, Asia
+  es:
+    name: Oferta de la Unión Rake2High en ClubGG
+    description: Oferta en la unión taiwanesa Rake2High en ClubGG, con mesas suaves y muchos jugadores recreativos de Taiwán.
+    geo: Taiwán, Asia
+  uz:
+    name: Rake2High ittifoqi bitimi — ClubGG
+    description: >-
+      Qulay muhitli faol osiyolik hamjamiyat: Tayvan va yaqin mintaqalardan ko'plab rekreatsion o'yinchilar, yumshoq
+      o'yinlar.
+    geo: Tayvan, Osiyo

@@ -1,0 +1,46 @@
+app: PPPoker
+club: Illuminator
+union: NUTS PrimeTime
+logo: pppoker
+logoimage: /pppoker_logo.webp
+logoalt: PPPoker logo
+format: MTT
+type: Decentralized
+rakeback: 70%
+fixrb: 35%
+affiliateLink: https://t.me/pokerdealshub
+featured: true
+order: 2
+badges:
+  - pdhClub
+  - soft
+  - highRakeback
+  - verified
+ratings:
+  mtt: 5
+  cash: 5
+  plo: 4
+  nlh: 4
+name: Сделка в союзе NUTS PrimeTime на PPPoker
+description: >-
+  Сделка от PDH с отличным рейкбэком в популярном союзе NUTS PrimeTime. Большой выбор дисциплин и лимитов, игра идет
+  24/7.
+geo: США, СНГ
+bonus: ""
+i18n:
+  en:
+    name: NUTS PrimeTime Union Deal on PPPoker
+    description: >-
+      PDH deal with excellent rakeback in the popular NUTS PrimeTime union. Wide selection of disciplines and limits,
+      games 24/7.
+    geo: USA, CIS
+  es:
+    name: Oferta de la Unión NUTS PrimeTime en PPPoker
+    description: >-
+      Oferta de PDH con excelente rakeback en la popular unión NUTS PrimeTime. Amplia selección de disciplinas y
+      límites, juegos 24/7.
+    geo: EE.UU., CEI
+  uz:
+    name: Nuts PrimeTime ittifoqi bitimi — PPPoker
+    description: Mashhur Nuts PrimeTime ittifoqida PDHdan a'lo rakebek. Fan va limitlar keng, o'yinlar 24/7.
+    geo: AQSh, MDH

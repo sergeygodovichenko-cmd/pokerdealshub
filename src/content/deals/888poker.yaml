@@ -1,0 +1,50 @@
+app: 888poker
+club: "-"
+union: "-"
+logo: 888poker_logo
+logoimage: /888poker.webp
+logoalt: 888poker logo
+format: PLO
+type: Centralized
+rakeback: 33%
+affiliateLink: https://ic.aff-handler.com/C/47431?sr=1851781&anid=10997111
+featured: true
+order: 11
+badges:
+  - international
+  - centralized
+  - soft
+  - verified
+ratings:
+  mtt: 4
+  cash: 4
+  plo: 4
+  nlh: 5
+name: Сделка в покер руме 888poker
+description: >-
+  Сделка в один из старейших и самых надёжных онлайн-румов. Много рекреационных игроков, простое приложение, регулярные
+  акции и миссии.
+geo: Англия, Европа
+bonus: $88 без депозита
+i18n:
+  en:
+    name: Deal in 888poker poker room
+    description: >-
+      A deal with one of the oldest and most reliable online poker rooms. Lots of recreational players, an easy-to-use
+      app, and regular promotions and missions.
+    geo: England, Europe
+    bonus: $88 no-deposit bonus
+  es:
+    name: Oferta de la 888poker
+    description: >-
+      Oferta en una de las salas de póker en línea más antiguas y confiables. Muchos jugadores recreativos, una
+      aplicación fácil de usar y promociones y misiones regulares.
+    geo: Inglaterra, Europa
+    bonus: Bono sin depósito de $88
+  uz:
+    name: 888poker xonasida bitim
+    description: >-
+      Eng qadimgi va ishonchli onlayn poker xonalaridan biri: ko'plab rekreatsion o'yinchilar, qulay ilova, muntazam
+      aksiyalar va missiyalar.
+    geo: Angliya, Evropa
+    bonus: $88 depozitsiz bonus

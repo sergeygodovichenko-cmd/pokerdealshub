@@ -1,0 +1,50 @@
+app: ClubGG
+club: Monkeys Paradise
+union: Flamingoo
+logo: clubgg
+logoimage: /clubGG_logo.webp
+logoalt: ClobGG logo
+format: Cash
+type: Decentralized
+rakeback: 60%
+fixrb: 30%
+affiliateLink: https://t.me/pokerdealshub
+featured: true
+order: 6
+badges:
+  - highRakeback
+  - nonStop
+  - international
+  - verified
+ratings:
+  mtt: 4
+  cash: 5
+  plo: 5
+  nlh: 5
+chipPrice:
+  usd: 0.85
+name: Сделка в союзе Flamingoo на ClubGG
+description: >-
+  Сделка в союзе Flamingoo на ClubGG. Высокий рейкбэк до 55% и активная игра круглосуточно во всех форматах. PDH
+  выступает в роли агента и гаранта выплат.
+geo: США
+bonus: ""
+i18n:
+  en:
+    name: Flamingoo Union Deal on ClubGG
+    description: >-
+      Flamingoo Union Deal on ClubGG. High rakeback up to 55% and 24/7 action in all formats. PDH acts as agent and
+      guarantor of payouts.
+    geo: USA
+  es:
+    name: Oferta de la Unión Flamingoo en ClubGG
+    description: >-
+      Oferta de la Unión Flamingoo en ClubGG. Alto rakeback hasta 55% y acción 24/7 en todos los formatos. PDH actúa
+      como agente y garante de pagos.
+    geo: EE.UU.
+  uz:
+    name: Flamingoo ittifoqi bitimi — ClubGG
+    description: >-
+      Flamingoo ittifoqida 55% gacha rakebek va barcha formatlarda 24/7 ekshen. PDH agent va to'lov kafolati sifatida
+      ishlaydi.
+    geo: AQSh

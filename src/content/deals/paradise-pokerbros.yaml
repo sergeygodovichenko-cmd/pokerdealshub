@@ -1,0 +1,40 @@
+app: PokerBros
+club: Monkeys VIPS
+union: Paradise
+logo: pokerbros_logo
+logoimage: /pokerbros_logo.webp
+logoalt: PokerBros logo
+format: PLO
+type: Decentralized
+rakeback: 55%
+fixrb: 25%
+affiliateLink: https://t.me/pokerdealshub
+featured: true
+order: 8
+badges:
+  - usaPlayers
+  - highRakeback
+  - soft
+  - verified
+ratings:
+  mtt: 3
+  cash: 4
+  plo: 4
+  nlh: 4
+name: Сделка в союзе  Paradise на PokerBros
+description: Много активных столов, прозрачные условия и высокий рейкбэк — лучшее предложение в Poker Bros.
+geo: США
+bonus: ""
+i18n:
+  en:
+    name: Paradise union Deal on PokerBros
+    description: Plenty of active tables, transparent terms, and high rakeback — the best offer on Poker Bros.
+    geo: USA
+  es:
+    name: Oferta de la Unión Paradise en PokerBros
+    description: "Muchas mesas activas, condiciones transparentes y alto rakeback: la mejor oferta en Poker Bros."
+    geo: EE.UU.
+  uz:
+    name: Paradise ittifoqi bitimi — PokerBros
+    description: Ko'plab faol stollar, shaffof shartlar va yuqori rakebek — PokerBros dagi eng yaxshi takliflardan biri.
+    geo: AQSh

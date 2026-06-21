@@ -1,0 +1,51 @@
+app: Nuts poker
+club: PDH Nuts Poker
+union: None
+logo: nuts_poker_logo
+logoimage: /nuts_poker_logo.webp
+logoalt: Nuts poker logo
+format: PLO
+type: Centralized
+rakeback: 50%
+fixrb: 25%
+affiliateLink: https://t.me/pokerdealshub
+featured: true
+order: 1
+badges:
+  - topDeal
+  - centralized
+  - soft
+  - verified
+ratings:
+  mtt: 4
+  cash: 4
+  plo: 5
+  nlh: 4
+name: Сделка в NUTS POKER с рейкбэком от PHD
+description: >-
+  Сделка в покерном приложении NUTS POKER с централизованной кассой и автоматическим процессингом ввода/вывода средств.
+  Много рекреационных игроков из Азии.
+geo: Азия, СНГ
+bonus: до $1000 на 1й депозит
+i18n:
+  en:
+    name: NUTS POKER Deal with Rakeback from PHD
+    description: >-
+      Deal on NUTS POKER app with centralized cashier and automatic deposit/withdrawal processing. Many recreational
+      players from Asia.
+    geo: Asia, CIS
+    bonus: up to $1000 on 1st deposit
+  es:
+    name: Oferta en NUTS POKER con Rakeback de PHD
+    description: >-
+      Oferta en la aplicación NUTS POKER con caja centralizada y procesamiento automático de depósitos/retiros. Muchos
+      jugadores recreativos de Asia.
+    geo: Asia, CEI
+    bonus: hasta $1000 en el 1er depósito
+  uz:
+    name: NUTS POKER bitimi — PDHdan rakebek
+    description: >-
+      Nuts Poker ilovasida markazlashgan kassa va avtomatik depozit/yechib olish. Osiyodan ko'plab rekreatsion
+      o'yinchilar.
+    geo: Osiyo, MDH
+    bonus: 1-depozitga 1000 $ gacha

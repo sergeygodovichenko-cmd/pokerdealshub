@@ -1,0 +1,42 @@
+app: X-Poker
+club: PDH BlackSea
+union: Black Sea
+logo: xpoker
+logoimage: /xpoker_logo.webp
+logoalt: X-Poker logo
+format: Cash
+type: Decentralized
+rakeback: 70%
+fixrb: 40%
+affiliateLink: https://t.me/pokerdealshub
+featured: true
+order: 4
+badges:
+  - pdhClub
+  - soft
+  - highRakeback
+  - verified
+ratings:
+  mtt: 4
+  cash: 5
+  plo: 4
+  nlh: 5
+name: Сделка в союзе Black Sea на X-Poker
+description: >-
+  Сделка от PDH в союзе Black Sea на X-Poker. Хороший пул, удобное время для игроков из СНГ, стабильные составы без
+  перегруза регами.
+geo: СНГ
+bonus: ""
+i18n:
+  en:
+    name: Black Sea Union Deal on X-Poker
+    description: PDH deal in Black Sea union on X-Poker. Quality games with good conditions for CIS players.
+    geo: CIS
+  es:
+    name: Oferta de la Unión Black Sea en X-Poker
+    description: Oferta de PDH en la unión Black Sea en X-Poker. Juegos de calidad con buenas condiciones para jugadores de la CEI.
+    geo: CEI
+  uz:
+    name: Black Sea ittifoqi bitimi — X-Poker
+    description: PDH bitimi Black Sea ittifoqida. MDH o'yinchilari uchun qulay sharoit va sifatli o'yinlar.
+    geo: Kislota

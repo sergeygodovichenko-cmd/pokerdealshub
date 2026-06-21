@@ -1,0 +1,50 @@
+app: ClubGG
+club: Stampede
+union: Massiv Union
+logo: clubgg
+logoimage: /clubGG_logo.webp
+logoalt: ClobGG logo
+format: Cash
+type: Decentralized
+rakeback: 55%
+fixrb: 25%
+affiliateLink: https://t.me/pokerdealshub
+featured: true
+order: 7
+badges:
+  - soft
+  - highRakeback
+  - international
+  - verified
+ratings:
+  mtt: 5
+  cash: 5
+  plo: 5
+  nlh: 5
+chipPrice:
+  usd: 0.8
+name: Сделка в союзе Massiv Union на ClubGG
+description: >-
+  Сделка в легендарном союзе Massiv Union на ClubGG. Вероятно, одна из лучших покерных полян для любых дисциплин и
+  лимитов. Огромный джекпот!
+geo: Азия, Израиль, США
+bonus: ""
+i18n:
+  en:
+    name: Massiv Union Deal on ClubGG
+    description: >-
+      Deal in the legendary Massiv Union on ClubGG. Probably one of the best poker fields for all game types and limits.
+      Huge jackpot!
+    geo: Asia, Israel, USA
+  es:
+    name: Oferta de la Unión Massiv Union en ClubGG
+    description: >-
+      Oferta en la legendaria unión Massiv Union en ClubGG. Probablemente uno de los mejores campos de póker para todos
+      los tipos de juego y límites. ¡Gran premio acumulado!
+    geo: Asia, Israel, EE.UU.
+  uz:
+    name: Massiv Union bitimi — ClubGG
+    description: >-
+      ClubGG dagi afsonaviy Massiv Union. Barcha format va limitlar uchun ehtimol eng yaxshi maydonlardan biri, ulkan
+      jakpot bilan.
+    geo: Osiyo, Isroil, AQSh

@@ -1,0 +1,46 @@
+app: PPPoker
+club: KANGAROO
+union: PPPFish
+logo: ppppoker_logo
+logoimage: /pppoker_logo.webp
+logoalt: PPPoker logo
+format: PLO
+type: Decentralized
+rakeback: 55%
+fixrb: 35%
+affiliateLink: https://t.me/pokerdealshub
+featured: true
+order: 5
+badges:
+  - topDeal
+  - australia
+  - soft
+  - verified
+ratings:
+  mtt: 5
+  cash: 4
+  plo: 5
+  nlh: 3
+name: Сделка в союзе PPPfish на PPPoker
+description: >-
+  Сделка в крупном австралийском союзе с большим количеством лузовых игроков. Хорошие составы за PLO5 и PLO6, отличный
+  рейкбэк.
+geo: Австралия, Океания
+bonus: ""
+i18n:
+  en:
+    name: PPPfish Union Deal on PPPoker.
+    description: >-
+      A deal in a major Australian union with plenty of loose players. Great lineups for PLO5 and PLO6, excellent
+      rakeback.
+    geo: Australia, Oceania
+  es:
+    name: Oferta de la Unión PPPFish en PPPoker
+    description: >-
+      Un acuerdo en una gran unión australiana con muchos jugadores sueltos. Buenas mesas para PLO5 y PLO6, excelente
+      rakeback.
+    geo: Australia, Oceanía
+  uz:
+    name: PPPfish ittifoqi bitimi — PPPoker
+    description: Yirik avstraliyalik ittifoq, ko'p bo'shashgan o'yinchilar. PLO5 va PLO6 uchun ajoyib stol tarkibi, a'lo rakebek.
+    geo: Avstraliya, Okea

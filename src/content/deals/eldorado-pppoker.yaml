@@ -1,0 +1,51 @@
+app: PPPoker
+club: PDH Dorado
+union: El Dorado
+logo: pppoker
+logoimage: /pppoker_logo.webp
+logoalt: PPPoker logo
+format: PLO
+type: Decentralized
+rakeback: 70%
+fixrb: 35%
+affiliateLink: https://t.me/pokerdealshub
+featured: true
+order: 3
+badges:
+  - pdhClub
+  - soft
+  - highRakeback
+  - verified
+ratings:
+  mtt: 4
+  cash: 4
+  plo: 5
+  nlh: 4
+chipPrice:
+  brl: 1
+  usd: 0.18
+name: Сделка в союзе El Dorado на PPPoker
+description: >-
+  Сделка в крупнейшем бразильском союзе с большим количеством лузовых игроков. Отличные составы за PLO5 и PLO6, лучший
+  рейкбэк и приятный бонус за регистрацию.
+geo: Латинская Америка, Европа
+bonus: ""
+i18n:
+  en:
+    name: El Dorado Union Deal on PPPoker
+    description: >-
+      Deal in the largest Brazilian union with many loose players. Excellent PLO5 and PLO6 lineups, best rakeback and
+      nice signup bonus.
+    geo: LatAm, Europe
+  es:
+    name: Oferta de la Unión El Dorado en PPPoker
+    description: >-
+      Oferta en la unión brasileña más grande con muchos jugadores flojos. Excelentes alineaciones de PLO5 y PLO6, mejor
+      rakeback y buen bono de registro.
+    geo: Latinoamérica, Europa
+  uz:
+    name: El Dorado ittifoqi bitimi — PPPoker
+    description: >-
+      Eng yirik braziliyalik ittifoq: ko'plab luz o'yinchilar, PLO5/PLO6 uchun zo'r tarkib, yuqori rakebek va yoqimli
+      ro'yxatdan o'tish bonusi.
+    geo: Latam, Evropa
