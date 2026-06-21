@@ -189,3 +189,156 @@ i18n:
         <p><em>Shaxsiy taklif kerakmi? <a href="/uz/about/">Biz bilan bog'laning</a></em></p>
       </article>
     srcHash: 4a5da0c93075
+  uk:
+    title: "Повний гайд по PPPoker: угоди, союзи та рейкбек"
+    description: Докладний гайд по застосунку PPPoker, огляди союзів і найкращі пропозиції з рейкбеку.
+    body: |-
+      <article>
+        <p>PPPoker — один із найпопулярніших децентралізованих покерних застосунків, що дає гравцям доступ до безлічі клубів і союзів по всьому світу.</p>
+
+        <h2>Що таке PPPoker?</h2>
+        <p>PPPoker — це мобільний застосунок для гри в покер, що працює за принципом закритих клубів. На відміну від централізованих румів, тут гравці приєднуються до незалежних клубів, які об'єднуються в союзи.</p>
+
+        <h2>Переваги PPPoker</h2>
+        <ul>
+          <li><strong>Високий рейкбек</strong>: до 60% і вище</li>
+          <li><strong>М'які столи</strong>: завдяки закритим клубам</li>
+          <li><strong>Гнучкі умови</strong>: кожен клуб встановлює свої правила</li>
+          <li><strong>Різноманіття форматів</strong>: NLH, PLO, OFC та інші</li>
+        </ul>
+
+        <h2>Популярні союзи</h2>
+
+        <h3>PPPfish Union</h3>
+        <p>Один із найбільших і найнадійніших союзів у PPPoker. Пропонує:</p>
+        <ul>
+          <li>Стабільний рейкбек 55–60%</li>
+          <li>Цілодобову підтримку</li>
+          <li>Швидкі виплати</li>
+          <li>Міжнародний пул гравців</li>
+        </ul>
+
+        <h3>ElDorado Union</h3>
+        <p>Преміум-союз із фокусом на азійський регіон:</p>
+        <ul>
+          <li>Високий трафік 24/7</li>
+          <li>Спеціальні бонуси для регулярів</li>
+          <li>VIP-програма</li>
+        </ul>
+
+        <h2>Як почати грати</h2>
+        <ol>
+          <li>Завантажте застосунок PPPoker</li>
+          <li>Зв'яжіться з агентом, щоб отримати ID клубу</li>
+          <li>Поповніть баланс через агента</li>
+          <li>Починайте грати й отримуйте рейкбек</li>
+        </ol>
+
+        <h2>Найкращі угоди на PPPoker</h2>
+        <p>Ознайомтеся з нашими перевіреними <a href="/uk/deals/">угодами на PPPoker</a>, щоб обрати оптимальні умови.</p>
+
+        <p><em>Хочете отримати персональний оффер? <a href="/uk/about/">Зв'яжіться з нами</a></em></p>
+      </article>
+    srcHash: 4a5da0c93075
+  it:
+    title: "Guida completa a PPPoker: deal, union e rakeback"
+    description: Guida dettagliata all'app PPPoker, recensioni delle union e le migliori offerte di rakeback.
+    body: |-
+      <article>
+        <p>PPPoker è una delle app di poker decentralizzate più popolari, che offre ai giocatori accesso a una moltitudine di club e union in tutto il mondo.</p>
+
+        <h2>Che cos'è PPPoker?</h2>
+        <p>PPPoker è un'app mobile per giocare a poker che funziona secondo il principio dei club privati. A differenza delle room centralizzate, qui i giocatori si uniscono a club indipendenti, che a loro volta si raggruppano in union.</p>
+
+        <h2>I vantaggi di PPPoker</h2>
+        <ul>
+          <li><strong>Rakeback elevato</strong>: fino al 60% e oltre</li>
+          <li><strong>Tavoli soft</strong>: grazie ai club privati</li>
+          <li><strong>Condizioni flessibili</strong>: ogni club stabilisce le proprie regole</li>
+          <li><strong>Varietà di formati</strong>: NLH, PLO, OFC e altri</li>
+        </ul>
+
+        <h2>Union popolari</h2>
+
+        <h3>PPPfish Union</h3>
+        <p>Una delle union più grandi e affidabili di PPPoker. Offre:</p>
+        <ul>
+          <li>Rakeback stabile del 55–60%</li>
+          <li>Supporto 24 ore su 24</li>
+          <li>Pagamenti rapidi</li>
+          <li>Pool internazionale di giocatori</li>
+        </ul>
+
+        <h3>ElDorado Union</h3>
+        <p>Union premium con focus sulla regione asiatica:</p>
+        <ul>
+          <li>Traffico elevato 24/7</li>
+          <li>Bonus speciali per i regular</li>
+          <li>Programma VIP</li>
+        </ul>
+
+        <h2>Come iniziare a giocare</h2>
+        <ol>
+          <li>Scarica l'app PPPoker</li>
+          <li>Contatta un agente per ottenere l'ID del club</li>
+          <li>Ricarica il saldo tramite l'agente</li>
+          <li>Inizia a giocare e ricevi il rakeback</li>
+        </ol>
+
+        <h2>Le migliori deal su PPPoker</h2>
+        <p>Dai un'occhiata alle nostre <a href="/it/deals/">deal verificate su PPPoker</a> per scegliere le condizioni ottimali.</p>
+
+        <p><em>Vuoi un'offerta personalizzata? <a href="/it/about/">Contattaci</a></em></p>
+      </article>
+    srcHash: 4a5da0c93075
+  de:
+    title: "Komplett-Guide zu PPPoker: Deals, Unions und Rakeback"
+    description: Ausführlicher Guide zur PPPoker-App, Union-Reviews und die besten Rakeback-Angebote.
+    body: |-
+      <article>
+        <p>PPPoker ist eine der beliebtesten dezentralen Poker-Apps und bietet Spielern Zugang zu zahlreichen Clubs und Unions weltweit.</p>
+
+        <h2>Was ist PPPoker?</h2>
+        <p>PPPoker ist eine mobile Poker-App, die nach dem Prinzip geschlossener Clubs funktioniert. Anders als bei zentralisierten Rooms treten die Spieler hier unabhängigen Clubs bei, die sich zu Unions zusammenschließen.</p>
+
+        <h2>Die Vorteile von PPPoker</h2>
+        <ul>
+          <li><strong>Hoher Rakeback</strong>: bis zu 60% und mehr</li>
+          <li><strong>Soft Games</strong>: dank der geschlossenen Clubs</li>
+          <li><strong>Flexible Konditionen</strong>: jeder Club legt seine eigenen Regeln fest</li>
+          <li><strong>Formatvielfalt</strong>: NLH, PLO, OFC und mehr</li>
+        </ul>
+
+        <h2>Beliebte Unions</h2>
+
+        <h3>PPPfish Union</h3>
+        <p>Eine der größten und zuverlässigsten Unions bei PPPoker. Bietet:</p>
+        <ul>
+          <li>Stabiler Rakeback von 55–60%</li>
+          <li>Rund-um-die-Uhr-Support</li>
+          <li>Schnelle Auszahlungen</li>
+          <li>Internationaler Player Pool</li>
+        </ul>
+
+        <h3>ElDorado Union</h3>
+        <p>Premium-Union mit Fokus auf die asiatische Region:</p>
+        <ul>
+          <li>Hoher Traffic rund um die Uhr</li>
+          <li>Spezielle Boni für Regulars</li>
+          <li>VIP-Programm</li>
+        </ul>
+
+        <h2>So fängst du an zu spielen</h2>
+        <ol>
+          <li>Lade die PPPoker-App herunter</li>
+          <li>Kontaktiere einen Agenten, um die Club-ID zu erhalten</li>
+          <li>Lade dein Guthaben über den Agenten auf</li>
+          <li>Fang an zu spielen und kassiere Rakeback</li>
+        </ol>
+
+        <h2>Die besten Deals bei PPPoker</h2>
+        <p>Wirf einen Blick auf unsere geprüften <a href="/de/deals/">Deals bei PPPoker</a>, um die optimalen Konditionen zu wählen.</p>
+
+        <p><em>Möchtest du ein persönliches Angebot? <a href="/de/about/">Kontaktiere uns</a></em></p>
+      </article>
+    srcHash: 4a5da0c93075

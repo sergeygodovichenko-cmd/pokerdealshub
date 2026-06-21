@@ -89,6 +89,111 @@ i18n:
         <li><strong>Sobit rakebek 30%</strong> — ro‘yxatdan o‘tgach darhol barqaror foiz, keyin xohlansa dinamik modelga o‘tish mumkin.</li>
       </ul>
     srcHash: 4ab56cc57f2d
+  uk:
+    name: Угода в союзі Rake2High на ClubGG
+    description: >-
+      Угода в тайванському союзі Rake2High на ClubGG. Це активна азійська спільнота з комфортною грою та м'яким полем,
+      де багато рекреаційних гравців із Тайваню та сусідніх регіонів.
+    geo: Тайвань, Азія
+    body: >-
+      <h3>Опис</h3>
+
+
+      <p>Покерна угода в клубі Rake2Win, який входить до тайванського союзу Rake2High на ClubGG. У клубі грають в
+      основному на низьких лімітах.</p>
+
+
+
+      <h3>Про союз</h3>
+
+
+      <p>Rake2High — один із найдинамічніших тайванських союзів на платформі ClubGG, що об'єднує безліч клубів з Азії.
+      Союз орієнтований на рекреаційних гравців і пропонує активне поле з постійним екшеном на низьких і середніх
+      лімітах.</p>
+
+
+
+      <h3>Про угоду</h3>
+
+
+      <p>Гравцям надається на вибір:</p>
+
+
+      <ul>
+        <li><strong>Динамічний рейкбек до 45%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
+        <li><strong>Фіксований рейкбек 30%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
+      </ul>
+    srcHash: 4ab56cc57f2d
+  it:
+    name: Offerta nell'unione Rake2High su ClubGG
+    description: >-
+      Offerta nell'unione taiwanese Rake2High su ClubGG. È una community asiatica attiva, con gioco confortevole e campo
+      soft, dove ci sono tanti giocatori ricreativi da Taiwan e dalle regioni vicine.
+    geo: Taiwan, Asia
+    body: >-
+      <h3>Descrizione</h3>
+
+
+      <p>Offerta di poker nel club Rake2Win, che fa parte dell'unione taiwanese Rake2High su ClubGG. Al club si gioca
+      principalmente ai limiti bassi.</p>
+
+
+
+      <h3>Informazioni sull'unione</h3>
+
+
+      <p>Rake2High è una delle unioni taiwanesi più dinamiche sulla piattaforma ClubGG, riunisce numerosi club di tutta
+      l'Asia. L'unione è orientata ai giocatori ricreativi e offre un campo attivo con action costante ai limiti bassi e
+      medi.</p>
+
+
+
+      <h3>L'offerta</h3>
+
+
+      <p>Ai giocatori viene proposta la scelta tra:</p>
+
+
+      <ul>
+        <li><strong>Rakeback dinamico fino al 45%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
+        <li><strong>Rakeback fisso 30%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
+      </ul>
+    srcHash: 4ab56cc57f2d
+  de:
+    name: Deal in der Union Rake2High auf ClubGG
+    description: >-
+      Deal in der taiwanesischen Union Rake2High auf ClubGG. Eine aktive asiatische Community mit angenehmem Spiel und
+      softem Feld, in der viele Recreational-Spieler aus Taiwan und benachbarten Regionen spielen.
+    geo: Taiwan, Asien
+    body: >-
+      <h3>Beschreibung</h3>
+
+
+      <p>Poker-Deal im Club Rake2Win, der zur taiwanesischen Union Rake2High auf ClubGG gehört. Im Club wird überwiegend
+      an niedrigen Limits gespielt.</p>
+
+
+
+      <h3>Über die Union</h3>
+
+
+      <p>Rake2High ist eine der dynamischsten taiwanesischen Unions auf der Plattform ClubGG und vereint zahlreiche
+      Clubs aus ganz Asien. Die Union richtet sich an Recreational-Spieler und bietet ein aktives Feld mit konstanter
+      Action an den niedrigen und mittleren Limits.</p>
+
+
+
+      <h3>Über den Deal</h3>
+
+
+      <p>Den Spielern stehen zur Wahl:</p>
+
+
+      <ul>
+        <li><strong>Dynamischer Rakeback bis zu 45%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
+        <li><strong>Fester Rakeback 30%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: 4ab56cc57f2d
 body: >-
   <h3>Описание</h3>
 

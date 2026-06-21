@@ -261,3 +261,255 @@ i18n:
               </div>
             </div>
     srcHash: 6c49e2fe1657
+  uk:
+    title: Політика конфіденційності
+    description: "Політика конфіденційності PokerDealsHub: використання даних, cookies та захист інформації"
+    body: |-
+      <div class="prose prose-invert max-w-none">
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <p class="text-neutral-300 mb-4">
+                  Останнє оновлення: 19 жовтня 2025
+                </p>
+                <p class="text-neutral-300">
+                  PokerDealsHub («ми», «наш», «нас») прагне захищати конфіденційність відвідувачів нашого сайту. Ця політика описує, як ми збираємо, використовуємо та захищаємо вашу інформацію.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">1. Інформація, яку ми збираємо</h2>
+                <p class="text-neutral-300 mb-3">Ми можемо збирати такі типи інформації:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Інформація, яку ви надаєте при зверненні до нас (ім’я, email, контактні дані)</li>
+                  <li>Технічні дані (IP-адреса, тип браузера, операційна система)</li>
+                  <li>Дані про взаємодію із сайтом (відвідані сторінки, час на сайті)</li>
+                  <li>Cookies та аналогічні технології відстеження</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">2. Використання інформації</h2>
+                <p class="text-neutral-300 mb-3">Ми використовуємо зібрану інформацію для:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Надання та покращення наших послуг</li>
+                  <li>Зв’язку з вами щодо співпраці</li>
+                  <li>Аналізу використання сайту та оптимізації функціоналу</li>
+                  <li>Забезпечення безпеки сайту</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">3. Використання Cookies</h2>
+                <p class="text-neutral-300 mb-3">
+                  Сайт використовує cookies для покращення роботи сайту, аналізу трафіку та збереження ваших налаштувань. Ви можете керувати cookies через налаштування свого браузера. Ми використовуємо:
+                </p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Аналітичні cookies для розуміння поведінки користувачів</li>
+                  <li>Функціональні cookies для збереження ваших налаштувань (наприклад, мови)</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">4. Передача даних третім особам</h2>
+                <p class="text-neutral-300">
+                  Ми не продаємо та не передаємо вашу особисту інформацію третім особам, за винятком випадків, коли це необхідно для надання послуг (наприклад, аналітичні сервіси) або вимагається законом.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">5. Безпека даних</h2>
+                <p class="text-neutral-300">
+                  Ми вживаємо розумних заходів для захисту вашої інформації від несанкціонованого доступу, зміни, розкриття чи знищення.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">6. Ваші права</h2>
+                <p class="text-neutral-300 mb-3">Ви маєте право:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Запросити доступ до вашої особистої інформації</li>
+                  <li>Запросити виправлення неточної інформації</li>
+                  <li>Запросити видалення вашої інформації</li>
+                  <li>Відкликати згоду на обробку даних</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+                <h2 class="text-2xl font-semibold text-gold mb-4">7. Контакти</h2>
+                <p class="text-neutral-300 mb-3">
+                  Якщо у вас є запитання щодо нашої політики конфіденційності, зв’яжіться з нами:
+                </p>
+                <p class="text-neutral-300">
+                  Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
+                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                </p>
+              </div>
+            </div>
+    srcHash: 6c49e2fe1657
+  it:
+    title: Informativa sulla privacy
+    description: "Informativa sulla privacy di PokerDealsHub: uso dei dati, cookie e protezione delle informazioni"
+    body: |-
+      <div class="prose prose-invert max-w-none">
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <p class="text-neutral-300 mb-4">
+                  Ultimo aggiornamento: 19 ottobre 2025
+                </p>
+                <p class="text-neutral-300">
+                  PokerDealsHub («noi», «nostro», «ci») si impegna a tutelare la privacy dei visitatori del nostro sito. Questa informativa descrive come raccogliamo, utilizziamo e proteggiamo le tue informazioni.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">1. Informazioni che raccogliamo</h2>
+                <p class="text-neutral-300 mb-3">Possiamo raccogliere i seguenti tipi di informazioni:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Informazioni che fornisci quando ci contatti (nome, email, dati di contatto)</li>
+                  <li>Dati tecnici (indirizzo IP, tipo di browser, sistema operativo)</li>
+                  <li>Dati sull’interazione con il sito (pagine visitate, tempo trascorso sul sito)</li>
+                  <li>Cookie e tecnologie di tracciamento analoghe</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">2. Uso delle informazioni</h2>
+                <p class="text-neutral-300 mb-3">Utilizziamo le informazioni raccolte per:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Fornire e migliorare i nostri servizi</li>
+                  <li>Contattarti in merito a collaborazioni</li>
+                  <li>Analizzare l’utilizzo del sito e ottimizzarne le funzionalità</li>
+                  <li>Garantire la sicurezza del sito</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">3. Uso dei cookie</h2>
+                <p class="text-neutral-300 mb-3">
+                  Il sito utilizza cookie per migliorare il funzionamento del sito, analizzare il traffico e salvare le tue preferenze. Puoi gestire i cookie tramite le impostazioni del tuo browser. Utilizziamo:
+                </p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Cookie analitici per comprendere il comportamento degli utenti</li>
+                  <li>Cookie funzionali per salvare le tue preferenze (ad esempio, la lingua)</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">4. Condivisione dei dati con terze parti</h2>
+                <p class="text-neutral-300">
+                  Non vendiamo né condividiamo le tue informazioni personali con terze parti, salvo quando ciò sia necessario per fornire i servizi (ad esempio, servizi di analisi) o richiesto dalla legge.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">5. Sicurezza dei dati</h2>
+                <p class="text-neutral-300">
+                  Adottiamo misure ragionevoli per proteggere le tue informazioni da accessi, modifiche, divulgazioni o distruzioni non autorizzati.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">6. I tuoi diritti</h2>
+                <p class="text-neutral-300 mb-3">Hai il diritto di:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Richiedere l’accesso alle tue informazioni personali</li>
+                  <li>Richiedere la correzione di informazioni inesatte</li>
+                  <li>Richiedere la cancellazione delle tue informazioni</li>
+                  <li>Revocare il consenso al trattamento dei dati</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+                <h2 class="text-2xl font-semibold text-gold mb-4">7. Contatti</h2>
+                <p class="text-neutral-300 mb-3">
+                  Se hai domande sulla nostra Informativa sulla privacy, contattaci:
+                </p>
+                <p class="text-neutral-300">
+                  Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
+                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                </p>
+              </div>
+            </div>
+    srcHash: 6c49e2fe1657
+  de:
+    title: Datenschutzerklärung
+    description: "Datenschutzerklärung von PokerDealsHub: Datennutzung, Cookies und Schutz von Informationen"
+    body: |-
+      <div class="prose prose-invert max-w-none">
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <p class="text-neutral-300 mb-4">
+                  Zuletzt aktualisiert: 19. Oktober 2025
+                </p>
+                <p class="text-neutral-300">
+                  PokerDealsHub („wir“, „unser“, „uns“) ist dem Schutz der Privatsphäre der Besucher unserer Website verpflichtet. Diese Erklärung beschreibt, wie wir Ihre Informationen erheben, nutzen und schützen.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">1. Informationen, die wir erheben</h2>
+                <p class="text-neutral-300 mb-3">Wir können die folgenden Arten von Informationen erheben:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Informationen, die Sie bei der Kontaktaufnahme angeben (Name, E-Mail, Kontaktdaten)</li>
+                  <li>Technische Daten (IP-Adresse, Browsertyp, Betriebssystem)</li>
+                  <li>Daten zur Interaktion mit der Website (besuchte Seiten, Verweildauer auf der Seite)</li>
+                  <li>Cookies und ähnliche Tracking-Technologien</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">2. Nutzung der Informationen</h2>
+                <p class="text-neutral-300 mb-3">Wir verwenden die erhobenen Informationen, um:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>unsere Dienste bereitzustellen und zu verbessern</li>
+                  <li>Sie zu Fragen der Zusammenarbeit zu kontaktieren</li>
+                  <li>die Nutzung der Website zu analysieren und die Funktionalität zu optimieren</li>
+                  <li>die Sicherheit der Website zu gewährleisten</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">3. Verwendung von Cookies</h2>
+                <p class="text-neutral-300 mb-3">
+                  Die Website verwendet Cookies, um den Betrieb der Website zu verbessern, den Traffic zu analysieren und Ihre Einstellungen zu speichern. Sie können Cookies über die Einstellungen Ihres Browsers verwalten. Wir verwenden:
+                </p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Analytische Cookies, um das Nutzerverhalten zu verstehen</li>
+                  <li>Funktionale Cookies, um Ihre Einstellungen zu speichern (z. B. die Sprache)</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">4. Weitergabe von Daten an Dritte</h2>
+                <p class="text-neutral-300">
+                  Wir verkaufen oder geben Ihre personenbezogenen Daten nicht an Dritte weiter, außer wenn dies zur Erbringung von Diensten erforderlich ist (z. B. Analysedienste) oder gesetzlich vorgeschrieben ist.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">5. Datensicherheit</h2>
+                <p class="text-neutral-300">
+                  Wir treffen angemessene Maßnahmen, um Ihre Informationen vor unbefugtem Zugriff, Veränderung, Offenlegung oder Zerstörung zu schützen.
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">6. Ihre Rechte</h2>
+                <p class="text-neutral-300 mb-3">Sie haben das Recht:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Auskunft über Ihre personenbezogenen Daten zu verlangen</li>
+                  <li>die Berichtigung unrichtiger Informationen zu verlangen</li>
+                  <li>die Löschung Ihrer Informationen zu verlangen</li>
+                  <li>Ihre Einwilligung in die Datenverarbeitung zu widerrufen</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+                <h2 class="text-2xl font-semibold text-gold mb-4">7. Kontakt</h2>
+                <p class="text-neutral-300 mb-3">
+                  Wenn Sie Fragen zu unserer Datenschutzerklärung haben, kontaktieren Sie uns:
+                </p>
+                <p class="text-neutral-300">
+                  Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
+                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                </p>
+              </div>
+            </div>
+    srcHash: 6c49e2fe1657

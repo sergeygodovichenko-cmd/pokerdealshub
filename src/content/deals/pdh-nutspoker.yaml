@@ -117,6 +117,155 @@ i18n:
         <li><strong>Sobit rakebek 25%</strong> — ro‘yxatdan o‘tgach darhol barqaror foiz, keyin xohlansa dinamik tizimga o‘tish mumkin.</li>
       </ul>
     srcHash: 8ed24c54d0e2
+  uk:
+    name: Угода в NUTS POKER з рейкбеком від PHD
+    description: >-
+      Угода в покерному застосунку NUTS POKER із централізованою касою та автоматичною обробкою введення/виведення
+      коштів. Багато рекреаційних гравців з Азії.
+    geo: Азія, СНД
+    bonus: до $1000 на 1-й депозит
+    body: >-
+      <h3>Опис</h3>
+
+
+      <p>Клуб PDH Nuts Poker — офіційний клуб Poker Deals Hub у централізованому покерному застосунку NUTS POKER. Це
+      класичний онлайн покер-рум з єдиною системою розрахунків і підтримкою цифрових платіжних рішень. Багато
+      рекреаційних гравців з Азії.</p>
+
+
+
+      <h3>Про застосунок</h3>
+
+
+      <p>NUTS POKER — централізований покерний застосунок. Хоч він і має клубну систему, але клуби використовуються лише
+      для призначення гравцям рейкбеку. При цьому всі ігри відбуваються в спільному пулі гравців. Депозити та кешаути
+      здійснюються через автоматизований процесинг. Інтерфейс максимально простий і зручний: гра запускається в пару
+      кліків, статистика та каса повністю інтегровані в систему, а служба безпеки цілодобово контролює гру.</p>
+
+
+      <p>Ключові особливості:</p>
+
+
+      <ul>
+        <li>Підтримка всіх популярних форматів — NLH, PLO4/5/6, MTT, SpinUp</li>
+        <li>Клієнти для iOS, Android і Windows</li>
+        <li>Гра йде 24/7 на низьких і середніх лімітах</li>
+        <li>Регулярні акції та безкоштовні турніри. Рекордна гарантія фриролу – $36,000!</li>
+      </ul>
+
+
+
+      <h3>Про угоду</h3>
+
+
+      <p>Гравцям надається на вибір:</p>
+
+
+      <ul>
+        <li><strong>Динамічний рейкбек до 50%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
+        <li><strong>Фіксований рейкбек 25%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
+      </ul>
+    srcHash: 8ed24c54d0e2
+  it:
+    name: Offerta su NUTS POKER con rakeback di PHD
+    description: >-
+      Offerta nell'app di poker NUTS POKER con cassa centralizzata ed elaborazione automatica di depositi e prelievi.
+      Molti giocatori ricreativi dall'Asia.
+    geo: Asia, CSI
+    bonus: fino a $1000 sul 1° deposito
+    body: >-
+      <h3>Descrizione</h3>
+
+
+      <p>Il club PDH Nuts Poker è il club ufficiale di Poker Deals Hub nell'app di poker centralizzata NUTS POKER. È una
+      poker room online classica con un sistema di regolamento unificato e il supporto di soluzioni di pagamento
+      digitali. Molti giocatori ricreativi dall'Asia.</p>
+
+
+
+      <h3>Informazioni sull'app</h3>
+
+
+      <p>NUTS POKER è un'app di poker centralizzata. Pur avendo un sistema di club, i club servono solo ad assegnare il
+      rakeback ai giocatori. Tutte le partite si svolgono in un pool di giocatori comune. Depositi e prelievi vengono
+      gestiti tramite un processing automatizzato. L'interfaccia è semplicissima e comoda: il gioco parte in un paio di
+      clic, statistiche e cassa sono completamente integrate nel sistema e il servizio di sicurezza controlla il gioco
+      24 ore su 24.</p>
+
+
+      <p>Caratteristiche principali:</p>
+
+
+      <ul>
+        <li>Supporto di tutti i formati popolari — NLH, PLO4/5/6, MTT, SpinUp</li>
+        <li>Client per iOS, Android e Windows</li>
+        <li>Si gioca 24/7 ai limiti bassi e medi</li>
+        <li>Promozioni regolari e tornei gratuiti. Garanzia di freeroll da record – $36,000!</li>
+      </ul>
+
+
+
+      <h3>L'offerta</h3>
+
+
+      <p>Ai giocatori viene proposta la scelta tra:</p>
+
+
+      <ul>
+        <li><strong>Rakeback dinamico fino al 50%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
+        <li><strong>Rakeback fisso 25%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
+      </ul>
+    srcHash: 8ed24c54d0e2
+  de:
+    name: Deal bei NUTS POKER mit Rakeback von PHD
+    description: >-
+      Deal in der Poker-App NUTS POKER mit zentralisierter Kasse und automatischer Verarbeitung von Ein- und
+      Auszahlungen. Viele Recreational-Spieler aus Asien.
+    geo: Asien, GUS
+    bonus: bis zu $1000 auf die 1. Einzahlung
+    body: >-
+      <h3>Beschreibung</h3>
+
+
+      <p>Der Club PDH Nuts Poker ist der offizielle Club von Poker Deals Hub in der zentralisierten Poker-App NUTS
+      POKER. Es ist ein klassischer Online-Pokerraum mit einem einheitlichen Abrechnungssystem und Unterstützung für
+      digitale Zahlungslösungen. Viele Recreational-Spieler aus Asien.</p>
+
+
+
+      <h3>Über die App</h3>
+
+
+      <p>NUTS POKER ist eine zentralisierte Poker-App. Sie hat zwar ein Club-System, doch die Clubs dienen nur dazu, den
+      Spielern Rakeback zuzuweisen. Alle Spiele finden dabei in einem gemeinsamen Spielerpool statt. Ein- und
+      Auszahlungen werden über ein automatisiertes Processing abgewickelt. Die Oberfläche ist denkbar einfach und
+      komfortabel: Das Spiel startet mit ein paar Klicks, Statistik und Kasse sind vollständig ins System integriert,
+      und der Sicherheitsdienst überwacht das Spiel rund um die Uhr.</p>
+
+
+      <p>Wichtigste Merkmale:</p>
+
+
+      <ul>
+        <li>Unterstützung aller beliebten Formate — NLH, PLO4/5/6, MTT, SpinUp</li>
+        <li>Clients für iOS, Android und Windows</li>
+        <li>Gespielt wird 24/7 an den niedrigen und mittleren Limits</li>
+        <li>Regelmäßige Aktionen und Gratis-Turniere. Rekordverdächtige Freeroll-Garantie – $36,000!</li>
+      </ul>
+
+
+
+      <h3>Über den Deal</h3>
+
+
+      <p>Den Spielern stehen zur Wahl:</p>
+
+
+      <ul>
+        <li><strong>Dynamischer Rakeback bis zu 50%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
+        <li><strong>Fester Rakeback 25%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: 8ed24c54d0e2
 body: >-
   <h3>Описание</h3>
 

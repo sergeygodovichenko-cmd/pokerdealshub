@@ -93,6 +93,120 @@ i18n:
         <li><strong>Sobit rakebek 25%</strong> — ro‘yxatdan o‘tgan zahoti ustunlik bilan boshlang, keyin xohlansa dinamik modelga o‘tish mumkin.</li>
       </ul>
     srcHash: 894f2a95744a
+  uk:
+    name: Угода в союзі Paradise на PokerBros
+    description: Багато активних столів, прозорі умови та високий рейкбек — найкраща пропозиція в Poker Bros.
+    geo: США
+    body: >-
+      <h3>Опис</h3>
+
+
+      <p>Monkeys VIPS — ексклюзивний клуб у союзі Paradise на платформі PokerBros. Клуб пропонує високий рейкбек і
+      активну гру на всіх лімітах з 19:00 до 23:00 за GMT-7. Ідеально підходить для гравців із Північної та Південної
+      Америки.</p>
+
+
+
+      <h3>Про союз</h3>
+
+
+      <p>Paradise Union — один із найбільших союзів на платформі PokerBros, що об'єднує понад 30 клубів із гравцями з
+      усього світу. Союз пропонує різноманітні формати гри, включно з NLH, PLO4/5/6, MTT та іншими. Гра переважно йде на
+      середніх і низьких лімітах. Союз відомий своїми рекреаційними гравцями.</p>
+
+
+      <p>Доступні дисципліни: NLH, PLO4/5/6, MTT, а також модифікатор Bomb Pot. Активна гра йде цілодобово на всіх
+      лімітах з великою кількістю рекреаційних гравців зі США.</p>
+
+
+
+      <h3>Про угоду</h3>
+
+
+      <p>Гравцям надається на вибір:</p>
+
+
+      <ul>
+        <li><strong>Динамічний рейкбек до 55%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
+        <li><strong>Фіксований рейкбек 25%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
+      </ul>
+    srcHash: 894f2a95744a
+  it:
+    name: Offerta nell'unione Paradise su PokerBros
+    description: "Tanti tavoli attivi, condizioni trasparenti e rakeback elevato: la migliore offerta su Poker Bros."
+    geo: USA
+    body: >-
+      <h3>Descrizione</h3>
+
+
+      <p>Monkeys VIPS è un club esclusivo nell'unione Paradise sulla piattaforma PokerBros. Il club offre un rakeback
+      elevato e gioco attivo a tutti i limiti dalle 19:00 alle 23:00 GMT-7. Una scelta ideale per i giocatori del Nord e
+      del Sud America.</p>
+
+
+
+      <h3>Informazioni sull'unione</h3>
+
+
+      <p>Paradise Union è una delle più grandi unioni sulla piattaforma PokerBros, riunisce oltre 30 club con giocatori
+      da tutto il mondo. L'unione offre formati di gioco variegati, tra cui NLH, PLO4/5/6, MTT e altri. Si gioca
+      principalmente ai limiti medi e bassi. L'unione è nota per i suoi giocatori ricreativi.</p>
+
+
+      <p>Discipline disponibili: NLH, PLO4/5/6, MTT, oltre al modificatore Bomb Pot. Il gioco attivo prosegue 24 ore su
+      24 a tutti i limiti, con un gran numero di giocatori ricreativi dagli USA.</p>
+
+
+
+      <h3>L'offerta</h3>
+
+
+      <p>Ai giocatori viene proposta la scelta tra:</p>
+
+
+      <ul>
+        <li><strong>Rakeback dinamico fino al 55%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
+        <li><strong>Rakeback fisso 25%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
+      </ul>
+    srcHash: 894f2a95744a
+  de:
+    name: Deal in der Union Paradise auf PokerBros
+    description: Viele aktive Tische, transparente Bedingungen und hoher Rakeback — das beste Angebot bei Poker Bros.
+    geo: USA
+    body: >-
+      <h3>Beschreibung</h3>
+
+
+      <p>Monkeys VIPS ist ein exklusiver Club in der Union Paradise auf der Plattform PokerBros. Der Club bietet hohen
+      Rakeback und aktives Spiel an allen Limits von 19:00 bis 23:00 Uhr GMT-7. Ideal für Spieler aus Nord- und
+      Südamerika.</p>
+
+
+
+      <h3>Über die Union</h3>
+
+
+      <p>Paradise Union ist eine der größten Unions auf der Plattform PokerBros und vereint über 30 Clubs mit Spielern
+      aus aller Welt. Die Union bietet vielfältige Spielformate, darunter NLH, PLO4/5/6, MTT und weitere. Gespielt wird
+      überwiegend an den mittleren und niedrigen Limits. Die Union ist für ihre Recreational-Spieler bekannt.</p>
+
+
+      <p>Verfügbare Disziplinen: NLH, PLO4/5/6, MTT sowie der Bomb-Pot-Modifikator. Aktives Spiel läuft rund um die Uhr
+      an allen Limits mit einer großen Zahl von Recreational-Spielern aus den USA.</p>
+
+
+
+      <h3>Über den Deal</h3>
+
+
+      <p>Den Spielern stehen zur Wahl:</p>
+
+
+      <ul>
+        <li><strong>Dynamischer Rakeback bis zu 55%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
+        <li><strong>Fester Rakeback 25%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: 894f2a95744a
 body: >-
   <h3>Описание</h3>
 

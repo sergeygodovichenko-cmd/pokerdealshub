@@ -109,27 +109,34 @@ i18n:
     body: >-
       <h3>Про CoinPoker</h3>
 
+
       <p>CoinPoker — перший по-справжньому успішний крипто-покер-рум, що поєднує світ покеру та блокчейну. Усі
       розрахунки тут ведуться в USDT, а токен CHP використовується для рейкбеку, бонусів і внутрішньоігрових акцій.
       Платформа працює незалежно від банків і посередників, забезпечуючи миттєві депозити та виведення коштів через
       криптогаманці.</p>
 
+
       <p>Головна особливість CoinPoker — децентралізований генератор випадкових чисел (RNG), який формується за участю
       гравців і не може бути підроблений. Завдяки цьому результат кожної роздачі можна перевірити, а чесність гри не
       залежить від оператора. CoinPoker став еталоном прозорості та довіри серед крипто-покерних проєктів.</p>
 
+
       <h3>Про угоду</h3>
 
+
       <p>Реєструючись за нашим посиланням, ви отримуєте:</p>
+
 
       <ul>
         <li><strong>Фіксований рейкбек 33%</strong> Можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
         <li><strong>Бонус +150% на 1-й депозит</strong> Бонус за реєстрацію до $2000.</li>
       </ul>
 
+
       <p>Зареєструйтеся на CoinPoker <a
       href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/" rel="nofollow noopener
       noreferrer" target="_blank">за цим посиланням</a>, щоб скористатися всіма бонусами та перевагами!</p>
+    srcHash: 9e6165b85efe
   it:
     name: Offerta nella poker room CoinPoker
     description: >-
@@ -140,28 +147,74 @@ i18n:
     body: >-
       <h3>Informazioni su CoinPoker</h3>
 
+
       <p>CoinPoker è la prima poker room crypto davvero di successo, che unisce il mondo del poker e della blockchain.
       Tutte le transazioni avvengono in USDT, mentre il token CHP viene usato per rakeback, bonus e promozioni in gioco.
       La piattaforma opera in modo indipendente da banche e intermediari, garantendo depositi e prelievi istantanei
       tramite wallet crypto.</p>
+
 
       <p>La caratteristica principale di CoinPoker è il generatore di numeri casuali (RNG) decentralizzato, creato con
       la partecipazione dei giocatori e impossibile da manipolare. Così l'esito di ogni mano può essere verificato e la
       correttezza del gioco non dipende dall'operatore. CoinPoker è diventato un punto di riferimento per trasparenza e
       affidabilità tra i progetti di poker crypto.</p>
 
+
       <h3>L'offerta</h3>
 
+
       <p>Registrandoti tramite il nostro link ottieni:</p>
+
 
       <ul>
         <li><strong>Rakeback fisso 33%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
         <li><strong>Bonus +150% sul 1° deposito</strong> Bonus di benvenuto fino a $2000.</li>
       </ul>
 
+
       <p>Registrati su CoinPoker <a href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/"
       rel="nofollow noopener noreferrer" target="_blank">tramite questo link</a> per approfittare di tutti i bonus e
       vantaggi!</p>
+    srcHash: 9e6165b85efe
+  de:
+    name: Deal im Pokerraum CoinPoker
+    description: >-
+      Deal in der beliebten App CoinPoker mit zentralisierter Kasse und automatischer Verarbeitung von Ein- und
+      Auszahlungen. Viele Recreational-Spieler aus Asien.
+    geo: Global, Asien, USA
+    bonus: +150% auf die 1. Einzahlung
+    body: >-
+      <h3>Über CoinPoker</h3>
+
+
+      <p>CoinPoker ist der erste wirklich erfolgreiche Krypto-Pokerraum, der die Welt des Pokers mit der Blockchain
+      verbindet. Alle Abrechnungen laufen hier in USDT, während der CHP-Token für Rakeback, Boni und Ingame-Aktionen
+      genutzt wird. Die Plattform arbeitet unabhängig von Banken und Vermittlern und ermöglicht sofortige Ein- und
+      Auszahlungen über Krypto-Wallets.</p>
+
+
+      <p>Das Hauptmerkmal von CoinPoker ist der dezentralisierte Zufallszahlengenerator (RNG), der unter Beteiligung der
+      Spieler entsteht und nicht manipuliert werden kann. Dadurch lässt sich das Ergebnis jeder Hand überprüfen und die
+      Fairness des Spiels hängt nicht vom Betreiber ab. CoinPoker ist zum Maßstab für Transparenz und Vertrauen unter
+      den Krypto-Pokerprojekten geworden.</p>
+
+
+      <h3>Über den Deal</h3>
+
+
+      <p>Wenn du dich über unseren Link registrierst, erhältst du:</p>
+
+
+      <ul>
+        <li><strong>Fester Rakeback 33%</strong> Die Möglichkeit, direkt nach der Registrierung mit einem Vorteil ins Spiel zu starten. Später kannst du auf das dynamische Modell wechseln.</li>
+        <li><strong>Bonus +150% auf die 1. Einzahlung</strong> Registrierungsbonus bis zu $2000.</li>
+      </ul>
+
+
+      <p>Registriere dich bei CoinPoker <a
+      href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/" rel="nofollow noopener
+      noreferrer" target="_blank">über diesen Link</a>, um alle Boni und Vorteile zu nutzen!</p>
+    srcHash: 9e6165b85efe
 body: >-
   <h3>О CoinPoker</h3>
 

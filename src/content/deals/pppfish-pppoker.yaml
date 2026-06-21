@@ -94,6 +94,120 @@ i18n:
         <li><strong>Sobit rakebek 35%</strong> — hajmdan qat’i nazar barqaror foiz, keyin xohlansa dinamik rejimga o‘tish mumkin.</li>
       </ul>
     srcHash: 3c59e7458fde
+  uk:
+    name: Угода в союзі PPPfish на PPPoker
+    description: >-
+      Угода у великому австралійському союзі з великою кількістю лузових гравців. Хороші склади за PLO5 і PLO6,
+      відмінний рейкбек.
+    geo: Австралія, Океанія
+    body: >-
+      <h3>Опис</h3>
+
+
+      <p>Покерна угода в клубі Kangaroo, який входить до відомого союзу PPPFish на PPPoker. У клубі грають переважно
+      австралійці та китайці.</p>
+
+
+
+      <h3>Про союз PPPFish на PPPoker</h3>
+
+
+      <p>PPPFish — найбільший австралійський союз, у якому, в основному, грають рекреаційні гравці з Китаю та Австралії.
+      Союз славиться своєю м'якою поляною в турнірах і Омасі.</p>
+
+
+      <p>Доступні дисципліни: NLH, PLO4/5/6, MTT, а також модифікатори Bomb Pot, Pot Or Fold і Double Board. Активна гра
+      йде переважно о 7:00 – 14:00 за GMT (UTC+0)</p>
+
+
+
+      <h3>Про угоду</h3>
+
+
+      <p>Гравцям надається на вибір:</p>
+
+
+      <ul>
+        <li><strong>Динамічний рейкбек до 55%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
+        <li><strong>Фіксований рейкбек 35%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
+      </ul>
+    srcHash: 3c59e7458fde
+  it:
+    name: Offerta nell'unione PPPfish su PPPoker
+    description: >-
+      Offerta in una grande unione australiana con tanti giocatori loose. Buoni tavoli a PLO5 e PLO6, rakeback
+      eccellente.
+    geo: Australia, Oceania
+    body: >-
+      <h3>Descrizione</h3>
+
+
+      <p>Offerta di poker nel club Kangaroo, che fa parte della nota unione PPPFish su PPPoker. Al club giocano
+      prevalentemente australiani e cinesi.</p>
+
+
+
+      <h3>Informazioni sull'unione PPPFish su PPPoker</h3>
+
+
+      <p>PPPFish è la più grande unione australiana, dove giocano soprattutto giocatori ricreativi dalla Cina e
+      dall'Australia. L'unione è famosa per il suo campo soft nei tornei e a Omaha.</p>
+
+
+      <p>Discipline disponibili: NLH, PLO4/5/6, MTT, oltre ai modificatori Bomb Pot, Pot Or Fold e Double Board. Il
+      gioco attivo si concentra principalmente tra le 7:00 e le 14:00 GMT (UTC+0)</p>
+
+
+
+      <h3>L'offerta</h3>
+
+
+      <p>Ai giocatori viene proposta la scelta tra:</p>
+
+
+      <ul>
+        <li><strong>Rakeback dinamico fino al 55%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
+        <li><strong>Rakeback fisso 35%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
+      </ul>
+    srcHash: 3c59e7458fde
+  de:
+    name: Deal in der Union PPPfish auf PPPoker
+    description: >-
+      Deal in einer großen australischen Union mit vielen Loose-Spielern. Gute Tische bei PLO5 und PLO6, ausgezeichneter
+      Rakeback.
+    geo: Australien, Ozeanien
+    body: >-
+      <h3>Beschreibung</h3>
+
+
+      <p>Poker-Deal im Club Kangaroo, der zur bekannten Union PPPFish auf PPPoker gehört. Im Club spielen überwiegend
+      Australier und Chinesen.</p>
+
+
+
+      <h3>Über die Union PPPFish auf PPPoker</h3>
+
+
+      <p>PPPFish ist die größte australische Union, in der überwiegend Recreational-Spieler aus China und Australien
+      spielen. Die Union ist für ihr softes Feld in Turnieren und bei Omaha bekannt.</p>
+
+
+      <p>Verfügbare Disziplinen: NLH, PLO4/5/6, MTT sowie die Modifikatoren Bomb Pot, Pot Or Fold und Double Board.
+      Aktives Spiel findet vor allem zwischen 7:00 und 14:00 Uhr GMT (UTC+0) statt.</p>
+
+
+
+      <h3>Über den Deal</h3>
+
+
+      <p>Den Spielern stehen zur Wahl:</p>
+
+
+      <ul>
+        <li><strong>Dynamischer Rakeback bis zu 55%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
+        <li><strong>Fester Rakeback 35%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: 3c59e7458fde
 body: >-
   <h3>Описание</h3>
 

@@ -166,3 +166,168 @@ i18n:
         </script>
       </article>
     srcHash: df82cfa66b56
+  uk:
+    title: "Бомб-поти, Pot-or-Fold і дабл-борди: модифікації покеру та як на них заробляти"
+    description: >-
+      Огляд нестандартних форматів покеру — бомб-поти, Pot-or-Fold і дабл-борди. Як вони працюють, як впливають на рейк
+      і дисперсію та як заробляти в цих форматах за допомогою рейкбеку на PokerDealsHub.
+    body: |-
+      <article>
+          
+
+          <p>Сучасні покерні застосунки дедалі частіше впроваджують нестандартні модифікації форматів, як-от бомб-поти, Pot-or-Fold і дабл-борд. Ці режими можна зустріти в <a href="/uk/deals/pppoker/" target="_blank" rel="nofollow">PPPoker</a>, <a href="/uk/deals/clubgg/" target="_blank" rel="nofollow">ClubGG</a> та <a href="/uk/deals/xpoker/" target="_blank" rel="nofollow">X-Poker</a>, особливо в приватних союзах із кастомними правилами. Нові формати роблять гру динамічнішою та привабливішою — особливо для рекреаційних гравців. Загалом більшість любителів уже доволі непогано грають у стандартні NLH і PLO, але нові формати все ще залишаються для них нерозгаданою загадкою, де вони можуть віддавати забагато EV.</p>
+        
+          <p>Утім, такі формати розганяють дисперсію і часто збільшують рейк. Без рейкбеку гра в них може стати збитковою навіть для сильних гравців. Але з гарними умовами від партнерів <strong>PokerDealsHub</strong> ці формати можна перетворити на джерело прибутку.</p>
+        
+          <h2>Бомб-поти: банк із флопу</h2>
+          <p>У бомб-потах кожен гравець ще до роздачі вносить анте, і роздача одразу починається з флопу. Це означає, що ви завжди берете участь у мультипоті та б'єтеся проти повного, 100% діапазону опонентів.</p>
+          <p>За таких умов важливо грати руки з високим натсовим потенціалом — одномастні конектори, сильні пари, руки з можливістю зібрати стрит чи флеш. І навпаки, не варто переоцінювати сети на бордах із флеш- чи стрит-дро: ймовірність натсу в суперника в мультипоті значно вища.</p>
+        
+          <h2>Дабл-борди: дві дошки, два рішення</h2>
+          <p>У цих форматах на столі здаються одразу дві флоп-дошки. Перемогу присуджують на кожній дошці окремо, і банк може бути поділений. Це додає грі глибини, але й збільшує рейкове навантаження — адже рейк стягується навіть із розділених банків.</p>
+          <p>Один із типових ризиків — ви програєте одну дошку, а на другій ділите банк. У результаті отримуєте лише чверть загального банку, фактично втрачаючи половину вкладень. Евристика: агресуйте, якщо у вас натс на одній дошці або майже натс на обох.</p>
+        
+          <h2>Pot-or-Fold: мінімум рішень, максимум тиску</h2>
+          <p>Формат Pot-or-Fold трапляється як у NLH, так і в PLO. З кожного гравця береться анте й формується пот. Одразу ж здається флоп. У кожного гравця є лише 2 опції: поставити розмір банку (pot bet) або зробити фолд.</p>
+          <p>Ключова стратегія тут — враховувати свою позицію (скільки гравців залишилося позаду), позицію опонента, який зробив ставку, і кількість гравців, що заколили. Що пізніша ваша позиція, то ширшим може бути ваш діапазон для агресії, якщо ще ніхто не поставив. При цьому до вел'ю-рук із хорошим еквіті потрібно підмішувати напівблефи — руки зі слабким еквіті. Ставки від опонентів із ранніх позицій варто поважати й заходити в банк лише із сильними руками. А ось перебуваючи на баттоні, важливо враховувати мінімальну частоту захисту, щоб не дозволяти гравцям у пізніх позиціях «друкувати гроші», блефуючи проти вас надто часто.</p>
+        
+          <h2>Рейк зростає, але це не вирок</h2>
+          <p>У всіх цих форматах банки частіше стають великими, і рейк на дистанції зростає. Це робить рейкбек обов'язковою частиною стратегії: лише він дає змогу нівелювати комісійні втрати й грати в плюс.</p>
+          <p>На <a href="/uk/deals/" target="_blank" rel="nofollow">PokerDealsHub</a> ви знайдете <a href="/uk/deals/" target="_blank" rel="nofollow">рейкбек-угоди</a> з підвищеними умовами на <strong>PPPoker</strong>, <strong>ClubGG</strong> та <strong>X-Poker</strong>. Грайте розумно, використовуйте переваги форматів і отримуйте повернення комісії вже з першої роздачі.</p>
+        
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "Бомб-поти, Pot-or-Fold і дабл-борди: модифікації покеру та як на них заробляти",
+            "description": "Огляд нестандартних форматів покеру — бомб-поти, Pot-or-Fold, дабл-борди. Як вони працюють, чому збільшують рейк і як рейкбек від PokerDealsHub допомагає грати в плюс.",
+            "author": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "url": "https://pokerdealshub.com"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://pokerdealshub.com/logo.png"
+              }
+            },
+            "datePublished": "2025-11-06",
+            "dateModified": "2025-11-06",
+            "inLanguage": "uk"
+          }
+          </script>
+        </article>
+    srcHash: df82cfa66b56
+  it:
+    title: "Bomb pot, Pot-or-Fold e double board: le varianti del poker e come guadagnarci"
+    description: >-
+      Panoramica dei formati di poker non standard — bomb pot, Pot-or-Fold e double board. Come funzionano, come
+      incidono su rake e varianza e come guadagnarci grazie al rakeback su PokerDealsHub.
+    body: |-
+      <article>
+          
+
+          <p>Le app di poker moderne introducono sempre più spesso varianti non standard dei formati, come i bomb pot, il Pot-or-Fold e il double board. Queste modalità si trovano su <a href="/it/deals/pppoker/" target="_blank" rel="nofollow">PPPoker</a>, <a href="/it/deals/clubgg/" target="_blank" rel="nofollow">ClubGG</a> e <a href="/it/deals/xpoker/" target="_blank" rel="nofollow">X-Poker</a>, soprattutto nelle union private con regole personalizzate. I nuovi formati rendono il gioco più dinamico e accattivante — specialmente per i giocatori ricreativi. In generale, la maggior parte degli amatori se la cava già abbastanza bene nei classici NLH e PLO, ma le nuove varianti restano per loro un enigma irrisolto, in cui finiscono per cedere troppo EV.</p>
+        
+          <p>Tuttavia, questi formati fanno schizzare la varianza e spesso aumentano il rake. Senza rakeback, giocarci può diventare antieconomico persino per i giocatori forti. Ma con le buone condizioni dei partner di <strong>PokerDealsHub</strong> puoi trasformare questi formati in una fonte di profitto.</p>
+        
+          <h2>Bomb pot: il piatto parte dal flop</h2>
+          <p>Nei bomb pot ogni giocatore versa l'ante ancora prima della mano, e la mano parte direttamente dal flop. Questo significa che sei sempre in un piatto multiway e ti scontri con il range completo, al 100%, degli avversari.</p>
+          <p>In queste condizioni è importante giocare mani con un alto potenziale di nuts — connettori dello stesso seme, coppie forti, mani che possono chiudere scala o colore. Al contrario, non conviene sopravvalutare i set su board con progetti di colore o scala: in un piatto multiway la probabilità che un avversario abbia i nuts è molto più alta.</p>
+        
+          <h2>Double board: due board, due decisioni</h2>
+          <p>In questi formati al tavolo vengono distribuiti subito due flop. La vittoria viene assegnata su ciascun board separatamente e il piatto può essere diviso. Questo aggiunge profondità al gioco, ma aumenta anche la pressione del rake — perché il rake viene prelevato anche dai piatti divisi.</p>
+          <p>Uno dei rischi tipici: perdi un board e dividi l'altro. Il risultato è che ti porti a casa solo un quarto del piatto totale, perdendo di fatto metà di quanto hai investito. Regola pratica: aggredisci se hai i nuts su un board o quasi i nuts su entrambi.</p>
+        
+          <h2>Pot-or-Fold: minimo di decisioni, massimo di pressione</h2>
+          <p>Il formato Pot-or-Fold si trova sia nel NLH sia nel PLO. A ogni giocatore viene prelevato l'ante e si forma il piatto. Subito dopo viene servito il flop. Ogni giocatore ha solo 2 opzioni: puntare la dimensione del piatto (pot bet) o foldare.</p>
+          <p>La strategia chiave qui è tenere conto della tua posizione (quanti giocatori restano dietro di te), della posizione dell'avversario che ha puntato e del numero di giocatori che hanno chiamato. Più tardi è la tua posizione, più ampio può essere il tuo range di aggressione, se nessuno ha ancora puntato. Allo stesso tempo, alle mani da valore con buona equity vanno mescolati semi-bluff — mani con equity debole. Le puntate degli avversari in posizione anticipata vanno rispettate, entrando nel piatto solo con mani forti. Quando invece sei sul bottone, è importante tenere d'occhio la frequenza minima di difesa, per non lasciare che i giocatori in posizione tardiva «stampino soldi» bluffando troppo spesso contro di te.</p>
+        
+          <h2>Il rake cresce, ma non è una condanna</h2>
+          <p>In tutti questi formati i piatti tendono a diventare più grandi, e sulla distanza il rake aumenta. Questo rende il rakeback una parte obbligatoria della strategia: solo lui permette di compensare le perdite da commissioni e giocare in profitto.</p>
+          <p>Su <a href="/it/deals/" target="_blank" rel="nofollow">PokerDealsHub</a> trovi <a href="/it/deals/" target="_blank" rel="nofollow">deal di rakeback</a> con condizioni maggiorate su <strong>PPPoker</strong>, <strong>ClubGG</strong> e <strong>X-Poker</strong>. Gioca con intelligenza, sfrutta i vantaggi dei formati e incassa il rimborso delle commissioni fin dalla prima mano.</p>
+        
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "Bomb pot, Pot-or-Fold e double board: le varianti del poker e come guadagnarci",
+            "description": "Panoramica dei formati di poker non standard — bomb pot, Pot-or-Fold, double board. Come funzionano, perché aumentano il rake e come il rakeback di PokerDealsHub aiuta a giocare in profitto.",
+            "author": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "url": "https://pokerdealshub.com"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://pokerdealshub.com/logo.png"
+              }
+            },
+            "datePublished": "2025-11-06",
+            "dateModified": "2025-11-06",
+            "inLanguage": "it"
+          }
+          </script>
+        </article>
+    srcHash: df82cfa66b56
+  de:
+    title: "Bomb Pots, Pot-or-Fold und Double Boards: Poker-Varianten und wie man damit verdient"
+    description: >-
+      Überblick über unkonventionelle Poker-Formate — Bomb Pots, Pot-or-Fold und Double Boards. Wie sie funktionieren,
+      wie sie sich auf Rake und Varianz auswirken und wie man mit Rakeback auf PokerDealsHub damit verdient.
+    body: |-
+      <article>
+          
+
+          <p>Moderne Poker-Apps führen immer häufiger unkonventionelle Format-Varianten ein, etwa Bomb Pots, Pot-or-Fold und Double Board. Diese Modi finden sich in <a href="/de/deals/pppoker/" target="_blank" rel="nofollow">PPPoker</a>, <a href="/de/deals/clubgg/" target="_blank" rel="nofollow">ClubGG</a> und <a href="/de/deals/xpoker/" target="_blank" rel="nofollow">X-Poker</a>, besonders in privaten Unions mit eigenen Regeln. Neue Formate machen das Spiel dynamischer und reizvoller — gerade für Recreational Player. Insgesamt spielen die meisten Amateure die Standardformate NLH und PLO bereits recht solide, doch die neuen Formate bleiben für sie ein ungelöstes Rätsel, in dem sie viel zu viel EV liegen lassen.</p>
+        
+          <p>Dennoch treiben solche Formate die Varianz in die Höhe und erhöhen oft den Rake. Ohne Rakeback kann das Spiel darin selbst für starke Spieler zum Minusgeschäft werden. Doch mit guten Konditionen der Partner von <strong>PokerDealsHub</strong> lassen sich diese Formate in eine Einnahmequelle verwandeln.</p>
+        
+          <h2>Bomb Pots: der Pot beginnt am Flop</h2>
+          <p>Bei Bomb Pots zahlt jeder Spieler schon vor der Hand ein Ante, und die Hand startet direkt am Flop. Das bedeutet, du bist immer in einem Multiway-Pot und kämpfst gegen die volle, 100%-Range der Gegner.</p>
+          <p>Unter diesen Bedingungen ist es wichtig, Hände mit hohem Nut-Potenzial zu spielen — Suited Connectors, starke Paare, Hände mit dem Potenzial auf Straight oder Flush. Umgekehrt solltest du Sets auf Boards mit Flush- oder Straight-Draws nicht überbewerten: Die Wahrscheinlichkeit, dass ein Gegner im Multiway-Pot die Nuts hält, ist deutlich höher.</p>
+        
+          <h2>Double Boards: zwei Boards, zwei Entscheidungen</h2>
+          <p>In diesen Formaten werden am Tisch gleich zwei Flop-Boards ausgeteilt. Der Sieg wird auf jedem Board separat vergeben, und der Pot kann geteilt werden. Das verleiht dem Spiel Tiefe, erhöht aber auch die Rake-Belastung — denn Rake wird sogar von geteilten Pots abgezogen.</p>
+          <p>Ein typisches Risiko: Du verlierst ein Board und teilst das andere. Im Ergebnis bekommst du nur ein Viertel des Gesamtpots und verlierst faktisch die Hälfte deines Einsatzes. Faustregel: Aggressiere, wenn du auf einem Board die Nuts hast oder auf beiden nahezu die Nuts.</p>
+        
+          <h2>Pot-or-Fold: minimale Entscheidungen, maximaler Druck</h2>
+          <p>Das Format Pot-or-Fold gibt es sowohl im NLH als auch im PLO. Von jedem Spieler wird ein Ante genommen, und es bildet sich ein Pot. Sofort wird der Flop ausgeteilt. Jeder Spieler hat nur 2 Optionen: in Pot-Höhe setzen (Pot Bet) oder folden.</p>
+          <p>Die zentrale Strategie besteht hier darin, deine eigene Position (wie viele Spieler hinter dir sitzen), die Position des Gegners, der gesetzt hat, und die Zahl der Spieler, die mitgegangen sind, zu berücksichtigen. Je später deine Position, desto breiter darf deine Range für Aggression sein, solange noch niemand gesetzt hat. Dabei solltest du Value-Hände mit guter Equity mit Semi-Bluffs mischen — Händen mit schwacher Equity. Setzt ein Gegner aus früher Position, ist das Respekt wert: Geh nur mit starken Händen in den Pot. Am Button hingegen ist es wichtig, die minimale Defense-Frequenz im Blick zu behalten, damit Spieler in später Position nicht «Geld drucken», indem sie zu oft gegen dich bluffen.</p>
+        
+          <h2>Der Rake steigt, aber das ist kein Todesurteil</h2>
+          <p>In all diesen Formaten werden die Pots häufiger groß, und der Rake steigt über die Distanz. Das macht Rakeback zum Pflichtbestandteil der Strategie: Nur er gleicht die Gebührenverluste aus und lässt dich im Plus spielen.</p>
+          <p>Auf <a href="/de/deals/" target="_blank" rel="nofollow">PokerDealsHub</a> findest du <a href="/de/deals/" target="_blank" rel="nofollow">Rakeback-Deals</a> mit erhöhten Konditionen für <strong>PPPoker</strong>, <strong>ClubGG</strong> und <strong>X-Poker</strong>. Spiel clever, nutze die Vorteile der Formate und kassiere die Gebührenrückerstattung schon ab der ersten Hand.</p>
+        
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "Bomb Pots, Pot-or-Fold und Double Boards: Poker-Varianten und wie man damit verdient",
+            "description": "Überblick über unkonventionelle Poker-Formate — Bomb Pots, Pot-or-Fold, Double Boards. Wie sie funktionieren, warum sie den Rake erhöhen und wie Rakeback von PokerDealsHub hilft, im Plus zu spielen.",
+            "author": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "url": "https://pokerdealshub.com"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "PokerDealsHub",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://pokerdealshub.com/logo.png"
+              }
+            },
+            "datePublished": "2025-11-06",
+            "dateModified": "2025-11-06",
+            "inLanguage": "de"
+          }
+          </script>
+        </article>
+    srcHash: df82cfa66b56

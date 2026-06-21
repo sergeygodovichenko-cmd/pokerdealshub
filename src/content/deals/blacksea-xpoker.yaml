@@ -92,6 +92,125 @@ i18n:
         <li><strong>Sobit rakebek 40%</strong> — ro‘yxatdan o‘tgan zahoti barqaror foiz, keyin xohlansa dinamik modelga o‘tish mumkin.</li>
       </ul>
     srcHash: 8dad5890e802
+  uk:
+    name: Угода в союзі Black Sea на X-Poker
+    description: >-
+      Угода від PDH у союзі Black Sea на X-Poker. Хороший пул, зручний час для гравців із СНД, стабільні склади без
+      перевантаження регулярами.
+    geo: СНД
+    body: >-
+      <h3>Опис</h3>
+
+
+      <p>Покерна угода в клубі PDH BlackSea (id клубу: 2445928), який входить до великого СНД-союзу Black Sea на
+      платформі X-Poker. Клуб належить PokerDealsHub, що гарантує вашу безпеку та клієнтський сервіс найвищого рівня
+      24/7.</p>
+
+
+
+      <h3>Про союз</h3>
+
+
+      <p>Black Sea — популярний союз на платформі X-Poker, що спеціалізується на гравцях із країн СНД. Союз пропонує
+      широкий вибір столів і форматів гри зі стабільно високим трафіком у будь-який час доби.</p>
+
+
+      <p>Доступні дисципліни: MTT, NLH, OFC, PLO4/5/6, Short Deck(6+), а також варіації: Double Board і Bomb Pot. У
+      будь-який час доби можна знайти гру на всіх лімітах. Пік активності припадає на 14:00 - 22:00 за GMT+3.</p>
+
+
+
+      <h3>Про угоду</h3>
+
+
+      <p>Гравцям надається на вибір:</p>
+
+
+      <ul>
+        <li><strong>Динамічний рейкбек до 70%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
+        <li><strong>Фіксований рейкбек 40%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
+      </ul>
+    srcHash: 8dad5890e802
+  it:
+    name: Offerta nell'unione Black Sea su X-Poker
+    description: >-
+      Offerta di PDH nell'unione Black Sea su X-Poker. Buon pool, orari comodi per i giocatori della CSI, tavoli stabili
+      senza un eccesso di regular.
+    geo: CSI
+    body: >-
+      <h3>Descrizione</h3>
+
+
+      <p>Offerta di poker nel club PDH BlackSea (id club: 2445928), che fa parte della grande unione CSI Black Sea sulla
+      piattaforma X-Poker. Il club è di proprietà di PokerDealsHub, il che garantisce la tua sicurezza e un servizio
+      clienti di altissimo livello 24/7.</p>
+
+
+
+      <h3>Informazioni sull'unione</h3>
+
+
+      <p>Black Sea è un'unione popolare sulla piattaforma X-Poker, specializzata nei giocatori dei paesi della CSI.
+      L'unione offre un'ampia scelta di tavoli e formati di gioco con un traffico costantemente elevato a qualsiasi ora
+      del giorno.</p>
+
+
+      <p>Discipline disponibili: MTT, NLH, OFC, PLO4/5/6, Short Deck(6+), oltre alle varianti Double Board e Bomb Pot. A
+      qualsiasi ora del giorno puoi trovare gioco a tutti i limiti. Il picco di attività è tra le 14:00 e le 22:00
+      GMT+3.</p>
+
+
+
+      <h3>L'offerta</h3>
+
+
+      <p>Ai giocatori viene proposta la scelta tra:</p>
+
+
+      <ul>
+        <li><strong>Rakeback dinamico fino al 70%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
+        <li><strong>Rakeback fisso 40%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
+      </ul>
+    srcHash: 8dad5890e802
+  de:
+    name: Deal in der Union Black Sea auf X-Poker
+    description: >-
+      Deal von PDH in der Union Black Sea auf X-Poker. Guter Pool, bequeme Zeiten für Spieler aus der GUS, stabile
+      Tische ohne Reg-Überfüllung.
+    geo: GUS
+    body: >-
+      <h3>Beschreibung</h3>
+
+
+      <p>Poker-Deal im Club PDH BlackSea (Club-ID: 2445928), der zur großen GUS-Union Black Sea auf der Plattform
+      X-Poker gehört. Der Club gehört PokerDealsHub, was deine Sicherheit und Kundenservice auf höchstem Niveau rund um
+      die Uhr garantiert.</p>
+
+
+
+      <h3>Über die Union</h3>
+
+
+      <p>Black Sea ist eine beliebte Union auf der Plattform X-Poker, spezialisiert auf Spieler aus den GUS-Ländern. Die
+      Union bietet eine große Auswahl an Tischen und Spielformaten mit konstant hohem Traffic zu jeder Tageszeit.</p>
+
+
+      <p>Verfügbare Disziplinen: MTT, NLH, OFC, PLO4/5/6, Short Deck(6+) sowie die Varianten Double Board und Bomb Pot.
+      Zu jeder Tageszeit findest du Spiele an allen Limits. Die Stoßzeit liegt zwischen 14:00 und 22:00 Uhr GMT+3.</p>
+
+
+
+      <h3>Über den Deal</h3>
+
+
+      <p>Den Spielern stehen zur Wahl:</p>
+
+
+      <ul>
+        <li><strong>Dynamischer Rakeback bis zu 70%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
+        <li><strong>Fester Rakeback 40%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: 8dad5890e802
 body: >-
   <h3>Описание</h3>
 

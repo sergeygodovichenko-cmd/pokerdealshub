@@ -94,6 +94,123 @@ i18n:
         <li><strong>Sobit rakebek 35%</strong> — ro‘yxatdan o‘tgan zahoti ustunlik bilan o‘ynang, keyin xohlansa dinamik rakebekka o‘tish mumkin.</li>
       </ul>
     srcHash: 89881dc14ead
+  uk:
+    name: Угода в союзі NUTS PrimeTime на PPPoker
+    description: >-
+      Угода від PDH із відмінним рейкбеком у популярному союзі NUTS PrimeTime. Великий вибір дисциплін і лімітів, гра
+      йде 24/7.
+    geo: США, СНД
+    body: >-
+      <h3>Опис</h3>
+
+
+      <p>Покерна угода в клубі Illuminator, який входить до відомого союзу NUTS PrimeTime. Club id: 4663296. Клуб під
+      управлінням PokerDealsHub, що гарантує вашу безпеку та клієнтський сервіс найвищого рівня 24/7.</p>
+
+
+
+      <h3>Про союз</h3>
+
+
+      <p>Nuts PrimeTime — одне з найбільших об'єднань покерних гравців з усього світу, включно зі США, Канадою,
+      Австралією та країнами СНД. Союз було засновано у 2018 році, і він славиться чистою репутацією.</p>
+
+
+      <p>Доступні дисципліни: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck(6+). У будь-який
+      час доби можна знайти гру на всіх лімітах.</p>
+
+
+
+      <h3>Про угоду</h3>
+
+
+      <p>Гравцям надається на вибір:</p>
+
+
+      <ul>
+        <li><strong>Динамічний рейкбек до 70%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
+        <li><strong>Фіксований рейкбек 35%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
+      </ul>
+    srcHash: 89881dc14ead
+  it:
+    name: Offerta nell'unione NUTS PrimeTime su PPPoker
+    description: >-
+      Offerta di PDH con un ottimo rakeback nella popolare unione NUTS PrimeTime. Ampia scelta di discipline e limiti,
+      si gioca 24/7.
+    geo: USA, CSI
+    body: >-
+      <h3>Descrizione</h3>
+
+
+      <p>Offerta di poker nel club Illuminator, che fa parte della nota unione NUTS PrimeTime. Club id: 4663296. Il club
+      è gestito da PokerDealsHub, il che garantisce la tua sicurezza e un servizio clienti di altissimo livello
+      24/7.</p>
+
+
+
+      <h3>Informazioni sull'unione</h3>
+
+
+      <p>Nuts PrimeTime è una delle più grandi aggregazioni di giocatori di poker da tutto il mondo, inclusi USA,
+      Canada, Australia e i paesi della CSI. L'unione è stata fondata nel 2018 e vanta una reputazione impeccabile.</p>
+
+
+      <p>Discipline disponibili: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck(6+). A
+      qualsiasi ora del giorno puoi trovare gioco a tutti i limiti.</p>
+
+
+
+      <h3>L'offerta</h3>
+
+
+      <p>Ai giocatori viene proposta la scelta tra:</p>
+
+
+      <ul>
+        <li><strong>Rakeback dinamico fino al 70%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
+        <li><strong>Rakeback fisso 35%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
+      </ul>
+    srcHash: 89881dc14ead
+  de:
+    name: Deal in der Union NUTS PrimeTime auf PPPoker
+    description: >-
+      Deal von PDH mit ausgezeichnetem Rakeback in der beliebten Union NUTS PrimeTime. Große Auswahl an Disziplinen und
+      Limits, gespielt wird rund um die Uhr.
+    geo: USA, GUS
+    body: >-
+      <h3>Beschreibung</h3>
+
+
+      <p>Poker-Deal im Club Illuminator, der zur bekannten Union NUTS PrimeTime gehört. Club id: 4663296. Der Club wird
+      von PokerDealsHub verwaltet, was deine Sicherheit und Kundenservice auf höchstem Niveau rund um die Uhr
+      garantiert.</p>
+
+
+
+      <h3>Über die Union</h3>
+
+
+      <p>Nuts PrimeTime ist einer der größten Zusammenschlüsse von Pokerspielern aus aller Welt, darunter aus den USA,
+      Kanada, Australien und den GUS-Ländern. Die Union wurde 2018 gegründet und ist für ihren tadellosen Ruf
+      bekannt.</p>
+
+
+      <p>Verfügbare Disziplinen: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck(6+). Zu jeder
+      Tageszeit findest du Spiele an allen Limits.</p>
+
+
+
+      <h3>Über den Deal</h3>
+
+
+      <p>Den Spielern stehen zur Wahl:</p>
+
+
+      <ul>
+        <li><strong>Dynamischer Rakeback bis zu 70%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
+        <li><strong>Fester Rakeback 35%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: 89881dc14ead
 body: >-
   <h3>Описание</h3>
 

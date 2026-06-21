@@ -17,13 +17,16 @@ const guides = all
   .map((entry) => ({ slug: entry.id, ...entry.data, ...localizeGuide(entry.data, lang) }))
   .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
-const dateLocale: Record<string, string> = { ru: "ru-RU", en: "en-US", uz: "uz-UZ" };
+const dateLocale: Record<string, string> = { ru: "ru-RU", en: "en-US", uz: "uz-UZ", uk: "uk-UA", it: "it-IT", de: "de-DE" };
 const catLabel: Record<string, { guide: string; review: string }> = {
   ru: { guide: "Гайд", review: "Обзор" },
   en: { guide: "Guide", review: "Review" },
   uz: { guide: "Qo‘llanma", review: "Sharh" },
+  uk: { guide: "Гайд", review: "Огляд" },
+  it: { guide: "Guida", review: "Recensione" },
+  de: { guide: "Guide", review: "Review" },
 };
-const readMore: Record<string, string> = { ru: "Читать далее", en: "Read more", uz: "Batafsil" };
+const readMore: Record<string, string> = { ru: "Читать далее", en: "Read more", uz: "Batafsil", uk: "Читати далі", it: "Leggi di più", de: "Mehr lesen" };
 const aboutBlock: Record<string, { title: string; p1: string; p2: string }> = {
   ru: {
     title: "О разделе гайдов",
@@ -39,6 +42,21 @@ const aboutBlock: Record<string, { title: string; p1: string; p2: string }> = {
     title: "Qo‘llanmalar bo‘limi haqida",
     p1: "Bu bo‘limda poker ilovalari, ittifoqlar va bitimlar bo‘yicha batafsil qo‘llanma va sharhlar chop etamiz. Maqsadimiz — o‘yin shartlarini tushunishga va eng yaxshi taklifni tanlashga yordam berish.",
     p2: "Barcha materiallar haqiqiy o‘yin tajribasi va tekshirilgan ma'lumotlarga asoslangan.",
+  },
+  uk: {
+    title: "Про розділ гайдів",
+    p1: "У цьому розділі ми публікуємо докладні гайди та огляди покерних застосунків, союзів і угод. Наша мета — допомогти розібратися в умовах гри та обрати найкращу пропозицію.",
+    p2: "Усі матеріали ґрунтуються на реальному ігровому досвіді та перевіреній інформації.",
+  },
+  it: {
+    title: "Informazioni sulla sezione Guide",
+    p1: "Qui pubblichiamo guide dettagliate e recensioni di app di poker, union e offerte. Il nostro obiettivo è aiutarti a comprendere le condizioni di gioco e a scegliere l’offerta migliore.",
+    p2: "Tutte le guide si basano su un’esperienza di gioco reale e su informazioni verificate.",
+  },
+  de: {
+    title: "Über den Guides-Bereich",
+    p1: "Hier veröffentlichen wir ausführliche Guides und Reviews zu Poker-Apps, Unions und Deals. Unser Ziel ist es, dir zu helfen, die Spielbedingungen zu verstehen und das beste Angebot zu wählen.",
+    p2: "Alle Guides basieren auf echter Spielerfahrung und geprüften Informationen.",
   },
 };
 const about = aboutBlock[lang] ?? aboutBlock.en;

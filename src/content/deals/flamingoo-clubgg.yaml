@@ -104,6 +104,141 @@ i18n:
 
       </ul>
     srcHash: 352ebb4e8ac8
+  uk:
+    name: Угода в союзі Flamingoo на ClubGG
+    description: >-
+      Угода в союзі Flamingoo на ClubGG. Високий рейкбек до 55% і активна гра цілодобово в усіх форматах. PDH виступає в
+      ролі агента та гаранта виплат.
+    geo: США
+    body: >-
+      <h3>Опис</h3>
+
+
+      <p>Покерна угода в клубі Monkeys Paradise, який входить до міжнародного союзу Flamingoo на ClubGG — офіційному
+      застосунку від GGPoker. Окрім надійної платформи, клуб пропонує чудовий майданчик для рекреаційних гравців.</p>
+
+
+
+      <h3>Про союз</h3>
+
+
+      <p>Flamingoo — один із провідних союзів на платформах ClubGG і PokerBros, що спеціалізується на американському
+      ринку. Союз було засновано у 2020 році, і він зарекомендував себе як надійний партнер для гравців усіх рівнів.</p>
+
+
+      <p>Доступні дисципліни: NLH, PLO4/5/6, MTT. Активна гра йде цілодобово.</p>
+
+
+
+      <h3>Про угоду</h3>
+
+
+      <p>Гравцям надається на вибір:</p>
+
+
+      <ul>
+
+
+      <li><strong>Динамічний рейкбек до 60%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
+
+
+      <li><strong>Фіксований рейкбек 30%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації.
+      Згодом можна перейти на динамічний.</li>
+
+
+      </ul>
+    srcHash: 352ebb4e8ac8
+  it:
+    name: Offerta nell'unione Flamingoo su ClubGG
+    description: >-
+      Offerta nell'unione Flamingoo su ClubGG. Rakeback elevato fino al 55% e gioco attivo 24 ore su 24 in tutti i
+      formati. PDH agisce da agente e garante dei pagamenti.
+    geo: USA
+    body: >-
+      <h3>Descrizione</h3>
+
+
+      <p>Offerta di poker nel club Monkeys Paradise, che fa parte dell'unione internazionale Flamingoo su ClubGG — l'app
+      ufficiale di GGPoker. Oltre a una piattaforma affidabile, il club offre un'ottima arena per i giocatori
+      ricreativi.</p>
+
+
+
+      <h3>Informazioni sull'unione</h3>
+
+
+      <p>Flamingoo è una delle unioni leader sulle piattaforme ClubGG e PokerBros, specializzata nel mercato americano.
+      L'unione è stata fondata nel 2020 e si è affermata come partner affidabile per i giocatori di ogni livello.</p>
+
+
+      <p>Discipline disponibili: NLH, PLO4/5/6, MTT. Il gioco attivo prosegue 24 ore su 24.</p>
+
+
+
+      <h3>L'offerta</h3>
+
+
+      <p>Ai giocatori viene proposta la scelta tra:</p>
+
+
+      <ul>
+
+
+      <li><strong>Rakeback dinamico fino al 60%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
+
+
+      <li><strong>Rakeback fisso 30%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito
+      puoi passare a quello dinamico.</li>
+
+
+      </ul>
+    srcHash: 352ebb4e8ac8
+  de:
+    name: Deal in der Union Flamingoo auf ClubGG
+    description: >-
+      Deal in der Union Flamingoo auf ClubGG. Hoher Rakeback bis zu 55% und rund um die Uhr aktives Spiel in allen
+      Formaten. PDH tritt als Agent und Auszahlungsgarant auf.
+    geo: USA
+    body: >-
+      <h3>Beschreibung</h3>
+
+
+      <p>Poker-Deal im Club Monkeys Paradise, der zur internationalen Union Flamingoo auf ClubGG gehört — der
+      offiziellen App von GGPoker. Neben einer zuverlässigen Plattform bietet der Club ein hervorragendes Umfeld für
+      Recreational-Spieler.</p>
+
+
+
+      <h3>Über die Union</h3>
+
+
+      <p>Flamingoo ist eine der führenden Unions auf den Plattformen ClubGG und PokerBros mit Fokus auf den
+      amerikanischen Markt. Die Union wurde 2020 gegründet und hat sich als zuverlässiger Partner für Spieler aller
+      Niveaus etabliert.</p>
+
+
+      <p>Verfügbare Disziplinen: NLH, PLO4/5/6, MTT. Aktives Spiel läuft rund um die Uhr.</p>
+
+
+
+      <h3>Über den Deal</h3>
+
+
+      <p>Den Spielern stehen zur Wahl:</p>
+
+
+      <ul>
+
+
+      <li><strong>Dynamischer Rakeback bis zu 60%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
+
+
+      <li><strong>Fester Rakeback 30%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später
+      kannst du auf das dynamische Modell wechseln.</li>
+
+
+      </ul>
+    srcHash: 352ebb4e8ac8
 body: >-
   <h3>Описание</h3>
 
