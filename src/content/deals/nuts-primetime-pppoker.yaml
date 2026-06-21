@@ -34,6 +34,30 @@ i18n:
       PDH deal with excellent rakeback in the popular NUTS PrimeTime union. Wide selection of disciplines and limits,
       games 24/7.
     geo: USA, CIS
+    body: >-
+      <h3>Description</h3>
+
+      <p>A poker deal in the Illuminator club (PPPoker club id: 4663296), which is part of the well-known NUTS PrimeTime
+      union. The club is managed by PokerDealsHub, ensuring your safety and top-tier customer service 24/7.</p>
+
+
+      <h3>About the Union</h3>
+
+      <p>Nuts PrimeTime is one of the largest poker unions in the world, bringing together players from the USA, Canada,
+      Australia, and the CIS countries. Founded in 2018, the union is known for its spotless reputation.</p>
+
+      <p>Available formats: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot or Fold, and Short Deck (6+). Games
+      are available at all limits around the clock.</p>
+
+
+      <h3>The deal</h3>
+
+      <p>Players are offered a choice of:</p>
+
+      <ul>
+        <li><strong>Dynamic rakeback up to 70%</strong> The rakeback rate depends on the player’s weekly rake volume.</li>
+        <li><strong>Fixed rakeback 35%</strong> Start playing with an advantage right after registration. You can switch to a dynamic rakeback later.</li>
+      </ul>
   es:
     name: Oferta de la Unión NUTS PrimeTime en PPPoker
     description: >-
@@ -44,3 +68,51 @@ i18n:
     name: Nuts PrimeTime ittifoqi bitimi — PPPoker
     description: Mashhur Nuts PrimeTime ittifoqida PDHdan a'lo rakebek. Fan va limitlar keng, o'yinlar 24/7.
     geo: AQSh, MDH
+    body: >-
+      <h3>Tavsif</h3>
+
+      <p>PPPoker dagi mashhur NUTS PrimeTime ittifoqi tarkibidagi Illuminator klubida (ID: 4663296) bitim. Klub
+      PokerDealsHub tomonidan boshqariladi, shuning uchun xavfsizlik va 24/7 xizmat kafolatlangan.</p>
+
+
+      <h3>Ittifoq haqida</h3>
+
+      <p>Nuts PrimeTime — dunyodagi eng yirik poker ittifoqlaridan biri, AQSh, Kanada, Avstraliya va MDH mamlakatlaridan
+      o‘yinchilarni birlashtiradi. 2018 yilda tashkil topgan, obro‘si juda toza.</p>
+
+      <p>Mavjud formatlar: MTT, kesh, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot or Fold, Short Deck (6+). Barcha
+      limitlarda sutka davomida o‘yin bor.</p>
+
+
+      <h3>Bitim haqida</h3>
+
+      <p>O‘yinchilarga tanlash uchun ikkita model taklif qilinadi:</p>
+
+      <ul>
+        <li><strong>70% gacha dinamik rakebek</strong> — stavka o‘yinchining haftalik rake hajmiga bog‘liq.</li>
+        <li><strong>Sobit rakebek 35%</strong> — ro‘yxatdan o‘tgan zahoti ustunlik bilan o‘ynang, keyin xohlansa dinamik rakebekka o‘tish mumkin.</li>
+      </ul>
+body: >-
+  <h3>Описание</h3>
+
+  <p>Покерная сделка в клубе Illuminator, который состоит в известном союзе NUTS PrimeTime. Club id: 4663296. Клуб под
+  управлением PokerDealsHub, что гарантирует вашу безопасность и клиентский сервис высшего уровня 24/7.</p>
+
+
+  <h3>О союзе</h3>
+
+  <p>Nuts PrimeTime — одно из крупнейших объединений покерных игроков со всего мира, включая США, Канаду, Австралию и
+  страны СНГ. Союз был основан в 2018 году и славится чистой репутацией.</p>
+
+  <p>Доступные дисциплины: MTT, Cash, OFC, PLO4/5/6, Double Board, Bomb Pot, Pot Or Fold, Short Deck(6+). В любое время
+  суток можно найти игру на всех лимитах.</p>
+
+
+  <h3>О сделке</h3>
+
+  <p>Игрокам предоставляется на выбор:</p>
+
+  <ul>
+    <li><strong>Динамический рейкбэк до 70%</strong> Рейкбэк зависит от недельного объема рейка.</li>
+    <li><strong>Фиксированный рейкбэк 35%</strong> Получите возможность начать игру с преимуществом сразу после регистрации. В последствии можно перейти на динамический.</li>
+  </ul>

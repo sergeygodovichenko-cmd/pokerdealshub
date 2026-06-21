@@ -35,6 +35,39 @@ i18n:
       players from Asia.
     geo: Asia, CIS
     bonus: up to $1000 on 1st deposit
+    body: >-
+      <h3>Description</h3>
+
+      <p>PDH Nuts Poker Club is the official Poker Deals Hub club in the centralized poker app NUTS POKER. It’s a
+      classic online poker room with a unified settlement system and support for digital payment methods. Many
+      recreational players from Asia.</p>
+
+
+      <h3>About the App</h3>
+
+      <p>NUTS POKER is a centralized poker application. Although it has a club system, clubs are used only to assign
+      rakebacks to players. All games take place in a common player pool. Deposits and cashouts are processed
+      automatically. The interface is simple and convenient: the game starts in a couple of clicks, statistics and
+      cashier are fully integrated, and the security service monitors the game 24/7.</p>
+
+      <p>Key features:</p>
+
+      <ul>
+        <li>Support for all popular formats — NLH, PLO4/5/6, MTT, SpinUp</li>
+        <li>Clients for iOS, Android, and Windows</li>
+        <li>Games run 24/7 at low and medium stakes</li>
+        <li>Regular promotions and freerolls. Record freeroll guarantee – $36,000!</li>
+      </ul>
+
+
+      <h3>About the Deal</h3>
+
+      <p>Players can choose:</p>
+
+      <ul>
+        <li><strong>Dynamic rakeback up to 50%</strong> Rakeback depends on the weekly rake volume.</li>
+        <li><strong>Fixed rakeback 25%</strong> Start playing with an advantage immediately after registration. Later, you can switch to a dynamic system.</li>
+      </ul>
   es:
     name: Oferta en NUTS POKER con Rakeback de PHD
     description: >-
@@ -49,3 +82,69 @@ i18n:
       o'yinchilar.
     geo: Osiyo, MDH
     bonus: 1-depozitga 1000 $ gacha
+    body: >-
+      <h3>Tavsif</h3>
+
+      <p>PDH Nuts Poker Club — NUTS POKER markazlashgan ilovasidagi PokerDealsHub’ning rasmiy klubi. Yagona kassa va
+      raqamli to‘lovlarni qo‘llab-quvvatlaydigan klassik onlayn poker xonasi. Osiyodan ko‘plab rekreatsion o‘yinchilar
+      bor.</p>
+
+
+      <h3>Ilova haqida</h3>
+
+      <p>NUTS POKER — markazlashgan poker ilovasi. Klub tizimi bor, ammo klub faqat rakebekni biriktirish uchun
+      ishlatiladi, barcha o‘yinlar umumiy player pool’da o‘ynaladi. Depozit va keshoutlar avtomatik ishlanadi. Interfeys
+      sodda: o‘yin bir necha klikda boshlanadi, statistika va kassa integratsiyalashgan, xavfsizlik xizmati 24/7 nazorat
+      qiladi.</p>
+
+      <p>Muhim imkoniyatlar:</p>
+
+      <ul>
+        <li>NLH, PLO4/5/6, MTT, SpinUp kabi mashhur formatlar</li>
+        <li>iOS, Android va Windows uchun mijozlar</li>
+        <li>Past va o‘rta stavkalarda 24/7 o‘yin</li>
+        <li>Muntazam aksiyalar va frirrollar. Rekord frirroll kafolati — $36 000!</li>
+      </ul>
+
+
+      <h3>Bitim haqida</h3>
+
+      <p>O‘yinchilar tanlashi mumkin:</p>
+
+      <ul>
+        <li><strong>50% gacha dinamik rakebek</strong> — rakebek haftalik rake hajmiga bog‘liq.</li>
+        <li><strong>Sobit rakebek 25%</strong> — ro‘yxatdan o‘tgach darhol barqaror foiz, keyin xohlansa dinamik tizimga o‘tish mumkin.</li>
+      </ul>
+body: >-
+  <h3>Описание</h3>
+
+  <p>Клуб PDH Nuts Poker — оффициальный клуб Poker Deals Hub в централизованном покерном приложении NUTS POKER. Это
+  классический онлайн покернр рум с единой системой расчётов и поддержкой цифровых платёжных решений. Много
+  рекреационных игроков из Азии.</p>
+
+
+  <h3>О союзе</h3>
+
+  <p>NUTS POKER — централизованное покерное приложение. Хоть оно и имеет клубную систему, но клубы используются только
+  для назначения игрокам рейкбэков. При этом все игры происходят в общем пуле игроков. Депозиты и кешауты производятся
+  через автоматизированный процессинг. Интерфейс максимально прост и удобен: игра запускается в пару кликов, статистика
+  и касса полностью внедрены в систему, а служба безопасности круглосуточно контролирует игру.</p>
+
+  <p>Ключевые особенности:</p>
+
+  <ul>
+    <li>Поддержка всех популярных форматов — NLH, PLO4/5/6, MTT, SpinUp</li>
+    <li>Клиенты для iOS, Android и Windows</li>
+    <li>Игра идёт 24/7 на низких и средних лимитах</li>
+    <li>Реглуярные акции и бесплатные турниры. Рекордная гарантия фриролла – $36,000!</li>
+  </ul>
+
+
+  <h3>О сделке</h3>
+
+  <p>Игрокам предоставляется на выбор:</p>
+
+  <ul>
+    <li><strong>Динамический рейкбэк до 50%</strong> Рейкбэк зависит от недельного объема рейка.</li>
+    <li><strong>Фиксированный рейкбэк 25%</strong> Получите возможность начать игру с преимуществом сразу после регистрации. В последствии можно перейти на динамический.</li>
+  </ul>

@@ -30,6 +30,33 @@ i18n:
     name: Paradise union Deal on PokerBros
     description: Plenty of active tables, transparent terms, and high rakeback — the best offer on Poker Bros.
     geo: USA
+    body: >-
+      <h3>Description</h3>
+
+      <p>Monkeys VIPS is an exclusive club within the Paradise union on the PokerBros platform. The club offers high
+      rakeback and active games across all limits from 7:00 PM to 11:00 PM (GMT-7), making it an ideal choice for
+      players from North and South America.</p>
+
+
+      <h3>About the Union</h3>
+
+      <p>Paradise Union is one of the largest alliances on the PokerBros platform, bringing together over 30 clubs with
+      players from all around the world. The union offers a wide variety of game formats, including NLH, PLO4/5/6, MTT,
+      and more. Games are mostly played at low and mid stakes, and the union is well known for its recreational player
+      pool.</p>
+
+      <p>Available formats: NLH, PLO4/5/6, MTT, as well as the Bomb Pot modifier. Active games run 24/7 across all
+      limits, with a large number of recreational players from the USA.</p>
+
+
+      <h3>About the Deal</h3>
+
+      <p>Players can choose between the following options:</p>
+
+      <ul>
+        <li><strong>Dynamic rakeback up to 55%</strong> Rakeback depends on the weekly rake volume.</li>
+        <li><strong>Fixed rakeback 25%</strong> Get the opportunity to start playing with an advantage right after registration. Later, you can switch to the dynamic option.</li>
+      </ul>
   es:
     name: Oferta de la Unión Paradise en PokerBros
     description: "Muchas mesas activas, condiciones transparentes y alto rakeback: la mejor oferta en Poker Bros."
@@ -38,3 +65,55 @@ i18n:
     name: Paradise ittifoqi bitimi — PokerBros
     description: Ko'plab faol stollar, shaffof shartlar va yuqori rakebek — PokerBros dagi eng yaxshi takliflardan biri.
     geo: AQSh
+    body: >-
+      <h3>Tavsif</h3>
+
+      <p>Monkeys VIPS — PokerBros platformasidagi Paradise ittifoqining eksklyuziv klubi. Klub 19:00–23:00 (GMT-7)
+      oralig‘ida barcha limitlarda faol o‘yin va yuqori rakebek taklif qiladi, bu uni Shimoliy va Janubiy Amerika
+      o‘yinchilari uchun ideal qiladi.</p>
+
+
+      <h3>Ittifoq haqida</h3>
+
+      <p>Paradise — PokerBros platformasidagi eng yirik ittifoqlardan biri, butun dunyodan 30 dan ortiq klubni
+      birlashtiradi. Ittifoq NLH, PLO4/5/6, MTT va boshqa formatlarning keng tanlovini taklif etadi. O‘yinlar asosan
+      past va o‘rta limitlarda bo‘lib, rekreatsion o‘yinchilar ulushi katta.</p>
+
+      <p>Mavjud formatlar: NLH, PLO4/5/6, MTT hamda Bomb Pot modifikatori. Barcha limitlarda 24/7 faol stollar, AQShdan
+      ko‘plab rekreatsion o‘yinchilar.</p>
+
+
+      <h3>Bitim haqida</h3>
+
+      <p>O‘yinchilar quyidagi variantlardan birini tanlashi mumkin:</p>
+
+      <ul>
+        <li><strong>55% gacha dinamik rakebek</strong> — rakebek haftalik rake hajmiga bog‘liq.</li>
+        <li><strong>Sobit rakebek 25%</strong> — ro‘yxatdan o‘tgan zahoti ustunlik bilan boshlang, keyin xohlansa dinamik modelga o‘tish mumkin.</li>
+      </ul>
+body: >-
+  <h3>Описание</h3>
+
+  <p>Monkeys VIPS — эксклюзивный клуб в союзе Paradise на платформе PokerBros. Клуб предлагает высокий рейкбэк и
+  активную игру на всех лимитах с 19:00 до 23:00 по GMT-7. Идеально подходит для игроков из Северной и Южной
+  Америки.</p>
+
+
+  <h3>О союзе</h3>
+
+  <p>Paradise Union — один из крупнейших союзов на платформе PokerBros, объединяющий более 30 клубов с игроками со всего
+  мира. Союз предлагает разнообразные форматы игры, включая NLH, PLO4/5/6, MTT и другие. Игра в основном идёт на средних
+  и низких лимитах. Союз известен своими рекреационными игроками.</p>
+
+  <p>Доступные дисциплины: NLH, PLO4/5/6, MTT а также модификатор Bomb Pot. Активная игра идёт круглосуточно на всех
+  лимитах с большим количеством рекреационных игроков из США.</p>
+
+
+  <h3>О сделке</h3>
+
+  <p>Игрокам предоставляется на выбор:</p>
+
+  <ul>
+    <li><strong>Динамический рейкбэк до 55%</strong> Рейкбэк зависит от недельного объема рейка.</li>
+    <li><strong>Фиксированный рейкбэк 25%</strong> Получите возможность начать игру с преимуществом сразу после регистрации. В последствии можно перейти на динамический.</li>
+  </ul>

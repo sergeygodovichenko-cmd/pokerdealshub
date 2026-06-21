@@ -36,6 +36,41 @@ i18n:
       Deal in the legendary Massiv Union on ClubGG. Probably one of the best poker fields for all game types and limits.
       Huge jackpot!
     geo: Asia, Israel, USA
+    body: >-
+      <h3>Description</h3>
+
+      <p>Poker deal in the Stampede club, which is part of the largest union — Massiv Union on ClubGG. The combination
+      of a convenient and reliable app, excellent player pool, and high rakeback makes this deal one of the best
+      available.</p>
+
+
+      <h3>About the Union</h3>
+
+      <p>Massiv Union is, without exaggeration, a legendary union on ClubGG. Its core audience includes players from the
+      USA, Canada, Israel, and various Asian countries. The founders focused on maintaining a fair and soft playing
+      environment, actively encouraging recreational players. Thanks to this, playing and winning in this union is truly
+      possible!</p>
+
+      <p>Available disciplines: NLH, PLO4/5/6, MTT, as well as the Bomb Pot modifier. Thanks to its broad geography,
+      active games run around the clock at all limits. A significant portion of the player pool consists of recreational
+      players.</p>
+
+      <p>The union features a massive <strong>Bad Beat Jackpot</strong> with a prize pool exceeding
+      <strong>$500,000</strong>. It’s an additional chance to score a big payout even in an unlucky hand.</p>
+
+
+      <h3>About the Deal</h3>
+
+      <p>Players can choose between the following options:</p>
+
+      <ul>
+
+      <li><strong>Dynamic rakeback up to 55%</strong> — The rakeback rate depends on your weekly rake volume.</li>
+
+      <li><strong>Fixed rakeback 25%</strong> — Get started with fixed rakeback right away, and switch to the dynamic
+      option later if you prefer.</li>
+
+      </ul>
   es:
     name: Oferta de la Unión Massiv Union en ClubGG
     description: >-
@@ -48,3 +83,67 @@ i18n:
       ClubGG dagi afsonaviy Massiv Union. Barcha format va limitlar uchun ehtimol eng yaxshi maydonlardan biri, ulkan
       jakpot bilan.
     geo: Osiyo, Isroil, AQSh
+    body: >-
+      <h3>Tavsif</h3>
+
+      <p>ClubGG dagi eng yirik ittifoq — Massiv Union tarkibidagi Stampede klubidagi bitim. Qulay va ishonchli ilova,
+      kuchli o‘yinchi puli va yuqori rakebek bu taklifni eng yaxshilaridan biriga aylantiradi.</p>
+
+
+      <h3>Ittifoq haqida</h3>
+
+      <p>Massiv Union — ClubGG dagi afsonaviy ittifoqlardan biri. Asosiy auditoriya AQSh, Kanada, Isroil va Osiyo
+      mamlakatlaridan o‘yinchilar. Tashkilotchilar adolatli va yumshoq o‘yin muhitini saqlashga e’tibor beradi va
+      rekreatsion o‘yinchilarni rag‘batlantiradi. Shu tufayli bu ittifoqda o‘ynab yutish haqiqatan ham mumkin.</p>
+
+      <p>Mavjud fanlar: NLH, PLO4/5/6, MTT hamda Bomb Pot modifikatori. Keng geografiya tufayli barcha limitlarda sutka
+      davomida o‘yin bor. O‘yinchi pulining katta qismi rekreatsionlardan iborat.</p>
+
+      <p>Ittifoqqa ulkan <strong>Bad Beat Jackpot</strong> ulanadi, jamg‘armasi <strong>$500,000</strong> dan oshadi. Bu
+      hatto omadsiz qo‘lda ham katta to‘lov olish uchun qo‘shimcha imkoniyat.</p>
+
+
+      <h3>Bitim haqida</h3>
+
+      <p>O‘yinchilar quyidagi variantlardan birini tanlashi mumkin:</p>
+
+      <ul>
+
+      <li><strong>55% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
+
+      <li><strong>Sobit rakebek 25%</strong> — hajmdan qat’i nazar barqaror foiz, xohlansa keyinroq dinamik rejimga
+      o‘tish mumkin.</li>
+
+      </ul>
+body: >-
+  <h3>Описание</h3>
+
+  <p>Покерная сделка в клубе Stampede, который состоит в крупнейшем союзе Massiv Union на ClubGG. Сочетание удобного и
+  надежного приложения, отличного пула игроков и высокого рейкбэка делает эту сделку одной из лучших.</p>
+
+
+  <h3>О союзе</h3>
+
+  <p>Massiv Union — без преувеличения легендарный союз на ClubGG. Костяк аудитории - игроки из США, Канады, Израиля и
+  стран Азии. Создатели союза поставили в приоритет поддержание честной и мягкой игры, максимально поощряя слабых
+  рекреационных игроков. Благодаря этому, играть и выигрывать в этом союзе вполне реально!</p>
+
+  <p>Доступные дисциплины: NLH, PLO4/5/6, MTT а также модификатор Bomb Pot. Благодаря широкой географии, активная игра
+  идёт круглосуточно на всех лимитах. Значительная часть людей за столом - рекреационные игроки.</p>
+
+  <p>В союзе действует огромный <strong>Bad Beat Jackpot</strong>, фонд которого переваливает за <strong>$500
+  000</strong>. Это дополнительная возможность получить крупный выигрыш даже при неудачной раздаче.</p>
+
+
+  <h3>О сделке</h3>
+
+  <p>Игрокам предоставляется на выбор:</p>
+
+  <ul>
+
+  <li><strong>Динамический рейкбэк до 55%</strong> Рейкбэк зависит от недельного объема рейка.</li>
+
+  <li><strong>Фиксированный рейкбэк 25%</strong> Получите возможность начать игру с преимуществом сразу после
+  регистрации. В последствии можно перейти на динамический.</li>
+
+  </ul>

@@ -36,6 +36,34 @@ i18n:
       Flamingoo Union Deal on ClubGG. High rakeback up to 55% and 24/7 action in all formats. PDH acts as agent and
       guarantor of payouts.
     geo: USA
+    body: >-
+      <h3>Description</h3>
+
+      <p>Poker deal in the Monkeys Paradise club, which is part of the international Flamingoo union on ClubGG — the
+      official app by GGPoker. In addition to a reliable platform, the club offers an excellent environment for
+      recreational players.</p>
+
+
+      <h3>About the Union</h3>
+
+      <p>Flamingoo is one of the leading unions on the ClubGG and PokerBros platforms, focusing on the American market.
+      Founded in 2020, it has earned a reputation as a reliable partner for players of all levels.</p>
+
+      <p>Available games: NLH, PLO4/5/6, and MTT. Active games run around the clock.</p>
+
+
+      <h3>About the Deal</h3>
+
+      <p>Players can choose between the following options:</p>
+
+      <ul>
+
+      <li><strong>Dynamic rakeback up to 60%</strong> — The rakeback rate depends on your weekly rake volume.</li>
+
+      <li><strong>Fixed rakeback 30%</strong> — Get started with fixed rakeback right away, and switch to the dynamic
+      option later if you prefer.</li>
+
+      </ul>
   es:
     name: Oferta de la Unión Flamingoo en ClubGG
     description: >-
@@ -48,3 +76,56 @@ i18n:
       Flamingoo ittifoqida 55% gacha rakebek va barcha formatlarda 24/7 ekshen. PDH agent va to'lov kafolati sifatida
       ishlaydi.
     geo: AQSh
+    body: >-
+      <h3>Tavsif</h3>
+
+      <p>ClubGG’dagi xalqaro Flamingoo ittifoqi tarkibidagi Monkeys Paradise klubida bitim. Bu GGPoker’ning rasmiy
+      ilovasi bo‘lib, ishonchli platformaga qo‘shimcha ravishda rekreatsion o‘yinchilar uchun ajoyib muhit yaratadi.</p>
+
+
+      <h3>Ittifoq haqida</h3>
+
+      <p>Flamingoo — ClubGG va PokerBros platformalaridagi yetakchi ittifoqlardan biri, Amerika bozoriga yo‘naltirilgan.
+      2020 yilda tashkil topgan va barcha darajadagi o‘yinchilar uchun ishonchli hamkor sifatida obro‘ to‘plagan.</p>
+
+      <p>Mavjud o‘yinlar: NLH, PLO4/5/6 va MTT. Sutka davomida faol stollar mavjud.</p>
+
+
+      <h3>Bitim haqida</h3>
+
+      <p>O‘yinchilar quyidagi variantlardan birini tanlashi mumkin:</p>
+
+      <ul>
+
+      <li><strong>60% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
+
+      <li><strong>Sobit rakebek 30%</strong> — darhol barqaror foiz, keyin xohlansa dinamik rejimga o‘tish mumkin.</li>
+
+      </ul>
+body: >-
+  <h3>Описание</h3>
+
+  <p>Покерная сделка в клубе Monkeys Paradise, который состоит в международном союзе Flamingoo на ClubGG — оффициальном
+  приложении от GGPoker. Помимо надёжной платформы клуб предлагает отличную площадку для рекреационных игроков.</p>
+
+
+  <h3>О союзе</h3>
+
+  <p>Flamingoo — один из ведущих союзов на платформах ClubGG и PokerBros, специализирующийся на американском рынке. Союз
+  был основан в 2020 году и зарекомендовал себя как надёжный партнёр для игроков всех уровней.</p>
+
+  <p>Доступные дисциплины: NLH, PLO4/5/6, MTT. Активная игра идёт круглосуточно.</p>
+
+
+  <h3>О сделке</h3>
+
+  <p>Игрокам предоставляется на выбор:</p>
+
+  <ul>
+
+  <li><strong>Динамический рейкбэк до 60%</strong> Рейкбэк зависит от недельного объема рейка.</li>
+
+  <li><strong>Фиксированный рейкбэк 30%</strong> Получите возможность начать игру с преимуществом сразу после
+  регистрации. В последствии можно перейти на динамический.</li>
+
+  </ul>

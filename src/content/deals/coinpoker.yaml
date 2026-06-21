@@ -35,6 +35,31 @@ i18n:
       recreational players from Asia.
     geo: Global, Asia, USA
     bonus: +150% on 1st deposit
+    body: >-
+      <h3>About CoinPoker</h3>
+
+      <p>CoinPoker is the first truly successful crypto poker room, bridging the worlds of poker and blockchain. All
+      transactions are carried out in USDT, while the CHP token is used for rakeback, bonuses, and in-game promotions.
+      The platform operates independently of banks and intermediaries, ensuring instant deposits and withdrawals via
+      crypto wallets.</p>
+
+      <p>The key feature of CoinPoker is its decentralized random number generator (RNG), created with the participation
+      of players and impossible to manipulate. This allows every hand to be verified, making the fairness of the game
+      independent of the operator. CoinPoker has become a benchmark for transparency and trust among crypto poker
+      projects.</p>
+
+      <h3>Our offer</h3>
+
+      <p>By registering through our link, you get:</p>
+
+      <ul>
+        <li><strong>Fixed rakeback 33%</strong> — Start playing with an advantage right after registration. You can later switch to a dynamic system.</li>
+        <li><strong>Bonus +150% on 1st deposit</strong> — A welcome bonus of up to $2000.</li>
+      </ul>
+
+      <p>Register on CoinPoker <a href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/"
+      rel="nofollow noopener noreferrer" target="_blank">through this link</a> to take advantage of all the bonuses and
+      benefits!</p>
   es:
     name: Oferta de la CoinPoker
     description: >-
@@ -49,3 +74,49 @@ i18n:
       rekreatsion o'yinchilar.
     geo: Global, Osiyo, AQSh
     bonus: 1-depozitga +150%
+    body: >-
+      <h3>CoinPoker haqida</h3>
+
+      <p>CoinPoker — poker va blokcheynni bog‘lagan birinchi muvaffaqiyatli kripto poker xonasi. Barcha tranzaksiyalar
+      USDTda amalga oshiriladi, rakebek, bonus va aksiyalar uchun esa CHP tokeni ishlatiladi. Platforma bank va
+      vositachilardan mustaqil, kripto hamyonlar orqali depozit va yechishlar darhol.</p>
+
+      <p>CoinPoker’ning asosiy xususiyati — markazlashmagan RNG, o‘yinchilar ishtirokida yaratilgan va manipulyatsiya
+      qilib bo‘lmaydi. Har bir qo‘lni tekshirish mumkin, shuning uchun o‘yin adolati operatorga bog‘liq emas. CoinPoker
+      kripto poker loyihalari orasida shaffoflik va ishonch mezoniga aylandi.</p>
+
+      <h3>Bizning taklif</h3>
+
+      <p>Havolamiz orqali ro‘yxatdan o‘tsangiz, quyidagilarni olasiz:</p>
+
+      <ul>
+        <li><strong>Sobit rakebek 33%</strong> — ro‘yxatdan o‘tgan zahoti ustunlik bilan boshlang, keyin xohlansa dinamik tizimga o‘tish mumkin.</li>
+        <li><strong>Bonus 1-depozitga +150%</strong> — $2000 gacha xush kelibsiz bonus.</li>
+      </ul>
+
+      <p>CoinPoker’da ro‘yxatdan o‘ting <a
+      href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/" rel="nofollow noopener
+      noreferrer" target="_blank">ushbu havola orqali</a> va barcha bonus va imtiyozlardan foydalaning!</p>
+body: >-
+  <h3>О CoinPoker</h3>
+
+  <p>CoinPoker — первый по-настоящему успешный крипто-покер-рум, объединяющий мир покера и блокчейна. Все расчёты здесь
+  ведутся в USDT, а токен CHP используется для рейкбэка, бонусов и внутриигровых акций. Платформа работает независимо от
+  банков и посредников, обеспечивая мгновенные депозиты и вывод средств через криптокошельки.</p>
+
+  <p>Главная особенность CoinPoker — децентрализованный генератор случайных чисел (RNG), который формируется с участием
+  игроков и не может быть подделан. Благодаря этому результат каждой раздачи можно проверить, а честность игры не
+  зависит от оператора. CoinPoker стал эталоном прозрачности и доверия среди крипто-покерных проектов.</p>
+
+  <h3>О сделке</h3>
+
+  <p>Регистрируясь по нашей ссылке вы получаете:</p>
+
+  <ul>
+    <li><strong>Фиксированный рейкбэк 33%</strong> Получите возможность начать игру с преимуществом сразу после регистрации. В последствии можно перейти на динамический.</li>
+    <li><strong>Бонус +150% на 1й депозит</strong> Бонус за регистрацию до $2000.</li>
+  </ul>
+
+  <p>Зарегистрируйтесь на CoinPoker <a
+  href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/" rel="nofollow noopener noreferrer"
+  target="_blank">по этой ссылке</a>, чтобы воспользоваться всеми бонусами и преимуществами!</p>

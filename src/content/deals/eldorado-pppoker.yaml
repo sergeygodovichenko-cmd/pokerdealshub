@@ -37,6 +37,36 @@ i18n:
       Deal in the largest Brazilian union with many loose players. Excellent PLO5 and PLO6 lineups, best rakeback and
       nice signup bonus.
     geo: LatAm, Europe
+    body: >-
+      <h3>Description</h3>
+
+      <p>Poker deal in the PDH Dorado club (id: 4693054), which is part of the well-known Brazilian union El Dorado.</p>
+
+      <p>The club is managed by PokerDealsHub, ensuring transparent and fair conditions as well as top-level customer
+      service 24/7.</p>
+
+
+      <h3>About the Union</h3>
+
+      <p>El Dorado (Unión Dorada) is the largest Brazilian union on PPPoker, bringing together players from Latin
+      America and Europe. The union offers a wide range of tables and limits and is especially known for its PLO5 and
+      PLO6 action. There are also many game variations such as Bomb Pot, Double Board, and Heads-Up.</p>
+
+      <p>Brazilian players are famous for their loose-aggressive poker style, which gives disciplined players with a
+      balanced strategy a significant edge.</p>
+
+      <p>Recommended disciplines: PLO4, PLO5, PLO6. Games run around the clock, with peak activity between 18:00 and
+      20:00 GMT-3.</p>
+
+
+      <h3>About the Deal</h3>
+
+      <p>Players can choose between the following options:</p>
+
+      <ul>
+        <li><strong>Dynamic rakeback up to 70%</strong> — The rakeback rate depends on your weekly rake volume.</li>
+        <li><strong>Fixed rakeback 35%</strong> — Get started with a fixed rakeback right away, and switch to the dynamic option later if you prefer.</li>
+      </ul>
   es:
     name: Oferta de la Unión El Dorado en PPPoker
     description: >-
@@ -49,3 +79,64 @@ i18n:
       Eng yirik braziliyalik ittifoq: ko'plab luz o'yinchilar, PLO5/PLO6 uchun zo'r tarkib, yuqori rakebek va yoqimli
       ro'yxatdan o'tish bonusi.
     geo: Latam, Evropa
+    body: >-
+      <h3>Tavsif</h3>
+
+      <p>PDH Dorado klubidagi (ID: 4693054) bitim, u PPPoker dagi mashhur Braziliya ittifoqi El Dorado tarkibiga
+      kiradi.</p>
+
+      <p>Klub PokerDealsHub tomonidan boshqariladi, bu shaffof va adolatli shartlar hamda 24/7 yuqori darajadagi
+      xizmatni kafolatlaydi.</p>
+
+
+      <h3>Ittifoq haqida</h3>
+
+      <p>El Dorado — PPPoker dagi eng yirik Braziliya ittifoqi bo‘lib, Lotin Amerikasi va Yevropadan o‘yinchilarni
+      birlashtiradi. Keng limitlar va stollar, ayniqsa PLO5 va PLO6 eksheni bilan mashhur. Bomb Pot, Double Board,
+      Heads-Up kabi variantlar ham bor.</p>
+
+      <p>Braziliyalik o‘yinchilar lüz-agr uslubda o‘ynashi bilan tanilgan, bu esa intizomli va balansli strategiyaga ega
+      o‘yinchilarga katta ustunlik beradi.</p>
+
+      <p>Tavsiya etilgan fanlar: PLO4, PLO5, PLO6. O‘yinlar sutka davomida, pik vaqti GMT-3 bo‘yicha 18:00–20:00.</p>
+
+
+      <h3>Bitim haqida</h3>
+
+      <p>O‘yinchilar quyidagi variantlardan birini tanlashi mumkin:</p>
+
+      <ul>
+        <li><strong>70% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
+        <li><strong>Sobit rakebek 35%</strong> — darhol barqaror foiz, keyin xohlansa dinamik variantga o‘tish mumkin.</li>
+      </ul>
+body: >-
+  <h3>Описание</h3>
+
+  <p>Покерная сделка в клубе PDH Dorado (id клуба: 4693054), который состоит в известном бразильском союзе El
+  Dorado.</p>
+
+  <p>Клуб под управлением PokerDealsHub, что гарантирует прозрачные честные условия и клиентский сервис высшего уровня
+  24/7.</p>
+
+
+  <h3>О союзе</h3>
+
+  <p>El Dorado (Unión Dorada) — крупнейший бразильский союз на PPPoker с игроками из Латинской Америки и Европы. Союз
+  предлагает широкий выбор столов и лимитов, особенно известен благодаря PLO5 и PLO6. Много вариаций игры, таких как
+  Bomb Pot, Double Board и HeadsUp.</p>
+
+  <p>Бразильцы славятся своим лузово-агрессивным стилем игры в покер. И поэтому дисциплинированные игроки со
+  сбалансированной стратегией как правило получают значительное преимущество.</p>
+
+  <p>Рекомендуемые дисциплины: PLO4, PLO5, PLO6. Игра идет круглосуточно, пик активности приходится на 18:00 - 20:00 по
+  GMT-3.</p>
+
+
+  <h3>О сделке</h3>
+
+  <p>Игрокам предоставляется на выбор:</p>
+
+  <ul>
+    <li><strong>Динамический рейкбэк до 70%</strong> Рейкбэк зависит от недельного объема рейка.</li>
+    <li><strong>Фиксированный рейкбэк 35%</strong> Получите возможность начать игру с преимуществом сразу после регистрации. В последствии можно перейти на динамический.</li>
+  </ul>
