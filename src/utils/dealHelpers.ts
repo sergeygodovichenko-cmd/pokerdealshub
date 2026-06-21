@@ -196,3 +196,20 @@ export interface Deal {
 export const getLogoUrl = (logo: string): string => {
   return logoMap[logo] || '/image.webp';
 };
+
+/**
+ * Resolve a deal collection entry's localized fields for a language,
+ * falling back to the source language (ru) when a translation is missing.
+ * Pairs with the "source + generated i18n" content model.
+ */
+export function localizeDeal(data: any, lang: string) {
+  const t = (data.i18n && data.i18n[lang]) || {};
+  return {
+    name: t.name ?? data.name,
+    description: t.description ?? data.description,
+    geo: t.geo ?? data.geo,
+    bonus: t.bonus ?? data.bonus ?? '',
+    intro: t.intro ?? data.intro,
+    body: t.body ?? data.body,
+  };
+}
