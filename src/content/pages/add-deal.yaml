@@ -356,12 +356,12 @@ i18n:
             </div>
     srcHash: 8a47b36574b3
   uk:
-    title: Додати вашу сделку на сайт
-    description: Розмістіть вашу покерну сделку на PokerDealsHub. Платформа для клубів, союзів та агентських мереж
+    title: Додати вашу угоду на сайт
+    description: Розмістіть вашу покерну угоду на PokerDealsHub. Платформа для клубів, союзів та агентських мереж
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                Ми публікуємо перевірені покерні пропозиції від клубів і союзів. Розміщення доступне після перевірки репутації та умов сделки.
+                Ми публікуємо перевірені покерні пропозиції від клубів і союзів. Розміщення доступне після перевірки репутації та умов угоди.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Вимоги</h2>
@@ -432,20 +432,20 @@ i18n:
             </div>
 
             <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
-              <h2 class="text-2xl font-semibold text-gold mb-4">Чому варто розмістити сделку на PokerDealsHub?</h2>
+              <h2 class="text-2xl font-semibold text-gold mb-4">Чому варто розмістити угоду на PokerDealsHub?</h2>
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">Цільова аудиторія</h3>
                   <p class="text-neutral-400 text-sm">
-                    Наш сайт відвідують активні гравці, які шукають вигідні умови та нові сделки
+                    Наш сайт відвідують активні гравці, які шукають вигідні умови та нові угоди
                   </p>
                 </div>
 
                 <div>
                   <h3 class="text-lg font-semibold text-neutral-100 mb-2">SEO-оптимізація</h3>
                   <p class="text-neutral-400 text-sm">
-                    Кожна сделка отримує окрему сторінку, оптимізовану для пошукових систем
+                    Кожна угода отримує окрему сторінку, оптимізовану для пошукових систем
                   </p>
                 </div>
 
@@ -467,7 +467,7 @@ i18n:
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300 text-sm">
-                Розміщення покерної сделки на PokerDealsHub — це можливість залучити цільових гравців з різних регіонів. Ми працюємо з клубами на <a href="/uk/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+                Розміщення покерної угоди на PokerDealsHub — це можливість залучити цільових гравців з різних регіонів. Ми працюємо з клубами на <a href="/uk/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
       >PPPoker, ClubGG, X-Poker</a>
                 та інших платформах. Якщо ви шукаєте надійний майданчик для просування свого союзу чи клубу, зв’яжіться з нами.
               </p>

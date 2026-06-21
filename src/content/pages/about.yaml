@@ -322,11 +322,11 @@ i18n:
     srcHash: 8e6819f2d4fb
   uk:
     title: Про проєкт PokerDealsHub
-    description: PokerDealsHub — незалежна вітрина покерних сделок, що поєднує централізовані та децентралізовані пропозиції
+    description: PokerDealsHub — незалежна вітрина покерних угод, що поєднує централізовані та децентралізовані пропозиції
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
               <p class="text-neutral-300 text-lg leading-relaxed mb-6">
-                PokerDealsHub — це незалежна вітрина покерних сделок, що поєднує централізовані та децентралізовані пропозиції для гравців і агентів з усього світу.
+                PokerDealsHub — це незалежна вітрина покерних угод, що поєднує централізовані та децентралізовані пропозиції для гравців і агентів з усього світу.
               </p>
 
               <h2 class="text-2xl font-semibold text-gold mb-4">Наші принципи</h2>
@@ -335,7 +335,7 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Перевірені сделки:</strong> Усі пропозиції проходять перевірку перед публікацією</span>
+                  <span><strong class="text-neutral-100">Перевірені угоди:</strong> Усі пропозиції проходять перевірку перед публікацією</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -347,13 +347,13 @@ i18n:
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Міжнародний підхід:</strong> Сделки для гравців з усіх регіонів світу</span>
+                  <span><strong class="text-neutral-100">Міжнародний підхід:</strong> Угоди для гравців з усіх регіонів світу</span>
                 </li>
                 <li class="flex items-start">
                   <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
-                  <span><strong class="text-neutral-100">Відкритість до партнерства:</strong> Працюємо з клубами та союзами напряму</span>
+                  <span><strong class="text-neutral-100">Відкритість до партнерства:</strong> Працюємо з клубами та союзами безпосередньо</span>
                 </li>
               </ul>
             </div>
@@ -408,21 +408,21 @@ i18n:
 
               <div class="mt-8 pt-8 border-t border-neutral-800">
                 <p class="text-neutral-300 mb-4">
-                  Якщо ви представляєте союз або агентську мережу й хочете розмістити свою сделку на сайті:
+                  Якщо ви представляєте союз або агентську мережу й хочете розмістити свою угоду на сайті:
                 </p>
                 <a
                   href="/uk/add-deal/"
                   class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
-                  Додати сделку
+                  Додати угоду
                 </a>
               </div>
             </div>
 
             <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
               <p class="text-neutral-300">
-                Наша мета — створити прозору та зручну платформу для пошуку покерних сделок. Ми не беремо комісію з гравців і працюємо лише з перевіреними партнерами. Усі представлені сделки доступні для гравців з різних регіонів, без KYC-ідентифікації. <a href="/uk/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
-      >Обери свою покерну сделку</a>.
+                Наша мета — створити прозору та зручну платформу для пошуку покерних угод. Ми не беремо комісію з гравців і працюємо лише з перевіреними партнерами. Усі представлені угоди доступні для гравців з різних регіонів, без KYC-ідентифікації. <a href="/uk/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+      >Обери свою покерну угоду</a>.
               </p>
             </div>
     srcHash: 8e6819f2d4fb

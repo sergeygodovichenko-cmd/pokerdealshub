@@ -202,7 +202,7 @@ i18n:
       </ul>
     srcHash: 8ed24c54d0e2
   it:
-    name: Offerta su NUTS POKER con rakeback di PHD
+    name: Offerta su NUTS POKER con rakeback di PDH
     description: >-
       Offerta nell'app di poker NUTS POKER con cassa centralizzata ed elaborazione automatica di depositi e prelievi.
       Molti giocatori ricreativi dall'Asia.
@@ -252,7 +252,7 @@ i18n:
       </ul>
     srcHash: 8ed24c54d0e2
   de:
-    name: Deal bei NUTS POKER mit Rakeback von PHD
+    name: Deal bei NUTS POKER mit Rakeback von PDH
     description: >-
       Deal in der Poker-App NUTS POKER mit zentralisierter Kasse und automatischer Verarbeitung von Ein- und
       Auszahlungen. Viele Recreational-Spieler aus Asien.
