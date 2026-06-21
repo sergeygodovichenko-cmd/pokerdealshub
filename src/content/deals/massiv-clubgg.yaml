@@ -71,6 +71,7 @@ i18n:
       option later if you prefer.</li>
 
       </ul>
+    srcHash: e6503ff7a740
   es:
     name: Oferta de la Unión Massiv Union en ClubGG
     description: >-
@@ -115,6 +116,7 @@ i18n:
       o‘tish mumkin.</li>
 
       </ul>
+    srcHash: e6503ff7a740
 body: >-
   <h3>Описание</h3>
 

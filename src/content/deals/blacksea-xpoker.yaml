@@ -58,6 +58,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 70%</strong> The rakeback rate depends on your weekly rake volume.</li>
         <li><strong>Fixed rakeback 40%</strong> Start playing with an advantage right after registration. You can later switch to a dynamic rakeback model.</li>
       </ul>
+    srcHash: 8dad5890e802
   es:
     name: Oferta de la Unión Black Sea en X-Poker
     description: Oferta de PDH en la unión Black Sea en X-Poker. Juegos de calidad con buenas condiciones para jugadores de la CEI.
@@ -90,6 +91,7 @@ i18n:
         <li><strong>70% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
         <li><strong>Sobit rakebek 40%</strong> — ro‘yxatdan o‘tgan zahoti barqaror foiz, keyin xohlansa dinamik modelga o‘tish mumkin.</li>
       </ul>
+    srcHash: 8dad5890e802
 body: >-
   <h3>Описание</h3>
 

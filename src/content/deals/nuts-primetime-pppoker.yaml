@@ -58,6 +58,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 70%</strong> The rakeback rate depends on the player’s weekly rake volume.</li>
         <li><strong>Fixed rakeback 35%</strong> Start playing with an advantage right after registration. You can switch to a dynamic rakeback later.</li>
       </ul>
+    srcHash: 89881dc14ead
   es:
     name: Oferta de la Unión NUTS PrimeTime en PPPoker
     description: >-
@@ -92,6 +93,7 @@ i18n:
         <li><strong>70% gacha dinamik rakebek</strong> — stavka o‘yinchining haftalik rake hajmiga bog‘liq.</li>
         <li><strong>Sobit rakebek 35%</strong> — ro‘yxatdan o‘tgan zahoti ustunlik bilan o‘ynang, keyin xohlansa dinamik rakebekka o‘tish mumkin.</li>
       </ul>
+    srcHash: 89881dc14ead
 body: >-
   <h3>Описание</h3>
 

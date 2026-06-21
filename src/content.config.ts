@@ -21,6 +21,9 @@ const translation = z.object({
   bonus: z.string().optional(),
   intro: z.string().optional(),
   body: z.string().optional(),
+  // hash of the ru source this translation was made from (set by `npm run i18n:stamp`);
+  // a mismatch means the translation is stale and must be redone.
+  srcHash: z.string().optional(),
 });
 
 const deals = defineCollection({
@@ -69,6 +72,7 @@ const guideTranslation = z.object({
   title: z.string().optional(),
   description: z.string().optional(),
   body: z.string().optional(),
+  srcHash: z.string().optional(),
 });
 
 const guides = defineCollection({

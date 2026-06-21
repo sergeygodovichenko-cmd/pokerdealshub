@@ -58,6 +58,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 55%</strong> — The rakeback rate depends on your weekly rake volume.</li>
         <li><strong>Fixed rakeback 35%</strong> — Get started with fixed rakeback right away, and switch to the dynamic option later if you prefer.</li>
       </ul>
+    srcHash: 3c59e7458fde
   es:
     name: Oferta de la Unión PPPFish en PPPoker
     description: >-
@@ -92,6 +93,7 @@ i18n:
         <li><strong>55% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
         <li><strong>Sobit rakebek 35%</strong> — hajmdan qat’i nazar barqaror foiz, keyin xohlansa dinamik rejimga o‘tish mumkin.</li>
       </ul>
+    srcHash: 3c59e7458fde
 body: >-
   <h3>Описание</h3>
 

@@ -57,6 +57,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 55%</strong> Rakeback depends on the weekly rake volume.</li>
         <li><strong>Fixed rakeback 25%</strong> Get the opportunity to start playing with an advantage right after registration. Later, you can switch to the dynamic option.</li>
       </ul>
+    srcHash: 894f2a95744a
   es:
     name: Oferta de la Unión Paradise en PokerBros
     description: "Muchas mesas activas, condiciones transparentes y alto rakeback: la mejor oferta en Poker Bros."
@@ -91,6 +92,7 @@ i18n:
         <li><strong>55% gacha dinamik rakebek</strong> — rakebek haftalik rake hajmiga bog‘liq.</li>
         <li><strong>Sobit rakebek 25%</strong> — ro‘yxatdan o‘tgan zahoti ustunlik bilan boshlang, keyin xohlansa dinamik modelga o‘tish mumkin.</li>
       </ul>
+    srcHash: 894f2a95744a
 body: >-
   <h3>Описание</h3>
 

@@ -127,6 +127,7 @@ i18n:
       <p><em>Want a personalized offer? <a href="/en/about/">Contact us</a></em></p>
 
       </article>
+    srcHash: 4a5da0c93075
   uz:
     title: "PPPoker bo'yicha to'liq qo'llanma: bitimlar, ittifoqlar va rakebek"
     description: PPPoker ilovasi, mashhur ittifoqlar va eng yaxshi rakebekli bitimlarni tanlash bo'yicha qisqa sharh.
@@ -187,3 +188,4 @@ i18n:
         <hr />
         <p><em>Shaxsiy taklif kerakmi? <a href="/uz/about/">Biz bilan bog'laning</a></em></p>
       </article>
+    srcHash: 4a5da0c93075

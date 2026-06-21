@@ -68,6 +68,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 50%</strong> Rakeback depends on the weekly rake volume.</li>
         <li><strong>Fixed rakeback 25%</strong> Start playing with an advantage immediately after registration. Later, you can switch to a dynamic system.</li>
       </ul>
+    srcHash: 8ed24c54d0e2
   es:
     name: Oferta en NUTS POKER con Rakeback de PHD
     description: >-
@@ -115,6 +116,7 @@ i18n:
         <li><strong>50% gacha dinamik rakebek</strong> — rakebek haftalik rake hajmiga bog‘liq.</li>
         <li><strong>Sobit rakebek 25%</strong> — ro‘yxatdan o‘tgach darhol barqaror foiz, keyin xohlansa dinamik tizimga o‘tish mumkin.</li>
       </ul>
+    srcHash: 8ed24c54d0e2
 body: >-
   <h3>Описание</h3>
 

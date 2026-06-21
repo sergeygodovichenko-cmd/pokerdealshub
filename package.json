@@ -7,7 +7,10 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "validate": "astro check && astro build",
+    "i18n:check": "node scripts/i18n.mjs check",
+    "i18n:stamp": "node scripts/i18n.mjs stamp"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.5",

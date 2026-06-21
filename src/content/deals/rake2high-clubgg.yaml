@@ -55,6 +55,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 45%</strong> — The rakeback rate depends on your weekly rake volume.</li>
         <li><strong>Fixed rakeback 30%</strong> — Get started with fixed rakeback right away, and switch to the dynamic option later if you prefer.</li>
       </ul>
+    srcHash: 4ab56cc57f2d
   es:
     name: Oferta de la Unión Rake2High en ClubGG
     description: Oferta en la unión taiwanesa Rake2High en ClubGG, con mesas suaves y muchos jugadores recreativos de Taiwán.
@@ -87,6 +88,7 @@ i18n:
         <li><strong>45% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
         <li><strong>Sobit rakebek 30%</strong> — ro‘yxatdan o‘tgach darhol barqaror foiz, keyin xohlansa dinamik modelga o‘tish mumkin.</li>
       </ul>
+    srcHash: 4ab56cc57f2d
 body: >-
   <h3>Описание</h3>
 

@@ -67,6 +67,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 70%</strong> — The rakeback rate depends on your weekly rake volume.</li>
         <li><strong>Fixed rakeback 35%</strong> — Get started with a fixed rakeback right away, and switch to the dynamic option later if you prefer.</li>
       </ul>
+    srcHash: e05756aa0081
   es:
     name: Oferta de la Unión El Dorado en PPPoker
     description: >-
@@ -109,6 +110,7 @@ i18n:
         <li><strong>70% gacha dinamik rakebek</strong> — stavka haftalik rake hajmiga bog‘liq.</li>
         <li><strong>Sobit rakebek 35%</strong> — darhol barqaror foiz, keyin xohlansa dinamik variantga o‘tish mumkin.</li>
       </ul>
+    srcHash: e05756aa0081
 body: >-
   <h3>Описание</h3>
 
