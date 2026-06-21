@@ -66,11 +66,41 @@ i18n:
       </ul>
     srcHash: 352ebb4e8ac8
   es:
-    name: Oferta de la Unión Flamingoo en ClubGG
+    name: Oferta en la unión Flamingoo en ClubGG
     description: >-
-      Oferta de la Unión Flamingoo en ClubGG. Alto rakeback hasta 55% y acción 24/7 en todos los formatos. PDH actúa
-      como agente y garante de pagos.
-    geo: EE.UU.
+      Oferta en la unión Flamingoo en ClubGG. Rakeback alto de hasta 55% y juego activo 24/7 en todos los formatos. PDH
+      actúa como agente y garante de los pagos.
+    geo: EE. UU.
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>Oferta de poker en el club Monkeys Paradise, que forma parte de la unión internacional Flamingoo en ClubGG, la
+      app oficial de GGPoker. Además de una plataforma fiable, el club ofrece un escenario excelente para los jugadores
+      recreativos.</p>
+
+
+      <h3>Sobre la unión</h3>
+
+      <p>Flamingoo es una de las uniones líderes en las plataformas ClubGG y PokerBros, especializada en el mercado
+      estadounidense. La unión se fundó en 2020 y se ha consolidado como un socio fiable para jugadores de todos los
+      niveles.</p>
+
+      <p>Disciplinas disponibles: NLH, PLO4/5/6, MTT. El juego activo es 24/7.</p>
+
+
+      <h3>Sobre la oferta</h3>
+
+      <p>El jugador puede elegir entre:</p>
+
+      <ul>
+
+      <li><strong>Rakeback dinámico hasta 60%</strong> El rakeback depende de tu volumen de rake semanal.</li>
+
+      <li><strong>Rakeback fijo 30%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes
+      pasarte al dinámico.</li>
+
+      </ul>
+    srcHash: 352ebb4e8ac8
   uz:
     name: Flamingoo ittifoqi bitimi — ClubGG
     description: >-
@@ -236,6 +266,113 @@ i18n:
       <li><strong>Fester Rakeback 30%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später
       kannst du auf das dynamische Modell wechseln.</li>
 
+
+      </ul>
+    srcHash: 352ebb4e8ac8
+  pt:
+    name: Oferta na união Flamingoo no ClubGG
+    description: >-
+      Oferta na união Flamingoo no ClubGG. Rakeback alto de até 55% e jogo ativo 24/7 em todos os formatos. A PDH atua
+      como agente e garantidora dos pagamentos.
+    geo: EUA
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>Oferta de poker no clube Monkeys Paradise, que faz parte da união internacional Flamingoo no ClubGG, o app
+      oficial da GGPoker. Além de uma plataforma confiável, o clube oferece um ótimo ambiente para jogadores
+      recreativos.</p>
+
+
+      <h3>Sobre a união</h3>
+
+      <p>A Flamingoo é uma das principais uniões nas plataformas ClubGG e PokerBros, especializada no mercado americano.
+      A união foi fundada em 2020 e se firmou como uma parceira confiável para jogadores de todos os níveis.</p>
+
+      <p>Disciplinas disponíveis: NLH, PLO4/5/6, MTT. O jogo ativo rola 24/7.</p>
+
+
+      <h3>Sobre a oferta</h3>
+
+      <p>O jogador pode escolher entre:</p>
+
+      <ul>
+
+      <li><strong>Rakeback dinâmico até 60%</strong> O rakeback depende do seu volume de rake semanal.</li>
+
+      <li><strong>Rakeback fixo 30%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar
+      para o dinâmico.</li>
+
+      </ul>
+    srcHash: 352ebb4e8ac8
+  fr:
+    name: Offre dans l'union Flamingoo sur ClubGG
+    description: >-
+      Offre dans l'union Flamingoo sur ClubGG. Rakeback élevé jusqu'à 55% et jeu actif 24/7 sur tous les formats. PDH
+      agit comme agent et garant des paiements.
+    geo: États-Unis
+    body: >-
+      <h3>Description</h3>
+
+      <p>Offre de poker dans le club Monkeys Paradise, qui fait partie de l'union internationale Flamingoo sur ClubGG,
+      l'appli officielle de GGPoker. Au-delà d'une plateforme fiable, le club offre un excellent terrain pour les
+      joueurs récréatifs.</p>
+
+
+      <h3>À propos de l'union</h3>
+
+      <p>Flamingoo est l'une des unions de tête sur les plateformes ClubGG et PokerBros, spécialisée sur le marché
+      américain. L'union a été fondée en 2020 et s'est imposée comme un partenaire fiable pour les joueurs de tous
+      niveaux.</p>
+
+      <p>Disciplines disponibles : NLH, PLO4/5/6, MTT. Le jeu actif tourne 24/7.</p>
+
+
+      <h3>À propos de l'offre</h3>
+
+      <p>Le joueur a le choix entre :</p>
+
+      <ul>
+
+      <li><strong>Rakeback dynamique jusqu'à 60%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
+
+      <li><strong>Rakeback fixe 30%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer
+      au dynamique plus tard.</li>
+
+      </ul>
+    srcHash: 352ebb4e8ac8
+  tr:
+    name: ClubGG'de Flamingoo birliğinde anlaşma
+    description: >-
+      ClubGG'de Flamingoo birliğinde anlaşma. %55'e varan yüksek rakeback ve tüm formatlarda 24/7 aktif oyun. PDH, ajan
+      ve ödeme garantörü olarak görev yapar.
+    geo: ABD
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>GGPoker'ın resmî uygulaması ClubGG'deki uluslararası Flamingoo birliğinin parçası olan Monkeys Paradise
+      kulübünde poker anlaşması. Güvenilir bir platformun yanı sıra kulüp, rekreasyonel oyuncular için harika bir ortam
+      sunar.</p>
+
+
+      <h3>Birlik hakkında</h3>
+
+      <p>Flamingoo, ClubGG ve PokerBros platformlarındaki önde gelen birliklerden biridir ve Amerika pazarında
+      uzmanlaşmıştır. Birlik 2020 yılında kurulmuştur ve her seviyeden oyuncu için güvenilir bir ortak olarak kendini
+      kanıtlamıştır.</p>
+
+      <p>Mevcut disiplinler: NLH, PLO4/5/6, MTT. Aktif oyun 24/7 sürer.</p>
+
+
+      <h3>Anlaşma hakkında</h3>
+
+      <p>Oyuncuya şu seçenekler sunulur:</p>
+
+      <ul>
+
+      <li><strong>%60'a kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
+
+      <li><strong>%30 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe
+      geçebilirsiniz.</li>
 
       </ul>
     srcHash: 352ebb4e8ac8

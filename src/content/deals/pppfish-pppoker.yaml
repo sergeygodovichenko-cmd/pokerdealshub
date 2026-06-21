@@ -60,11 +60,36 @@ i18n:
       </ul>
     srcHash: 3c59e7458fde
   es:
-    name: Oferta de la Unión PPPFish en PPPoker
+    name: Oferta en la unión PPPfish en PPPoker
     description: >-
-      Un acuerdo en una gran unión australiana con muchos jugadores sueltos. Buenas mesas para PLO5 y PLO6, excelente
-      rakeback.
+      Oferta en una gran unión australiana con muchísimos jugadores loose. Buenas mesas en PLO5 y PLO6, rakeback
+      excelente.
     geo: Australia, Oceanía
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>Oferta de poker en el club Kangaroo, que forma parte de la conocida unión PPPFish en PPPoker. En el club juegan
+      principalmente australianos y chinos.</p>
+
+
+      <h3>Sobre la unión PPPFish en PPPoker</h3>
+
+      <p>PPPFish es la mayor unión australiana, donde juegan sobre todo jugadores recreativos de China y Australia. La
+      unión es famosa por su campo soft en torneos y en Omaha.</p>
+
+      <p>Disciplinas disponibles: NLH, PLO4/5/6, MTT y también los modificadores Bomb Pot, Pot Or Fold y Double Board.
+      El juego activo se da sobre todo de 7:00 a 14:00 GMT (UTC+0).</p>
+
+
+      <h3>Sobre la oferta</h3>
+
+      <p>El jugador puede elegir entre:</p>
+
+      <ul>
+        <li><strong>Rakeback dinámico hasta 55%</strong> El rakeback depende de tu volumen de rake semanal.</li>
+        <li><strong>Rakeback fijo 35%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes pasarte al dinámico.</li>
+      </ul>
+    srcHash: 3c59e7458fde
   uz:
     name: PPPfish ittifoqi bitimi — PPPoker
     description: Yirik avstraliyalik ittifoq, ko'p bo'shashgan o'yinchilar. PLO5 va PLO6 uchun ajoyib stol tarkibi, a'lo rakebek.
@@ -206,6 +231,95 @@ i18n:
       <ul>
         <li><strong>Dynamischer Rakeback bis zu 55%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
         <li><strong>Fester Rakeback 35%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: 3c59e7458fde
+  pt:
+    name: Oferta na união PPPfish no PPPoker
+    description: Oferta em uma grande união australiana com muitos jogadores loose. Boas mesas de PLO5 e PLO6, rakeback excelente.
+    geo: Austrália, Oceania
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>Oferta de poker no clube Kangaroo, que faz parte da conhecida união PPPFish no PPPoker. No clube jogam
+      principalmente australianos e chineses.</p>
+
+
+      <h3>Sobre a união PPPFish no PPPoker</h3>
+
+      <p>A PPPFish é a maior união australiana, onde jogam principalmente jogadores recreativos da China e da Austrália.
+      A união é famosa pelo seu campo soft em torneios e em Omaha.</p>
+
+      <p>Disciplinas disponíveis: NLH, PLO4/5/6, MTT e também os modificadores Bomb Pot, Pot Or Fold e Double Board. O
+      jogo ativo rola principalmente das 7h às 14h GMT (UTC+0).</p>
+
+
+      <h3>Sobre a oferta</h3>
+
+      <p>O jogador pode escolher entre:</p>
+
+      <ul>
+        <li><strong>Rakeback dinâmico até 55%</strong> O rakeback depende do seu volume de rake semanal.</li>
+        <li><strong>Rakeback fixo 35%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar para o dinâmico.</li>
+      </ul>
+    srcHash: 3c59e7458fde
+  fr:
+    name: Offre dans l'union PPPfish sur PPPoker
+    description: >-
+      Offre dans une grande union australienne avec énormément de joueurs loose. De bonnes tables en PLO5 et PLO6, un
+      excellent rakeback.
+    geo: Australie, Océanie
+    body: >-
+      <h3>Description</h3>
+
+      <p>Offre de poker dans le club Kangaroo, qui fait partie de la célèbre union PPPFish sur PPPoker. Au club, ce sont
+      surtout des Australiens et des Chinois qui jouent.</p>
+
+
+      <h3>À propos de l'union PPPFish sur PPPoker</h3>
+
+      <p>PPPFish est la plus grande union australienne, où jouent principalement des joueurs récréatifs de Chine et
+      d'Australie. L'union est réputée pour son champ soft en tournois et en Omaha.</p>
+
+      <p>Disciplines disponibles : NLH, PLO4/5/6, MTT ainsi que les modificateurs Bomb Pot, Pot Or Fold et Double Board.
+      Le jeu actif se concentre surtout de 7h00 à 14h00 GMT (UTC+0).</p>
+
+
+      <h3>À propos de l'offre</h3>
+
+      <p>Le joueur a le choix entre :</p>
+
+      <ul>
+        <li><strong>Rakeback dynamique jusqu'à 55%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
+        <li><strong>Rakeback fixe 35%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer au dynamique plus tard.</li>
+      </ul>
+    srcHash: 3c59e7458fde
+  tr:
+    name: PPPoker'da PPPfish birliğinde anlaşma
+    description: Bol loose oyuncuyla büyük bir Avustralya birliğinde anlaşma. PLO5 ve PLO6 masaları iyi, rakeback mükemmel.
+    geo: Avustralya, Okyanusya
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>PPPoker'daki ünlü PPPFish birliğinin parçası olan Kangaroo kulübünde poker anlaşması. Kulüpte çoğunlukla
+      Avustralyalılar ve Çinliler oynar.</p>
+
+
+      <h3>PPPoker'daki PPPFish birliği hakkında</h3>
+
+      <p>PPPFish, çoğunlukla Çin ve Avustralya'dan rekreasyonel oyuncuların oynadığı en büyük Avustralya birliğidir.
+      Birlik, turnuvalardaki ve Omaha'daki soft sahasıyla ünlüdür.</p>
+
+      <p>Mevcut disiplinler: NLH, PLO4/5/6, MTT ve ayrıca Bomb Pot, Pot Or Fold ve Double Board modifikatörleri. Aktif
+      oyun çoğunlukla GMT (UTC+0) ile 7:00 - 14:00 arasında döner.</p>
+
+
+      <h3>Anlaşma hakkında</h3>
+
+      <p>Oyuncuya şu seçenekler sunulur:</p>
+
+      <ul>
+        <li><strong>%55'e kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
+        <li><strong>%35 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
     srcHash: 3c59e7458fde
 body: >-

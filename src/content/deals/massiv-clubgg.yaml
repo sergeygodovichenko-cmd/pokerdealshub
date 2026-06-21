@@ -73,11 +73,47 @@ i18n:
       </ul>
     srcHash: e6503ff7a740
   es:
-    name: Oferta de la Unión Massiv Union en ClubGG
+    name: Oferta en la unión Massiv Union en ClubGG
     description: >-
-      Oferta en la legendaria unión Massiv Union en ClubGG. Probablemente uno de los mejores campos de póker para todos
-      los tipos de juego y límites. ¡Gran premio acumulado!
-    geo: Asia, Israel, EE.UU.
+      Oferta en la legendaria unión Massiv Union en ClubGG. Probablemente uno de los mejores campos de poker para
+      cualquier disciplina y límite. ¡Bote enorme!
+    geo: Asia, Israel, EE. UU.
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>Oferta de poker en el club Stampede, que forma parte de la enorme unión Massiv Union en ClubGG. La combinación
+      de una app cómoda y fiable, un excelente pool de jugadores y un rakeback alto convierte esta oferta en una de las
+      mejores.</p>
+
+
+      <h3>Sobre la unión</h3>
+
+      <p>Massiv Union es, sin exagerar, una unión legendaria en ClubGG. El grueso de su público son jugadores de EE.
+      UU., Canadá, Israel y los países de Asia. Sus creadores priorizaron mantener un juego limpio y soft, mimando al
+      máximo a los jugadores recreativos más flojos. Gracias a ello, jugar y ganar en esta unión es totalmente
+      realista.</p>
+
+      <p>Disciplinas disponibles: NLH, PLO4/5/6, MTT y también el modificador Bomb Pot. Gracias a su amplia distribución
+      geográfica, el juego activo es 24/7 en todos los límites. Una parte importante de la mesa son jugadores
+      recreativos.</p>
+
+      <p>En la unión funciona un enorme <strong>Bad Beat Jackpot</strong>, cuyo fondo supera los <strong>$500
+      000</strong>. Es una oportunidad extra de llevarte un buen premio incluso en una mano desafortunada.</p>
+
+
+      <h3>Sobre la oferta</h3>
+
+      <p>El jugador puede elegir entre:</p>
+
+      <ul>
+
+      <li><strong>Rakeback dinámico hasta 55%</strong> El rakeback depende de tu volumen de rake semanal.</li>
+
+      <li><strong>Rakeback fijo 25%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes
+      pasarte al dinámico.</li>
+
+      </ul>
+    srcHash: e6503ff7a740
   uz:
     name: Massiv Union bitimi — ClubGG
     description: >-
@@ -271,6 +307,129 @@ i18n:
       <li><strong>Fester Rakeback 25%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später
       kannst du auf das dynamische Modell wechseln.</li>
 
+
+      </ul>
+    srcHash: e6503ff7a740
+  pt:
+    name: Oferta na união Massiv Union no ClubGG
+    description: >-
+      Oferta na lendária união Massiv Union no ClubGG. Provavelmente um dos melhores campos de poker para qualquer
+      disciplina e limite. Jackpot gigante!
+    geo: Ásia, Israel, EUA
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>Oferta de poker no clube Stampede, que faz parte da enorme união Massiv Union no ClubGG. A combinação de um app
+      prático e confiável, um ótimo pool de jogadores e um rakeback alto faz desta uma das melhores ofertas.</p>
+
+
+      <h3>Sobre a união</h3>
+
+      <p>A Massiv Union é, sem exagero, uma união lendária no ClubGG. O grosso do público são jogadores dos EUA, Canadá,
+      Israel e países da Ásia. Os criadores da união priorizaram manter um jogo limpo e soft, valorizando ao máximo os
+      jogadores recreativos mais fracos. Graças a isso, jogar e ganhar nesta união é totalmente realista!</p>
+
+      <p>Disciplinas disponíveis: NLH, PLO4/5/6, MTT e também o modificador Bomb Pot. Graças à ampla abrangência
+      geográfica, o jogo ativo rola 24 horas em todos os limites. Boa parte da mesa é formada por jogadores
+      recreativos.</p>
+
+      <p>A união conta com um enorme <strong>Bad Beat Jackpot</strong>, cujo fundo passa de <strong>$500 000</strong>. É
+      uma chance extra de levar uma boa premiação mesmo numa mão azarada.</p>
+
+
+      <h3>Sobre a oferta</h3>
+
+      <p>O jogador pode escolher entre:</p>
+
+      <ul>
+
+      <li><strong>Rakeback dinâmico até 55%</strong> O rakeback depende do seu volume de rake semanal.</li>
+
+      <li><strong>Rakeback fixo 25%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar
+      para o dinâmico.</li>
+
+      </ul>
+    srcHash: e6503ff7a740
+  fr:
+    name: Offre dans l'union Massiv Union sur ClubGG
+    description: >-
+      Offre dans la légendaire union Massiv Union sur ClubGG. Sans doute l'un des meilleurs terrains de poker pour
+      toutes les disciplines et limites. Jackpot énorme !
+    geo: Asie, Israël, États-Unis
+    body: >-
+      <h3>Description</h3>
+
+      <p>Offre de poker dans le club Stampede, qui fait partie de l'immense union Massiv Union sur ClubGG. L'alliance
+      d'une appli pratique et fiable, d'un excellent pool de joueurs et d'un rakeback élevé fait de cette offre l'une
+      des meilleures.</p>
+
+
+      <h3>À propos de l'union</h3>
+
+      <p>Massiv Union est, sans exagérer, une union légendaire sur ClubGG. Le cœur de son public, ce sont des joueurs
+      des États-Unis, du Canada, d'Israël et des pays d'Asie. Ses créateurs ont fait du maintien d'un jeu propre et soft
+      une priorité, en chouchoutant au maximum les joueurs récréatifs les plus faibles. Grâce à cela, jouer et gagner
+      dans cette union est tout à fait réaliste !</p>
+
+      <p>Disciplines disponibles : NLH, PLO4/5/6, MTT ainsi que le modificateur Bomb Pot. Grâce à une large couverture
+      géographique, le jeu actif tourne 24/7 à toutes les limites. Une part importante de la table est constituée de
+      joueurs récréatifs.</p>
+
+      <p>L'union propose un énorme <strong>Bad Beat Jackpot</strong>, dont la cagnotte dépasse les <strong>$500
+      000</strong>. C'est une chance supplémentaire de décrocher un gros gain, même sur une main malheureuse.</p>
+
+
+      <h3>À propos de l'offre</h3>
+
+      <p>Le joueur a le choix entre :</p>
+
+      <ul>
+
+      <li><strong>Rakeback dynamique jusqu'à 55%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
+
+      <li><strong>Rakeback fixe 25%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer
+      au dynamique plus tard.</li>
+
+      </ul>
+    srcHash: e6503ff7a740
+  tr:
+    name: ClubGG'de Massiv Union birliğinde anlaşma
+    description: >-
+      ClubGG'de efsanevi Massiv Union birliğinde anlaşma. Muhtemelen her disiplin ve limit için en iyi poker
+      sahalarından biri. Devasa jackpot!
+    geo: Asya, İsrail, ABD
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>ClubGG'deki en büyük birlik Massiv Union'ın parçası olan Stampede kulübünde poker anlaşması. Kullanışlı ve
+      güvenilir bir uygulamanın, harika bir oyuncu havuzunun ve yüksek rakeback'in birleşimi bu anlaşmayı en iyilerden
+      biri yapıyor.</p>
+
+
+      <h3>Birlik hakkında</h3>
+
+      <p>Massiv Union, abartısız, ClubGG'nin efsanevi birliklerinden biridir. Kitlesinin çekirdeğini ABD, Kanada, İsrail
+      ve Asya ülkelerinden oyuncular oluşturur. Birliğin kurucuları, zayıf rekreasyonel oyuncuları olabildiğince
+      kollayarak temiz ve soft oyunu korumayı öncelik hâline getirmiştir. Bu sayede bu birlikte oynayıp kazanmak gayet
+      mümkündür!</p>
+
+      <p>Mevcut disiplinler: NLH, PLO4/5/6, MTT ve ayrıca Bomb Pot modifikatörü. Geniş coğrafi dağılım sayesinde aktif
+      oyun tüm limitlerde 24/7 sürer. Masadakilerin önemli bir kısmı rekreasyonel oyunculardır.</p>
+
+      <p>Birlikte, fonu <strong>$500 000</strong>'ı aşan devasa bir <strong>Bad Beat Jackpot</strong> bulunur. Bu,
+      talihsiz bir elde bile büyük bir ödül kapma şansıdır.</p>
+
+
+      <h3>Anlaşma hakkında</h3>
+
+      <p>Oyuncuya şu seçenekler sunulur:</p>
+
+      <ul>
+
+      <li><strong>%55'e kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
+
+      <li><strong>%25 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe
+      geçebilirsiniz.</li>
 
       </ul>
     srcHash: e6503ff7a740

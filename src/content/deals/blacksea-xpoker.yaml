@@ -60,9 +60,39 @@ i18n:
       </ul>
     srcHash: 8dad5890e802
   es:
-    name: Oferta de la Unión Black Sea en X-Poker
-    description: Oferta de PDH en la unión Black Sea en X-Poker. Juegos de calidad con buenas condiciones para jugadores de la CEI.
+    name: Oferta en la unión Black Sea en X-Poker
+    description: >-
+      Oferta de PDH en la unión Black Sea en X-Poker. Buen pool, horarios cómodos para jugadores de la CEI y mesas
+      estables sin saturación de regulares.
     geo: CEI
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>Oferta de poker en el club PDH BlackSea (id del club: 2445928), que forma parte de la gran unión de la CEI
+      Black Sea en la plataforma X-Poker. El club pertenece a PokerDealsHub, lo que garantiza tu seguridad y un servicio
+      al cliente de primer nivel 24/7.</p>
+
+
+      <h3>Sobre la unión</h3>
+
+      <p>Black Sea es una unión popular en la plataforma X-Poker, especializada en jugadores de los países de la CEI. La
+      unión ofrece una amplia variedad de mesas y formatos de juego, con un tráfico alto y estable a cualquier hora del
+      día.</p>
+
+      <p>Disciplinas disponibles: MTT, NLH, OFC, PLO4/5/6, Short Deck (6+), además de variantes como Double Board y Bomb
+      Pot. A cualquier hora del día encontrarás acción en todos los límites. El pico de actividad es de 14:00 a 22:00
+      GMT+3.</p>
+
+
+      <h3>Sobre la oferta</h3>
+
+      <p>El jugador puede elegir entre:</p>
+
+      <ul>
+        <li><strong>Rakeback dinámico hasta 70%</strong> El rakeback depende de tu volumen de rake semanal.</li>
+        <li><strong>Rakeback fijo 40%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes pasarte al dinámico.</li>
+      </ul>
+    srcHash: 8dad5890e802
   uz:
     name: Black Sea ittifoqi bitimi — X-Poker
     description: PDH bitimi Black Sea ittifoqida. MDH o'yinchilari uchun qulay sharoit va sifatli o'yinlar.
@@ -209,6 +239,105 @@ i18n:
       <ul>
         <li><strong>Dynamischer Rakeback bis zu 70%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
         <li><strong>Fester Rakeback 40%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: 8dad5890e802
+  pt:
+    name: Oferta na união Black Sea no X-Poker
+    description: >-
+      Oferta da PDH na união Black Sea no X-Poker. Bom pool, horários convenientes para jogadores da CEI e mesas
+      estáveis, sem excesso de regulares.
+    geo: CEI
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>Oferta de poker no clube PDH BlackSea (id do clube: 2445928), que faz parte da grande união da CEI Black Sea na
+      plataforma X-Poker. O clube pertence à PokerDealsHub, o que garante sua segurança e um atendimento ao cliente de
+      altíssimo nível 24/7.</p>
+
+
+      <h3>Sobre a união</h3>
+
+      <p>A Black Sea é uma união popular na plataforma X-Poker, especializada em jogadores dos países da CEI. A união
+      oferece uma ampla variedade de mesas e formatos de jogo, com tráfego alto e estável a qualquer hora do dia.</p>
+
+      <p>Disciplinas disponíveis: MTT, NLH, OFC, PLO4/5/6, Short Deck (6+), além de variações como Double Board e Bomb
+      Pot. A qualquer hora do dia dá para encontrar jogo em todos os limites. O pico de atividade é das 14h às 22h
+      (GMT+3).</p>
+
+
+      <h3>Sobre a oferta</h3>
+
+      <p>O jogador pode escolher entre:</p>
+
+      <ul>
+        <li><strong>Rakeback dinâmico até 70%</strong> O rakeback depende do seu volume de rake semanal.</li>
+        <li><strong>Rakeback fixo 40%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar para o dinâmico.</li>
+      </ul>
+    srcHash: 8dad5890e802
+  fr:
+    name: Offre dans l'union Black Sea sur X-Poker
+    description: >-
+      Offre PDH dans l'union Black Sea sur X-Poker. Bon pool, horaires pratiques pour les joueurs de la CEI et tables
+      stables, sans surcharge de réguliers.
+    geo: CEI
+    body: >-
+      <h3>Description</h3>
+
+      <p>Offre de poker dans le club PDH BlackSea (id du club : 2445928), qui fait partie de la grande union CEI Black
+      Sea sur la plateforme X-Poker. Le club appartient à PokerDealsHub, ce qui garantit votre sécurité et un service
+      client haut de gamme 24/7.</p>
+
+
+      <h3>À propos de l'union</h3>
+
+      <p>Black Sea est une union populaire sur la plateforme X-Poker, spécialisée dans les joueurs des pays de la CEI.
+      L'union propose un large choix de tables et de formats de jeu, avec un trafic élevé et stable à toute heure.</p>
+
+      <p>Disciplines disponibles : MTT, NLH, OFC, PLO4/5/6, Short Deck (6+), ainsi que des variantes comme le Double
+      Board et le Bomb Pot. À toute heure, on trouve de l'action à toutes les limites. Le pic d'activité se situe entre
+      14h00 et 22h00 GMT+3.</p>
+
+
+      <h3>À propos de l'offre</h3>
+
+      <p>Le joueur a le choix entre :</p>
+
+      <ul>
+        <li><strong>Rakeback dynamique jusqu'à 70%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
+        <li><strong>Rakeback fixe 40%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer au dynamique plus tard.</li>
+      </ul>
+    srcHash: 8dad5890e802
+  tr:
+    name: X-Poker'da Black Sea birliğinde anlaşma
+    description: >-
+      X-Poker'da Black Sea birliğinde PDH anlaşması. İyi bir havuz, BDT oyuncuları için uygun saatler ve regülarlarla
+      dolup taşmayan istikrarlı masalar.
+    geo: BDT
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>X-Poker platformundaki büyük BDT birliği Black Sea'in parçası olan PDH BlackSea kulübünde (kulüp id: 2445928)
+      poker anlaşması. Kulüp PokerDealsHub'a aittir; bu da güvenliğinizi ve 24/7 üst düzey müşteri hizmetini garanti
+      eder.</p>
+
+
+      <h3>Birlik hakkında</h3>
+
+      <p>Black Sea, X-Poker platformunda BDT ülkelerinin oyuncularına odaklanan popüler bir birliktir. Birlik, geniş
+      masa ve oyun formatı seçeneği sunar ve günün her saati istikrarlı yüksek trafiğe sahiptir.</p>
+
+      <p>Mevcut disiplinler: MTT, NLH, OFC, PLO4/5/6, Short Deck (6+) ve ayrıca Double Board ile Bomb Pot gibi
+      varyasyonlar. Günün her saatinde tüm limitlerde oyun bulabilirsiniz. Yoğunluk zirvesi GMT+3 ile 14:00 - 22:00
+      arasındadır.</p>
+
+
+      <h3>Anlaşma hakkında</h3>
+
+      <p>Oyuncuya şu seçenekler sunulur:</p>
+
+      <ul>
+        <li><strong>%70'e kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
+        <li><strong>%40 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
     srcHash: 8dad5890e802
 body: >-

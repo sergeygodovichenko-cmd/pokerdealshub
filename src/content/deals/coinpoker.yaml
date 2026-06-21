@@ -62,12 +62,38 @@ i18n:
       benefits!</p>
     srcHash: 9e6165b85efe
   es:
-    name: Oferta de la CoinPoker
+    name: Oferta en la sala de poker CoinPoker
     description: >-
-      Oferta en la popular aplicación CoinPoker con caja centralizada y procesamiento automático de depósitos y retiros.
-      Muchos jugadores recreativos de Asia.
-    geo: Global, Asia, USA
+      Oferta en la popular app CoinPoker, con cajero centralizado y procesamiento automático de ingresos/retiros. Mucho
+      jugador recreativo de Asia.
+    geo: Global, Asia, EE. UU.
     bonus: +150% en el 1er depósito
+    body: >-
+      <h3>Sobre CoinPoker</h3>
+
+      <p>CoinPoker es la primera sala de poker cripto verdaderamente exitosa, que une el mundo del poker y el de la
+      blockchain. Aquí todos los pagos se manejan en USDT, y el token CHP se usa para rakeback, bonos y promociones
+      dentro del juego. La plataforma funciona al margen de bancos e intermediarios, ofreciendo depósitos y retiros
+      instantáneos a través de monederos cripto.</p>
+
+      <p>La gran particularidad de CoinPoker es su generador de números aleatorios (RNG) descentralizado, que se forma
+      con la participación de los jugadores y no se puede manipular. Gracias a ello, el resultado de cada mano se puede
+      verificar y la integridad del juego no depende del operador. CoinPoker se ha convertido en un referente de
+      transparencia y confianza entre los proyectos de poker cripto.</p>
+
+      <h3>Sobre la oferta</h3>
+
+      <p>Al registrarte con nuestro enlace recibes:</p>
+
+      <ul>
+        <li><strong>Rakeback fijo 33%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes pasarte al dinámico.</li>
+        <li><strong>Bono +150% en el 1er depósito</strong> Bono de registro de hasta $2000.</li>
+      </ul>
+
+      <p>Regístrate en CoinPoker <a href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/"
+      rel="nofollow noopener noreferrer" target="_blank">en este enlace</a> para aprovechar todos los bonos y
+      ventajas.</p>
+    srcHash: 9e6165b85efe
   uz:
     name: CoinPoker xonasida bitim
     description: >-
@@ -214,6 +240,104 @@ i18n:
       <p>Registriere dich bei CoinPoker <a
       href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/" rel="nofollow noopener
       noreferrer" target="_blank">über diesen Link</a>, um alle Boni und Vorteile zu nutzen!</p>
+    srcHash: 9e6165b85efe
+  pt:
+    name: Oferta na sala de poker CoinPoker
+    description: >-
+      Oferta no popular app CoinPoker, com caixa centralizado e processamento automático de depósitos/saques. Muito
+      jogador recreativo da Ásia.
+    geo: Global, Ásia, EUA
+    bonus: +150% no 1º depósito
+    body: >-
+      <h3>Sobre a CoinPoker</h3>
+
+      <p>A CoinPoker é a primeira sala de poker cripto realmente bem-sucedida, unindo o mundo do poker e o da
+      blockchain. Aqui todos os pagamentos são feitos em USDT, e o token CHP é usado para rakeback, bônus e promoções
+      dentro do jogo. A plataforma funciona à parte de bancos e intermediários, oferecendo depósitos e saques
+      instantâneos por meio de carteiras cripto.</p>
+
+      <p>O grande diferencial da CoinPoker é seu gerador de números aleatórios (RNG) descentralizado, que é formado com
+      a participação dos jogadores e não pode ser manipulado. Graças a isso, o resultado de cada mão pode ser
+      verificado, e a integridade do jogo não depende do operador. A CoinPoker virou referência de transparência e
+      confiança entre os projetos de poker cripto.</p>
+
+      <h3>Sobre a oferta</h3>
+
+      <p>Ao se cadastrar pelo nosso link você recebe:</p>
+
+      <ul>
+        <li><strong>Rakeback fixo 33%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar para o dinâmico.</li>
+        <li><strong>Bônus +150% no 1º depósito</strong> Bônus de cadastro de até $2000.</li>
+      </ul>
+
+      <p>Cadastre-se na CoinPoker <a href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/"
+      rel="nofollow noopener noreferrer" target="_blank">por este link</a> para aproveitar todos os bônus e
+      vantagens!</p>
+    srcHash: 9e6165b85efe
+  fr:
+    name: Offre sur la salle de poker CoinPoker
+    description: >-
+      Offre sur la populaire appli CoinPoker, avec caisse centralisée et traitement automatique des dépôts/retraits.
+      Beaucoup de joueurs récréatifs d'Asie.
+    geo: Global, Asie, États-Unis
+    bonus: +150% sur le 1er dépôt
+    body: >-
+      <h3>À propos de CoinPoker</h3>
+
+      <p>CoinPoker est la première salle de poker crypto vraiment réussie, réunissant l'univers du poker et celui de la
+      blockchain. Ici, tous les règlements se font en USDT, et le token CHP sert au rakeback, aux bonus et aux
+      promotions in-game. La plateforme fonctionne indépendamment des banques et des intermédiaires, avec des dépôts et
+      des retraits instantanés via des portefeuilles crypto.</p>
+
+      <p>La grande particularité de CoinPoker, c'est son générateur de nombres aléatoires (RNG) décentralisé, généré
+      avec la participation des joueurs et impossible à truquer. Grâce à cela, le résultat de chaque main est vérifiable
+      et l'équité du jeu ne dépend pas de l'opérateur. CoinPoker est devenu une référence de transparence et de
+      confiance parmi les projets de poker crypto.</p>
+
+      <h3>À propos de l'offre</h3>
+
+      <p>En vous inscrivant via notre lien, vous recevez :</p>
+
+      <ul>
+        <li><strong>Rakeback fixe 33%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer au dynamique plus tard.</li>
+        <li><strong>Bonus +150% sur le 1er dépôt</strong> Bonus de bienvenue jusqu'à $2000.</li>
+      </ul>
+
+      <p>Inscrivez-vous sur CoinPoker <a
+      href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/" rel="nofollow noopener
+      noreferrer" target="_blank">via ce lien</a> pour profiter de tous les bonus et avantages !</p>
+    srcHash: 9e6165b85efe
+  tr:
+    name: CoinPoker poker odasında anlaşma
+    description: >-
+      Merkezî kasası ve otomatik para yatırma/çekme işlemleriyle popüler CoinPoker uygulamasında anlaşma. Asya'dan bol
+      rekreasyonel oyuncu.
+    geo: Global, Asya, ABD
+    bonus: 1. depozitoya +%150
+    body: >-
+      <h3>CoinPoker Hakkında</h3>
+
+      <p>CoinPoker, poker dünyası ile blockchain'i birleştiren, gerçekten başarılı ilk kripto poker odasıdır. Burada tüm
+      hesaplaşmalar USDT ile yapılır; CHP tokenı ise rakeback, bonuslar ve oyun içi promosyonlar için kullanılır.
+      Platform, bankalardan ve aracılardan bağımsız çalışır ve kripto cüzdanlar üzerinden anında para yatırma/çekme
+      imkânı sunar.</p>
+
+      <p>CoinPoker'ın en önemli özelliği, oyuncuların katılımıyla oluşturulan ve manipüle edilemeyen merkezî olmayan
+      rastgele sayı üreteci (RNG) sistemidir. Bu sayede her elin sonucu doğrulanabilir ve oyunun adilliği operatöre
+      bağlı değildir. CoinPoker, kripto poker projeleri arasında şeffaflık ve güvenin standardı hâline gelmiştir.</p>
+
+      <h3>Anlaşma Hakkında</h3>
+
+      <p>Bağlantımız üzerinden kaydolduğunuzda şunları alırsınız:</p>
+
+      <ul>
+        <li><strong>%33 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
+        <li><strong>1. depozitoya +%150 bonus</strong> $2000'a kadar kayıt bonusu.</li>
+      </ul>
+
+      <p>Tüm bonus ve avantajlardan yararlanmak için <a
+      href="https://record.coinpokeraffiliates.com/_1qKODGv34W1fWQTENI37dGNd7ZgqdRLk/1/" rel="nofollow noopener
+      noreferrer" target="_blank">bu bağlantıdan</a> CoinPoker'a kaydolun!</p>
     srcHash: 9e6165b85efe
 body: >-
   <h3>О CoinPoker</h3>

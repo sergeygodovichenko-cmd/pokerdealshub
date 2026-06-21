@@ -70,12 +70,47 @@ i18n:
       </ul>
     srcHash: 8ed24c54d0e2
   es:
-    name: Oferta en NUTS POKER con Rakeback de PHD
+    name: Oferta en NUTS POKER con rakeback de PDH
     description: >-
-      Oferta en la aplicación NUTS POKER con caja centralizada y procesamiento automático de depósitos/retiros. Muchos
-      jugadores recreativos de Asia.
+      Oferta en la app de poker NUTS POKER, con cajero centralizado y procesamiento automático de ingresos/retiros.
+      Mucho jugador recreativo de Asia.
     geo: Asia, CEI
     bonus: hasta $1000 en el 1er depósito
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>El club PDH Nuts Poker es el club oficial de Poker Deals Hub en la app de poker centralizada NUTS POKER. Es una
+      sala de poker online clásica, con un sistema de pagos unificado y soporte para soluciones de pago digitales. Mucho
+      jugador recreativo de Asia.</p>
+
+
+      <h3>Sobre la unión</h3>
+
+      <p>NUTS POKER es una app de poker centralizada. Aunque tiene un sistema de clubes, estos solo se usan para asignar
+      el rakeback a los jugadores. Todas las partidas transcurren en un pool común de jugadores. Los depósitos y los
+      retiros se realizan mediante un procesamiento automatizado. La interfaz es de lo más simple y cómoda: la partida
+      arranca con un par de clics, las estadísticas y el cajero están totalmente integrados en el sistema, y el equipo
+      de seguridad supervisa el juego las 24 horas.</p>
+
+      <p>Características clave:</p>
+
+      <ul>
+        <li>Soporte para todos los formatos populares: NLH, PLO4/5/6, MTT, SpinUp</li>
+        <li>Clientes para iOS, Android y Windows</li>
+        <li>Se juega 24/7 en límites bajos y medios</li>
+        <li>Promociones regulares y torneos gratuitos. ¡Garantía récord de freeroll: $36,000!</li>
+      </ul>
+
+
+      <h3>Sobre la oferta</h3>
+
+      <p>El jugador puede elegir entre:</p>
+
+      <ul>
+        <li><strong>Rakeback dinámico hasta 50%</strong> El rakeback depende de tu volumen de rake semanal.</li>
+        <li><strong>Rakeback fijo 25%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes pasarte al dinámico.</li>
+      </ul>
+    srcHash: 8ed24c54d0e2
   uz:
     name: NUTS POKER bitimi — PDHdan rakebek
     description: >-
@@ -264,6 +299,131 @@ i18n:
       <ul>
         <li><strong>Dynamischer Rakeback bis zu 50%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
         <li><strong>Fester Rakeback 25%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: 8ed24c54d0e2
+  pt:
+    name: Oferta no NUTS POKER com rakeback da PDH
+    description: >-
+      Oferta no app de poker NUTS POKER, com caixa centralizado e processamento automático de depósitos/saques. Muito
+      jogador recreativo da Ásia.
+    geo: Ásia, CEI
+    bonus: até $1000 no 1º depósito
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>O clube PDH Nuts Poker é o clube oficial da Poker Deals Hub no app de poker centralizado NUTS POKER. É uma sala
+      de poker online clássica, com sistema de pagamentos unificado e suporte a soluções de pagamento digitais. Muito
+      jogador recreativo da Ásia.</p>
+
+
+      <h3>Sobre a união</h3>
+
+      <p>O NUTS POKER é um app de poker centralizado. Apesar de ter um sistema de clubes, eles servem apenas para
+      atribuir o rakeback aos jogadores. Todas as partidas acontecem em um pool comum de jogadores. Depósitos e saques
+      são feitos por meio de processamento automatizado. A interface é simples e prática ao máximo: a partida começa em
+      poucos cliques, as estatísticas e o caixa estão totalmente integrados ao sistema, e a equipe de segurança monitora
+      o jogo 24 horas.</p>
+
+      <p>Principais características:</p>
+
+      <ul>
+        <li>Suporte a todos os formatos populares: NLH, PLO4/5/6, MTT, SpinUp</li>
+        <li>Clientes para iOS, Android e Windows</li>
+        <li>O jogo rola 24/7 em limites baixos e médios</li>
+        <li>Promoções frequentes e torneios gratuitos. Garantia recorde de freeroll: $36,000!</li>
+      </ul>
+
+
+      <h3>Sobre a oferta</h3>
+
+      <p>O jogador pode escolher entre:</p>
+
+      <ul>
+        <li><strong>Rakeback dinâmico até 50%</strong> O rakeback depende do seu volume de rake semanal.</li>
+        <li><strong>Rakeback fixo 25%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar para o dinâmico.</li>
+      </ul>
+    srcHash: 8ed24c54d0e2
+  fr:
+    name: Offre sur NUTS POKER avec rakeback PDH
+    description: >-
+      Offre sur l'appli de poker NUTS POKER, avec caisse centralisée et traitement automatique des dépôts/retraits.
+      Beaucoup de joueurs récréatifs d'Asie.
+    geo: Asie, CEI
+    bonus: jusqu'à $1000 sur le 1er dépôt
+    body: >-
+      <h3>Description</h3>
+
+      <p>Le club PDH Nuts Poker est le club officiel de Poker Deals Hub sur l'appli de poker centralisée NUTS POKER.
+      C'est une salle de poker en ligne classique, dotée d'un système de règlement unifié et de la prise en charge des
+      solutions de paiement numériques. Beaucoup de joueurs récréatifs d'Asie.</p>
+
+
+      <h3>À propos de l'union</h3>
+
+      <p>NUTS POKER est une appli de poker centralisée. Même si elle dispose d'un système de clubs, ceux-ci ne servent
+      qu'à attribuer le rakeback aux joueurs. Toutes les parties se déroulent dans un pool de joueurs commun. Les dépôts
+      et les retraits passent par un traitement automatisé. L'interface est on ne peut plus simple et pratique : la
+      partie se lance en deux clics, les statistiques et la caisse sont entièrement intégrées au système, et l'équipe de
+      sécurité surveille le jeu 24h/24.</p>
+
+      <p>Points clés :</p>
+
+      <ul>
+        <li>Prise en charge de tous les formats populaires : NLH, PLO4/5/6, MTT, SpinUp</li>
+        <li>Clients pour iOS, Android et Windows</li>
+        <li>Le jeu tourne 24/7 aux limites basses et moyennes</li>
+        <li>Promos régulières et tournois gratuits. Garantie de freeroll record : $36,000 !</li>
+      </ul>
+
+
+      <h3>À propos de l'offre</h3>
+
+      <p>Le joueur a le choix entre :</p>
+
+      <ul>
+        <li><strong>Rakeback dynamique jusqu'à 50%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
+        <li><strong>Rakeback fixe 25%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer au dynamique plus tard.</li>
+      </ul>
+    srcHash: 8ed24c54d0e2
+  tr:
+    name: PDH rakeback'iyle NUTS POKER'da anlaşma
+    description: >-
+      Merkezî kasası ve otomatik para yatırma/çekme işlemleriyle NUTS POKER poker uygulamasında anlaşma. Asya'dan bol
+      rekreasyonel oyuncu.
+    geo: Asya, BDT
+    bonus: 1. depozitoya $1000'a kadar
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>PDH Nuts Poker kulübü, merkezî poker uygulaması NUTS POKER'daki resmî Poker Deals Hub kulübüdür. Tek bir
+      hesaplaşma sistemi ve dijital ödeme çözümleri desteğiyle klasik bir online poker odasıdır. Asya'dan bol
+      rekreasyonel oyuncu.</p>
+
+
+      <h3>Birlik hakkında</h3>
+
+      <p>NUTS POKER, merkezî bir poker uygulamasıdır. Bir kulüp sistemi olsa da kulüpler yalnızca oyunculara rakeback
+      atamak için kullanılır. Tüm oyunlar ortak bir oyuncu havuzunda gerçekleşir. Para yatırma ve çekme işlemleri
+      otomatik işleme ile yapılır. Arayüz son derece sade ve kullanışlıdır: oyun birkaç tıkla başlar, istatistikler ve
+      kasa sisteme tamamen entegredir ve güvenlik ekibi oyunu 24 saat denetler.</p>
+
+      <p>Öne çıkan özellikler:</p>
+
+      <ul>
+        <li>Tüm popüler formatlara destek: NLH, PLO4/5/6, MTT, SpinUp</li>
+        <li>iOS, Android ve Windows istemcileri</li>
+        <li>Oyun, düşük ve orta limitlerde 24/7 döner</li>
+        <li>Düzenli promosyonlar ve ücretsiz turnuvalar. Rekor freeroll garantisi: $36,000!</li>
+      </ul>
+
+
+      <h3>Anlaşma hakkında</h3>
+
+      <p>Oyuncuya şu seçenekler sunulur:</p>
+
+      <ul>
+        <li><strong>%50'ye kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
+        <li><strong>%25 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
     srcHash: 8ed24c54d0e2
 body: >-

@@ -59,9 +59,36 @@ i18n:
       </ul>
     srcHash: 894f2a95744a
   es:
-    name: Oferta de la Unión Paradise en PokerBros
-    description: "Muchas mesas activas, condiciones transparentes y alto rakeback: la mejor oferta en Poker Bros."
-    geo: EE.UU.
+    name: Oferta en la unión Paradise en PokerBros
+    description: "Muchas mesas activas, condiciones transparentes y rakeback alto: la mejor propuesta en PokerBros."
+    geo: EE. UU.
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>Monkeys VIPS es un club exclusivo de la unión Paradise en la plataforma PokerBros. El club ofrece un rakeback
+      alto y juego activo en todos los límites de 19:00 a 23:00 GMT-7. Ideal para jugadores de Norteamérica y
+      Sudamérica.</p>
+
+
+      <h3>Sobre la unión</h3>
+
+      <p>Paradise Union es una de las mayores uniones de la plataforma PokerBros, con más de 30 clubes y jugadores de
+      todo el mundo. La unión ofrece formatos de juego variados, como NLH, PLO4/5/6, MTT y otros. Se juega sobre todo en
+      límites medios y bajos. La unión es conocida por sus jugadores recreativos.</p>
+
+      <p>Disciplinas disponibles: NLH, PLO4/5/6, MTT y también el modificador Bomb Pot. El juego activo es 24/7 en todos
+      los límites, con muchos jugadores recreativos de EE. UU.</p>
+
+
+      <h3>Sobre la oferta</h3>
+
+      <p>El jugador puede elegir entre:</p>
+
+      <ul>
+        <li><strong>Rakeback dinámico hasta 55%</strong> El rakeback depende de tu volumen de rake semanal.</li>
+        <li><strong>Rakeback fijo 25%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes pasarte al dinámico.</li>
+      </ul>
+    srcHash: 894f2a95744a
   uz:
     name: Paradise ittifoqi bitimi — PokerBros
     description: Ko'plab faol stollar, shaffof shartlar va yuqori rakebek — PokerBros dagi eng yaxshi takliflardan biri.
@@ -205,6 +232,97 @@ i18n:
       <ul>
         <li><strong>Dynamischer Rakeback bis zu 55%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
         <li><strong>Fester Rakeback 25%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: 894f2a95744a
+  pt:
+    name: Oferta na união Paradise no PokerBros
+    description: "Muitas mesas ativas, condições transparentes e rakeback alto: a melhor proposta no PokerBros."
+    geo: EUA
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>O Monkeys VIPS é um clube exclusivo da união Paradise na plataforma PokerBros. O clube oferece rakeback alto e
+      jogo ativo em todos os limites das 19h às 23h (GMT-7). Ideal para jogadores da América do Norte e do Sul.</p>
+
+
+      <h3>Sobre a união</h3>
+
+      <p>A Paradise Union é uma das maiores uniões da plataforma PokerBros, reunindo mais de 30 clubes com jogadores do
+      mundo todo. A união oferece formatos de jogo variados, incluindo NLH, PLO4/5/6, MTT e outros. O jogo rola
+      principalmente em limites médios e baixos. A união é conhecida pelos seus jogadores recreativos.</p>
+
+      <p>Disciplinas disponíveis: NLH, PLO4/5/6, MTT e também o modificador Bomb Pot. O jogo ativo rola 24 horas em
+      todos os limites, com muitos jogadores recreativos dos EUA.</p>
+
+
+      <h3>Sobre a oferta</h3>
+
+      <p>O jogador pode escolher entre:</p>
+
+      <ul>
+        <li><strong>Rakeback dinâmico até 55%</strong> O rakeback depende do seu volume de rake semanal.</li>
+        <li><strong>Rakeback fixo 25%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar para o dinâmico.</li>
+      </ul>
+    srcHash: 894f2a95744a
+  fr:
+    name: Offre dans l'union Paradise sur PokerBros
+    description: "Beaucoup de tables actives, des conditions transparentes et un rakeback élevé : la meilleure offre sur PokerBros."
+    geo: États-Unis
+    body: >-
+      <h3>Description</h3>
+
+      <p>Monkeys VIPS est un club exclusif de l'union Paradise sur la plateforme PokerBros. Le club propose un rakeback
+      élevé et un jeu actif à toutes les limites de 19h00 à 23h00 GMT-7. Idéal pour les joueurs d'Amérique du Nord et du
+      Sud.</p>
+
+
+      <h3>À propos de l'union</h3>
+
+      <p>Paradise Union est l'une des plus grandes unions de la plateforme PokerBros, regroupant plus de 30 clubs avec
+      des joueurs du monde entier. L'union propose des formats de jeu variés, dont le NLH, le PLO4/5/6, le MTT et
+      d'autres. On joue surtout aux limites moyennes et basses. L'union est connue pour ses joueurs récréatifs.</p>
+
+      <p>Disciplines disponibles : NLH, PLO4/5/6, MTT ainsi que le modificateur Bomb Pot. Le jeu actif tourne 24/7 à
+      toutes les limites, avec beaucoup de joueurs récréatifs des États-Unis.</p>
+
+
+      <h3>À propos de l'offre</h3>
+
+      <p>Le joueur a le choix entre :</p>
+
+      <ul>
+        <li><strong>Rakeback dynamique jusqu'à 55%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
+        <li><strong>Rakeback fixe 25%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer au dynamique plus tard.</li>
+      </ul>
+    srcHash: 894f2a95744a
+  tr:
+    name: PokerBros'ta Paradise birliğinde anlaşma
+    description: "Bol aktif masa, şeffaf koşullar ve yüksek rakeback: PokerBros'taki en iyi teklif."
+    geo: ABD
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>Monkeys VIPS, PokerBros platformundaki Paradise birliğinde özel bir kulüptür. Kulüp, GMT-7 ile 19:00 - 23:00
+      arasında tüm limitlerde yüksek rakeback ve aktif oyun sunar. Kuzey ve Güney Amerika oyuncuları için idealdir.</p>
+
+
+      <h3>Birlik hakkında</h3>
+
+      <p>Paradise Union, PokerBros platformunun en büyük birliklerinden biridir; dünyanın dört bir yanından
+      oyuncularıyla 30'dan fazla kulübü bir araya getirir. Birlik NLH, PLO4/5/6, MTT ve daha fazlası dâhil çeşitli oyun
+      formatları sunar. Oyun çoğunlukla orta ve düşük limitlerde döner. Birlik, rekreasyonel oyuncularıyla tanınır.</p>
+
+      <p>Mevcut disiplinler: NLH, PLO4/5/6, MTT ve ayrıca Bomb Pot modifikatörü. Aktif oyun, ABD'den bol rekreasyonel
+      oyuncuyla tüm limitlerde 24/7 döner.</p>
+
+
+      <h3>Anlaşma hakkında</h3>
+
+      <p>Oyuncuya şu seçenekler sunulur:</p>
+
+      <ul>
+        <li><strong>%55'e kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
+        <li><strong>%25 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
     srcHash: 894f2a95744a
 body: >-

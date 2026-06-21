@@ -69,11 +69,43 @@ i18n:
       </ul>
     srcHash: e05756aa0081
   es:
-    name: Oferta de la Unión El Dorado en PPPoker
+    name: Oferta en la unión El Dorado en PPPoker
     description: >-
-      Oferta en la unión brasileña más grande con muchos jugadores flojos. Excelentes alineaciones de PLO5 y PLO6, mejor
-      rakeback y buen bono de registro.
+      Oferta en la mayor unión brasileña, con muchísimos jugadores loose. Mesas excelentes en PLO5 y PLO6, el mejor
+      rakeback y un buen bono de registro.
     geo: Latinoamérica, Europa
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>Oferta de poker en el club PDH Dorado (id del club: 4693054), que forma parte de la conocida unión brasileña El
+      Dorado.</p>
+
+      <p>El club está gestionado por PokerDealsHub, lo que garantiza condiciones transparentes y justas y un servicio al
+      cliente de primer nivel 24/7.</p>
+
+
+      <h3>Sobre la unión</h3>
+
+      <p>El Dorado (Unión Dorada) es la mayor unión brasileña en PPPoker, con jugadores de Latinoamérica y Europa. La
+      unión ofrece una amplia variedad de mesas y límites, y es especialmente famosa por sus PLO5 y PLO6. Hay muchas
+      variantes de juego, como Bomb Pot, Double Board y HeadsUp.</p>
+
+      <p>Los brasileños son conocidos por su estilo loose-agresivo. Por eso, los jugadores disciplinados con una
+      estrategia equilibrada suelen sacar una ventaja considerable.</p>
+
+      <p>Disciplinas recomendadas: PLO4, PLO5, PLO6. El juego es 24/7, con el pico de actividad de 18:00 a 20:00
+      GMT-3.</p>
+
+
+      <h3>Sobre la oferta</h3>
+
+      <p>El jugador puede elegir entre:</p>
+
+      <ul>
+        <li><strong>Rakeback dinámico hasta 70%</strong> El rakeback depende de tu volumen de rake semanal.</li>
+        <li><strong>Rakeback fijo 35%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes pasarte al dinámico.</li>
+      </ul>
+    srcHash: e05756aa0081
   uz:
     name: El Dorado ittifoqi bitimi — PPPoker
     description: >-
@@ -249,6 +281,119 @@ i18n:
       <ul>
         <li><strong>Dynamischer Rakeback bis zu 70%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
         <li><strong>Fester Rakeback 35%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
+      </ul>
+    srcHash: e05756aa0081
+  pt:
+    name: Oferta na união El Dorado no PPPoker
+    description: >-
+      Oferta na maior união brasileira, com muitos jogadores loose. Mesas excelentes de PLO5 e PLO6, o melhor rakeback e
+      um bom bônus de cadastro.
+    geo: América Latina, Europa
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>Oferta de poker no clube PDH Dorado (id do clube: 4693054), que faz parte da conhecida união brasileira El
+      Dorado.</p>
+
+      <p>O clube é administrado pela PokerDealsHub, o que garante condições transparentes e justas e um atendimento ao
+      cliente de altíssimo nível 24/7.</p>
+
+
+      <h3>Sobre a união</h3>
+
+      <p>A El Dorado (Unión Dorada) é a maior união brasileira no PPPoker, com jogadores da América Latina e da Europa.
+      A união oferece uma ampla variedade de mesas e limites e é especialmente conhecida pelo PLO5 e PLO6. Tem muitas
+      variações de jogo, como Bomb Pot, Double Board e HeadsUp.</p>
+
+      <p>Os brasileiros são famosos pelo seu estilo loose-agressivo no poker. Por isso, jogadores disciplinados e com
+      uma estratégia equilibrada costumam levar uma vantagem considerável.</p>
+
+      <p>Disciplinas recomendadas: PLO4, PLO5, PLO6. O jogo rola 24 horas, com o pico de atividade das 18h às 20h
+      (GMT-3).</p>
+
+
+      <h3>Sobre a oferta</h3>
+
+      <p>O jogador pode escolher entre:</p>
+
+      <ul>
+        <li><strong>Rakeback dinâmico até 70%</strong> O rakeback depende do seu volume de rake semanal.</li>
+        <li><strong>Rakeback fixo 35%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar para o dinâmico.</li>
+      </ul>
+    srcHash: e05756aa0081
+  fr:
+    name: Offre dans l'union El Dorado sur PPPoker
+    description: >-
+      Offre dans la plus grande union brésilienne, avec énormément de joueurs loose. Excellentes tables en PLO5 et PLO6,
+      le meilleur rakeback et un bon bonus d'inscription.
+    geo: Amérique latine, Europe
+    body: >-
+      <h3>Description</h3>
+
+      <p>Offre de poker dans le club PDH Dorado (id du club : 4693054), qui fait partie de la célèbre union brésilienne
+      El Dorado.</p>
+
+      <p>Le club est géré par PokerDealsHub, ce qui garantit des conditions transparentes et équitables ainsi qu'un
+      service client haut de gamme 24/7.</p>
+
+
+      <h3>À propos de l'union</h3>
+
+      <p>El Dorado (Unión Dorada) est la plus grande union brésilienne sur PPPoker, avec des joueurs d'Amérique latine
+      et d'Europe. L'union propose un large choix de tables et de limites, et elle est surtout réputée pour le PLO5 et
+      le PLO6. Beaucoup de variantes de jeu, comme le Bomb Pot, le Double Board et le HeadsUp.</p>
+
+      <p>Les Brésiliens sont connus pour leur style loose-agressif au poker. C'est pourquoi les joueurs disciplinés
+      dotés d'une stratégie équilibrée prennent en général un avantage considérable.</p>
+
+      <p>Disciplines recommandées : PLO4, PLO5, PLO6. Le jeu tourne 24h/24, avec un pic d'activité de 18h00 à 20h00
+      GMT-3.</p>
+
+
+      <h3>À propos de l'offre</h3>
+
+      <p>Le joueur a le choix entre :</p>
+
+      <ul>
+        <li><strong>Rakeback dynamique jusqu'à 70%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
+        <li><strong>Rakeback fixe 35%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer au dynamique plus tard.</li>
+      </ul>
+    srcHash: e05756aa0081
+  tr:
+    name: PPPoker'da El Dorado birliğinde anlaşma
+    description: >-
+      Bol loose oyuncuyla en büyük Brezilya birliğinde anlaşma. PLO5 ve PLO6 masaları harika, rakeback en iyisi ve kayıt
+      bonusu da güzel.
+    geo: Latin Amerika, Avrupa
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>Ünlü Brezilya birliği El Dorado'nun parçası olan PDH Dorado kulübünde (kulüp id: 4693054) poker anlaşması.</p>
+
+      <p>Kulüp PokerDealsHub tarafından yönetilir; bu da şeffaf ve adil koşulları ve 24/7 üst düzey müşteri hizmetini
+      garanti eder.</p>
+
+
+      <h3>Birlik hakkında</h3>
+
+      <p>El Dorado (Unión Dorada), PPPoker'daki en büyük Brezilya birliğidir; oyuncuları Latin Amerika ve Avrupa'dandır.
+      Birlik geniş bir masa ve limit seçeneği sunar ve özellikle PLO5 ile PLO6 ile tanınır. Bomb Pot, Double Board ve
+      HeadsUp gibi pek çok oyun varyasyonu vardır.</p>
+
+      <p>Brezilyalılar pokerde loose-agresif tarzlarıyla ünlüdür. Bu yüzden dengeli bir stratejiye sahip disiplinli
+      oyuncular genellikle ciddi bir avantaj elde eder.</p>
+
+      <p>Önerilen disiplinler: PLO4, PLO5, PLO6. Oyun 24 saat sürer; yoğunluk zirvesi GMT-3 ile 18:00 - 20:00
+      arasındadır.</p>
+
+
+      <h3>Anlaşma hakkında</h3>
+
+      <p>Oyuncuya şu seçenekler sunulur:</p>
+
+      <ul>
+        <li><strong>%70'e kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
+        <li><strong>%35 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
     srcHash: e05756aa0081
 body: >-

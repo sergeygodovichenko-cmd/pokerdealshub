@@ -709,3 +709,479 @@ i18n:
               </p>
             </div>
     srcHash: 8a47b36574b3
+  es:
+    title: Añade tu deal al sitio
+    description: Publica tu deal de póker en PokerDealsHub. Plataforma para clubes, uniones y redes de agentes
+    body: |-
+      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
+              <p class="text-neutral-300 text-lg leading-relaxed mb-6">
+                Publicamos ofertas de póker verificadas de clubes y uniones. La publicación está disponible tras verificar la reputación y las condiciones del deal.
+              </p>
+
+              <h2 class="text-2xl font-semibold text-gold mb-4">Requisitos</h2>
+              <ul class="space-y-3 text-neutral-300 mb-8">
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Reputación verificada del club o la unión</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Condiciones de rakeback y pagos transparentes</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Base de jugadores activa y tráfico</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Soporte fiable para los jugadores</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Disposición a verificar condiciones y documentos</span>
+                </li>
+              </ul>
+
+              <div class="bg-gold/10 border border-gold/30 rounded-xl p-6">
+                <p class="text-neutral-300 mb-6 text-lg font-medium text-center">
+                  Contáctanos para hablarlo:
+                </p>
+
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                  <a
+                    href="https://t.me/pokerdealshub"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  >
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/>
+                    </svg>
+                    Telegram
+                  </a>
+
+                  <a
+                    href="https://wa.me/38267563945"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-3 px-6 py-3 border-2 border-gold text-gold rounded-xl font-semibold hover:bg-gold hover:text-neutral-900 transition-colors"
+                  >
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                    </svg>
+                    WhatsApp
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+              <h2 class="text-2xl font-semibold text-gold mb-4">¿Por qué publicar tu deal en PokerDealsHub?</h2>
+
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Público objetivo</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Nuestro sitio recibe jugadores activos que buscan condiciones ventajosas y nuevos deals
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Optimización SEO</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Cada deal recibe una página propia, optimizada para los motores de búsqueda
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Alcance internacional</h3>
+                  <p class="text-neutral-400 text-sm">
+                    El sitio está disponible en español, inglés y otros idiomas
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Transparencia</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Publicamos solo ofertas verificadas con condiciones reales
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+              <p class="text-neutral-300 text-sm">
+                Publicar un deal de póker en PokerDealsHub es una oportunidad para atraer jugadores específicos de distintas regiones.
+                Trabajamos con clubes en <a href="/es/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+      >PPPoker, ClubGG, X-Poker</a>
+                y otras plataformas. Si buscas una plataforma fiable para promocionar tu unión o tu club, contáctanos.
+              </p>
+            </div>
+    srcHash: 8a47b36574b3
+  pt:
+    title: Adicione seu deal ao site
+    description: Publique seu deal de pôquer no PokerDealsHub. Plataforma para clubes, uniões e redes de agentes
+    body: |-
+      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
+              <p class="text-neutral-300 text-lg leading-relaxed mb-6">
+                Publicamos ofertas de pôquer verificadas de clubes e uniões. A publicação fica disponível após a verificação da reputação e das condições do deal.
+              </p>
+
+              <h2 class="text-2xl font-semibold text-gold mb-4">Requisitos</h2>
+              <ul class="space-y-3 text-neutral-300 mb-8">
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Reputação verificada do clube ou da união</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Condições de rakeback e pagamentos transparentes</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Base de jogadores ativa e tráfego</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Suporte confiável aos jogadores</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Disposição para verificar condições e documentos</span>
+                </li>
+              </ul>
+
+              <div class="bg-gold/10 border border-gold/30 rounded-xl p-6">
+                <p class="text-neutral-300 mb-6 text-lg font-medium text-center">
+                  Entre em contato para conversar:
+                </p>
+
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                  <a
+                    href="https://t.me/pokerdealshub"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  >
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/>
+                    </svg>
+                    Telegram
+                  </a>
+
+                  <a
+                    href="https://wa.me/38267563945"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-3 px-6 py-3 border-2 border-gold text-gold rounded-xl font-semibold hover:bg-gold hover:text-neutral-900 transition-colors"
+                  >
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                    </svg>
+                    WhatsApp
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+              <h2 class="text-2xl font-semibold text-gold mb-4">Por que publicar seu deal no PokerDealsHub?</h2>
+
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Público-alvo</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Nosso site recebe jogadores ativos em busca de condições vantajosas e novos deals
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Otimização SEO</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Cada deal ganha uma página própria, otimizada para os mecanismos de busca
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Alcance internacional</h3>
+                  <p class="text-neutral-400 text-sm">
+                    O site está disponível em português, inglês e outros idiomas
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Transparência</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Publicamos apenas ofertas verificadas com condições reais
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+              <p class="text-neutral-300 text-sm">
+                Publicar um deal de pôquer no PokerDealsHub é uma oportunidade de atrair jogadores específicos de diferentes regiões.
+                Trabalhamos com clubes em <a href="/pt/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+      >PPPoker, ClubGG, X-Poker</a>
+                e outras plataformas. Se você procura uma plataforma confiável para divulgar sua união ou seu clube, entre em contato.
+              </p>
+            </div>
+    srcHash: 8a47b36574b3
+  fr:
+    title: Ajoutez votre deal au site
+    description: Publiez votre deal de poker sur PokerDealsHub. Plateforme pour clubs, unions et réseaux d'agents
+    body: |-
+      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
+              <p class="text-neutral-300 text-lg leading-relaxed mb-6">
+                Nous publions des offres de poker vérifiées de clubs et d'unions. La publication est possible après vérification de la réputation et des conditions du deal.
+              </p>
+
+              <h2 class="text-2xl font-semibold text-gold mb-4">Conditions requises</h2>
+              <ul class="space-y-3 text-neutral-300 mb-8">
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Réputation vérifiée du club ou de l'union</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Conditions de rakeback et de paiement transparentes</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Base de joueurs active et trafic</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Support fiable pour les joueurs</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Volonté de vérifier les conditions et les documents</span>
+                </li>
+              </ul>
+
+              <div class="bg-gold/10 border border-gold/30 rounded-xl p-6">
+                <p class="text-neutral-300 mb-6 text-lg font-medium text-center">
+                  Contactez-nous pour en discuter :
+                </p>
+
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                  <a
+                    href="https://t.me/pokerdealshub"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  >
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/>
+                    </svg>
+                    Telegram
+                  </a>
+
+                  <a
+                    href="https://wa.me/38267563945"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-3 px-6 py-3 border-2 border-gold text-gold rounded-xl font-semibold hover:bg-gold hover:text-neutral-900 transition-colors"
+                  >
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                    </svg>
+                    WhatsApp
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+              <h2 class="text-2xl font-semibold text-gold mb-4">Pourquoi publier votre deal sur PokerDealsHub ?</h2>
+
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Audience ciblée</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Notre site est fréquenté par des joueurs actifs à la recherche de conditions avantageuses et de nouveaux deals
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Optimisation SEO</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Chaque deal obtient sa propre page, optimisée pour les moteurs de recherche
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Portée internationale</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Le site est disponible en français, en anglais et dans d'autres langues
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Transparence</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Nous publions uniquement des offres vérifiées avec des conditions réelles
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+              <p class="text-neutral-300 text-sm">
+                Publier un deal de poker sur PokerDealsHub, c'est l'occasion d'attirer des joueurs ciblés de différentes régions.
+                Nous collaborons avec des clubs sur <a href="/fr/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+      >PPPoker, ClubGG, X-Poker</a>
+                et d'autres plateformes. Si vous cherchez une plateforme fiable pour promouvoir votre union ou votre club, contactez-nous.
+              </p>
+            </div>
+    srcHash: 8a47b36574b3
+  tr:
+    title: Anlaşmanızı siteye ekleyin
+    description: Poker anlaşmanızı PokerDealsHub'da yayınlayın. Kulüpler, birlikler ve ajans ağları için platform
+    body: >-
+      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
+              <p class="text-neutral-300 text-lg leading-relaxed mb-6">
+                Kulüplerden ve birliklerden doğrulanmış poker tekliflerini yayınlıyoruz. Yayınlama, itibar ve anlaşma koşulları doğrulandıktan sonra mümkündür.
+              </p>
+
+              <h2 class="text-2xl font-semibold text-gold mb-4">Gereksinimler</h2>
+              <ul class="space-y-3 text-neutral-300 mb-8">
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Kulübün veya birliğin doğrulanmış itibarı</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Şeffaf rakeback ve ödeme koşulları</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Aktif oyuncu tabanı ve trafik</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Güvenilir oyuncu desteği</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>Koşulları ve belgeleri doğrulamaya hazır olma</span>
+                </li>
+              </ul>
+
+              <div class="bg-gold/10 border border-gold/30 rounded-xl p-6">
+                <p class="text-neutral-300 mb-6 text-lg font-medium text-center">
+                  Görüşmek için bizimle iletişime geçin:
+                </p>
+
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                  <a
+                    href="https://t.me/pokerdealshub"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  >
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/>
+                    </svg>
+                    Telegram
+                  </a>
+
+                  <a
+                    href="https://wa.me/38267563945"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-3 px-6 py-3 border-2 border-gold text-gold rounded-xl font-semibold hover:bg-gold hover:text-neutral-900 transition-colors"
+                  >
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                    </svg>
+                    WhatsApp
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+              <h2 class="text-2xl font-semibold text-gold mb-4">Anlaşmanızı neden PokerDealsHub'da yayınlamalısınız?</h2>
+
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Hedef kitle</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Sitemizi, avantajlı koşullar ve yeni anlaşmalar arayan aktif oyuncular ziyaret ediyor
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">SEO optimizasyonu</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Her anlaşma, arama motorları için optimize edilmiş kendi sayfasına sahip olur
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Uluslararası erişim</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Site Türkçe, İngilizce ve diğer dillerde mevcuttur
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">Şeffaflık</h3>
+                  <p class="text-neutral-400 text-sm">
+                    Yalnızca gerçek koşullara sahip doğrulanmış teklifleri yayınlıyoruz
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+              <p class="text-neutral-300 text-sm">
+                Bir poker anlaşmasını PokerDealsHub'da yayınlamak, farklı bölgelerden hedef oyuncuları çekmek için bir fırsattır.
+                <a href="/tr/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+      >PPPoker, ClubGG, X-Poker</a> ve diğer platformlardaki kulüplerle çalışıyoruz. Birliğinizi veya kulübünüzü
+      tanıtmak için güvenilir bir platform arıyorsanız, bizimle iletişime geçin.
+              </p>
+            </div>
+    srcHash: 8a47b36574b3

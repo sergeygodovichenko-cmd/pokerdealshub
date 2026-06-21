@@ -17,7 +17,7 @@ const guides = all
   .map((entry) => ({ slug: entry.id, ...entry.data, ...localizeGuide(entry.data, lang) }))
   .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
-const dateLocale: Record<string, string> = { ru: "ru-RU", en: "en-US", uz: "uz-UZ", uk: "uk-UA", it: "it-IT", de: "de-DE" };
+const dateLocale: Record<string, string> = { ru: "ru-RU", en: "en-US", uz: "uz-UZ", uk: "uk-UA", it: "it-IT", de: "de-DE", es: "es-ES", pt: "pt-BR", fr: "fr-FR", tr: "tr-TR" };
 const catLabel: Record<string, { guide: string; review: string }> = {
   ru: { guide: "Гайд", review: "Обзор" },
   en: { guide: "Guide", review: "Review" },
@@ -25,8 +25,12 @@ const catLabel: Record<string, { guide: string; review: string }> = {
   uk: { guide: "Гайд", review: "Огляд" },
   it: { guide: "Guida", review: "Recensione" },
   de: { guide: "Guide", review: "Review" },
+  es: { guide: "Guía", review: "Reseña" },
+  pt: { guide: "Guia", review: "Análise" },
+  fr: { guide: "Guide", review: "Analyse" },
+  tr: { guide: "Rehber", review: "İnceleme" },
 };
-const readMore: Record<string, string> = { ru: "Читать далее", en: "Read more", uz: "Batafsil", uk: "Читати далі", it: "Leggi di più", de: "Mehr lesen" };
+const readMore: Record<string, string> = { ru: "Читать далее", en: "Read more", uz: "Batafsil", uk: "Читати далі", it: "Leggi di più", de: "Mehr lesen", es: "Leer más", pt: "Leia mais", fr: "Lire la suite", tr: "Devamını oku" };
 const aboutBlock: Record<string, { title: string; p1: string; p2: string }> = {
   ru: {
     title: "О разделе гайдов",
@@ -57,6 +61,26 @@ const aboutBlock: Record<string, { title: string; p1: string; p2: string }> = {
     title: "Über den Guides-Bereich",
     p1: "Hier veröffentlichen wir ausführliche Guides und Reviews zu Poker-Apps, Unions und Deals. Unser Ziel ist es, dir zu helfen, die Spielbedingungen zu verstehen und das beste Angebot zu wählen.",
     p2: "Alle Guides basieren auf echter Spielerfahrung und geprüften Informationen.",
+  },
+  es: {
+    title: "Sobre la sección de guías",
+    p1: "Aquí publicamos guías detalladas y reseñas de apps de póker, uniones y ofertas. Nuestro objetivo es ayudarte a entender las condiciones de juego y a elegir la mejor oferta.",
+    p2: "Todas las guías se basan en experiencia de juego real e información verificada.",
+  },
+  pt: {
+    title: "Sobre a seção de guias",
+    p1: "Aqui publicamos guias detalhados e análises de apps de poker, uniões e ofertas. Nosso objetivo é ajudar você a entender as condições de jogo e a escolher a melhor oferta.",
+    p2: "Todos os guias são baseados em experiência de jogo real e informações verificadas.",
+  },
+  fr: {
+    title: "À propos de la section guides",
+    p1: "Ici, nous publions des guides détaillés et des analyses d’apps de poker, d’unions et d’offres. Notre objectif est de vous aider à comprendre les conditions de jeu et à choisir la meilleure offre.",
+    p2: "Tous les guides reposent sur une expérience de jeu réelle et des informations vérifiées.",
+  },
+  tr: {
+    title: "Rehberler bölümü hakkında",
+    p1: "Burada poker uygulamaları, birlikler ve teklifler hakkında ayrıntılı rehberler ve incelemeler yayınlıyoruz. Amacımız oyun koşullarını anlamanıza ve en iyi teklifi seçmenize yardımcı olmaktır.",
+    p2: "Tüm rehberler gerçek oyun deneyimine ve doğrulanmış bilgilere dayanır.",
   },
 };
 const about = aboutBlock[lang] ?? aboutBlock.en;
