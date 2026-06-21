@@ -4,39 +4,158 @@ import DealCard from '../../components/DealCard.astro';
 import { getDeals } from '../../utils/deals';
 import { getCollection } from 'astro:content';
 import { localizeGuide } from '../../utils/dealHelpers';
-import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+import { useTranslations } from '../../i18n/utils';
+import { locales } from '../../i18n/ui';
 
-const lang = getLangFromUrl(Astro.url);
+export function getStaticPaths() {
+  return locales.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as string;
 const deals = (await getDeals()).sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
 const guides = (await getCollection('guides', ({ data }) => !data.draft))
   .map((e) => ({ slug: e.id, date: e.data.date, ...localizeGuide(e.data, lang) }))
   .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-const t = useTranslations(lang);
+const t = useTranslations(lang as any);
+
+const STR = {
+  ru: {
+    metaTitle: 'PokerDealsHub — лучшие покерные клубы и рейкбэк-оферы',
+    metaDescription: 'Выбирай проверенные покерные клубы и союзы на PPPoker, ClubGG и X-Poker. Получай высокий рейкбэк и надёжные выплаты с PokerDealsHub.',
+    heroTitle: 'PokerDealsHub — лучшие рейкбэк сделки в мире покера',
+    heroText: 'Мы собрали для вас лучшие клубы и союзы с большим рейкбэком, прозрачными условиями. Только проверенные площадки и мягкие поляны. Все для того чтобы вы получали максимум от игры в покер.',
+    heroCta: 'Все сделки',
+    whyTitle: 'Почему выбирают PokerDealsHub',
+    whyCard1Alt: 'Иконка щита',
+    whyCard1Title: 'Проверенные союзы',
+    whyCard1Text: 'Мы публикуем только надёжные клубы с реальными выплатами и репутацией.',
+    whyCard2Alt: 'Иконка процент',
+    whyCard2Title: 'Честный рейкбэк',
+    whyCard2Text: 'Всё прозрачно — ты всегда знаешь, сколько именно получаешь за игру.',
+    whyCard3Alt: 'Иконка чата',
+    whyCard3Title: 'Поддержка 24/7',
+    whyCard3Text: 'Наша команда на связи каждый день, без выходных.',
+    whyCard4Alt: 'Иконка Рыбка',
+    whyCard4Title: 'Хорошая игра',
+    whyCard4Text: 'Только поляны с рекреационными игроками.',
+    dealsTitle: 'Популярные сделки',
+    dealsSubtitle: 'Лучшие покерные клубы и союзы с проверенной репутацией, высоким рейкбэком и активной игрой.',
+    dealsAllLink: 'Все сделки →',
+    dealPrevAria: 'Предыдущая сделка',
+    dealNextAria: 'Следующая сделка',
+    dealPrevSr: 'Предыдущая сделка',
+    dealNextSr: 'Следующая сделка',
+    guidesTitle: 'Гайды и советы',
+    guidesSubtitle: 'Стратегии, обзоры союзов и практические советы для игроков, которые хотят повысить винрейт.',
+    guidesAllLink: 'Все статьи →',
+    guidePrevAria: 'Предыдущий гайд',
+    guideNextAria: 'Следующий гайд',
+    guidePrevSr: 'Предыдущая статья',
+    guideNextSr: 'Следующая статья',
+    ctaTitle: 'Добавить сделку',
+    ctaText: 'Ты владелец покерного клуба или союза? В игре порядок, условия честные, рейкбэк прозрачный? Размести свою сделку на PokerDealsHub — мы приведём новых игроков и поможем клубу развиваться.',
+    ctaButton: 'Разместить сделку',
+  },
+  en: {
+    metaTitle: 'PokerDealsHub — the best poker clubs and rakeback offers',
+    metaDescription: 'Choose verified poker clubs and unions on PPPoker, ClubGG, and X-Poker. Get high rakeback and reliable payouts with PokerDealsHub.',
+    heroTitle: 'PokerDealsHub — the best rakeback deals in the poker world',
+    heroText: 'We’ve gathered the best poker clubs and unions with high rakeback and transparent terms. Only trusted platforms and soft games — everything to help you get the most out of poker.',
+    heroCta: 'All poker deals',
+    whyTitle: 'Why players choose PokerDealsHub',
+    whyCard1Alt: 'Shield icon',
+    whyCard1Title: 'Verified unions',
+    whyCard1Text: 'We list only trusted clubs with real payouts and strong reputations.',
+    whyCard2Alt: 'Percent icon',
+    whyCard2Title: 'Fair rakeback',
+    whyCard2Text: 'Everything is transparent — you always know exactly how much you earn from playing.',
+    whyCard3Alt: 'Chat icon',
+    whyCard3Title: 'Support 24/7',
+    whyCard3Text: 'Our team is available every day, with no days off.',
+    whyCard4Alt: 'Fish icon',
+    whyCard4Title: 'Soft games',
+    whyCard4Text: 'Only tables filled with recreational players.',
+    dealsTitle: 'Popular deals',
+    dealsSubtitle: 'The best poker clubs and unions with a proven reputation, high rakeback, and active games.',
+    dealsAllLink: 'All deals →',
+    dealPrevAria: 'Previous deal',
+    dealNextAria: 'Next deal',
+    dealPrevSr: 'Previous deal',
+    dealNextSr: 'Next deal',
+    guidesTitle: 'Guides and tips',
+    guidesSubtitle: 'Strategies, union reviews, and practical advice for players who want to improve their win rate.',
+    guidesAllLink: 'All articles →',
+    guidePrevAria: 'Previous guide',
+    guideNextAria: 'Next guide',
+    guidePrevSr: 'Previous article',
+    guideNextSr: 'Next article',
+    ctaTitle: 'Add your deal',
+    ctaText: 'Own a poker club or union? Games are fair, terms are transparent, and rakeback is clear? List your deal on PokerDealsHub — we’ll bring new players and help your club grow.',
+    ctaButton: 'Submit a deal',
+  },
+  uz: {
+    metaTitle: 'PokerDealsHub — eng yaxshi poker bitimlari va rakebek',
+    metaDescription: 'PPPoker, ClubGG, X-Poker va boshqa ilovalardagi tasdiqlangan klublar va ittifoqlar. Yuqori rakebek va ishonchli to‘lovlar bilan PDH.',
+    heroTitle: 'PokerDealsHub — poker dunyosidagi eng yaxshi rakebek bitimlari',
+    heroText: 'Yuqori rakebek va shaffof shartlardagi eng yaxshi poker klublari va ittifoqlarini jamladik. Faqat ishonchli hamkorlar va yumshoq o‘yinlar — maksimal EV uchun.',
+    heroCta: 'Barcha poker bitimlari',
+    whyTitle: 'Nega o‘yinchilar PokerDealsHub’ni tanlaydi',
+    whyCard1Alt: 'Shield icon',
+    whyCard1Title: 'Tekshirilgan ittifoqlar',
+    whyCard1Text: 'Faqat real to‘lovlar va yaxshi obro‘ga ega klublarni joylaymiz.',
+    whyCard2Alt: 'Percent icon',
+    whyCard2Title: 'Halol rakebek',
+    whyCard2Text: 'Hammasi shaffof — qancha rakebek olayotganingizni doim bilasiz.',
+    whyCard3Alt: 'Chat icon',
+    whyCard3Title: 'Qo‘llab-quvvatlash 24/7',
+    whyCard3Text: 'Jamoamiz har kuni onlayn, tanaffussiz.',
+    whyCard4Alt: 'Fish icon',
+    whyCard4Title: 'Yumshoq o‘yinlar',
+    whyCard4Text: 'Ko‘proq rekreatsion o‘yinchilar va past raqobat.',
+    dealsTitle: 'Ommabop bitimlar',
+    dealsSubtitle: 'Yuqori rakebek, tasdiqlangan obro‘ va faol stollarga ega eng yaxshi klublar va ittifoqlar.',
+    dealsAllLink: 'Barcha bitimlar →',
+    dealPrevAria: 'Previous deal',
+    dealNextAria: 'Next deal',
+    dealPrevSr: 'Oldingi bitim',
+    dealNextSr: 'Keyingi bitim',
+    guidesTitle: 'Qo‘llanmalar va maslahatlar',
+    guidesSubtitle: 'Strategiyalar, ittifoq sharhlari va winrate oshirish uchun amaliy tavsiyalar.',
+    guidesAllLink: 'Barcha maqolalar →',
+    guidePrevAria: 'Previous guide',
+    guideNextAria: 'Next guide',
+    guidePrevSr: 'Oldingi maqola',
+    guideNextSr: 'Keyingi maqola',
+    ctaTitle: 'Bitimingizni qo‘shing',
+    ctaText: 'Poker klubingiz yoki ittifoqingiz bormi? O‘yinlar halol, shartlar shaffof va rakebek aniqmi? Bitimni PokerDealsHub’ga joylang — yangi o‘yinchilar olib kelamiz va klub o‘sishiga yordam beramiz.',
+    ctaButton: 'Bitim yuborish',
+  },
+};
+const s = STR[lang as keyof typeof STR] ?? STR.en;
 ---
 
 <BaseLayout
-  title="PokerDealsHub — the best poker clubs and rakeback offers"
-  description="Choose verified poker clubs and unions on PPPoker, ClubGG, and X-Poker. Get high rakeback and reliable payouts with PokerDealsHub."
+  title={s.metaTitle}
+  description={s.metaDescription}
   ogImage="/hero_texture.webp"
 >
 
  <!-- HERO -->
- 
+
 <section class="hero-bg relative flex flex-col md:flex-row items-center justify-between px-6 md:px-12 py-32 md:py-32 overflow-hidden bg-neutral-950">
   <div class="absolute inset-0 bg-black/60 z-0"></div>
 
   <div class="relative z-10 w-full max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8 md:gap-10">
     <div class="max-w-[450px] sm:max-w-[500px] md:max-w-2xl text-center md:text-left flex-1 mx-auto md:mx-0">
       <h1 class="text-3xl md:text-5xl font-bold text-gold mb-5 leading-tight">
-        PokerDealsHub — the best rakeback deals in the poker world
+        {s.heroTitle}
       </h1>
       <p class="text-neutral-300 text-base md:text-lg mb-10 leading-relaxed">
-        We’ve gathered the best poker clubs and unions with high rakeback and transparent terms. 
-        Only trusted platforms and soft games — everything to help you get the most out of poker.
+        {s.heroText}
       </p>
-      
+
       <a href=`/${lang}/deals/` class="inline-block px-7 py-3 bg-gold text-neutral-900 font-bold rounded-xl hover:bg-gold-light transition-all text-base md:text-lg">
-        All poker deals
+        {s.heroCta}
       </a>
     </div>
 
@@ -80,39 +199,39 @@ const t = useTranslations(lang);
   <section class="py-12 md:py-14 bg-neutral-950 border-t border-neutral-900">
     <div class="container mx-auto px-6 md:px-12 text-center">
       <h2 class="text-3xl md:text-4xl font-bold text-gold mb-8">
-        Why players choose PokerDealsHub
+        {s.whyTitle}
       </h2>
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-10 text-neutral-300 max-w-5xl mx-auto">
         <div class="flex flex-col items-center text-center">
-          <img src="/shield.webp" alt="Shield icon" class="w-14 h-14 mb-4 opacity-100" />
-          <h3 class="text-gold font-semibold mb-2">Verified unions</h3>
+          <img src="/shield.webp" alt={s.whyCard1Alt} class="w-14 h-14 mb-4 opacity-100" />
+          <h3 class="text-gold font-semibold mb-2">{s.whyCard1Title}</h3>
           <p class="max-w-sm mx-auto leading-relaxed">
-            We list only trusted clubs with real payouts and strong reputations.
+            {s.whyCard1Text}
           </p>
         </div>
 
         <div class="flex flex-col items-center text-center">
-          <img src="/percent.webp" alt="Percent icon" class="w-14 h-14 mb-4 opacity-90" />
-          <h3 class="text-gold font-semibold mb-2">Fair rakeback</h3>
+          <img src="/percent.webp" alt={s.whyCard2Alt} class="w-14 h-14 mb-4 opacity-90" />
+          <h3 class="text-gold font-semibold mb-2">{s.whyCard2Title}</h3>
           <p class="max-w-sm mx-auto leading-relaxed">
-            Everything is transparent — you always know exactly how much you earn from playing.
+            {s.whyCard2Text}
           </p>
         </div>
 
         <div class="flex flex-col items-center text-center">
-          <img src="/chat.webp" alt="Chat icon" class="w-14 h-14 mb-4 opacity-90" />
-          <h3 class="text-gold font-semibold mb-2">Support 24/7</h3>
+          <img src="/chat.webp" alt={s.whyCard3Alt} class="w-14 h-14 mb-4 opacity-90" />
+          <h3 class="text-gold font-semibold mb-2">{s.whyCard3Title}</h3>
           <p class="max-w-sm mx-auto leading-relaxed">
-            Our team is available every day, with no days off.
+            {s.whyCard3Text}
           </p>
         </div>
 
         <div class="flex flex-col items-center text-center">
-          <img src="/fish.webp" alt="Fish icon" class="w-14 h-14 mb-4 opacity-90" />
-          <h3 class="text-gold font-semibold mb-2">Soft games</h3>
+          <img src="/fish.webp" alt={s.whyCard4Alt} class="w-14 h-14 mb-4 opacity-90" />
+          <h3 class="text-gold font-semibold mb-2">{s.whyCard4Title}</h3>
           <p class="max-w-sm mx-auto leading-relaxed">
-            Only tables filled with recreational players.
+            {s.whyCard4Text}
           </p>
         </div>
       </div>
@@ -124,16 +243,16 @@ const t = useTranslations(lang);
   <div class="container mx-auto px-6 md:px-12">
     <div class="flex flex-col md:flex-row md:items-end md:justify-between mb-6">
       <div class="flex-1 min-w-0">
-        <h2 class="text-3xl md:text-4xl font-bold text-gold mb-2">Popular deals</h2>
+        <h2 class="text-3xl md:text-4xl font-bold text-gold mb-2">{s.dealsTitle}</h2>
         <p class="text-neutral-300 text-base max-w-2xl">
-          The best poker clubs and unions with a proven reputation, high rakeback, and active games.
+          {s.dealsSubtitle}
         </p>
       </div>
       <a
         href=`/${lang}/deals/`
         class="mt-4 md:mt-0 text-gold hover:text-gold-light text-sm md:text-base whitespace-nowrap flex-shrink-0"
       >
-        All deals →
+        {s.dealsAllLink}
       </a>
     </div>
 
@@ -146,12 +265,12 @@ const t = useTranslations(lang);
                drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
                hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
         onclick="document.getElementById('deal-viewport').scrollBy({ left: -document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
-        aria-label="Previous deal"
+        aria-label={s.dealPrevAria}
       >
         <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
           <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
         </svg>
-        <span class="sr-only">Previous deal</span>
+        <span class="sr-only">{s.dealPrevSr}</span>
       </button>
 
       <div
@@ -176,12 +295,12 @@ const t = useTranslations(lang);
                drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
                hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
         onclick="document.getElementById('deal-viewport').scrollBy({ left: document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
-        aria-label="Next deal"
+        aria-label={s.dealNextAria}
       >
         <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
           <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
         </svg>
-        <span class="sr-only">Next deal</span>
+        <span class="sr-only">{s.dealNextSr}</span>
       </button>
 
       <div class="hidden sm:flex md:hidden justify-center gap-6 mt-6">
@@ -193,7 +312,7 @@ const t = useTranslations(lang);
           <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
             <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
           </svg>
-          <span class="sr-only">Previous deal</span>
+          <span class="sr-only">{s.dealPrevSr}</span>
         </button>
         <button
           onclick="document.getElementById('deal-viewport').scrollBy({ left: document.getElementById('deal-viewport').offsetWidth, behavior: 'smooth' })"
@@ -203,7 +322,7 @@ const t = useTranslations(lang);
           <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
             <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
           </svg>
-          <span class="sr-only">Next deal</span>
+          <span class="sr-only">{s.dealNextSr}</span>
         </button>
       </div>
     </div>
@@ -221,13 +340,13 @@ const t = useTranslations(lang);
   <div class="container mx-auto px-6 md:px-12">
     <div class="flex flex-col md:flex-row md:items-end md:justify-between mb-6">
       <div>
-        <h2 class="text-3xl md:text-4xl font-bold text-gold mb-2">Guides and tips</h2>
+        <h2 class="text-3xl md:text-4xl font-bold text-gold mb-2">{s.guidesTitle}</h2>
         <p class="text-neutral-300 text-base max-w-2xl">
-          Strategies, union reviews, and practical advice for players who want to improve their win rate.
+          {s.guidesSubtitle}
         </p>
       </div>
       <a href=`/${lang}/guides/` class="mt-4 md:mt-0 text-gold hover:text-gold-light text-sm md:text-base whitespace-nowrap">
-        All articles →
+        {s.guidesAllLink}
       </a>
     </div>
 
@@ -238,12 +357,12 @@ const t = useTranslations(lang);
                w-12 h-12 rounded-full bg-neutral-800/80 text-gold border border-gold/40
                drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
                hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
-        aria-label="Previous guide"
+        aria-label={s.guidePrevAria}
       >
         <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
           <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
         </svg>
-        <span class="sr-only">Previous article</span>
+        <span class="sr-only">{s.guidePrevSr}</span>
       </button>
 
       <div
@@ -273,12 +392,12 @@ const t = useTranslations(lang);
                w-12 h-12 rounded-full bg-neutral-800/80 text-gold border border-gold/40
                drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]
                hover:drop-shadow-[0_0_10px_rgba(212,175,55,0.8)] hover:scale-110 transition-all z-10"
-        aria-label="Next guide"
+        aria-label={s.guideNextAria}
       >
         <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-6 h-6'>
           <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
         </svg>
-        <span class="sr-only">Next article</span>
+        <span class="sr-only">{s.guideNextSr}</span>
       </button>
     </div>
 
@@ -291,7 +410,7 @@ const t = useTranslations(lang);
         <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
           <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M15 19l-7-7 7-7' />
         </svg>
-        <span class="sr-only">Previous article</span>
+        <span class="sr-only">{s.guidePrevSr}</span>
       </button>
       <button
         id="guide-next-mobile"
@@ -301,7 +420,7 @@ const t = useTranslations(lang);
         <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor' class='w-5 h-5'>
           <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5l7 7-7 7' />
         </svg>
-        <span class="sr-only">Next article</span>
+        <span class="sr-only">{s.guideNextSr}</span>
       </button>
     </div>
   </div>
@@ -344,16 +463,15 @@ const t = useTranslations(lang);
 <!-- CTA -->
 <section class="py-12 md:py-14 bg-neutral-950 border-t border-neutral-900 text-center">
   <div class="container mx-auto px-6 md:px-12 max-w-3xl">
-    <h2 class="text-3xl md:text-4xl font-bold text-gold mb-5">Add your deal</h2>
+    <h2 class="text-3xl md:text-4xl font-bold text-gold mb-5">{s.ctaTitle}</h2>
     <p class="text-neutral-300 text-base md:text-lg mb-6 leading-relaxed">
-      Own a poker club or union? Games are fair, terms are transparent, and rakeback is clear?  
-      List your deal on PokerDealsHub — we’ll bring new players and help your club grow.
+      {s.ctaText}
     </p>
     <a
       href={`/${lang}/add-deal/`}
       class="inline-block px-8 py-3 bg-gold text-neutral-900 font-bold rounded-xl hover:bg-gold-light transition-all text-base md:text-lg"
     >
-      Submit a deal
+      {s.ctaButton}
     </a>
     <img
       src="/chip_flying.webp"
@@ -387,23 +505,23 @@ const t = useTranslations(lang);
   window.addEventListener('load', () => {
     const viewport = document.getElementById('deal-viewport');
     if (!viewport) return;
-  
+
     const slide = viewport.querySelector('.deal-slide');
     if (!slide) return;
-  
+
     const slideW = slide.getBoundingClientRect().width || viewport.clientWidth;
     const amount = Math.round(Math.min(slideW * 0.18, 140));
     let done = false;
-  
+
     function nudge() {
       if (done) return;
       done = true;
-  
+
       setTimeout(() => {
         const prevSnap = viewport.style.scrollSnapType || '';
         const computedSnap = getComputedStyle(viewport).scrollSnapType;
         const restoreSnap = () => { viewport.style.scrollSnapType = prevSnap || computedSnap; };
-  
+
         viewport.style.scrollSnapType = 'none';
         viewport.scrollBy({ left: amount, behavior: 'smooth' });
         setTimeout(() => {
@@ -412,7 +530,7 @@ const t = useTranslations(lang);
         }, 700);
       }, 500);
     }
-  
+
     const observer = new IntersectionObserver(
       entries => {
         for (const entry of entries) {
@@ -427,9 +545,9 @@ const t = useTranslations(lang);
         threshold: Array.from({ length: 101 }, (_, i) => i / 100),
       }
     );
-  
+
     observer.observe(slide);
   });
 </script>
-      
+
 </BaseLayout>
