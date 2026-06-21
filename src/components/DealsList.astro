@@ -28,6 +28,26 @@ const totalPages = Math.ceil(sorted.length / perPage);
 const start = currentPage * perPage;
 const end = start + perPage;
 const pageSlice = sorted.slice(start, end);
+
+// Localized strings for the load-more control.
+const UI: Record<string, { more: string; loading: string }> = {
+  ru: { more: "Показать ещё", loading: "Загрузка..." },
+  en: { more: "Show more", loading: "Loading..." },
+  uz: { more: "Ko'proq ko'rsatish", loading: "Yuklanmoqda..." },
+  uk: { more: "Показати ще", loading: "Завантаження..." },
+  it: { more: "Mostra altro", loading: "Caricamento..." },
+  de: { more: "Mehr anzeigen", loading: "Wird geladen..." },
+  es: { more: "Mostrar más", loading: "Cargando..." },
+  pt: { more: "Mostrar mais", loading: "Carregando..." },
+  fr: { more: "Afficher plus", loading: "Chargement..." },
+  tr: { more: "Daha fazla göster", loading: "Yükleniyor..." },
+  he: { more: "הצג עוד", loading: "טוען..." },
+  ar: { more: "عرض المزيد", loading: "جارٍ التحميل..." },
+  id: { more: "Tampilkan lainnya", loading: "Memuat..." },
+  vi: { more: "Hiển thị thêm", loading: "Đang tải..." },
+  fil: { more: "Magpakita pa", loading: "Naglo-load..." },
+};
+const ui = UI[lang] ?? UI.en;
 ---
 
 <div id="deals-section">
@@ -49,13 +69,13 @@ const pageSlice = sorted.slice(start, end);
         data-lang={lang}
         data-filter={filter}
       >
-        Показать ещё
+        {ui.more}
       </button>
     </div>
   )}
 
   <div id="deals-loader" class="flex justify-center py-4" style="display:none">
-    <span class="animate-pulse text-neutral-400">Загрузка...</span>
+    <span class="animate-pulse text-neutral-400">{ui.loading}</span>
   </div>
 </div>
 
