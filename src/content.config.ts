@@ -92,4 +92,23 @@ const guides = defineCollection({
   }),
 });
 
-export const collections = { deals, guides };
+// Static prose pages (about, terms, privacy, add-deal).
+const pageTranslation = z.object({
+  title: z.string().optional(),
+  description: z.string().optional(),
+  body: z.string().optional(),
+  srcHash: z.string().optional(),
+});
+
+const pages = defineCollection({
+  loader: glob({ pattern: "*.yaml", base: "./src/content/pages" }),
+  schema: z.object({
+    order: z.number().default(99),
+    title: z.string(),
+    description: z.string().default(""),
+    body: z.string(),
+    i18n: z.record(z.string(), pageTranslation).default({}),
+  }),
+});
+
+export const collections = { deals, guides, pages };

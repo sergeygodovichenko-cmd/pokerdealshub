@@ -223,3 +223,13 @@ export function localizeGuide(data: any, lang: string) {
     body: t.body ?? data.body,
   };
 }
+
+/** Resolve a static page entry's localized fields for a language (i18n -> ru fallback). */
+export function localizePage(data: any, lang: string) {
+  const t = (data.i18n && data.i18n[lang]) || {};
+  return {
+    title: t.title ?? data.title,
+    description: t.description ?? data.description ?? "",
+    body: t.body ?? data.body,
+  };
+}

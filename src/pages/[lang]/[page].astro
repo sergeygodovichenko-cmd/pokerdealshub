@@ -1,0 +1,46 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { getCollection } from "astro:content";
+import { locales } from "../../i18n/ui";
+import { useTranslations } from "../../i18n/utils";
+import { localizePage } from "../../utils/dealHelpers";
+
+export async function getStaticPaths() {
+  const pages = await getCollection("pages");
+  return locales.flatMap((lang) =>
+    pages.map((entry) => ({
+      params: { lang, page: entry.id },
+      props: { data: entry.data, slug: entry.id },
+    }))
+  );
+}
+
+const { data, slug } = Astro.props;
+const lang = Astro.params.lang as string;
+const t = useTranslations(lang as any);
+const p = localizePage(data, lang);
+
+const breadcrumbs = [
+  { name: t("breadcrumb.home"), url: `/${lang}/` },
+  { name: p.title, url: `/${lang}/${slug}/` },
+];
+---
+
+<BaseLayout title={`${p.title} — PokerDealsHub`} description={p.description} breadcrumbs={breadcrumbs}>
+  <div class="container mx-auto px-4 py-12">
+    <div class="max-w-4xl mx-auto">
+      <Breadcrumbs items={breadcrumbs} />
+      <h1 class="text-4xl md:text-5xl font-bold text-gold mb-8">{p.title}</h1>
+      <div
+        class="text-neutral-300 leading-relaxed
+               [&_h2]:text-2xl [&_h2]:font-semibold [&_h2]:text-gold [&_h2]:mt-8 [&_h2]:mb-4
+               [&_h3]:text-lg [&_h3]:font-semibold [&_h3]:text-neutral-100 [&_h3]:mt-6 [&_h3]:mb-2
+               [&_p]:mb-4 [&_ul]:mb-4 [&_li]:mb-2
+               [&_a]:text-gold [&_a:hover]:text-gold-light [&_a:hover]:underline
+               [&_strong]:text-neutral-100"
+        set:html={p.body}
+      />
+    </div>
+  </div>
+</BaseLayout>

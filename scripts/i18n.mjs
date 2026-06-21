@@ -21,6 +21,7 @@ const TARGETS = readLocales().filter((l) => l !== SOURCE);
 const COLLECTIONS = {
   deals: { dir: "src/content/deals", fields: ["name", "description", "geo", "bonus", "intro", "body"] },
   guides: { dir: "src/content/guides", fields: ["title", "description", "body"] },
+  pages: { dir: "src/content/pages", fields: ["title", "description", "body"] },
 };
 
 function readLocales() {

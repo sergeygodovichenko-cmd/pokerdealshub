@@ -1,6 +1,11 @@
 /** @type {import('tailwindcss').Config} */
 const config = {
-  content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
+  content: [
+    './src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}',
+    // Content collections hold HTML bodies (rendered via set:html); scan them so
+    // their Tailwind classes are not purged.
+    './src/content/**/*.{yaml,yml}',
+  ],
 
   // 🔒 предотвращает вырезание нужных классов при билде
   safelist: [
