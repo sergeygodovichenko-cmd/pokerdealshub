@@ -26,7 +26,7 @@ function localized(pathFor: (lang: string) => string, changefreq: string, priori
 
 export const GET: APIRoute = async () => {
   const lastmod = new Date().toISOString();
-  const deals = await getCollection("deals");
+  const deals = await getCollection("deals", ({ data }) => !data.hidden);
   const guides = await getCollection("guides", ({ data }) => !data.draft);
   const filters = Object.keys((filterContent as any).ru ?? {});
 

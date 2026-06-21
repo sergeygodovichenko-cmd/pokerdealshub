@@ -10,7 +10,7 @@ const LOCALIZED = ["name", "description", "geo", "bonus", "intro", "body"] as co
  * filterDeals) keep using `deal.name[lang]` etc. for every active locale.
  */
 export async function getDeals() {
-  const entries = await getCollection("deals");
+  const entries = (await getCollection("deals")).filter((e) => !e.data.hidden);
   const deals = entries.map((e) => {
     const data: any = e.data;
     const d: any = { slug: e.id, ...data };

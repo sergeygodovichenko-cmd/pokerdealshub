@@ -8,7 +8,7 @@ import { locales, type Locale } from "../../../i18n/ui";
 import { badgeLabels, tooltips, labl, localizeDeal } from "../../../utils/dealHelpers";
 
 export async function getStaticPaths() {
-  const deals = await getCollection("deals");
+  const deals = await getCollection("deals", ({ data }) => !data.hidden);
   return locales.flatMap((lang) =>
     deals.map((entry) => ({
       params: { lang, slug: entry.id },

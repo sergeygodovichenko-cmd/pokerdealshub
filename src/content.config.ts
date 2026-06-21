@@ -42,6 +42,10 @@ const deals = defineCollection({
     fixrb: z.string().optional(),
     affiliateLink: z.string().url(),
     featured: z.boolean().default(false),
+    // Set `hidden: true` to instantly + reversibly pull a deal from the whole site
+    // (listings, filters, homepage, related, sitemap, and its own page). Flip back to
+    // re-enable. See `npm run deal:hide`/`deal:show`.
+    hidden: z.boolean().default(false),
     order: z.number().default(999),
     badges: z.array(z.string()).default([]),
     ratings: z.object({

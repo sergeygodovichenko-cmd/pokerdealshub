@@ -10,7 +10,10 @@
     "astro": "astro",
     "validate": "astro check && astro build",
     "i18n:check": "node scripts/i18n.mjs check",
-    "i18n:stamp": "node scripts/i18n.mjs stamp"
+    "i18n:stamp": "node scripts/i18n.mjs stamp",
+    "deal:list": "node scripts/deal.mjs list",
+    "deal:hide": "node scripts/deal.mjs hide",
+    "deal:show": "node scripts/deal.mjs show"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.5",

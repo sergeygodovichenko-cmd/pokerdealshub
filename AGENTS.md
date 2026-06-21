@@ -51,6 +51,11 @@ being collapsed into `[lang]` too.
 **Edit existing content** — edit the ru source field, then re-translate that field for every
 locale (it is now stale; `i18n:check` will flag it). Stamp + check.
 
+**Hide / unhide a deal** (instant, reversible) — `npm run deal:hide <slug>` sets `hidden: true`
+in the deal's YAML, which removes it from every listing, filter, the homepage, related-deals,
+the sitemap, and stops building its detail page. `npm run deal:show <slug>` re-enables it.
+`npm run deal:list` shows status. Then build (commit + push to deploy).
+
 **Add a new locale** (towards top-8) — add it to `locales` in `src/i18n/ui.ts`, add its
 `ui` strings + `labl`/`badgeLabels`/`tooltips` entries in `dealHelpers.ts`, translate every
 collection entry into it, then stamp + check + build.
@@ -60,6 +65,7 @@ collection entry into it, then stamp + check + build.
 - `npm run build` — static build to `dist/` (also validates collection schemas).
 - `npm run i18n:check` — report missing/stale translations (CI gate).
 - `npm run i18n:stamp` — record current ru hash on complete locale blocks (run after translating).
+- `npm run deal:list | deal:hide <slug> | deal:show <slug>` — toggle a deal's site-wide visibility.
 - `npm run validate` — `astro check` (types) + build.
 - `npm run dev` / `npm run preview`.
 
