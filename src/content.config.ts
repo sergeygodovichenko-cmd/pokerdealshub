@@ -48,6 +48,10 @@ const deals = defineCollection({
     hidden: z.boolean().default(false),
     order: z.number().default(999),
     badges: z.array(z.string()).default([]),
+    // Stable region keys for the geo filters (NOT matched on localized `geo` text).
+    regions: z
+      .array(z.enum(["europe", "asia", "cis", "australia", "america", "latam"]))
+      .default([]),
     ratings: z.object({
       mtt: z.number(),
       cash: z.number(),

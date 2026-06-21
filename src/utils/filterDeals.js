@@ -4,9 +4,6 @@ export function normalize(str = "") {
   }
   
   export function filterDeals(deals, filter, lang = "en") {
-    const getGeoString = (geo) =>
-      typeof geo === "string" ? geo : geo?.[lang] || "";
-  
     const map = {
       centralized: (d) => normalize(d.type) === "centralized",
       decentralized: (d) => normalize(d.type) === "decentralized",
@@ -24,15 +21,12 @@ export function normalize(str = "") {
       blacksea: (d) => normalize(d.union) === "blacksea",
       pppfish: (d) => normalize(d.union) === "pppfish",
       rake2high: (d) => normalize(d.union) === "rake2high",
-      europe: (d) => getGeoString(d.geo).toLowerCase().includes("europe"),
-      asia: (d) => getGeoString(d.geo).toLowerCase().includes("asia"),
-      cis: (d) => getGeoString(d.geo).toLowerCase().includes("cis"),
-      australia: (d) => getGeoString(d.geo).toLowerCase().includes("australia"),
-      america: (d) => {
-        const geo = getGeoString(d.geo).toLowerCase();
-        return geo.includes("america") || geo.includes("usa") || geo.includes("сша");
-      },
-      latam: (d) => getGeoString(d.geo).toLowerCase().includes("latin"),
+      europe: (d) => d.regions?.includes("europe"),
+      asia: (d) => d.regions?.includes("asia"),
+      cis: (d) => d.regions?.includes("cis"),
+      australia: (d) => d.regions?.includes("australia"),
+      america: (d) => d.regions?.includes("america"),
+      latam: (d) => d.regions?.includes("latam"),
       mtt: (d) => d.ratings?.mtt === 5,
       nlh: (d) => d.ratings?.nlh === 5,
       plo: (d) => d.ratings?.plo === 5,

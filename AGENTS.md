@@ -24,7 +24,10 @@ translations live under `i18n.<locale>`. Render reads `i18n[locale].field` with 
 
 - **Deals** — one YAML per deal in `src/content/deals/<slug>.yaml`.
   Non-localized: `app, club, union, logo, logoimage, logoalt, format, type, rakeback,
-  fixrb, affiliateLink, featured, order, badges[], ratings{mtt,cash,plo,nlh}, chipPrice?`.
+  fixrb, affiliateLink, featured, hidden, order, badges[], ratings{mtt,cash,plo,nlh}, chipPrice?`,
+  and `regions[]` — stable geo-filter keys (subset of europe/asia/cis/australia/america/latam).
+  **Always set `regions`** so the deal appears under the geography filters (these match `regions`,
+  NOT the localized `geo` text).
   Localized (ru source + `i18n`): `name, description, geo, bonus, intro?, body?` (body = HTML).
   `affiliateLink` is the real referral URL (telegram for manager-join deals).
 - **Guides** — one YAML per guide in `src/content/guides/<slug>.yaml`.
