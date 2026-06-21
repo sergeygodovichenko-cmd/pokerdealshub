@@ -11,7 +11,7 @@ const alternateLanguages = getAlternateLanguages(Astro.url.pathname, currentLang
     id="lang-switcher-button"
     style="color:#fafafa;"
     class="flex items-center gap-2 text-neutral-300 hover:text-gold transition-colors bg-transparent border-0 outline-none appearance-none"
-    aria-label="Change language"
+    aria-label={`${currentLang.toUpperCase()} — change language`}
   >
     <span class="text-sm uppercase">{currentLang}</span>
     <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

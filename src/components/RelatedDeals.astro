@@ -120,7 +120,7 @@ const rakebackto ={
                 href={`/${lang}/deal/${deal.slug}/`}
                 class="w-full px-6 py-3 bg-gold/10 text-gold border border-gold/30 rounded-lg font-semibold text-center hover:bg-gold/20 transition-all"
               >
-                {buttonText[lang as keyof typeof buttonText]}
+                {buttonText[lang as keyof typeof buttonText]}<span class="sr-only">: {deal.name[lang]}</span>
               </a>
             </div>
           </article>

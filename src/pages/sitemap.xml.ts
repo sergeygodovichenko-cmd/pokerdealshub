@@ -1,6 +1,6 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
-import filterContent from "../data/filterContent.json";
+import { FILTERS } from "../config/filters.js";
 import { locales } from "../i18n/ui";
 
 const SITE_URL = "https://pokerdealshub.com";
@@ -20,7 +20,7 @@ interface SitemapURL {
 
 // Build a localized URL set for a path template, with hreflang alternates.
 function localized(pathFor: (lang: string) => string, changefreq: string, priority: number): SitemapURL[] {
-  const alternates = locales.map((lang) => ({ lang: HREFLANG[lang], href: `${SITE_URL}${pathFor(lang)}` }));
+  const alternates = locales.map((lang) => ({ lang: HREFLANG[lang] ?? lang, href: `${SITE_URL}${pathFor(lang)}` }));
   return locales.map((lang) => ({ loc: `${SITE_URL}${pathFor(lang)}`, changefreq, priority, alternates }));
 }
 
@@ -28,7 +28,9 @@ export const GET: APIRoute = async () => {
   const lastmod = new Date().toISOString();
   const deals = await getCollection("deals", ({ data }) => !data.hidden);
   const guides = await getCollection("guides", ({ data }) => !data.draft);
-  const filters = Object.keys((filterContent as any).ru ?? {});
+  // Use the actual generated filter routes (FILTERS), not filterContent keys —
+  // the latter included "all"/"cash" (not built) and missed coinpoker/888poker/rake2high.
+  const filters = FILTERS;
 
   const urls: SitemapURL[] = [
     ...localized((l) => `/${l}/`, "daily", 1.0),

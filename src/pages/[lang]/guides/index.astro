@@ -147,7 +147,7 @@ const itemListSchema = {
               <span class={`text-xs px-3 py-1 rounded-full ${guide.category === "guide" ? "bg-blue-500/20 text-blue-400" : "bg-green-500/20 text-green-400"}`}>
                 {(catLabel[lang] ?? catLabel.en)[guide.category as "guide" | "review"]}
               </span>
-              <time class="text-sm text-neutral-500">
+              <time class="text-sm text-neutral-400">
                 {new Date(guide.date).toLocaleDateString(dateLocale[lang] ?? "en-US", { year: "numeric", month: "long", day: "numeric" })}
               </time>
             </div>
@@ -156,7 +156,7 @@ const itemListSchema = {
             </h2>
             <p class="text-neutral-400 mb-4">{guide.description}</p>
             <a href={`/${lang}/guides/${guide.slug}/`} class="inline-flex items-center text-gold hover:text-gold-light transition-colors text-sm font-medium">
-              {readMore[lang] ?? readMore.en}
+              {readMore[lang] ?? readMore.en}<span class="sr-only">: {guide.title}</span>
               <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
             </a>
           </article>

@@ -34,8 +34,10 @@
       }
   
       // === Meta Pixel ===
-      const fbLoaded = await safeLoad('https://connect.facebook.net/en_US/fbevents.js');
-      if (fbLoaded) {
+      // Define the fbq stub BEFORE the external fbevents.js loads — the stub itself
+      // injects the script. (Previously fbevents.js was loaded first, throwing
+      // "fbq is not defined" in the console on every page.)
+      try {
         !(function(f,b,e,v,n,t,s){
           if(f.fbq) return;
           n=f.fbq=function(){n.callMethod?
@@ -46,12 +48,12 @@
           t.src=v; s=b.getElementsByTagName(e)[0];
           s.parentNode.insertBefore(t,s);
         })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-  
-        fbq('init', '735095512250922');
+
+        fbq('init', PIXEL_ID);
         fbq('track', 'PageView');
         console.log('%c✅ Meta Pixel инициализирован','color:deepskyblue;font-weight:bold');
-      } else {
-        console.warn('⚠️ Meta Pixel не загрузился (возможно, блокировка)');
+      } catch (e) {
+        console.warn('⚠️ Meta Pixel init failed', e);
       }
   
       // === Лид-трекинг ===

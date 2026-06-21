@@ -5,5 +5,5 @@ export const FILTERS = [
   "centralized", "decentralized",
   "nuts-primetime", "massiv-union", "eldorado", "paradise", "blacksea", "pppfish", "rake2high",
   "europe", "asia", "cis", "australia", "america", "latam",
-  "mtt", "nlh", "plo",
+  "mtt", "nlh", "plo", "cash",
 ];

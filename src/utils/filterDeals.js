@@ -30,9 +30,12 @@ export function normalize(str = "") {
       mtt: (d) => d.ratings?.mtt === 5,
       nlh: (d) => d.ratings?.nlh === 5,
       plo: (d) => d.ratings?.plo === 5,
+      cash: (d) => d.ratings?.cash === 5,
     };
-  
-    const fn = map[normalize(filter)];
+
+    // Look up by the raw slug (lowercased). NOT normalize(), which strips
+    // hyphens and broke multi-word keys like "nuts-primetime"/"massiv-union".
+    const fn = map[String(filter).toLowerCase()];
     return fn ? deals.filter(fn) : [];
   }
   
