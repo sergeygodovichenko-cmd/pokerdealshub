@@ -48,7 +48,7 @@ body: |-
 
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://t.me/pokerdealshub"
+                href="https://t.me/pdh_support_bot"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -167,7 +167,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -235,7 +235,7 @@ i18n:
                 and other platforms. If you're looking for a reliable platform to promote your union or club, contact us.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   uz:
     title: Oʻz bitimingizni saytga qoʻshing
     description: Oʻz poker bitimingizni PokerDealsHub’da joylashtiring. Klublar, ittifoqlar va agentlik tarmoqlari uchun platforma
@@ -286,7 +286,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -354,7 +354,7 @@ i18n:
                 va boshqa platformalardagi klublar bilan ishlaymiz. Agar siz oʻz ittifoqingiz yoki klubingizni ilgari surish uchun ishonchli maydon qidirsangiz, biz bilan bogʻlaning.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   uk:
     title: Додати вашу угоду на сайт
     description: Розмістіть вашу покерну угоду на PokerDealsHub. Платформа для клубів, союзів та агентських мереж
@@ -405,7 +405,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -472,7 +472,7 @@ i18n:
                 та інших платформах. Якщо ви шукаєте надійний майданчик для просування свого союзу чи клубу, зв’яжіться з нами.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   it:
     title: Aggiungi il tuo deal al sito
     description: Pubblica il tuo deal di poker su PokerDealsHub. Piattaforma per club, union e reti di agenti
@@ -523,7 +523,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -590,7 +590,7 @@ i18n:
                 e altre piattaforme. Se cerchi una piattaforma affidabile per promuovere la tua union o il tuo club, contattaci.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   de:
     title: Ihren Deal zur Seite hinzufügen
     description: Listen Sie Ihren Poker-Deal auf PokerDealsHub. Plattform für Clubs, Unions und Agentennetzwerke
@@ -641,7 +641,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -708,7 +708,7 @@ i18n:
                 und weiteren Plattformen. Wenn Sie eine zuverlässige Plattform suchen, um Ihre Union oder Ihren Club zu bewerben, kontaktieren Sie uns.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   es:
     title: Añade tu deal al sitio
     description: Publica tu deal de póker en PokerDealsHub. La plataforma para clubes, uniones y redes de agentes
@@ -759,7 +759,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -827,7 +827,7 @@ i18n:
                 y otras plataformas. Si buscas una plataforma fiable para promocionar tu unión o tu club, contáctanos.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   pt:
     title: Adicione seu oferta ao site
     description: Publique seu oferta de poker no PokerDealsHub. Plataforma para clubes, uniões e redes de agentes
@@ -878,7 +878,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -946,7 +946,7 @@ i18n:
                 e outras plataformas. Se você procura uma plataforma confiável para divulgar sua união ou seu clube, entre em contato.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   fr:
     title: Ajoutez votre deal au site
     description: Publiez votre deal de poker sur PokerDealsHub. Plateforme pour clubs, unions et réseaux d'agents
@@ -997,7 +997,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -1065,7 +1065,7 @@ i18n:
                 et d'autres plateformes. Si vous cherchez une plateforme fiable pour promouvoir votre union ou votre club, contactez-nous.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   tr:
     title: Anlaşmanızı siteye ekleyin
     description: Poker anlaşmanızı PokerDealsHub'da yayınlayın. Kulüpler, birlikler ve ajans ağları için platform
@@ -1116,7 +1116,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -1184,7 +1184,7 @@ i18n:
       tanıtmak için güvenilir bir platform arıyorsanız, bizimle iletişime geçin.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   he:
     title: הוסיפו את הדיל שלכם לאתר
     description: פרסמו את דיל הפוקר שלכם ב-PokerDealsHub. הפלטפורמה למועדונים, איחודים ורשתות סוכנים
@@ -1235,7 +1235,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -1303,7 +1303,7 @@ i18n:
                 ובפלטפורמות נוספות. אם אתם מחפשים פלטפורמה אמינה לקידום האיחוד או המועדון שלכם, צרו איתנו קשר.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   ar:
     title: أضف صفقتك إلى الموقع
     description: انشر صفقة البوكر الخاصة بك على PokerDealsHub. منصة للأندية والاتحادات وشبكات الوكلاء
@@ -1354,7 +1354,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -1421,7 +1421,7 @@ i18n:
                 ومنصات أخرى. إذا كنت تبحث عن منصة موثوقة للترويج لاتحادك أو ناديك، فتواصل معنا.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   id:
     title: Tambahkan deal Anda ke situs kami
     description: Pasang deal poker Anda di PokerDealsHub. Platform untuk klub, union, dan jaringan agen
@@ -1472,7 +1472,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -1539,7 +1539,7 @@ i18n:
                 dan platform lainnya. Jika Anda mencari platform yang andal untuk mempromosikan union atau klub Anda, hubungi kami.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   vi:
     title: Thêm kèo của bạn vào trang web
     description: Đăng kèo poker của bạn lên PokerDealsHub. Nền tảng dành cho các câu lạc bộ, liên minh và mạng lưới đại lý
@@ -1590,7 +1590,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -1658,7 +1658,7 @@ i18n:
                 và các nền tảng khác. Nếu bạn đang tìm một nền tảng đáng tin cậy để quảng bá liên minh hoặc câu lạc bộ của mình, hãy liên hệ với chúng tôi.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b
   fil:
     title: Idagdag ang iyong deal sa site
     description: I-post ang iyong poker deal sa PokerDealsHub. Platform para sa mga club, union, at agent network
@@ -1709,7 +1709,7 @@ i18n:
 
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://t.me/pokerdealshub"
+                    href="https://t.me/pdh_support_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="flex items-center justify-center gap-3 px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
@@ -1776,4 +1776,4 @@ i18n:
                 at iba pang platform. Kung naghahanap ka ng maaasahang platform para i-promote ang iyong union o club, makipag-ugnayan sa amin.
               </p>
             </div>
-    srcHash: 8a47b36574b3
+    srcHash: 7cdb7460922b

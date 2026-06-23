@@ -81,7 +81,7 @@ body: |-
             </p>
             <p class="text-neutral-300">
               Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-              Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+              Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
             </p>
           </div>
         </div>
@@ -169,11 +169,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   uz:
     title: Maxfiylik siyosati
     description: "PokerDealsHub maxfiylik siyosati: maʼlumotlardan foydalanish, cookie-fayllar va axborotni himoya qilish"
@@ -255,11 +255,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   uk:
     title: Політика конфіденційності
     description: "Політика конфіденційності PokerDealsHub: використання даних, cookies та захист інформації"
@@ -339,11 +339,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   it:
     title: Informativa sulla privacy
     description: "Informativa sulla privacy di PokerDealsHub: uso dei dati, cookie e protezione delle informazioni"
@@ -423,11 +423,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   de:
     title: Datenschutzerklärung
     description: "Datenschutzerklärung von PokerDealsHub: Datennutzung, Cookies und Schutz von Informationen"
@@ -507,11 +507,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   es:
     title: Política de privacidad
     description: "Política de privacidad de PokerDealsHub: uso de datos, cookies y protección de la información"
@@ -591,11 +591,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   pt:
     title: Política de Privacidade
     description: "Política de Privacidade da PokerDealsHub: uso de dados, cookies e proteção das informações"
@@ -675,11 +675,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   fr:
     title: Politique de confidentialité
     description: "Politique de confidentialité de PokerDealsHub : utilisation des données, cookies et protection des informations"
@@ -759,11 +759,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email : <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram : <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram : <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   tr:
     title: Gizlilik Politikası
     description: "PokerDealsHub Gizlilik Politikası: verilerin kullanımı, çerezler ve bilgilerin korunması"
@@ -843,11 +843,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   he:
     title: מדיניות פרטיות
     description: "מדיניות הפרטיות של PokerDealsHub: שימוש בנתונים, עוגיות (cookies) והגנה על מידע"
@@ -931,11 +931,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   דוא"ל: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   ar:
     title: سياسة الخصوصية
     description: "سياسة الخصوصية لـ PokerDealsHub: استخدام البيانات وملفات تعريف الارتباط وحماية المعلومات"
@@ -1015,11 +1015,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   id:
     title: Kebijakan Privasi
     description: "Kebijakan privasi PokerDealsHub: penggunaan data, cookie, dan perlindungan informasi"
@@ -1099,11 +1099,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   vi:
     title: Chính sách bảo mật
     description: "Chính sách bảo mật của PokerDealsHub: việc sử dụng dữ liệu, cookie và bảo vệ thông tin"
@@ -1183,11 +1183,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11
   fil:
     title: Patakaran sa Privacy
     description: "Patakaran sa privacy ng PokerDealsHub: paggamit ng data, cookies, at proteksyon ng impormasyon"
@@ -1267,8 +1267,8 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: 6c49e2fe1657
+    srcHash: d5eb4d638c11

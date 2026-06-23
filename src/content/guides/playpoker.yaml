@@ -84,8 +84,8 @@ body: >-
   гайде про <a href="/ru/guides/rake-and-rakeback-in-poker/">рейк и рейкбэк</a>.</p>
 
 
-  <p>Остались вопросы? <a href="https://t.me/pokerdealshub">Напишите менеджеру PokerDealsHub</a> — проведём от установки
-  до первой раздачи.</p>
+  <p>Остались вопросы? <a href="https://t.me/pdh_support_bot">Напишите менеджеру PokerDealsHub</a> — проведём от
+  установки до первой раздачи.</p>
 i18n:
   en:
     title: "Mobile Poker With Rakeback: How to Start Playing on PPPoker, ClubGG, X-Poker and PokerBros"
@@ -175,9 +175,9 @@ i18n:
       href="/en/guides/rake-and-rakeback-in-poker/">rake and rakeback</a>.</p>
 
 
-      <p>Still have questions? <a href="https://t.me/pokerdealshub">Message a PokerDealsHub manager</a> — we'll take you
-      from install to your first hand.</p>
-    srcHash: 214416415d3c
+      <p>Still have questions? <a href="https://t.me/pdh_support_bot">Message a PokerDealsHub manager</a> — we'll take
+      you from install to your first hand.</p>
+    srcHash: 210e925a5e1b
   uz:
     title: "Rakebekli mobil poker: PPPoker, ClubGG, X-Poker va PokerBros'da o'ynashni qanday boshlash kerak"
     description: >-
@@ -266,9 +266,9 @@ i18n:
       va rakebek</a> haqidagi qo'llanmada.</p>
 
 
-      <p>Savollaringiz qoldimi? <a href="https://t.me/pokerdealshub">PokerDealsHub menejeriga yozing</a> — o'rnatishdan
-      birinchi qo'lgacha yo'l ko'rsatamiz.</p>
-    srcHash: 214416415d3c
+      <p>Savollaringiz qoldimi? <a href="https://t.me/pdh_support_bot">PokerDealsHub menejeriga yozing</a> —
+      o'rnatishdan birinchi qo'lgacha yo'l ko'rsatamiz.</p>
+    srcHash: 210e925a5e1b
   it:
     title: "Poker mobile con rakeback: come iniziare a giocare su PPPoker, ClubGG, X-Poker e PokerBros"
     description: >-
@@ -357,9 +357,9 @@ i18n:
       href="/it/guides/rake-and-rakeback-in-poker/">rake e rakeback</a>.</p>
 
 
-      <p>Hai ancora domande? <a href="https://t.me/pokerdealshub">Scrivi a un manager di PokerDealsHub</a> — ti
+      <p>Hai ancora domande? <a href="https://t.me/pdh_support_bot">Scrivi a un manager di PokerDealsHub</a> — ti
       accompagniamo dall'installazione alla prima mano.</p>
-    srcHash: 214416415d3c
+    srcHash: 210e925a5e1b
   de:
     title: "Mobiles Poker mit Rakeback: So startest du auf PPPoker, ClubGG, X-Poker und PokerBros"
     description: >-
@@ -449,9 +449,9 @@ i18n:
       href="/de/guides/rake-and-rakeback-in-poker/">Rake und Rakeback</a>.</p>
 
 
-      <p>Noch Fragen? <a href="https://t.me/pokerdealshub">Schreib einem PokerDealsHub-Manager</a> — wir begleiten dich
-      von der Installation bis zur ersten Hand.</p>
-    srcHash: 214416415d3c
+      <p>Noch Fragen? <a href="https://t.me/pdh_support_bot">Schreib einem PokerDealsHub-Manager</a> — wir begleiten
+      dich von der Installation bis zur ersten Hand.</p>
+    srcHash: 210e925a5e1b
   es:
     title: "Póker móvil con rakeback: cómo empezar a jugar en PPPoker, ClubGG, X-Poker y PokerBros"
     description: >-
@@ -540,9 +540,9 @@ i18n:
       href="/es/guides/rake-and-rakeback-in-poker/">rake y rakeback</a>.</p>
 
 
-      <p>¿Te quedan dudas? <a href="https://t.me/pokerdealshub">Escribe a un mánager de PokerDealsHub</a> — te
+      <p>¿Te quedan dudas? <a href="https://t.me/pdh_support_bot">Escribe a un mánager de PokerDealsHub</a> — te
       acompañamos desde la instalación hasta tu primera mano.</p>
-    srcHash: 214416415d3c
+    srcHash: 210e925a5e1b
   pt:
     title: "Pôquer mobile com rakeback: como começar a jogar no PPPoker, ClubGG, X-Poker e PokerBros"
     description: >-
@@ -631,9 +631,9 @@ i18n:
       href="/pt/guides/rake-and-rakeback-in-poker/">rake e rakeback</a>.</p>
 
 
-      <p>Ficou com dúvidas? <a href="https://t.me/pokerdealshub">Fale com um gerente da PokerDealsHub</a> — acompanhamos
-      você da instalação à primeira mão.</p>
-    srcHash: 214416415d3c
+      <p>Ficou com dúvidas? <a href="https://t.me/pdh_support_bot">Fale com um gerente da PokerDealsHub</a> —
+      acompanhamos você da instalação à primeira mão.</p>
+    srcHash: 210e925a5e1b
   uk:
     title: "Мобільний покер із рейкбеком: як почати грати в PPPoker, ClubGG, X-Poker і PokerBros"
     description: >-
@@ -719,9 +719,9 @@ i18n:
       докладніше в гайді про <a href="/uk/guides/rake-and-rakeback-in-poker/">рейк і рейкбек</a>.</p>
 
 
-      <p>Залишилися запитання? <a href="https://t.me/pokerdealshub">Напишіть менеджеру PokerDealsHub</a> — проведемо від
-      встановлення до першої роздачі.</p>
-    srcHash: 214416415d3c
+      <p>Залишилися запитання? <a href="https://t.me/pdh_support_bot">Напишіть менеджеру PokerDealsHub</a> — проведемо
+      від встановлення до першої роздачі.</p>
+    srcHash: 210e925a5e1b
   fr:
     title: "Poker mobile avec rakeback : comment débuter sur PPPoker, ClubGG, X-Poker et PokerBros"
     description: >-
@@ -810,9 +810,9 @@ i18n:
       le guide sur le <a href="/fr/guides/rake-and-rakeback-in-poker/">rake et le rakeback</a>.</p>
 
 
-      <p>Encore des questions ? <a href="https://t.me/pokerdealshub">Écrivez à un manager PokerDealsHub</a> — on vous
+      <p>Encore des questions ? <a href="https://t.me/pdh_support_bot">Écrivez à un manager PokerDealsHub</a> — on vous
       accompagne de l'installation à votre première main.</p>
-    srcHash: 214416415d3c
+    srcHash: 210e925a5e1b
   tr:
     title: "Rakeback'li mobil poker: PPPoker, ClubGG, X-Poker ve PokerBros'ta nasıl başlanır"
     description: >-
@@ -901,9 +901,9 @@ i18n:
       href="/tr/guides/rake-and-rakeback-in-poker/">rake ve rakeback</a> rehberine göz atın.</p>
 
 
-      <p>Hâlâ sorularınız mı var? <a href="https://t.me/pokerdealshub">PokerDealsHub menajerine yazın</a> — kurulumdan
+      <p>Hâlâ sorularınız mı var? <a href="https://t.me/pdh_support_bot">PokerDealsHub menajerine yazın</a> — kurulumdan
       ilk elinize kadar size eşlik edelim.</p>
-    srcHash: 214416415d3c
+    srcHash: 210e925a5e1b
   he:
     title: "פוקר נייד עם רייקבק: איך מתחילים לשחק ב-PPPoker, ClubGG, X-Poker ו-PokerBros"
     description: >-
@@ -988,9 +988,9 @@ i18n:
       href="/he/guides/rake-and-rakeback-in-poker/">רייק ורייקבק</a>.</p>
 
 
-      <p>נשארו שאלות? <a href="https://t.me/pokerdealshub">כתבו למנהל של PokerDealsHub</a> — נלווה אתכם מההתקנה ועד היד
-      הראשונה.</p>
-    srcHash: 214416415d3c
+      <p>נשארו שאלות? <a href="https://t.me/pdh_support_bot">כתבו למנהל של PokerDealsHub</a> — נלווה אתכם מההתקנה ועד
+      היד הראשונה.</p>
+    srcHash: 210e925a5e1b
   ar:
     title: "البوكر عبر الجوال مع ريك باك: كيف تبدأ اللعب على PPPoker وClubGG وX-Poker وPokerBros"
     description: >-
@@ -1076,9 +1076,9 @@ i18n:
       المدى الطويل — مزيد من التفاصيل في دليل <a href="/ar/guides/rake-and-rakeback-in-poker/">الريك والريك باك</a>.</p>
 
 
-      <p>ما زالت لديك أسئلة؟ <a href="https://t.me/pokerdealshub">راسل مدير PokerDealsHub</a> — سنرافقك من التثبيت حتى
+      <p>ما زالت لديك أسئلة؟ <a href="https://t.me/pdh_support_bot">راسل مدير PokerDealsHub</a> — سنرافقك من التثبيت حتى
       أول توزيعة.</p>
-    srcHash: 214416415d3c
+    srcHash: 210e925a5e1b
   id:
     title: "Poker mobile dengan rakeback: cara mulai bermain di PPPoker, ClubGG, X-Poker, dan PokerBros"
     description: >-
@@ -1167,9 +1167,9 @@ i18n:
       href="/id/guides/rake-and-rakeback-in-poker/">rake dan rakeback</a>.</p>
 
 
-      <p>Masih ada pertanyaan? <a href="https://t.me/pokerdealshub">Hubungi manajer PokerDealsHub</a> — kami dampingi
+      <p>Masih ada pertanyaan? <a href="https://t.me/pdh_support_bot">Hubungi manajer PokerDealsHub</a> — kami dampingi
       dari instalasi hingga hand pertama Anda.</p>
-    srcHash: 214416415d3c
+    srcHash: 210e925a5e1b
   vi:
     title: "Poker di động kèm rakeback: cách bắt đầu chơi trên PPPoker, ClubGG, X-Poker và PokerBros"
     description: >-
@@ -1257,9 +1257,9 @@ i18n:
       thêm trong hướng dẫn về <a href="/vi/guides/rake-and-rakeback-in-poker/">rake và rakeback</a>.</p>
 
 
-      <p>Vẫn còn thắc mắc? <a href="https://t.me/pokerdealshub">Nhắn cho quản lý PokerDealsHub</a> — chúng tôi đồng hành
-      từ lúc cài đặt đến ván bài đầu tiên của bạn.</p>
-    srcHash: 214416415d3c
+      <p>Vẫn còn thắc mắc? <a href="https://t.me/pdh_support_bot">Nhắn cho quản lý PokerDealsHub</a> — chúng tôi đồng
+      hành từ lúc cài đặt đến ván bài đầu tiên của bạn.</p>
+    srcHash: 210e925a5e1b
   fil:
     title: "Mobile poker na may rakeback: paano magsimulang maglaro sa PPPoker, ClubGG, X-Poker, at PokerBros"
     description: >-
@@ -1348,6 +1348,6 @@ i18n:
       tungkol sa <a href="/fil/guides/rake-and-rakeback-in-poker/">rake at rakeback</a>.</p>
 
 
-      <p>May tanong pa? <a href="https://t.me/pokerdealshub">Mag-message sa manager ng PokerDealsHub</a> — gagabayan ka
-      namin mula sa pag-install hanggang sa unang hand mo.</p>
-    srcHash: 214416415d3c
+      <p>May tanong pa? <a href="https://t.me/pdh_support_bot">Mag-message sa manager ng PokerDealsHub</a> — gagabayan
+      ka namin mula sa pag-install hanggang sa unang hand mo.</p>
+    srcHash: 210e925a5e1b

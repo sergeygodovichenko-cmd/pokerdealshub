@@ -41,7 +41,7 @@ body: |-
 
           <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <a
-              href="https://t.me/pokerdealshub"
+              href="https://t.me/pdh_support_bot"
               target="_blank"
               rel="noopener noreferrer"
               class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -51,7 +51,7 @@ body: |-
               </svg>
               <div>
                 <p class="font-semibold text-neutral-100">Telegram</p>
-                <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                <p class="text-sm text-neutral-400">@pdh_support_bot</p>
               </div>
             </a>
 
@@ -149,7 +149,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -159,7 +159,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -213,7 +213,7 @@ i18n:
       >Pick your poker deal</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   uz:
     title: PokerDealsHub loyihasi haqida
     description: PokerDealsHub — markazlashgan va markazlashmagan takliflarni birlashtiruvchi mustaqil poker bitimlari vitrinasi
@@ -257,7 +257,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -267,7 +267,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -319,7 +319,7 @@ i18n:
       >Oʻz poker bitimingizni tanlang</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   uk:
     title: Про проєкт PokerDealsHub
     description: PokerDealsHub — незалежна вітрина покерних угод, що поєднує централізовані та децентралізовані пропозиції
@@ -363,7 +363,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -373,7 +373,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -425,7 +425,7 @@ i18n:
       >Обери свою покерну угоду</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   it:
     title: Il progetto PokerDealsHub
     description: PokerDealsHub — una vetrina indipendente di deal di poker che riunisce offerte centralizzate e decentralizzate
@@ -469,7 +469,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -479,7 +479,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -531,7 +531,7 @@ i18n:
       >Scegli il tuo deal di poker</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   de:
     title: Über das Projekt PokerDealsHub
     description: >-
@@ -577,7 +577,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -587,7 +587,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -639,7 +639,7 @@ i18n:
       >Wähle deinen Poker-Deal</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   es:
     title: Sobre el proyecto PokerDealsHub
     description: "PokerDealsHub: un escaparate independiente de deals de póker que reúne ofertas centralizadas y descentralizadas"
@@ -683,7 +683,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -693,7 +693,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -745,7 +745,7 @@ i18n:
           >Elige tu deal de póker</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   pt:
     title: Sobre o projeto PokerDealsHub
     description: "PokerDealsHub: uma vitrine independente de ofertas de poker que reúne ofertas centralizadas e descentralizadas"
@@ -789,7 +789,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -799,7 +799,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -851,7 +851,7 @@ i18n:
           >Escolha o seu oferta de poker</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   fr:
     title: À propos du projet PokerDealsHub
     description: "PokerDealsHub : une vitrine indépendante de deals de poker qui réunit les offres centralisées et décentralisées"
@@ -895,7 +895,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -905,7 +905,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -957,7 +957,7 @@ i18n:
           >Choisis ton deal de poker</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   tr:
     title: PokerDealsHub projesi hakkında
     description: PokerDealsHub — merkezi ve merkeziyetsiz teklifleri bir araya getiren bağımsız bir poker anlaşmaları vitrini
@@ -1001,7 +1001,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -1011,7 +1011,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -1063,7 +1063,7 @@ i18n:
           >Kendi poker anlaşmanı seç</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   he:
     title: אודות הפרויקט PokerDealsHub
     description: PokerDealsHub — חלון ראווה עצמאי לדילים בפוקר, המאגד הצעות מרוכזות ומבוזרות
@@ -1107,7 +1107,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -1117,7 +1117,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -1169,7 +1169,7 @@ i18n:
       >בחר את דיל הפוקר שלך</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   ar:
     title: عن مشروع PokerDealsHub
     description: PokerDealsHub — واجهة عرض مستقلة لصفقات البوكر تجمع بين العروض المركزية واللامركزية
@@ -1213,7 +1213,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -1223,7 +1223,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -1275,7 +1275,7 @@ i18n:
       >اختر صفقة البوكر الخاصة بك</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   id:
     title: Tentang PokerDealsHub
     description: PokerDealsHub — etalase deal poker independen yang menyatukan penawaran tersentralisasi dan terdesentralisasi
@@ -1319,7 +1319,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -1329,7 +1329,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -1381,7 +1381,7 @@ i18n:
       >Pilih deal poker Anda</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   vi:
     title: Về dự án PokerDealsHub
     description: PokerDealsHub — sàn giới thiệu kèo poker độc lập, tập hợp các ưu đãi tập trung và phi tập trung
@@ -1425,7 +1425,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -1435,7 +1435,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -1489,7 +1489,7 @@ i18n:
       >Hãy chọn kèo poker của bạn</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e
   fil:
     title: Tungkol sa PokerDealsHub
     description: >-
@@ -1535,7 +1535,7 @@ i18n:
 
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <a
-                  href="https://t.me/pokerdealshub"
+                  href="https://t.me/pdh_support_bot"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-4 p-4 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors"
@@ -1545,7 +1545,7 @@ i18n:
                   </svg>
                   <div>
                     <p class="font-semibold text-neutral-100">Telegram</p>
-                    <p class="text-sm text-neutral-400">@PokerDealsHub</p>
+                    <p class="text-sm text-neutral-400">@pdh_support_bot</p>
                   </div>
                 </a>
 
@@ -1597,4 +1597,4 @@ i18n:
       >Piliin ang iyong poker deal</a>.
               </p>
             </div>
-    srcHash: 8e6819f2d4fb
+    srcHash: 2ab37785276e

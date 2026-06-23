@@ -77,7 +77,7 @@ body: |-
             </p>
             <p class="text-neutral-300">
               Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-              Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+              Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
             </p>
           </div>
         </div>
@@ -163,11 +163,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   uz:
     title: Foydalanish shartlari
     description: "PokerDealsHub saytidan foydalanish shartlari: foydalanish qoidalari, javobgarlik va cheklovlar."
@@ -243,11 +243,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   uk:
     title: Умови використання
     description: "Умови використання сайту PokerDealsHub: правила користування, відповідальність та обмеження."
@@ -311,11 +311,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   it:
     title: Termini di utilizzo
     description: "Termini di utilizzo del sito PokerDealsHub: regole d’uso, responsabilità e limitazioni."
@@ -379,11 +379,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   de:
     title: Nutzungsbedingungen
     description: "Nutzungsbedingungen der Website PokerDealsHub: Nutzungsregeln, Verantwortung und Einschränkungen."
@@ -447,11 +447,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   es:
     title: Condiciones de uso
     description: "Condiciones de uso del sitio PokerDealsHub: normas de uso, responsabilidades y limitaciones."
@@ -533,11 +533,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   pt:
     title: Termos de uso
     description: "Termos de uso do site PokerDealsHub: regras de utilização, responsabilidades e limitações."
@@ -619,11 +619,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   fr:
     title: Conditions d'utilisation
     description: "Conditions d'utilisation du site PokerDealsHub : règles d'utilisation, responsabilités et limitations."
@@ -705,11 +705,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email : <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram : <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram : <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   tr:
     title: Kullanım Koşulları
     description: "PokerDealsHub sitesinin Kullanım Koşulları: kullanım kuralları, sorumluluklar ve sınırlamalar."
@@ -790,11 +790,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   he:
     title: תנאי שימוש
     description: "תנאי השימוש באתר PokerDealsHub: כללי השימוש, אחריות והגבלות."
@@ -874,11 +874,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   ar:
     title: شروط الاستخدام
     description: "شروط استخدام موقع PokerDealsHub: قواعد الاستخدام والمسؤولية والقيود."
@@ -942,11 +942,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   id:
     title: Syarat Penggunaan
     description: "Syarat penggunaan situs PokerDealsHub: aturan penggunaan, tanggung jawab, dan batasan."
@@ -1010,11 +1010,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   vi:
     title: Điều khoản sử dụng
     description: "Điều khoản sử dụng trang web PokerDealsHub: quy tắc sử dụng, trách nhiệm và giới hạn."
@@ -1078,11 +1078,11 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
   fil:
     title: Mga Tuntunin ng Paggamit
     description: "Mga tuntunin ng paggamit ng site na PokerDealsHub: mga panuntunan sa paggamit, pananagutan, at mga limitasyon."
@@ -1146,8 +1146,8 @@ i18n:
                 </p>
                 <p class="text-neutral-300">
                   Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
-                  Telegram: <a href="https://t.me/pokerdealshub" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@PokerDealsHub</a>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
                 </p>
               </div>
             </div>
-    srcHash: b340d6d58e27
+    srcHash: 0d9694ebbd40
