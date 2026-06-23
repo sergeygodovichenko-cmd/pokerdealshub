@@ -8,3 +8,7 @@ button {
   }
 
   
+/* TEMP: hide WhatsApp contact buttons everywhere (delete this block to restore) */
+a[href^="https://wa.me"],
+a[href^="http://wa.me"],
+a[href^="https://api.whatsapp.com"] { display: none !important; }
