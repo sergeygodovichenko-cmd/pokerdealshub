@@ -90,7 +90,7 @@ body: |-
             </p>
             <a
               href="/ru/add-deal/"
-              class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+              class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
             >
               Добавить сделку
             </a>
@@ -198,7 +198,7 @@ i18n:
                 </p>
                 <a
                   href="/en/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Add Deal
                 </a>
@@ -213,7 +213,7 @@ i18n:
       >Pick your poker deal</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   uz:
     title: PokerDealsHub loyihasi haqida
     description: PokerDealsHub — markazlashgan va markazlashmagan takliflarni birlashtiruvchi mustaqil poker bitimlari vitrinasi
@@ -306,7 +306,7 @@ i18n:
                 </p>
                 <a
                   href="/uz/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Bitim qoʻshish
                 </a>
@@ -319,7 +319,7 @@ i18n:
       >Oʻz poker bitimingizni tanlang</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   uk:
     title: Про проєкт PokerDealsHub
     description: PokerDealsHub — незалежна вітрина покерних угод, що поєднує централізовані та децентралізовані пропозиції
@@ -412,7 +412,7 @@ i18n:
                 </p>
                 <a
                   href="/uk/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Додати угоду
                 </a>
@@ -425,7 +425,7 @@ i18n:
       >Обери свою покерну угоду</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   it:
     title: Il progetto PokerDealsHub
     description: PokerDealsHub — una vetrina indipendente di deal di poker che riunisce offerte centralizzate e decentralizzate
@@ -518,7 +518,7 @@ i18n:
                 </p>
                 <a
                   href="/it/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Aggiungi deal
                 </a>
@@ -531,7 +531,7 @@ i18n:
       >Scegli il tuo deal di poker</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   de:
     title: Über das Projekt PokerDealsHub
     description: >-
@@ -626,7 +626,7 @@ i18n:
                 </p>
                 <a
                   href="/de/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Deal hinzufügen
                 </a>
@@ -639,7 +639,7 @@ i18n:
       >Wähle deinen Poker-Deal</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   es:
     title: Sobre el proyecto PokerDealsHub
     description: "PokerDealsHub: un escaparate independiente de deals de póker que reúne ofertas centralizadas y descentralizadas"
@@ -732,7 +732,7 @@ i18n:
                 </p>
                 <a
                   href="/es/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Añadir deal
                 </a>
@@ -745,7 +745,7 @@ i18n:
           >Elige tu deal de póker</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   pt:
     title: Sobre o projeto PokerDealsHub
     description: "PokerDealsHub: uma vitrine independente de ofertas de poker que reúne ofertas centralizadas e descentralizadas"
@@ -838,7 +838,7 @@ i18n:
                 </p>
                 <a
                   href="/pt/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Adicionar oferta
                 </a>
@@ -851,7 +851,7 @@ i18n:
           >Escolha o seu oferta de poker</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   fr:
     title: À propos du projet PokerDealsHub
     description: "PokerDealsHub : une vitrine indépendante de deals de poker qui réunit les offres centralisées et décentralisées"
@@ -944,7 +944,7 @@ i18n:
                 </p>
                 <a
                   href="/fr/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Ajouter un deal
                 </a>
@@ -957,7 +957,7 @@ i18n:
           >Choisis ton deal de poker</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   tr:
     title: PokerDealsHub projesi hakkında
     description: PokerDealsHub — merkezi ve merkeziyetsiz teklifleri bir araya getiren bağımsız bir poker anlaşmaları vitrini
@@ -1050,7 +1050,7 @@ i18n:
                 </p>
                 <a
                   href="/tr/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Anlaşma ekle
                 </a>
@@ -1063,7 +1063,7 @@ i18n:
           >Kendi poker anlaşmanı seç</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   he:
     title: אודות הפרויקט PokerDealsHub
     description: PokerDealsHub — חלון ראווה עצמאי לדילים בפוקר, המאגד הצעות מרוכזות ומבוזרות
@@ -1156,7 +1156,7 @@ i18n:
                 </p>
                 <a
                   href="/he/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   הוסף דיל
                 </a>
@@ -1169,7 +1169,7 @@ i18n:
       >בחר את דיל הפוקר שלך</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   ar:
     title: عن مشروع PokerDealsHub
     description: PokerDealsHub — واجهة عرض مستقلة لصفقات البوكر تجمع بين العروض المركزية واللامركزية
@@ -1262,7 +1262,7 @@ i18n:
                 </p>
                 <a
                   href="/ar/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   إضافة صفقة
                 </a>
@@ -1275,7 +1275,7 @@ i18n:
       >اختر صفقة البوكر الخاصة بك</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   id:
     title: Tentang PokerDealsHub
     description: PokerDealsHub — etalase deal poker independen yang menyatukan penawaran tersentralisasi dan terdesentralisasi
@@ -1368,7 +1368,7 @@ i18n:
                 </p>
                 <a
                   href="/id/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Tambahkan Deal
                 </a>
@@ -1381,7 +1381,7 @@ i18n:
       >Pilih deal poker Anda</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   vi:
     title: Về dự án PokerDealsHub
     description: PokerDealsHub — sàn giới thiệu kèo poker độc lập, tập hợp các ưu đãi tập trung và phi tập trung
@@ -1474,7 +1474,7 @@ i18n:
                 </p>
                 <a
                   href="/vi/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Thêm kèo
                 </a>
@@ -1489,7 +1489,7 @@ i18n:
       >Hãy chọn kèo poker của bạn</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
   fil:
     title: Tungkol sa PokerDealsHub
     description: >-
@@ -1584,7 +1584,7 @@ i18n:
                 </p>
                 <a
                   href="/fil/add-deal/"
-                  class="inline-block px-6 py-3 bg-gold text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  class="inline-block px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
                 >
                   Magdagdag ng Deal
                 </a>
@@ -1597,4 +1597,4 @@ i18n:
       >Piliin ang iyong poker deal</a>.
               </p>
             </div>
-    srcHash: 2ab37785276e
+    srcHash: d044de47fc6a
