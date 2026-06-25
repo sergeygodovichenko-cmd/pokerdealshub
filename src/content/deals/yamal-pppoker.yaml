@@ -44,9 +44,8 @@ body: >-
   <p>Yamal — один из ведущих союзов СНГ на PPPoker, объединяющий игроков из России, Узбекистана, Казахстана и других
   стран региона. Союз известен мягким полем и большим количеством казуальных игроков.</p>
 
-  <p>Основные дисциплины — безлимитный холдем (NLH) и 5-карточная Омаха (PLO5). Лимиты разнообразные: вплоть до NL3000,
-  хотя такие столы собираются редко; в среднем игра идёт на NL60–NL200. Игры идут круглосуточно, пик активности —
-  вечером по московскому времени.</p>
+  <p>Основные дисциплины — безлимитный холдем (NLH) и 5-карточная Омаха (PLO5). В среднем игра идёт на NL60–NL200. Игры
+  идут круглосуточно, пик активности — вечером по московскому времени.</p>
 
   <h3>Условия</h3>
 
@@ -75,9 +74,8 @@ i18n:
       Kazakhstan and other countries of the region. The union is known for its soft field and a large number of
       recreational players.</p>
 
-      <p>The main disciplines are No-Limit Hold'em (NLH) and 5-Card Omaha (PLO5). Stakes are varied — up to NL3000,
-      though such tables run rarely; on average the action is at NL60–NL200. Games run around the clock, with peak
-      activity in the evening Moscow time.</p>
+      <p>The main disciplines are No-Limit Hold'em (NLH) and 5-Card Omaha (PLO5). On average the action is at
+      NL60–NL200. Games run around the clock, with peak activity in the evening Moscow time.</p>
 
       <h3>Terms</h3>
 
@@ -85,7 +83,7 @@ i18n:
       undergo internal verification by PokerDealsHub.</p>
 
       <p>To get the club ID and your registration link, message a PDH manager — we're online 24/7.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   uz:
     name: Eng yirik MDH ittifoqi Yamaldagi poker bitimi
     description: >-
@@ -107,9 +105,8 @@ i18n:
       boshqa mamlakatlaridan oʻyinchilarni birlashtiradi. Ittifoq yumshoq stollari va koʻplab rekreatsion oʻyinchilari
       bilan mashhur.</p>
 
-      <p>Asosiy intizomlar — limitsiz Holdem (NLH) va 5 kartali Omaha (PLO5). Limitlar turlicha: NL3000 gacha, garchi
-      bunday stollar kam yigʻilsa-da; oʻrtacha NL60–NL200 da oʻynaladi. Oʻyinlar kechayu kunduz davom etadi, faollik
-      choʻqqisi — kechqurun Moskva vaqti bilan.</p>
+      <p>Asosiy intizomlar — limitsiz Holdem (NLH) va 5 kartali Omaha (PLO5). Oʻrtacha NL60–NL200 da oʻynaladi. Oʻyinlar
+      kechayu kunduz davom etadi, faollik choʻqqisi — kechqurun Moskva vaqti bilan.</p>
 
       <h3>Shartlar</h3>
 
@@ -117,7 +114,7 @@ i18n:
       PokerDealsHub ichki tekshiruvidan oʻtadi.</p>
 
       <p>Klub ID va roʻyxatdan oʻtish havolasini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   uk:
     name: Покерна угода в найбільшому союзі СНД Yamal
     description: >-
@@ -138,9 +135,8 @@ i18n:
       <p>Yamal — один із провідних союзів СНД на PPPoker, що обʼєднує гравців із Росії, Узбекистану, Казахстану та інших
       країн регіону. Союз відомий мʼяким полем і великою кількістю казуальних гравців.</p>
 
-      <p>Основні дисципліни — безлімітний холдем (NLH) і 5-карткова Омаха (PLO5). Ліміти різноманітні: аж до NL3000,
-      хоча такі столи збираються рідко; у середньому грають на NL60–NL200. Ігри тривають цілодобово, пік активності —
-      увечері за московським часом.</p>
+      <p>Основні дисципліни — безлімітний холдем (NLH) і 5-карткова Омаха (PLO5). У середньому грають на NL60–NL200.
+      Ігри тривають цілодобово, пік активності — увечері за московським часом.</p>
 
       <h3>Умови</h3>
 
@@ -148,7 +144,7 @@ i18n:
       проходять внутрішню перевірку PokerDealsHub.</p>
 
       <p>Щоб отримати ID клубу та посилання для реєстрації, напишіть менеджеру PDH — ми на звʼязку 24/7.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   it:
     name: Poker deal nella più grande union della CSI, Yamal
     description: >-
@@ -169,9 +165,8 @@ i18n:
       e altri paesi della regione. La union è nota per il suo campo soft e per il gran numero di giocatori
       ricreativi.</p>
 
-      <p>Le discipline principali sono il No-Limit Hold'em (NLH) e l'Omaha a 5 carte (PLO5). I limiti sono vari: fino a
-      NL3000, anche se questi tavoli si formano di rado; in media si gioca a NL60–NL200. Si gioca 24 ore su 24, con
-      picco di attività la sera ora di Mosca.</p>
+      <p>Le discipline principali sono il No-Limit Hold'em (NLH) e l'Omaha a 5 carte (PLO5). In media si gioca a
+      NL60–NL200. Si gioca 24 ore su 24, con picco di attività la sera ora di Mosca.</p>
 
       <h3>Condizioni</h3>
 
@@ -179,7 +174,7 @@ i18n:
       richiesto. Tutte le condizioni vengono verificate internamente da PokerDealsHub.</p>
 
       <p>Per ottenere l'ID del club e il tuo link di registrazione, scrivi a un manager PDH — siamo online 24/7.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   de:
     name: Poker-Deal in der größten GUS-Union Yamal
     description: >-
@@ -201,9 +196,8 @@ i18n:
       und weiteren Ländern der Region. Die Union ist für ihr weiches Feld und die große Zahl an Freizeitspielern
       bekannt.</p>
 
-      <p>Die wichtigsten Disziplinen sind No-Limit Hold'em (NLH) und 5-Card Omaha (PLO5). Die Limits sind vielfältig:
-      bis NL3000, auch wenn solche Tische selten zustande kommen; im Schnitt wird an NL60–NL200 gespielt. Gespielt wird
-      rund um die Uhr, mit Aktivitätshoch am Abend (Moskauer Zeit).</p>
+      <p>Die wichtigsten Disziplinen sind No-Limit Hold'em (NLH) und 5-Card Omaha (PLO5). Im Schnitt wird an NL60–NL200
+      gespielt. Gespielt wird rund um die Uhr, mit Aktivitätshoch am Abend (Moskauer Zeit).</p>
 
       <h3>Konditionen</h3>
 
@@ -212,7 +206,7 @@ i18n:
 
       <p>Um die Club-ID und deinen Registrierungslink zu erhalten, schreibe einem PDH-Manager — wir sind rund um die Uhr
       erreichbar.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   es:
     name: Oferta de póker en la mayor unión de la CEI, Yamal
     description: >-
@@ -234,9 +228,8 @@ i18n:
       Kazajistán y otros países de la región. La unión es conocida por su campo blando y por su gran cantidad de
       jugadores recreativos.</p>
 
-      <p>Las disciplinas principales son el No-Limit Hold'em (NLH) y el Omaha de 5 cartas (PLO5). Los límites son
-      variados: hasta NL3000, aunque esas mesas se forman pocas veces; de media se juega en NL60–NL200. Se juega las 24
-      horas, con pico de actividad por la tarde-noche (hora de Moscú).</p>
+      <p>Las disciplinas principales son el No-Limit Hold'em (NLH) y el Omaha de 5 cartas (PLO5). De media se juega en
+      NL60–NL200. Se juega las 24 horas, con pico de actividad por la tarde-noche (hora de Moscú).</p>
 
       <h3>Condiciones</h3>
 
@@ -244,7 +237,7 @@ i18n:
       documentos. Todas las condiciones pasan una verificación interna de PokerDealsHub.</p>
 
       <p>Para obtener el ID del club y tu enlace de registro, escribe a un mánager de PDH: estamos disponibles 24/7.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   pt:
     name: Acordo de pôquer na maior união da CEI, Yamal
     description: >-
@@ -265,9 +258,8 @@ i18n:
       <p>Yamal é uma das principais uniões da CEI no PPPoker e reúne jogadores da Rússia, Uzbequistão, Cazaquistão e de
       outros países da região. A união é conhecida pelas mesas soft e pelo grande número de jogadores recreativos.</p>
 
-      <p>As principais modalidades são o No-Limit Hold'em (NLH) e o Omaha de 5 cartas (PLO5). Os limites são variados:
-      até NL3000, embora essas mesas se formem raramente; em média, joga-se em NL60–NL200. Os jogos acontecem 24 horas
-      por dia, com pico de atividade à noite (horário de Moscou).</p>
+      <p>As principais modalidades são o No-Limit Hold'em (NLH) e o Omaha de 5 cartas (PLO5). Em média, joga-se em
+      NL60–NL200. Os jogos acontecem 24 horas por dia, com pico de atividade à noite (horário de Moscou).</p>
 
       <h3>Condições</h3>
 
@@ -275,7 +267,7 @@ i18n:
       Todas as condições passam por verificação interna da PokerDealsHub.</p>
 
       <p>Para obter o ID do clube e o seu link de registro, fale com um gerente da PDH — estamos online 24/7.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   fr:
     name: Deal poker dans la plus grande union de la CEI, Yamal
     description: >-
@@ -297,9 +289,8 @@ i18n:
       du Kazakhstan et d'autres pays de la région. L'union est connue pour ses tables tendres et son grand nombre de
       joueurs récréatifs.</p>
 
-      <p>Les principales disciplines sont le No-Limit Hold'em (NLH) et l'Omaha 5 cartes (PLO5). Les limites sont variées
-      : jusqu'à NL3000, même si ces tables se forment rarement ; en moyenne, on joue en NL60–NL200. Les parties tournent
-      24 h/24, avec un pic d'activité le soir (heure de Moscou).</p>
+      <p>Les principales disciplines sont le No-Limit Hold'em (NLH) et l'Omaha 5 cartes (PLO5). En moyenne, on joue en
+      NL60–NL200. Les parties tournent 24 h/24, avec un pic d'activité le soir (heure de Moscou).</p>
 
       <h3>Conditions</h3>
 
@@ -308,7 +299,7 @@ i18n:
 
       <p>Pour obtenir l'ID du club et votre lien d'inscription, écrivez à un manager PDH — nous sommes disponibles
       24/7.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   tr:
     name: En büyük BDT birliği Yamal'da poker anlaşması
     description: >-
@@ -330,9 +321,8 @@ i18n:
       ülkelerden oyuncuları bir araya getirir. Birlik, yumuşak masaları ve çok sayıda rekreasyonel oyuncusuyla
       tanınır.</p>
 
-      <p>Başlıca disiplinler No-Limit Hold'em (NLH) ve 5 Kartlı Omaha'dır (PLO5). Limitler çeşitlidir: NL3000'e kadar
-      çıkabilir, ancak bu masalar nadiren açılır; ortalama olarak NL60–NL200'de oynanır. Oyunlar günün her saati sürer,
-      etkinlik zirvesi akşam saatlerindedir (Moskova saati).</p>
+      <p>Başlıca disiplinler No-Limit Hold'em (NLH) ve 5 Kartlı Omaha'dır (PLO5). Ortalama olarak NL60–NL200'de oynanır.
+      Oyunlar günün her saati sürer, etkinlik zirvesi akşam saatlerindedir (Moskova saati).</p>
 
       <h3>Koşullar</h3>
 
@@ -340,7 +330,7 @@ i18n:
       Tüm koşullar PokerDealsHub tarafından dahili olarak doğrulanır.</p>
 
       <p>Kulüp ID'sini ve kayıt bağlantınızı almak için bir PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   he:
     name: עסקת פוקר באיגוד חבר העמים הגדול ביותר Yamal
     description: >-
@@ -360,9 +350,8 @@ i18n:
       <p>Yamal הוא אחד מאיגודי חבר העמים המובילים ב-PPPoker, המאגד שחקנים מרוסיה, אוזבקיסטן, קזחסטן ומדינות נוספות
       באזור. האיגוד ידוע בשדה הרך שלו ובמספר הרב של שחקנים חובבים.</p>
 
-      <p>הדיסציפלינות העיקריות הן No-Limit Hold'em (NLH) ו-Omaha בת 5 קלפים (PLO5). הלימיטים מגוונים: עד NL3000, אם כי
-      שולחנות כאלה נפתחים לעיתים רחוקות; בממוצע משחקים ב-NL60–NL200. המשחקים מתקיימים מסביב לשעון, שיא הפעילות בערב לפי
-      שעון מוסקבה.</p>
+      <p>הדיסציפלינות העיקריות הן No-Limit Hold'em (NLH) ו-Omaha בת 5 קלפים (PLO5). בממוצע משחקים ב-NL60–NL200. המשחקים
+      מתקיימים מסביב לשעון, שיא הפעילות בערב לפי שעון מוסקבה.</p>
 
       <h3>תנאים</h3>
 
@@ -370,7 +359,7 @@ i18n:
       אימות פנימי של PokerDealsHub.</p>
 
       <p>כדי לקבל את מזהה המועדון ואת קישור ההרשמה שלך, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   ar:
     name: صفقة بوكر في أكبر اتحاد لرابطة الدول المستقلة Yamal
     description: >-
@@ -390,9 +379,8 @@ i18n:
       <p>يُعد Yamal أحد اتحادات رابطة الدول المستقلة الرائدة على PPPoker، ويجمع لاعبين من روسيا وأوزبكستان وكازاخستان
       ودول أخرى في المنطقة. يشتهر الاتحاد بطاولاته السهلة وبعدد كبير من اللاعبين الترفيهيين.</p>
 
-      <p>التخصصات الرئيسية هي No-Limit Hold'em (NLH) وOmaha بخمس بطاقات (PLO5). الحدود متنوعة: تصل إلى NL3000، رغم أن
-      هذه الطاولات تُفتح نادرًا؛ وفي المتوسط يُلعب على NL60–NL200. تُقام الألعاب على مدار الساعة، مع ذروة النشاط مساءً
-      بتوقيت موسكو.</p>
+      <p>التخصصات الرئيسية هي No-Limit Hold'em (NLH) وOmaha بخمس بطاقات (PLO5). وفي المتوسط يُلعب على NL60–NL200. تُقام
+      الألعاب على مدار الساعة، مع ذروة النشاط مساءً بتوقيت موسكو.</p>
 
       <h3>الشروط</h3>
 
@@ -401,7 +389,7 @@ i18n:
 
       <p>للحصول على معرّف النادي ورابط التسجيل الخاص بك، راسل مدير PDH — نحن متواجدون على مدار الساعة طوال أيام
       الأسبوع.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   id:
     name: Deal poker di union CIS terbesar, Yamal
     description: >-
@@ -422,9 +410,8 @@ i18n:
       Kazakhstan, dan negara lain di kawasan tersebut. Union ini dikenal dengan meja soft-nya dan banyaknya pemain
       rekreasional.</p>
 
-      <p>Disiplin utamanya adalah No-Limit Hold'em (NLH) dan Omaha 5 kartu (PLO5). Limitnya bervariasi: hingga NL3000,
-      meski meja seperti itu jarang terbentuk; rata-rata permainan berlangsung di NL60–NL200. Permainan berlangsung
-      sepanjang waktu, dengan puncak aktivitas pada malam hari waktu Moskow.</p>
+      <p>Disiplin utamanya adalah No-Limit Hold'em (NLH) dan Omaha 5 kartu (PLO5). Rata-rata permainan berlangsung di
+      NL60–NL200. Permainan berlangsung sepanjang waktu, dengan puncak aktivitas pada malam hari waktu Moskow.</p>
 
       <h3>Ketentuan</h3>
 
@@ -432,7 +419,7 @@ i18n:
       ketentuan menjalani verifikasi internal oleh PokerDealsHub.</p>
 
       <p>Untuk mendapatkan ID klub dan tautan pendaftaran Anda, hubungi manajer PDH — kami online 24/7.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   vi:
     name: Ưu đãi poker tại liên minh CIS lớn nhất Yamal
     description: >-
@@ -453,9 +440,8 @@ i18n:
       <p>Yamal là một trong những liên minh CIS hàng đầu trên PPPoker, quy tụ người chơi từ Nga, Uzbekistan, Kazakhstan
       và các quốc gia khác trong khu vực. Liên minh nổi tiếng với bàn mềm và số lượng lớn người chơi giải trí.</p>
 
-      <p>Các thể loại chính là No-Limit Hold'em (NLH) và Omaha 5 lá (PLO5). Mức cược đa dạng: lên đến NL3000, dù những
-      bàn như vậy hiếm khi mở; trung bình chơi ở NL60–NL200. Các ván diễn ra suốt ngày đêm, cao điểm vào buổi tối theo
-      giờ Moscow.</p>
+      <p>Các thể loại chính là No-Limit Hold'em (NLH) và Omaha 5 lá (PLO5). Trung bình chơi ở NL60–NL200. Các ván diễn
+      ra suốt ngày đêm, cao điểm vào buổi tối theo giờ Moscow.</p>
 
       <h3>Điều kiện</h3>
 
@@ -463,7 +449,7 @@ i18n:
       cầu giấy tờ. Mọi điều kiện đều được PokerDealsHub xác minh nội bộ.</p>
 
       <p>Để nhận ID câu lạc bộ và liên kết đăng ký của bạn, hãy nhắn cho quản lý PDH — chúng tôi trực tuyến 24/7.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
   fil:
     name: Poker deal sa pinakamalaking CIS union na Yamal
     description: >-
@@ -485,9 +471,9 @@ i18n:
       Uzbekistan, Kazakhstan, at iba pang bansa sa rehiyon. Kilala ang union sa soft nitong mga mesa at sa malaking
       bilang ng recreational na manlalaro.</p>
 
-      <p>Ang mga pangunahing disiplina ay No-Limit Hold'em (NLH) at 5-Card Omaha (PLO5). Iba-iba ang mga limit: hanggang
-      NL3000, bagaman bihirang mabuo ang ganoong mga mesa; sa karaniwan ay naglalaro sa NL60–NL200. Tumatakbo ang mga
-      laro sa buong araw, na may pinakamataas na aktibidad tuwing gabi sa oras ng Moscow.</p>
+      <p>Ang mga pangunahing disiplina ay No-Limit Hold'em (NLH) at 5-Card Omaha (PLO5). Sa karaniwan ay naglalaro sa
+      NL60–NL200. Tumatakbo ang mga laro sa buong araw, na may pinakamataas na aktibidad tuwing gabi sa oras ng
+      Moscow.</p>
 
       <h3>Mga Kondisyon</h3>
 
@@ -496,4 +482,4 @@ i18n:
 
       <p>Upang makuha ang club ID at ang iyong registration link, mag-message sa isang PDH manager — online kami
       24/7.</p>
-    srcHash: bb0d85ce3708
+    srcHash: b6a452b2db39
