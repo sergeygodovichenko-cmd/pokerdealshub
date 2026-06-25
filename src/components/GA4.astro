@@ -62,7 +62,7 @@
         if (!link) return;
         const href = link.getAttribute('href') || '';
         const isLead = href.includes('t.me') || href.includes('telegram.me') ||
-                       href.includes('wa.me') || href.includes('api.whatsapp.com');
+                       href.includes('discord.gg') || href.includes('discord.com');
         if (isLead) {
           try {
             if (window.gtag) gtag('event', 'lead_click', { event_category: 'lead', event_label: href });

@@ -334,7 +334,7 @@ export const labl = {
     weAreHereNoKyc: `Узнайте о дополнительных преимуществах для вас и получите ссылку для регистрации.`,
     weAreHere2: `Пишите менеджеру PDH, работаем 24/7`,
     tgContact: 'Написать в Telegram',
-    waContact: 'Написать в WhatsApp',
+    discordContact: 'Перейти в Discord',
   },
   en: {
     club: 'Club:',
@@ -351,7 +351,7 @@ export const labl = {
     weAreHereNoKyc: `Learn about your additional benefits and get your registration link.`,
     weAreHere2: 'Message a PDH manager — we’re online 24/7.',
     tgContact: 'Message on Telegram',
-    waContact: 'Message on WhatsApp',
+    discordContact: 'Join our Discord',
   },
   es: {
     club: 'Club:',
@@ -368,7 +368,7 @@ export const labl = {
     weAreHere: 'Todas las ofertas se proporcionan de forma gratuita. La membresía en los clubes no requiere KYC (no es necesario enviar documentos).',
     weAreHere2: 'Escriba al gerente de PDH, trabajamos 24/7',
     tgContact: 'Contactar en Telegram',
-    waContact: 'Contactar en WhatsApp',
+    discordContact: 'Únete a Discord',
   },
   uz: {
     club: 'Klub:',
@@ -385,7 +385,7 @@ export const labl = {
     weAreHereNoKyc: `Qo‘shimcha imtiyozlar va ro‘yxatdan o‘tish havolasini oling.`,
     weAreHere2: `PDH menejeriga yozing — 24/7 onlaynmiz.`,
     tgContact: 'Telegramda yozish',
-    waContact: 'WhatsAppda yozish',
+    discordContact: 'Discordga qoʻshiling',
   },
   uk: {
     club: 'Клуб:',
@@ -402,7 +402,7 @@ export const labl = {
     weAreHereNoKyc: `Дізнайтеся про додаткові переваги для вас і отримайте посилання для реєстрації.`,
     weAreHere2: 'Напишіть менеджеру PDH — ми онлайн 24/7.',
     tgContact: 'Написати в Telegram',
-    waContact: 'Написати у WhatsApp',
+    discordContact: 'Приєднатися до Discord',
   },
   it: {
     club: 'Club:',
@@ -419,7 +419,7 @@ export const labl = {
     weAreHereNoKyc: `Scopri i tuoi vantaggi aggiuntivi e ottieni il tuo link di registrazione.`,
     weAreHere2: 'Scrivi a un manager PDH — siamo online 24/7.',
     tgContact: 'Scrivi su Telegram',
-    waContact: 'Scrivi su WhatsApp',
+    discordContact: 'Unisciti a Discord',
   },
   de: {
     club: 'Club:',
@@ -436,7 +436,7 @@ export const labl = {
     weAreHereNoKyc: `Erfahre mehr über deine zusätzlichen Vorteile und erhalte deinen Registrierungslink.`,
     weAreHere2: 'Schreibe einem PDH-Manager — wir sind rund um die Uhr online.',
     tgContact: 'Auf Telegram schreiben',
-    waContact: 'Auf WhatsApp schreiben',
+    discordContact: 'Discord beitreten',
   },
   pt: {
     club: 'Clube:',
@@ -453,7 +453,7 @@ export const labl = {
     weAreHereNoKyc: `Conheça seus benefícios adicionais e receba seu link de registro.`,
     weAreHere2: 'Fale com um gerente da PDH — estamos online 24/7.',
     tgContact: 'Falar no Telegram',
-    waContact: 'Falar no WhatsApp',
+    discordContact: 'Entrar no Discord',
   },
   fr: {
     club: 'Club :',
@@ -470,7 +470,7 @@ export const labl = {
     weAreHereNoKyc: `Découvrez vos avantages supplémentaires et obtenez votre lien d’inscription.`,
     weAreHere2: 'Écrivez à un manager PDH — nous sommes en ligne 24/7.',
     tgContact: 'Écrire sur Telegram',
-    waContact: 'Écrire sur WhatsApp',
+    discordContact: 'Rejoindre Discord',
   },
   tr: {
     club: 'Kulüp:',
@@ -487,7 +487,7 @@ export const labl = {
     weAreHereNoKyc: `Ek avantajlarınızı öğrenin ve kayıt bağlantınızı alın.`,
     weAreHere2: 'Bir PDH yöneticisine yazın — 7/24 çevrimiçiyiz.',
     tgContact: 'Telegram’dan yazın',
-    waContact: 'WhatsApp’tan yazın',
+    discordContact: 'Discord’a katıl',
   },
   he: {
     club: 'מועדון:',
@@ -504,7 +504,7 @@ export const labl = {
     weAreHereNoKyc: `גלו את ההטבות הנוספות שלכם וקבלו את קישור ההרשמה שלכם.`,
     weAreHere2: 'כתבו למנהל PDH — אנחנו מקוונים 24/7.',
     tgContact: 'כתבו ב-Telegram',
-    waContact: 'כתבו ב-WhatsApp',
+    discordContact: 'הצטרפו ל-Discord',
   },
   ar: {
     club: 'النادي:',
@@ -521,7 +521,7 @@ export const labl = {
     weAreHereNoKyc: `تعرّف على مزاياك الإضافية واحصل على رابط التسجيل الخاص بك.`,
     weAreHere2: 'راسل مدير PDH — نحن متصلون على مدار الساعة طوال أيام الأسبوع.',
     tgContact: 'راسلنا على Telegram',
-    waContact: 'راسلنا على WhatsApp',
+    discordContact: 'انضم إلى Discord',
   },
   id: {
     club: 'Klub:',
@@ -538,7 +538,7 @@ export const labl = {
     weAreHereNoKyc: `Pelajari keuntungan tambahan Anda dan dapatkan tautan pendaftaran Anda.`,
     weAreHere2: 'Hubungi manajer PDH — kami online 24/7.',
     tgContact: 'Kirim pesan di Telegram',
-    waContact: 'Kirim pesan di WhatsApp',
+    discordContact: 'Gabung Discord',
   },
   vi: {
     club: 'Câu lạc bộ:',
@@ -555,7 +555,7 @@ export const labl = {
     weAreHereNoKyc: `Tìm hiểu về các quyền lợi bổ sung của bạn và nhận liên kết đăng ký.`,
     weAreHere2: 'Nhắn tin cho quản lý PDH — chúng tôi trực tuyến 24/7.',
     tgContact: 'Nhắn tin trên Telegram',
-    waContact: 'Nhắn tin trên WhatsApp',
+    discordContact: 'Tham gia Discord',
   },
   fil: {
     club: 'Club:',
@@ -572,7 +572,7 @@ export const labl = {
     weAreHereNoKyc: `Alamin ang iyong mga karagdagang benepisyo at kunin ang iyong link sa pagrerehistro.`,
     weAreHere2: 'Mag-message sa isang PDH manager — online kami 24/7.',
     tgContact: 'Mag-message sa Telegram',
-    waContact: 'Mag-message sa WhatsApp',
+    discordContact: 'Sumali sa Discord',
   },
 };
 

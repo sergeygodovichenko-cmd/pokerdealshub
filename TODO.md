@@ -23,7 +23,7 @@ Status of the refactor + the SEO/LLM recommendations. Branch: `source` (producti
 Always-on bot (NOT the static site). Telegram + Discord → Claude agent grounded on PDH content (`llms-full.txt` / deals+guides), answers competently in the query language. Two-way human handoff (agent escalates; operator can take over → pauses agent for that thread → release). Needs persistent host (VPS/Fly/Railway) + `ANTHROPIC_API_KEY` at runtime. Recommend Claude Agent SDK. Guardrails: 18+, no payments/credentials → human. Open scoping questions: channels (existing TG bot? Discord server?), agent scope (info-only vs lead-handling), operators/handoff UX, hosting.
 
 ## ♻️ Site: Discord instead of WhatsApp
-- [ ] Replace WhatsApp (`wa.me/...`) with Discord on deal contact block, About, Add-deal (all 15 locales). Needs the Discord invite URL.
+- [x] Replace WhatsApp (`wa.me/...`) with Discord (`discord.gg/Zgdmf6szS`) on deal contact block, About, Add-deal (all 15 locales) + lead tracking + llms.txt. Removed temp WhatsApp-hide CSS.
 
 ## 🔎 SEO / LLM optimization backlog
 Paid ads are banned, so organic SEO + LLM/answer-engine recommendation is the growth channel.
