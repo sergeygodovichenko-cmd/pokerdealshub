@@ -1,5 +1,5 @@
 app: PokerBros
-club: Monkeys VIPS
+club: Flying Dutchman
 union: Paradise
 logo: pokerbros_logo
 logoimage: /pokerbros_logo.webp
@@ -33,7 +33,7 @@ i18n:
     body: >-
       <h3>Description</h3>
 
-      <p>Monkeys VIPS is an exclusive club within the Paradise union on the PokerBros platform. The club offers high
+      <p>Flying Dutchman is an exclusive club within the Paradise union on the PokerBros platform. The club offers high
       rakeback and active games across all limits from 7:00 PM to 11:00 PM (GMT-7), making it an ideal choice for
       players from North and South America.</p>
 
@@ -57,7 +57,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 55%</strong> — The rakeback rate depends on your weekly rake volume.</li>
         <li><strong>Fixed rakeback 25%</strong> — Start playing with an advantage right after registration, and switch to the dynamic option later if you prefer.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   es:
     name: Oferta en la unión Paradise en PokerBros
     description: "Muchas mesas activas, condiciones transparentes y rakeback alto: la mejor propuesta en PokerBros."
@@ -65,8 +65,8 @@ i18n:
     body: >-
       <h3>Descripción</h3>
 
-      <p>Monkeys VIPS es un club exclusivo de la unión Paradise en la plataforma PokerBros. El club ofrece un rakeback
-      alto y juego activo en todos los límites de 19:00 a 23:00 GMT-7. Ideal para jugadores de Norteamérica y
+      <p>Flying Dutchman es un club exclusivo de la unión Paradise en la plataforma PokerBros. El club ofrece un
+      rakeback alto y juego activo en todos los límites de 19:00 a 23:00 GMT-7. Ideal para jugadores de Norteamérica y
       Sudamérica.</p>
 
 
@@ -88,7 +88,7 @@ i18n:
         <li><strong>Rakeback dinámico hasta 55%</strong> El rakeback depende de tu volumen de rake semanal.</li>
         <li><strong>Rakeback fijo 25%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes pasarte al dinámico.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   uz:
     name: PokerBros’dagi Paradise ittifoqida bitim
     description: Koʻplab faol stollar, shaffof shartlar va yuqori reyk-bek — PokerBros’dagi eng yaxshi taklif.
@@ -96,9 +96,9 @@ i18n:
     body: >-
       <h3>Tavsif</h3>
 
-      <p>Monkeys VIPS — PokerBros platformasidagi Paradise ittifoqining eksklyuziv klubi. Klub GMT-7 boʻyicha 19:00 dan
-      23:00 gacha barcha limitlarda yuqori reyk-bek va faol oʻyin taklif etadi. Shimoliy va Janubiy Amerika oʻyinchilari
-      uchun ideal.</p>
+      <p>Flying Dutchman — PokerBros platformasidagi Paradise ittifoqining eksklyuziv klubi. Klub GMT-7 boʻyicha 19:00
+      dan 23:00 gacha barcha limitlarda yuqori reyk-bek va faol oʻyin taklif etadi. Shimoliy va Janubiy Amerika
+      oʻyinchilari uchun ideal.</p>
 
 
       <h3>Ittifoq haqida</h3>
@@ -120,7 +120,7 @@ i18n:
         <li><strong>55% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
         <li><strong>Qatʼiy reyk-bek 25%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   uk:
     name: Угода в союзі Paradise на PokerBros
     description: Багато активних столів, прозорі умови та високий рейкбек — найкраща пропозиція в Poker Bros.
@@ -129,7 +129,7 @@ i18n:
       <h3>Опис</h3>
 
 
-      <p>Monkeys VIPS — ексклюзивний клуб у союзі Paradise на платформі PokerBros. Клуб пропонує високий рейкбек і
+      <p>Flying Dutchman — ексклюзивний клуб у союзі Paradise на платформі PokerBros. Клуб пропонує високий рейкбек і
       активну гру на всіх лімітах з 19:00 до 23:00 за GMT-7. Ідеально підходить для гравців із Північної та Південної
       Америки.</p>
 
@@ -158,7 +158,7 @@ i18n:
         <li><strong>Динамічний рейкбек до 55%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
         <li><strong>Фіксований рейкбек 25%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   it:
     name: Offerta nell'unione Paradise su PokerBros
     description: "Tanti tavoli attivi, condizioni trasparenti e rakeback elevato: la migliore offerta su Poker Bros."
@@ -167,7 +167,7 @@ i18n:
       <h3>Descrizione</h3>
 
 
-      <p>Monkeys VIPS è un club esclusivo nell'unione Paradise sulla piattaforma PokerBros. Il club offre un rakeback
+      <p>Flying Dutchman è un club esclusivo nell'unione Paradise sulla piattaforma PokerBros. Il club offre un rakeback
       elevato e gioco attivo a tutti i limiti dalle 19:00 alle 23:00 GMT-7. Una scelta ideale per i giocatori del Nord e
       del Sud America.</p>
 
@@ -196,7 +196,7 @@ i18n:
         <li><strong>Rakeback dinamico fino al 55%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
         <li><strong>Rakeback fisso 25%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   de:
     name: Deal in der Union Paradise auf PokerBros
     description: Viele aktive Tische, transparente Bedingungen und hoher Rakeback — das beste Angebot bei Poker Bros.
@@ -205,8 +205,8 @@ i18n:
       <h3>Beschreibung</h3>
 
 
-      <p>Monkeys VIPS ist ein exklusiver Club in der Union Paradise auf der Plattform PokerBros. Der Club bietet hohen
-      Rakeback und aktives Spiel an allen Limits von 19:00 bis 23:00 Uhr GMT-7. Ideal für Spieler aus Nord- und
+      <p>Flying Dutchman ist ein exklusiver Club in der Union Paradise auf der Plattform PokerBros. Der Club bietet
+      hohen Rakeback und aktives Spiel an allen Limits von 19:00 bis 23:00 Uhr GMT-7. Ideal für Spieler aus Nord- und
       Südamerika.</p>
 
 
@@ -234,7 +234,7 @@ i18n:
         <li><strong>Dynamischer Rakeback bis zu 55%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
         <li><strong>Fester Rakeback 25%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   pt:
     name: Oferta na união Paradise no PokerBros
     description: "Muitas mesas ativas, condições transparentes e rakeback alto: a melhor proposta no PokerBros."
@@ -242,8 +242,8 @@ i18n:
     body: >-
       <h3>Descrição</h3>
 
-      <p>O Monkeys VIPS é um clube exclusivo da união Paradise na plataforma PokerBros. O clube oferece rakeback alto e
-      jogo ativo em todos os limites das 19h às 23h (GMT-7). Ideal para jogadores da América do Norte e do Sul.</p>
+      <p>O Flying Dutchman é um clube exclusivo da união Paradise na plataforma PokerBros. O clube oferece rakeback alto
+      e jogo ativo em todos os limites das 19h às 23h (GMT-7). Ideal para jogadores da América do Norte e do Sul.</p>
 
 
       <h3>Sobre a união</h3>
@@ -264,7 +264,7 @@ i18n:
         <li><strong>Rakeback dinâmico até 55%</strong> O rakeback depende do seu volume de rake semanal.</li>
         <li><strong>Rakeback fixo 25%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar para o dinâmico.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   fr:
     name: Offre dans l'union Paradise sur PokerBros
     description: "Beaucoup de tables actives, des conditions transparentes et un rakeback élevé : la meilleure offre sur PokerBros."
@@ -272,9 +272,9 @@ i18n:
     body: >-
       <h3>Description</h3>
 
-      <p>Monkeys VIPS est un club exclusif de l'union Paradise sur la plateforme PokerBros. Le club propose un rakeback
-      élevé et un jeu actif à toutes les limites de 19h00 à 23h00 GMT-7. Idéal pour les joueurs d'Amérique du Nord et du
-      Sud.</p>
+      <p>Flying Dutchman est un club exclusif de l'union Paradise sur la plateforme PokerBros. Le club propose un
+      rakeback élevé et un jeu actif à toutes les limites de 19h00 à 23h00 GMT-7. Idéal pour les joueurs d'Amérique du
+      Nord et du Sud.</p>
 
 
       <h3>À propos de l'union</h3>
@@ -295,7 +295,7 @@ i18n:
         <li><strong>Rakeback dynamique jusqu'à 55%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
         <li><strong>Rakeback fixe 25%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer au dynamique plus tard.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   tr:
     name: PokerBros'ta Paradise birliğinde anlaşma
     description: "Bol aktif masa, şeffaf koşullar ve yüksek rakeback: PokerBros'taki en iyi teklif."
@@ -303,7 +303,7 @@ i18n:
     body: >-
       <h3>Açıklama</h3>
 
-      <p>Monkeys VIPS, PokerBros platformundaki Paradise birliğinde özel bir kulüptür. Kulüp, GMT-7 ile 19:00 - 23:00
+      <p>Flying Dutchman, PokerBros platformundaki Paradise birliğinde özel bir kulüptür. Kulüp, GMT-7 ile 19:00 - 23:00
       arasında tüm limitlerde yüksek rakeback ve aktif oyun sunar. Kuzey ve Güney Amerika oyuncuları için idealdir.</p>
 
 
@@ -325,7 +325,7 @@ i18n:
         <li><strong>%55'e kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
         <li><strong>%25 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   he:
     name: דיל באיחוד Paradise ב-PokerBros
     description: הרבה שולחנות פעילים, תנאים שקופים ורייקבק גבוה — ההצעה הטובה ביותר ב-Poker Bros.
@@ -333,7 +333,7 @@ i18n:
     body: >-
       <h3>תיאור</h3>
 
-      <p>Monkeys VIPS הוא מועדון בלעדי באיחוד Paradise בפלטפורמת PokerBros. המועדון מציע רייקבק גבוה ומשחק פעיל בכל
+      <p>Flying Dutchman הוא מועדון בלעדי באיחוד Paradise בפלטפורמת PokerBros. המועדון מציע רייקבק גבוה ומשחק פעיל בכל
       הלימיטים בין השעות 19:00 ל-23:00 לפי GMT-7. מתאים באופן מושלם לשחקנים מצפון ומדרום אמריקה.</p>
 
 
@@ -355,7 +355,7 @@ i18n:
         <li><strong>רייקבק דינמי עד 55%</strong> הרייקבק תלוי בנפח הרייק השבועי.</li>
         <li><strong>רייקבק קבוע 25%</strong> אפשרות להתחיל לשחק עם יתרון מיד לאחר ההרשמה. בהמשך אפשר לעבור לרייקבק הדינמי.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   ar:
     name: صفقة في اتحاد Paradise على PokerBros
     description: الكثير من الطاولات النشطة وشروط شفافة وريكباك مرتفع — أفضل عرض على Poker Bros.
@@ -363,8 +363,8 @@ i18n:
     body: >-
       <h3>الوصف</h3>
 
-      <p>Monkeys VIPS نادٍ حصري ضمن اتحاد Paradise على منصة PokerBros. يقدّم النادي ريكباك مرتفعًا ولعبًا نشطًا على جميع
-      الحدود من الساعة 19:00 حتى 23:00 بتوقيت GMT-7. خيار مثالي للاعبين من أمريكا الشمالية والجنوبية.</p>
+      <p>Flying Dutchman نادٍ حصري ضمن اتحاد Paradise على منصة PokerBros. يقدّم النادي ريكباك مرتفعًا ولعبًا نشطًا على
+      جميع الحدود من الساعة 19:00 حتى 23:00 بتوقيت GMT-7. خيار مثالي للاعبين من أمريكا الشمالية والجنوبية.</p>
 
 
       <h3>عن الاتحاد</h3>
@@ -385,7 +385,7 @@ i18n:
         <li><strong>ريكباك ديناميكي حتى 55%</strong> يعتمد الريكباك على حجم الريك الأسبوعي.</li>
         <li><strong>ريكباك ثابت 25%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا التحول إلى الريكباك الديناميكي.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   id:
     name: Deal di union Paradise pada PokerBros
     description: Banyak meja aktif, syarat transparan, dan rakeback tinggi — penawaran terbaik di Poker Bros.
@@ -393,7 +393,7 @@ i18n:
     body: >-
       <h3>Deskripsi</h3>
 
-      <p>Monkeys VIPS adalah club eksklusif di union Paradise pada platform PokerBros. Club ini menawarkan rakeback
+      <p>Flying Dutchman adalah club eksklusif di union Paradise pada platform PokerBros. Club ini menawarkan rakeback
       tinggi dan permainan aktif di semua limit dari pukul 19.00 hingga 23.00 GMT-7. Pilihan ideal untuk pemain dari
       Amerika Utara dan Selatan.</p>
 
@@ -417,7 +417,7 @@ i18n:
         <li><strong>Rakeback dinamis hingga 55%</strong> Rakeback bergantung pada volume rake mingguan.</li>
         <li><strong>Rakeback tetap 25%</strong> Mulai bermain dengan keuntungan langsung setelah mendaftar. Nantinya Anda bisa beralih ke rakeback dinamis.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   vi:
     name: Kèo tại liên minh Paradise trên PokerBros
     description: Nhiều bàn đang sôi động, điều khoản minh bạch và rakeback cao — ưu đãi tốt nhất trên PokerBros.
@@ -425,7 +425,7 @@ i18n:
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Monkeys VIPS là câu lạc bộ độc quyền trong liên minh Paradise trên nền tảng PokerBros. Câu lạc bộ mang đến
+      <p>Flying Dutchman là câu lạc bộ độc quyền trong liên minh Paradise trên nền tảng PokerBros. Câu lạc bộ mang đến
       rakeback cao và bàn chơi sôi động ở mọi mức cược từ 19:00 đến 23:00 theo giờ GMT-7. Lựa chọn lý tưởng cho người
       chơi từ Bắc Mỹ và Nam Mỹ.</p>
 
@@ -449,7 +449,7 @@ i18n:
         <li><strong>Rakeback động lên đến 55%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
         <li><strong>Rakeback cố định 25%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
   fil:
     name: Deal sa union na Paradise sa PokerBros
     description: Maraming aktibong mesa, malinaw na mga tuntunin, at mataas na rakeback — ang pinakamagandang alok sa Poker Bros.
@@ -457,7 +457,7 @@ i18n:
     body: >-
       <h3>Paglalarawan</h3>
 
-      <p>Ang Monkeys VIPS ay eksklusibong club sa union na Paradise sa platform na PokerBros. Nag-aalok ang club ng
+      <p>Ang Flying Dutchman ay eksklusibong club sa union na Paradise sa platform na PokerBros. Nag-aalok ang club ng
       mataas na rakeback at aktibong laro sa lahat ng limit mula 19:00 hanggang 23:00 sa GMT-7. Perpektong pagpipilian
       para sa mga manlalaro mula Hilaga at Timog Amerika.</p>
 
@@ -481,11 +481,11 @@ i18n:
         <li><strong>Dynamic na rakeback hanggang 55%</strong> Nakadepende ang rakeback sa lingguhang volume ng rake.</li>
         <li><strong>Fixed na rakeback na 25%</strong> Magsimulang maglaro nang may bentahe kaagad pagkatapos magrehistro. Maaari kang lumipat sa dynamic na rakeback sa bandang huli.</li>
       </ul>
-    srcHash: 894f2a95744a
+    srcHash: cf9601a074a8
 body: >-
   <h3>Описание</h3>
 
-  <p>Monkeys VIPS — эксклюзивный клуб в союзе Paradise на платформе PokerBros. Клуб предлагает высокий рейкбэк и
+  <p>Flying Dutchman — эксклюзивный клуб в союзе Paradise на платформе PokerBros. Клуб предлагает высокий рейкбэк и
   активную игру на всех лимитах с 19:00 до 23:00 по GMT-7. Идеально подходит для игроков из Северной и Южной
   Америки.</p>
 

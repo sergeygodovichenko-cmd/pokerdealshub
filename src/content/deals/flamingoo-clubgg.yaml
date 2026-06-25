@@ -581,3 +581,4 @@ body: >-
   </ul>
 regions:
   - america
+hidden: true

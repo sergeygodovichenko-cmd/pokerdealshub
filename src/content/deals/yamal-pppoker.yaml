@@ -6,7 +6,7 @@ logoimage: /pppoker_logo.webp
 logoalt: PPPoker logo
 format: NLH / PLO5
 type: Decentralized
-rakeback: 75%
+rakeback: 70%
 fixrb: 35%
 affiliateLink: https://t.me/pdh_support_bot
 featured: false
@@ -27,7 +27,7 @@ chipPrice:
   rub: 100
 name: Покерная сделка в крупнейшем СНГ союзе Yamal
 description: >-
-  Сделка в одном из крупнейших союзов СНГ на PPPoker: мягкое поле в холдеме и 5-карточной Омахе, рейкбэк до 75% и много
+  Сделка в одном из крупнейших союзов СНГ на PPPoker: мягкое поле в холдеме и 5-карточной Омахе, рейкбэк до 70% и много
   казуальных игроков из России, Узбекистана и Казахстана.
 geo: Россия, Узбекистан, Казахстан
 bonus: ""
@@ -49,7 +49,7 @@ body: >-
 
   <h3>Условия</h3>
 
-  <p>Рейкбэк до 75% и фиксированный рейкбэк 35%. Членство в клубе без KYC — отправлять документы не нужно. Все условия
+  <p>Рейкбэк до 70% и фиксированный рейкбэк 35%. Членство в клубе без KYC — отправлять документы не нужно. Все условия
   проходят внутреннюю проверку PokerDealsHub.</p>
 
   <p>Чтобы получить ID клуба и ссылку для регистрации, напишите менеджеру PDH — мы на связи 24/7.</p>
@@ -57,7 +57,7 @@ i18n:
   en:
     name: Poker Deal in the Largest CIS Union Yamal
     description: >-
-      A deal in one of the largest CIS unions on PPPoker: a soft field at Hold'em and 5-Card Omaha, rakeback up to 75%
+      A deal in one of the largest CIS unions on PPPoker: a soft field at Hold'em and 5-Card Omaha, rakeback up to 70%
       and plenty of recreational players from Russia, Uzbekistan and Kazakhstan.
     geo: Russia, Uzbekistan, Kazakhstan
     body: >-
@@ -79,15 +79,15 @@ i18n:
 
       <h3>Terms</h3>
 
-      <p>Rakeback up to 75% plus a fixed 35% rakeback. Club membership is KYC-free — no documents required. All terms
+      <p>Rakeback up to 70% plus a fixed 35% rakeback. Club membership is KYC-free — no documents required. All terms
       undergo internal verification by PokerDealsHub.</p>
 
       <p>To get the club ID and your registration link, message a PDH manager — we're online 24/7.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   uz:
     name: Eng yirik MDH ittifoqi Yamaldagi poker bitimi
     description: >-
-      PPPokerdagi eng yirik MDH ittifoqlaridan biridagi bitim: Holdem va 5 kartali Omahada yumshoq stollar, 75% gacha
+      PPPokerdagi eng yirik MDH ittifoqlaridan biridagi bitim: Holdem va 5 kartali Omahada yumshoq stollar, 70% gacha
       rakebek hamda Rossiya, Oʻzbekiston va Qozogʻistondan koʻplab rekreatsion oʻyinchilar.
     geo: Rossiya, Oʻzbekiston, Qozogʻiston
     body: >-
@@ -110,15 +110,15 @@ i18n:
 
       <h3>Shartlar</h3>
 
-      <p>75% gacha rakebek va 35% qatʼiy rakebek. Klubga aʼzolik KYC-siz — hujjat yuborish shart emas. Barcha shartlar
+      <p>70% gacha rakebek va 35% qatʼiy rakebek. Klubga aʼzolik KYC-siz — hujjat yuborish shart emas. Barcha shartlar
       PokerDealsHub ichki tekshiruvidan oʻtadi.</p>
 
       <p>Klub ID va roʻyxatdan oʻtish havolasini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   uk:
     name: Покерна угода в найбільшому союзі СНД Yamal
     description: >-
-      Угода в одному з найбільших союзів СНД на PPPoker: мʼяке поле в холдемі та 5-картковій Омасі, рейкбек до 75% і
+      Угода в одному з найбільших союзів СНД на PPPoker: мʼяке поле в холдемі та 5-картковій Омасі, рейкбек до 70% і
       багато казуальних гравців із Росії, Узбекистану та Казахстану.
     geo: Росія, Узбекистан, Казахстан
     body: >-
@@ -140,16 +140,16 @@ i18n:
 
       <h3>Умови</h3>
 
-      <p>Рейкбек до 75% і фіксований рейкбек 35%. Членство в клубі без KYC — надсилати документи не потрібно. Усі умови
+      <p>Рейкбек до 70% і фіксований рейкбек 35%. Членство в клубі без KYC — надсилати документи не потрібно. Усі умови
       проходять внутрішню перевірку PokerDealsHub.</p>
 
       <p>Щоб отримати ID клубу та посилання для реєстрації, напишіть менеджеру PDH — ми на звʼязку 24/7.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   it:
     name: Poker deal nella più grande union della CSI, Yamal
     description: >-
       Un deal in una delle più grandi union della CSI su PPPoker: campo soft a Hold'em e Omaha a 5 carte, rakeback fino
-      al 75% e tanti giocatori ricreativi da Russia, Uzbekistan e Kazakistan.
+      al 70% e tanti giocatori ricreativi da Russia, Uzbekistan e Kazakistan.
     geo: Russia, Uzbekistan, Kazakistan
     body: >-
       <h3>Descrizione</h3>
@@ -170,16 +170,16 @@ i18n:
 
       <h3>Condizioni</h3>
 
-      <p>Rakeback fino al 75% più un rakeback fisso del 35%. L'iscrizione al club è senza KYC — nessun documento
+      <p>Rakeback fino al 70% più un rakeback fisso del 35%. L'iscrizione al club è senza KYC — nessun documento
       richiesto. Tutte le condizioni vengono verificate internamente da PokerDealsHub.</p>
 
       <p>Per ottenere l'ID del club e il tuo link di registrazione, scrivi a un manager PDH — siamo online 24/7.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   de:
     name: Poker-Deal in der größten GUS-Union Yamal
     description: >-
       Ein Deal in einer der größten GUS-Unions auf PPPoker: weiches Feld bei Hold'em und 5-Card Omaha, Rakeback bis zu
-      75 % und viele Freizeitspieler aus Russland, Usbekistan und Kasachstan.
+      70 % und viele Freizeitspieler aus Russland, Usbekistan und Kasachstan.
     geo: Russland, Usbekistan, Kasachstan
     body: >-
       <h3>Beschreibung</h3>
@@ -201,17 +201,17 @@ i18n:
 
       <h3>Konditionen</h3>
 
-      <p>Rakeback bis zu 75 % plus 35 % festes Rakeback. Die Club-Mitgliedschaft ist KYC-frei — keine Dokumente
+      <p>Rakeback bis zu 70 % plus 35 % festes Rakeback. Die Club-Mitgliedschaft ist KYC-frei — keine Dokumente
       erforderlich. Alle Konditionen werden intern von PokerDealsHub geprüft.</p>
 
       <p>Um die Club-ID und deinen Registrierungslink zu erhalten, schreibe einem PDH-Manager — wir sind rund um die Uhr
       erreichbar.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   es:
     name: Oferta de póker en la mayor unión de la CEI, Yamal
     description: >-
       Una oferta en una de las mayores uniones de la CEI en PPPoker: campo blando en Hold'em y Omaha de 5 cartas,
-      rakeback de hasta el 75% y muchos jugadores recreativos de Rusia, Uzbekistán y Kazajistán.
+      rakeback de hasta el 70% y muchos jugadores recreativos de Rusia, Uzbekistán y Kazajistán.
     geo: Rusia, Uzbekistán, Kazajistán
     body: >-
       <h3>Descripción</h3>
@@ -233,16 +233,16 @@ i18n:
 
       <h3>Condiciones</h3>
 
-      <p>Rakeback de hasta el 75% más un rakeback fijo del 35%. La membresía del club es sin KYC: no se requieren
+      <p>Rakeback de hasta el 70% más un rakeback fijo del 35%. La membresía del club es sin KYC: no se requieren
       documentos. Todas las condiciones pasan una verificación interna de PokerDealsHub.</p>
 
       <p>Para obtener el ID del club y tu enlace de registro, escribe a un mánager de PDH: estamos disponibles 24/7.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   pt:
     name: Acordo de pôquer na maior união da CEI, Yamal
     description: >-
       Um acordo em uma das maiores uniões da CEI no PPPoker: mesas soft no Hold'em e no Omaha de 5 cartas, rakeback de
-      até 75% e muitos jogadores recreativos da Rússia, Uzbequistão e Cazaquistão.
+      até 70% e muitos jogadores recreativos da Rússia, Uzbequistão e Cazaquistão.
     geo: Rússia, Uzbequistão, Cazaquistão
     body: >-
       <h3>Descrição</h3>
@@ -263,16 +263,16 @@ i18n:
 
       <h3>Condições</h3>
 
-      <p>Rakeback de até 75% mais um rakeback fixo de 35%. A adesão ao clube é sem KYC — não são necessários documentos.
+      <p>Rakeback de até 70% mais um rakeback fixo de 35%. A adesão ao clube é sem KYC — não são necessários documentos.
       Todas as condições passam por verificação interna da PokerDealsHub.</p>
 
       <p>Para obter o ID do clube e o seu link de registro, fale com um gerente da PDH — estamos online 24/7.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   fr:
     name: Deal poker dans la plus grande union de la CEI, Yamal
     description: >-
       Un deal dans l'une des plus grandes unions de la CEI sur PPPoker : tables tendres au Hold'em et à l'Omaha 5
-      cartes, rakeback jusqu'à 75 % et de nombreux joueurs récréatifs de Russie, d'Ouzbékistan et du Kazakhstan.
+      cartes, rakeback jusqu'à 70 % et de nombreux joueurs récréatifs de Russie, d'Ouzbékistan et du Kazakhstan.
     geo: Russie, Ouzbékistan, Kazakhstan
     body: >-
       <h3>Description</h3>
@@ -294,16 +294,16 @@ i18n:
 
       <h3>Conditions</h3>
 
-      <p>Rakeback jusqu'à 75 % plus un rakeback fixe de 35 %. L'adhésion au club est sans KYC — aucun document requis.
+      <p>Rakeback jusqu'à 70 % plus un rakeback fixe de 35 %. L'adhésion au club est sans KYC — aucun document requis.
       Toutes les conditions font l'objet d'une vérification interne par PokerDealsHub.</p>
 
       <p>Pour obtenir l'ID du club et votre lien d'inscription, écrivez à un manager PDH — nous sommes disponibles
       24/7.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   tr:
     name: En büyük BDT birliği Yamal'da poker anlaşması
     description: >-
-      PPPoker'daki en büyük BDT birliklerinden birinde anlaşma: Hold'em ve 5 Kartlı Omaha'da yumuşak masalar, %75'e
+      PPPoker'daki en büyük BDT birliklerinden birinde anlaşma: Hold'em ve 5 Kartlı Omaha'da yumuşak masalar, %70'e
       varan rakeback ve Rusya, Özbekistan ve Kazakistan'dan çok sayıda rekreasyonel oyuncu.
     geo: Rusya, Özbekistan, Kazakistan
     body: >-
@@ -326,15 +326,15 @@ i18n:
 
       <h3>Koşullar</h3>
 
-      <p>%75'e varan rakeback artı %35 sabit rakeback. Kulüp üyeliği KYC gerektirmez — belge göndermeye gerek yoktur.
+      <p>%70'e varan rakeback artı %35 sabit rakeback. Kulüp üyeliği KYC gerektirmez — belge göndermeye gerek yoktur.
       Tüm koşullar PokerDealsHub tarafından dahili olarak doğrulanır.</p>
 
       <p>Kulüp ID'sini ve kayıt bağlantınızı almak için bir PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   he:
     name: עסקת פוקר באיגוד חבר העמים הגדול ביותר Yamal
     description: >-
-      עסקה באחד מאיגודי חבר העמים הגדולים ביותר ב-PPPoker: שדה רך ב-Hold'em וב-Omaha בת 5 קלפים, רייקבק עד 75% והרבה
+      עסקה באחד מאיגודי חבר העמים הגדולים ביותר ב-PPPoker: שדה רך ב-Hold'em וב-Omaha בת 5 קלפים, רייקבק עד 70% והרבה
       שחקנים חובבים מרוסיה, אוזבקיסטן וקזחסטן.
     geo: רוסיה, אוזבקיסטן, קזחסטן
     body: >-
@@ -355,16 +355,16 @@ i18n:
 
       <h3>תנאים</h3>
 
-      <p>רייקבק עד 75% בתוספת רייקבק קבוע של 35%. החברות במועדון היא ללא KYC — אין צורך לשלוח מסמכים. כל התנאים עוברים
+      <p>רייקבק עד 70% בתוספת רייקבק קבוע של 35%. החברות במועדון היא ללא KYC — אין צורך לשלוח מסמכים. כל התנאים עוברים
       אימות פנימי של PokerDealsHub.</p>
 
       <p>כדי לקבל את מזהה המועדון ואת קישור ההרשמה שלך, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   ar:
     name: صفقة بوكر في أكبر اتحاد لرابطة الدول المستقلة Yamal
     description: >-
       صفقة في أحد أكبر اتحادات رابطة الدول المستقلة على PPPoker: طاولات سهلة في Hold'em وOmaha بخمس بطاقات، ريكباك يصل
-      إلى 75% والكثير من اللاعبين الترفيهيين من روسيا وأوزبكستان وكازاخستان.
+      إلى 70% والكثير من اللاعبين الترفيهيين من روسيا وأوزبكستان وكازاخستان.
     geo: روسيا، أوزبكستان، كازاخستان
     body: >-
       <h3>الوصف</h3>
@@ -384,16 +384,16 @@ i18n:
 
       <h3>الشروط</h3>
 
-      <p>ريكباك يصل إلى 75% بالإضافة إلى ريكباك ثابت بنسبة 35%. عضوية النادي بدون KYC — لا حاجة لإرسال مستندات. تخضع
+      <p>ريكباك يصل إلى 70% بالإضافة إلى ريكباك ثابت بنسبة 35%. عضوية النادي بدون KYC — لا حاجة لإرسال مستندات. تخضع
       جميع الشروط لتحقق داخلي من PokerDealsHub.</p>
 
       <p>للحصول على معرّف النادي ورابط التسجيل الخاص بك، راسل مدير PDH — نحن متواجدون على مدار الساعة طوال أيام
       الأسبوع.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   id:
     name: Deal poker di union CIS terbesar, Yamal
     description: >-
-      Deal di salah satu union CIS terbesar di PPPoker: meja soft di Hold'em dan Omaha 5 kartu, rakeback hingga 75%,
+      Deal di salah satu union CIS terbesar di PPPoker: meja soft di Hold'em dan Omaha 5 kartu, rakeback hingga 70%,
       serta banyak pemain rekreasional dari Rusia, Uzbekistan, dan Kazakhstan.
     geo: Rusia, Uzbekistan, Kazakhstan
     body: >-
@@ -415,16 +415,16 @@ i18n:
 
       <h3>Ketentuan</h3>
 
-      <p>Rakeback hingga 75% plus rakeback tetap 35%. Keanggotaan klub tanpa KYC — tidak perlu mengirim dokumen. Semua
+      <p>Rakeback hingga 70% plus rakeback tetap 35%. Keanggotaan klub tanpa KYC — tidak perlu mengirim dokumen. Semua
       ketentuan menjalani verifikasi internal oleh PokerDealsHub.</p>
 
       <p>Untuk mendapatkan ID klub dan tautan pendaftaran Anda, hubungi manajer PDH — kami online 24/7.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   vi:
     name: Ưu đãi poker tại liên minh CIS lớn nhất Yamal
     description: >-
       Ưu đãi tại một trong những liên minh CIS lớn nhất trên PPPoker: bàn mềm ở Hold'em và Omaha 5 lá, rakeback lên đến
-      75% và rất nhiều người chơi giải trí từ Nga, Uzbekistan và Kazakhstan.
+      70% và rất nhiều người chơi giải trí từ Nga, Uzbekistan và Kazakhstan.
     geo: Nga, Uzbekistan, Kazakhstan
     body: >-
       <h3>Mô tả</h3>
@@ -445,16 +445,16 @@ i18n:
 
       <h3>Điều kiện</h3>
 
-      <p>Rakeback lên đến 75% cộng thêm rakeback cố định 35%. Tư cách thành viên câu lạc bộ không cần KYC — không yêu
+      <p>Rakeback lên đến 70% cộng thêm rakeback cố định 35%. Tư cách thành viên câu lạc bộ không cần KYC — không yêu
       cầu giấy tờ. Mọi điều kiện đều được PokerDealsHub xác minh nội bộ.</p>
 
       <p>Để nhận ID câu lạc bộ và liên kết đăng ký của bạn, hãy nhắn cho quản lý PDH — chúng tôi trực tuyến 24/7.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5
   fil:
     name: Poker deal sa pinakamalaking CIS union na Yamal
     description: >-
       Isang deal sa isa sa pinakamalaking CIS union sa PPPoker: soft na mga mesa sa Hold'em at 5-Card Omaha, rakeback na
-      hanggang 75%, at maraming recreational na manlalaro mula sa Russia, Uzbekistan, at Kazakhstan.
+      hanggang 70%, at maraming recreational na manlalaro mula sa Russia, Uzbekistan, at Kazakhstan.
     geo: Russia, Uzbekistan, Kazakhstan
     body: >-
       <h3>Paglalarawan</h3>
@@ -477,9 +477,9 @@ i18n:
 
       <h3>Mga Kondisyon</h3>
 
-      <p>Rakeback hanggang 75% kasama ang fixed na 35% rakeback. Ang membership sa club ay walang KYC — hindi kailangan
+      <p>Rakeback hanggang 70% kasama ang fixed na 35% rakeback. Ang membership sa club ay walang KYC — hindi kailangan
       ng dokumento. Lahat ng kondisyon ay dumadaan sa internal na verification ng PokerDealsHub.</p>
 
       <p>Upang makuha ang club ID at ang iyong registration link, mag-message sa isang PDH manager — online kami
       24/7.</p>
-    srcHash: b6a452b2db39
+    srcHash: 16a8ac3158a5

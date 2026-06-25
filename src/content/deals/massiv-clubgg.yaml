@@ -1,5 +1,5 @@
 app: ClubGG
-club: Stampede
+club: BSB Massive
 union: Massiv Union
 logo: clubgg
 logoimage: /clubGG_logo.webp
@@ -39,9 +39,9 @@ i18n:
     body: >-
       <h3>Description</h3>
 
-      <p>Poker deal in the Stampede club, which is part of the largest union — Massiv Union on ClubGG. The combination
-      of a convenient and reliable app, excellent player pool, and high rakeback makes this deal one of the best
-      available.</p>
+      <p>Poker deal in the BSB Massive club, which is part of the largest union — Massiv Union on ClubGG. The
+      combination of a convenient and reliable app, excellent player pool, and high rakeback makes this deal one of the
+      best available.</p>
 
 
       <h3>About the Union</h3>
@@ -71,7 +71,7 @@ i18n:
       option later if you prefer.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   es:
     name: Oferta en la unión Massiv Union en ClubGG
     description: >-
@@ -81,9 +81,9 @@ i18n:
     body: >-
       <h3>Descripción</h3>
 
-      <p>Oferta de póker en el club Stampede, que forma parte de la enorme unión Massiv Union en ClubGG. La combinación
-      de una app cómoda y fiable, un excelente pool de jugadores y un rakeback alto convierte esta oferta en una de las
-      mejores.</p>
+      <p>Oferta de póker en el club BSB Massive, que forma parte de la enorme unión Massiv Union en ClubGG. La
+      combinación de una app cómoda y fiable, un excelente pool de jugadores y un rakeback alto convierte esta oferta en
+      una de las mejores.</p>
 
 
       <h3>Sobre la unión</h3>
@@ -113,7 +113,7 @@ i18n:
       pasarte al dinámico.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   uz:
     name: ClubGG’dagi Massiv Union ittifoqida bitim
     description: >-
@@ -123,7 +123,7 @@ i18n:
     body: >-
       <h3>Tavsif</h3>
 
-      <p>ClubGG’dagi eng yirik ittifoq — Massiv Union tarkibiga kiruvchi Stampede klubidagi poker bitimi. Qulay va
+      <p>ClubGG’dagi eng yirik ittifoq — Massiv Union tarkibiga kiruvchi BSB Massive klubidagi poker bitimi. Qulay va
       ishonchli ilova, ajoyib oʻyinchilar havzasi hamda yuqori reyk-bekning uygʻunligi ushbu bitimni eng yaxshilaridan
       biriga aylantiradi.</p>
 
@@ -155,7 +155,7 @@ i18n:
       imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   uk:
     name: Угода в союзі Massiv Union на ClubGG
     description: >-
@@ -166,8 +166,8 @@ i18n:
       <h3>Опис</h3>
 
 
-      <p>Покерна угода в клубі Stampede, який входить до найбільшого союзу Massiv Union на ClubGG. Поєднання зручного й
-      надійного застосунку, чудового пулу гравців і високого рейкбеку робить цю угоду однією з найкращих.</p>
+      <p>Покерна угода в клубі BSB Massive, який входить до найбільшого союзу Massiv Union на ClubGG. Поєднання зручного
+      й надійного застосунку, чудового пулу гравців і високого рейкбеку робить цю угоду однією з найкращих.</p>
 
 
 
@@ -205,7 +205,7 @@ i18n:
 
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   it:
     name: Offerta nell'unione Massiv Union su ClubGG
     description: >-
@@ -216,7 +216,7 @@ i18n:
       <h3>Descrizione</h3>
 
 
-      <p>Offerta di poker nel club Stampede, che fa parte della più grande unione Massiv Union su ClubGG. La
+      <p>Offerta di poker nel club BSB Massive, che fa parte della più grande unione Massiv Union su ClubGG. La
       combinazione di un'app comoda e affidabile, un eccellente pool di giocatori e un rakeback elevato rende questa
       offerta una delle migliori.</p>
 
@@ -258,7 +258,7 @@ i18n:
 
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   de:
     name: Deal in der Union Massiv Union auf ClubGG
     description: >-
@@ -269,7 +269,7 @@ i18n:
       <h3>Beschreibung</h3>
 
 
-      <p>Poker-Deal im Club Stampede, der zur größten Union Massiv Union auf ClubGG gehört. Die Kombination aus einer
+      <p>Poker-Deal im Club BSB Massive, der zur größten Union Massiv Union auf ClubGG gehört. Die Kombination aus einer
       komfortablen, zuverlässigen App, einem hervorragenden Spielerpool und hohem Rakeback macht diesen Deal zu einem
       der besten.</p>
 
@@ -312,7 +312,7 @@ i18n:
 
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   pt:
     name: Oferta na união Massiv Union no ClubGG
     description: >-
@@ -322,8 +322,8 @@ i18n:
     body: >-
       <h3>Descrição</h3>
 
-      <p>Oferta de poker no clube Stampede, que faz parte da enorme união Massiv Union no ClubGG. A combinação de um app
-      prático e confiável, um ótimo pool de jogadores e um rakeback alto faz desta uma das melhores ofertas.</p>
+      <p>Oferta de poker no clube BSB Massive, que faz parte da enorme união Massiv Union no ClubGG. A combinação de um
+      app prático e confiável, um ótimo pool de jogadores e um rakeback alto faz desta uma das melhores ofertas.</p>
 
 
       <h3>Sobre a união</h3>
@@ -352,7 +352,7 @@ i18n:
       para o dinâmico.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   fr:
     name: Offre dans l'union Massiv Union sur ClubGG
     description: >-
@@ -362,7 +362,7 @@ i18n:
     body: >-
       <h3>Description</h3>
 
-      <p>Offre de poker dans le club Stampede, qui fait partie de l'immense union Massiv Union sur ClubGG. L'alliance
+      <p>Offre de poker dans le club BSB Massive, qui fait partie de l'immense union Massiv Union sur ClubGG. L'alliance
       d'une appli pratique et fiable, d'un excellent pool de joueurs et d'un rakeback élevé fait de cette offre l'une
       des meilleures.</p>
 
@@ -394,7 +394,7 @@ i18n:
       au dynamique plus tard.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   tr:
     name: ClubGG'de Massiv Union birliğinde anlaşma
     description: >-
@@ -404,7 +404,7 @@ i18n:
     body: >-
       <h3>Açıklama</h3>
 
-      <p>ClubGG'deki en büyük birlik Massiv Union'ın parçası olan Stampede kulübünde poker anlaşması. Kullanışlı ve
+      <p>ClubGG'deki en büyük birlik Massiv Union'ın parçası olan BSB Massive kulübünde poker anlaşması. Kullanışlı ve
       güvenilir bir uygulamanın, harika bir oyuncu havuzunun ve yüksek rakeback'in birleşimi bu anlaşmayı en iyilerden
       biri yapıyor.</p>
 
@@ -435,7 +435,7 @@ i18n:
       geçebilirsiniz.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   he:
     name: דיל באיחוד Massiv Union ב-ClubGG
     description: דיל באיחוד האגדי Massiv Union ב-ClubGG. כנראה אחד משדות הפוקר הטובים ביותר לכל הדיסציפלינות והלימיטים. ג'קפוט ענק!
@@ -443,8 +443,8 @@ i18n:
     body: >-
       <h3>תיאור</h3>
 
-      <p>דיל פוקר במועדון Stampede, שחבר באיחוד הגדול ביותר Massiv Union ב-ClubGG. השילוב של אפליקציה נוחה ואמינה, פול
-      שחקנים מצוין ורייקבק גבוה הופך את הדיל הזו לאחת הטובות ביותר.</p>
+      <p>דיל פוקר במועדון BSB Massive, שחבר באיחוד הגדול ביותר Massiv Union ב-ClubGG. השילוב של אפליקציה נוחה ואמינה,
+      פול שחקנים מצוין ורייקבק גבוה הופך את הדיל הזו לאחת הטובות ביותר.</p>
 
 
       <h3>על האיחוד</h3>
@@ -472,7 +472,7 @@ i18n:
       לדינמי.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   ar:
     name: صفقة في اتحاد Massiv Union على ClubGG
     description: >-
@@ -482,8 +482,8 @@ i18n:
     body: >-
       <h3>الوصف</h3>
 
-      <p>صفقة بوكر في نادي Stampede، وهو جزء من أكبر اتحاد Massiv Union على ClubGG. الجمع بين تطبيق مريح وموثوق، ومجموعة
-      لاعبين ممتازة، وريكباك مرتفع يجعل هذه الصفقة من بين الأفضل.</p>
+      <p>صفقة بوكر في نادي BSB Massive، وهو جزء من أكبر اتحاد Massiv Union على ClubGG. الجمع بين تطبيق مريح وموثوق،
+      ومجموعة لاعبين ممتازة، وريكباك مرتفع يجعل هذه الصفقة من بين الأفضل.</p>
 
 
       <h3>عن الاتحاد</h3>
@@ -511,7 +511,7 @@ i18n:
       الديناميكي.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   id:
     name: Deal di union Massiv Union pada ClubGG
     description: >-
@@ -521,7 +521,7 @@ i18n:
     body: >-
       <h3>Deskripsi</h3>
 
-      <p>Deal poker di klub Stampede, yang merupakan bagian dari union terbesar Massiv Union pada ClubGG. Kombinasi
+      <p>Deal poker di klub BSB Massive, yang merupakan bagian dari union terbesar Massiv Union pada ClubGG. Kombinasi
       aplikasi yang nyaman dan andal, pool pemain yang sangat baik, serta rakeback tinggi menjadikan deal ini salah satu
       yang terbaik.</p>
 
@@ -554,7 +554,7 @@ i18n:
       registrasi. Nantinya Anda bisa beralih ke model dinamis.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   vi:
     name: Kèo tại liên minh Massiv Union trên ClubGG
     description: >-
@@ -564,9 +564,9 @@ i18n:
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Kèo poker tại câu lạc bộ Stampede, thuộc liên minh lớn nhất Massiv Union trên ClubGG. Sự kết hợp giữa ứng dụng
-      tiện lợi, đáng tin cậy, lượng người chơi tuyệt vời cùng rakeback cao đưa kèo này trở thành một trong những kèo tốt
-      nhất.</p>
+      <p>Kèo poker tại câu lạc bộ BSB Massive, thuộc liên minh lớn nhất Massiv Union trên ClubGG. Sự kết hợp giữa ứng
+      dụng tiện lợi, đáng tin cậy, lượng người chơi tuyệt vời cùng rakeback cao đưa kèo này trở thành một trong những
+      kèo tốt nhất.</p>
 
 
       <h3>Về liên minh</h3>
@@ -595,7 +595,7 @@ i18n:
       sang phương án động.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
   fil:
     name: Deal sa union na Massiv Union sa ClubGG
     description: >-
@@ -605,9 +605,9 @@ i18n:
     body: >-
       <h3>Paglalarawan</h3>
 
-      <p>Poker deal sa club na Stampede, na bahagi ng pinakamalaking union na Massiv Union sa ClubGG. Ang kombinasyon ng
-      maginhawa at maaasahang app, napakagandang player pool, at mataas na rakeback ang gumagawa sa deal na ito bilang
-      isa sa pinakamahusay.</p>
+      <p>Poker deal sa club na BSB Massive, na bahagi ng pinakamalaking union na Massiv Union sa ClubGG. Ang kombinasyon
+      ng maginhawa at maaasahang app, napakagandang player pool, at mataas na rakeback ang gumagawa sa deal na ito
+      bilang isa sa pinakamahusay.</p>
 
 
       <h3>Tungkol sa union</h3>
@@ -639,12 +639,12 @@ i18n:
       pagkatapos magrehistro. Maaari kang lumipat sa dynamic sa bandang huli.</li>
 
       </ul>
-    srcHash: e6503ff7a740
+    srcHash: fc0bd64ffa5b
 body: >-
   <h3>Описание</h3>
 
-  <p>Покерная сделка в клубе Stampede, который состоит в крупнейшем союзе Massiv Union на ClubGG. Сочетание удобного и
-  надежного приложения, отличного пула игроков и высокого рейкбэка делает эту сделку одной из лучших.</p>
+  <p>Покерная сделка в клубе BSB Massive, который состоит в крупнейшем союзе Massiv Union на ClubGG. Сочетание удобного
+  и надежного приложения, отличного пула игроков и высокого рейкбэка делает эту сделку одной из лучших.</p>
 
 
   <h3>О союзе</h3>
