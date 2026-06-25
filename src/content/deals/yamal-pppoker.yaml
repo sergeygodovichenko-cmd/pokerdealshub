@@ -1,0 +1,494 @@
+app: PPPoker
+club: PDH Yamal
+union: Yamal
+logo: pppoker
+logoimage: /pppoker_logo.webp
+logoalt: PPPoker logo
+format: NLH / PLO5
+type: Decentralized
+rakeback: 75%
+fixrb: 35%
+affiliateLink: https://t.me/pdh_support_bot
+featured: false
+order: 12
+badges:
+  - topDeal
+  - pdhApproved
+  - soft
+  - cisPlayers
+regions:
+  - cis
+ratings:
+  mtt: 4
+  cash: 5
+  plo: 5
+  nlh: 4
+chipPrice:
+  rub: 100
+name: Покерная сделка в крупнейшем СНГ союзе Yamal
+description: >-
+  Сделка в одном из крупнейших союзов СНГ на PPPoker: мягкое поле в холдеме и 5-карточной Омахе, рейкбэк до 75% и много
+  казуальных игроков из России, Узбекистана и Казахстана.
+geo: Россия, Узбекистан, Казахстан
+bonus: ""
+body: >-
+  <h3>Описание</h3>
+
+  <p>Покерная сделка в клубе PDH Yamal, который входит в один из крупнейших русскоязычных союзов на PPPoker — Yamal.</p>
+
+  <p>Клубом управляет PokerDealsHub: это гарантирует прозрачные и честные условия сотрудничества и клиентскую поддержку
+  высшего класса в любое время суток.</p>
+
+  <h3>О союзе</h3>
+
+  <p>Yamal — один из ведущих союзов СНГ на PPPoker, объединяющий игроков из России, Узбекистана, Казахстана и других
+  стран региона. Союз известен мягким полем и большим количеством казуальных игроков на микро- и низких лимитах.</p>
+
+  <p>Основные дисциплины — безлимитный холдем (NLH) и 5-карточная Омаха (PLO5). Лимиты — от микро до средних, кэш-столы
+  доходят до NL200. Игры идут круглосуточно, пик активности — вечером по московскому времени.</p>
+
+  <h3>Условия</h3>
+
+  <p>Рейкбэк до 75% и фиксированный рейкбэк 35%. Членство в клубе без KYC — отправлять документы не нужно. Все условия
+  проходят внутреннюю проверку PokerDealsHub.</p>
+
+  <p>Чтобы получить ID клуба и ссылку для регистрации, напишите менеджеру PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Poker Deal in the Largest CIS Union Yamal
+    description: >-
+      A deal in one of the largest CIS unions on PPPoker: a soft field at Hold'em and 5-Card Omaha, rakeback up to 75%
+      and plenty of recreational players from Russia, Uzbekistan and Kazakhstan.
+    geo: Russia, Uzbekistan, Kazakhstan
+    body: >-
+      <h3>Description</h3>
+
+      <p>A poker deal in the PDH Yamal club, part of one of the largest Russian-speaking unions on PPPoker — Yamal.</p>
+
+      <p>The club is managed by PokerDealsHub, ensuring transparent and fair cooperation terms as well as top-class
+      customer support around the clock.</p>
+
+      <h3>About the Union</h3>
+
+      <p>Yamal is one of the leading CIS unions on PPPoker, bringing together players from Russia, Uzbekistan,
+      Kazakhstan and other countries of the region. The union is known for its soft field and a large number of
+      recreational players at micro and low stakes.</p>
+
+      <p>The main disciplines are No-Limit Hold'em (NLH) and 5-Card Omaha (PLO5). Stakes range from micro to mid, with
+      cash tables up to NL200. Games run around the clock, with peak activity in the evening Moscow time.</p>
+
+      <h3>Terms</h3>
+
+      <p>Rakeback up to 75% plus a fixed 35% rakeback. Club membership is KYC-free — no documents required. All terms
+      undergo internal verification by PokerDealsHub.</p>
+
+      <p>To get the club ID and your registration link, message a PDH manager — we're online 24/7.</p>
+    srcHash: 5d5c9e8c6ae0
+  uz:
+    name: Eng yirik MDH ittifoqi Yamaldagi poker bitimi
+    description: >-
+      PPPokerdagi eng yirik MDH ittifoqlaridan biridagi bitim: Holdem va 5 kartali Omahada yumshoq stollar, 75% gacha
+      rakebek hamda Rossiya, Oʻzbekiston va Qozogʻistondan koʻplab rekreatsion oʻyinchilar.
+    geo: Rossiya, Oʻzbekiston, Qozogʻiston
+    body: >-
+      <h3>Tavsif</h3>
+
+      <p>PDH Yamal klubidagi poker bitimi — bu klub PPPokerdagi eng yirik rusiyzabon ittifoqlardan biri, Yamal tarkibiga
+      kiradi.</p>
+
+      <p>Klubni PokerDealsHub boshqaradi: bu shaffof va halol hamkorlik shartlari hamda sutkaning istalgan vaqtida
+      yuqori darajadagi mijozlarni qoʻllab-quvvatlashni kafolatlaydi.</p>
+
+      <h3>Ittifoq haqida</h3>
+
+      <p>Yamal — PPPokerdagi yetakchi MDH ittifoqlaridan biri boʻlib, Rossiya, Oʻzbekiston, Qozogʻiston va mintaqaning
+      boshqa mamlakatlaridan oʻyinchilarni birlashtiradi. Ittifoq yumshoq stollari va mikro hamda past limitlarda
+      koʻplab rekreatsion oʻyinchilari bilan mashhur.</p>
+
+      <p>Asosiy intizomlar — limitsiz Holdem (NLH) va 5 kartali Omaha (PLO5). Limitlar mikrodan oʻrtagacha, kesh stollar
+      NL200 gacha yetadi. Oʻyinlar kechayu kunduz davom etadi, faollik choʻqqisi — kechqurun Moskva vaqti bilan.</p>
+
+      <h3>Shartlar</h3>
+
+      <p>75% gacha rakebek va 35% qatʼiy rakebek. Klubga aʼzolik KYC-siz — hujjat yuborish shart emas. Barcha shartlar
+      PokerDealsHub ichki tekshiruvidan oʻtadi.</p>
+
+      <p>Klub ID va roʻyxatdan oʻtish havolasini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
+    srcHash: 5d5c9e8c6ae0
+  uk:
+    name: Покерна угода в найбільшому союзі СНД Yamal
+    description: >-
+      Угода в одному з найбільших союзів СНД на PPPoker: мʼяке поле в холдемі та 5-картковій Омасі, рейкбек до 75% і
+      багато казуальних гравців із Росії, Узбекистану та Казахстану.
+    geo: Росія, Узбекистан, Казахстан
+    body: >-
+      <h3>Опис</h3>
+
+      <p>Покерна угода в клубі PDH Yamal, який входить до одного з найбільших російськомовних союзів на PPPoker —
+      Yamal.</p>
+
+      <p>Клубом керує PokerDealsHub: це гарантує прозорі та чесні умови співпраці, а також клієнтську підтримку
+      найвищого класу в будь-який час доби.</p>
+
+      <h3>Про союз</h3>
+
+      <p>Yamal — один із провідних союзів СНД на PPPoker, що обʼєднує гравців із Росії, Узбекистану, Казахстану та інших
+      країн регіону. Союз відомий мʼяким полем і великою кількістю казуальних гравців на мікро- та низьких лімітах.</p>
+
+      <p>Основні дисципліни — безлімітний холдем (NLH) і 5-карткова Омаха (PLO5). Ліміти — від мікро до середніх,
+      кеш-столи сягають NL200. Ігри тривають цілодобово, пік активності — увечері за московським часом.</p>
+
+      <h3>Умови</h3>
+
+      <p>Рейкбек до 75% і фіксований рейкбек 35%. Членство в клубі без KYC — надсилати документи не потрібно. Усі умови
+      проходять внутрішню перевірку PokerDealsHub.</p>
+
+      <p>Щоб отримати ID клубу та посилання для реєстрації, напишіть менеджеру PDH — ми на звʼязку 24/7.</p>
+    srcHash: 5d5c9e8c6ae0
+  it:
+    name: Poker deal nella più grande union della CSI, Yamal
+    description: >-
+      Un deal in una delle più grandi union della CSI su PPPoker: campo soft a Hold'em e Omaha a 5 carte, rakeback fino
+      al 75% e tanti giocatori ricreativi da Russia, Uzbekistan e Kazakistan.
+    geo: Russia, Uzbekistan, Kazakistan
+    body: >-
+      <h3>Descrizione</h3>
+
+      <p>Un poker deal nel club PDH Yamal, parte di una delle più grandi union di lingua russa su PPPoker — Yamal.</p>
+
+      <p>Il club è gestito da PokerDealsHub: questo garantisce condizioni di collaborazione trasparenti e corrette,
+      oltre a un'assistenza clienti di altissimo livello 24 ore su 24.</p>
+
+      <h3>Informazioni sulla union</h3>
+
+      <p>Yamal è una delle principali union della CSI su PPPoker e riunisce giocatori da Russia, Uzbekistan, Kazakistan
+      e altri paesi della regione. La union è nota per il suo campo soft e per il gran numero di giocatori ricreativi ai
+      micro e bassi limiti.</p>
+
+      <p>Le discipline principali sono il No-Limit Hold'em (NLH) e l'Omaha a 5 carte (PLO5). I limiti vanno dai micro ai
+      medi, con tavoli cash fino a NL200. Si gioca 24 ore su 24, con picco di attività la sera ora di Mosca.</p>
+
+      <h3>Condizioni</h3>
+
+      <p>Rakeback fino al 75% più un rakeback fisso del 35%. L'iscrizione al club è senza KYC — nessun documento
+      richiesto. Tutte le condizioni vengono verificate internamente da PokerDealsHub.</p>
+
+      <p>Per ottenere l'ID del club e il tuo link di registrazione, scrivi a un manager PDH — siamo online 24/7.</p>
+    srcHash: 5d5c9e8c6ae0
+  de:
+    name: Poker-Deal in der größten GUS-Union Yamal
+    description: >-
+      Ein Deal in einer der größten GUS-Unions auf PPPoker: weiches Feld bei Hold'em und 5-Card Omaha, Rakeback bis zu
+      75 % und viele Freizeitspieler aus Russland, Usbekistan und Kasachstan.
+    geo: Russland, Usbekistan, Kasachstan
+    body: >-
+      <h3>Beschreibung</h3>
+
+      <p>Ein Poker-Deal im Club PDH Yamal, der zu einer der größten russischsprachigen Unions auf PPPoker gehört —
+      Yamal.</p>
+
+      <p>Der Club wird von PokerDealsHub verwaltet: Das garantiert transparente und faire Konditionen sowie
+      erstklassigen Kundensupport rund um die Uhr.</p>
+
+      <h3>Über die Union</h3>
+
+      <p>Yamal ist eine der führenden GUS-Unions auf PPPoker und vereint Spieler aus Russland, Usbekistan, Kasachstan
+      und weiteren Ländern der Region. Die Union ist für ihr weiches Feld und die große Zahl an Freizeitspielern an den
+      Micro- und Low-Stakes bekannt.</p>
+
+      <p>Die wichtigsten Disziplinen sind No-Limit Hold'em (NLH) und 5-Card Omaha (PLO5). Die Limits reichen von Micro
+      bis Mid, Cash-Tische gehen bis NL200. Gespielt wird rund um die Uhr, mit Aktivitätshoch am Abend (Moskauer
+      Zeit).</p>
+
+      <h3>Konditionen</h3>
+
+      <p>Rakeback bis zu 75 % plus 35 % festes Rakeback. Die Club-Mitgliedschaft ist KYC-frei — keine Dokumente
+      erforderlich. Alle Konditionen werden intern von PokerDealsHub geprüft.</p>
+
+      <p>Um die Club-ID und deinen Registrierungslink zu erhalten, schreibe einem PDH-Manager — wir sind rund um die Uhr
+      erreichbar.</p>
+    srcHash: 5d5c9e8c6ae0
+  es:
+    name: Oferta de póker en la mayor unión de la CEI, Yamal
+    description: >-
+      Una oferta en una de las mayores uniones de la CEI en PPPoker: campo blando en Hold'em y Omaha de 5 cartas,
+      rakeback de hasta el 75% y muchos jugadores recreativos de Rusia, Uzbekistán y Kazajistán.
+    geo: Rusia, Uzbekistán, Kazajistán
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>Una oferta de póker en el club PDH Yamal, que forma parte de una de las mayores uniones de habla rusa en
+      PPPoker: Yamal.</p>
+
+      <p>El club está gestionado por PokerDealsHub, lo que garantiza condiciones de colaboración transparentes y justas,
+      además de una atención al cliente de primera clase las 24 horas.</p>
+
+      <h3>Sobre la unión</h3>
+
+      <p>Yamal es una de las principales uniones de la CEI en PPPoker y reúne a jugadores de Rusia, Uzbekistán,
+      Kazajistán y otros países de la región. La unión es conocida por su campo blando y por su gran cantidad de
+      jugadores recreativos en los micro y bajos límites.</p>
+
+      <p>Las disciplinas principales son el No-Limit Hold'em (NLH) y el Omaha de 5 cartas (PLO5). Los límites van de
+      micro a medios, con mesas de cash hasta NL200. Se juega las 24 horas, con pico de actividad por la tarde-noche
+      (hora de Moscú).</p>
+
+      <h3>Condiciones</h3>
+
+      <p>Rakeback de hasta el 75% más un rakeback fijo del 35%. La membresía del club es sin KYC: no se requieren
+      documentos. Todas las condiciones pasan una verificación interna de PokerDealsHub.</p>
+
+      <p>Para obtener el ID del club y tu enlace de registro, escribe a un mánager de PDH: estamos disponibles 24/7.</p>
+    srcHash: 5d5c9e8c6ae0
+  pt:
+    name: Acordo de pôquer na maior união da CEI, Yamal
+    description: >-
+      Um acordo em uma das maiores uniões da CEI no PPPoker: mesas soft no Hold'em e no Omaha de 5 cartas, rakeback de
+      até 75% e muitos jogadores recreativos da Rússia, Uzbequistão e Cazaquistão.
+    geo: Rússia, Uzbequistão, Cazaquistão
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>Um acordo de pôquer no clube PDH Yamal, que faz parte de uma das maiores uniões de língua russa no PPPoker —
+      Yamal.</p>
+
+      <p>O clube é administrado pela PokerDealsHub, o que garante condições de cooperação transparentes e justas, além
+      de um suporte ao cliente de primeira classe 24 horas por dia.</p>
+
+      <h3>Sobre a união</h3>
+
+      <p>Yamal é uma das principais uniões da CEI no PPPoker e reúne jogadores da Rússia, Uzbequistão, Cazaquistão e de
+      outros países da região. A união é conhecida pelas mesas soft e pelo grande número de jogadores recreativos nos
+      micro e baixos limites.</p>
+
+      <p>As principais modalidades são o No-Limit Hold'em (NLH) e o Omaha de 5 cartas (PLO5). Os limites vão de micro a
+      médios, com mesas de cash até NL200. Os jogos acontecem 24 horas por dia, com pico de atividade à noite (horário
+      de Moscou).</p>
+
+      <h3>Condições</h3>
+
+      <p>Rakeback de até 75% mais um rakeback fixo de 35%. A adesão ao clube é sem KYC — não são necessários documentos.
+      Todas as condições passam por verificação interna da PokerDealsHub.</p>
+
+      <p>Para obter o ID do clube e o seu link de registro, fale com um gerente da PDH — estamos online 24/7.</p>
+    srcHash: 5d5c9e8c6ae0
+  fr:
+    name: Deal poker dans la plus grande union de la CEI, Yamal
+    description: >-
+      Un deal dans l'une des plus grandes unions de la CEI sur PPPoker : tables tendres au Hold'em et à l'Omaha 5
+      cartes, rakeback jusqu'à 75 % et de nombreux joueurs récréatifs de Russie, d'Ouzbékistan et du Kazakhstan.
+    geo: Russie, Ouzbékistan, Kazakhstan
+    body: >-
+      <h3>Description</h3>
+
+      <p>Un deal poker dans le club PDH Yamal, qui fait partie de l'une des plus grandes unions russophones sur PPPoker
+      — Yamal.</p>
+
+      <p>Le club est géré par PokerDealsHub, ce qui garantit des conditions de coopération transparentes et équitables
+      ainsi qu'un support client de premier ordre 24 h/24.</p>
+
+      <h3>À propos de l'union</h3>
+
+      <p>Yamal est l'une des principales unions de la CEI sur PPPoker et rassemble des joueurs de Russie, d'Ouzbékistan,
+      du Kazakhstan et d'autres pays de la région. L'union est connue pour ses tables tendres et son grand nombre de
+      joueurs récréatifs aux micro et basses limites.</p>
+
+      <p>Les principales disciplines sont le No-Limit Hold'em (NLH) et l'Omaha 5 cartes (PLO5). Les limites vont des
+      micros aux moyennes, avec des tables de cash jusqu'à NL200. Les parties tournent 24 h/24, avec un pic d'activité
+      le soir (heure de Moscou).</p>
+
+      <h3>Conditions</h3>
+
+      <p>Rakeback jusqu'à 75 % plus un rakeback fixe de 35 %. L'adhésion au club est sans KYC — aucun document requis.
+      Toutes les conditions font l'objet d'une vérification interne par PokerDealsHub.</p>
+
+      <p>Pour obtenir l'ID du club et votre lien d'inscription, écrivez à un manager PDH — nous sommes disponibles
+      24/7.</p>
+    srcHash: 5d5c9e8c6ae0
+  tr:
+    name: En büyük BDT birliği Yamal'da poker anlaşması
+    description: >-
+      PPPoker'daki en büyük BDT birliklerinden birinde anlaşma: Hold'em ve 5 Kartlı Omaha'da yumuşak masalar, %75'e
+      varan rakeback ve Rusya, Özbekistan ve Kazakistan'dan çok sayıda rekreasyonel oyuncu.
+    geo: Rusya, Özbekistan, Kazakistan
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>PDH Yamal kulübünde bir poker anlaşması; bu kulüp PPPoker'daki en büyük Rusça konuşan birliklerden biri olan
+      Yamal'ın parçasıdır.</p>
+
+      <p>Kulüp PokerDealsHub tarafından yönetilir: bu, şeffaf ve adil iş birliği koşullarının yanı sıra günün her saati
+      birinci sınıf müşteri desteğini garanti eder.</p>
+
+      <h3>Birlik hakkında</h3>
+
+      <p>Yamal, PPPoker'daki önde gelen BDT birliklerinden biridir ve Rusya, Özbekistan, Kazakistan ve bölgedeki diğer
+      ülkelerden oyuncuları bir araya getirir. Birlik, yumuşak masaları ve mikro ile düşük limitlerdeki çok sayıda
+      rekreasyonel oyuncusuyla tanınır.</p>
+
+      <p>Başlıca disiplinler No-Limit Hold'em (NLH) ve 5 Kartlı Omaha'dır (PLO5). Limitler mikrodan ortaya kadar uzanır,
+      cash masaları NL200'e kadar çıkar. Oyunlar günün her saati sürer, etkinlik zirvesi akşam saatlerindedir (Moskova
+      saati).</p>
+
+      <h3>Koşullar</h3>
+
+      <p>%75'e varan rakeback artı %35 sabit rakeback. Kulüp üyeliği KYC gerektirmez — belge göndermeye gerek yoktur.
+      Tüm koşullar PokerDealsHub tarafından dahili olarak doğrulanır.</p>
+
+      <p>Kulüp ID'sini ve kayıt bağlantınızı almak için bir PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
+    srcHash: 5d5c9e8c6ae0
+  he:
+    name: עסקת פוקר באיגוד חבר העמים הגדול ביותר Yamal
+    description: >-
+      עסקה באחד מאיגודי חבר העמים הגדולים ביותר ב-PPPoker: שדה רך ב-Hold'em וב-Omaha בת 5 קלפים, רייקבק עד 75% והרבה
+      שחקנים חובבים מרוסיה, אוזבקיסטן וקזחסטן.
+    geo: רוסיה, אוזבקיסטן, קזחסטן
+    body: >-
+      <h3>תיאור</h3>
+
+      <p>עסקת פוקר במועדון PDH Yamal, החלק מאחד מאיגודי דוברי הרוסית הגדולים ביותר ב-PPPoker — Yamal.</p>
+
+      <p>המועדון מנוהל על ידי PokerDealsHub, מה שמבטיח תנאי שיתוף פעולה שקופים והוגנים וכן תמיכת לקוחות ברמה הגבוהה
+      ביותר מסביב לשעון.</p>
+
+      <h3>על האיגוד</h3>
+
+      <p>Yamal הוא אחד מאיגודי חבר העמים המובילים ב-PPPoker, המאגד שחקנים מרוסיה, אוזבקיסטן, קזחסטן ומדינות נוספות
+      באזור. האיגוד ידוע בשדה הרך שלו ובמספר הרב של שחקנים חובבים בלימיטים הנמוכים והמיקרו.</p>
+
+      <p>הדיסציפלינות העיקריות הן No-Limit Hold'em (NLH) ו-Omaha בת 5 קלפים (PLO5). הלימיטים נעים ממיקרו ועד בינוני,
+      ושולחנות הקאש מגיעים עד NL200. המשחקים מתקיימים מסביב לשעון, שיא הפעילות בערב לפי שעון מוסקבה.</p>
+
+      <h3>תנאים</h3>
+
+      <p>רייקבק עד 75% בתוספת רייקבק קבוע של 35%. החברות במועדון היא ללא KYC — אין צורך לשלוח מסמכים. כל התנאים עוברים
+      אימות פנימי של PokerDealsHub.</p>
+
+      <p>כדי לקבל את מזהה המועדון ואת קישור ההרשמה שלך, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
+    srcHash: 5d5c9e8c6ae0
+  ar:
+    name: صفقة بوكر في أكبر اتحاد لرابطة الدول المستقلة Yamal
+    description: >-
+      صفقة في أحد أكبر اتحادات رابطة الدول المستقلة على PPPoker: طاولات سهلة في Hold'em وOmaha بخمس بطاقات، ريكباك يصل
+      إلى 75% والكثير من اللاعبين الترفيهيين من روسيا وأوزبكستان وكازاخستان.
+    geo: روسيا، أوزبكستان، كازاخستان
+    body: >-
+      <h3>الوصف</h3>
+
+      <p>صفقة بوكر في نادي PDH Yamal، وهو جزء من أحد أكبر الاتحادات الناطقة بالروسية على PPPoker — Yamal.</p>
+
+      <p>يُدار النادي بواسطة PokerDealsHub، مما يضمن شروط تعاون شفافة وعادلة بالإضافة إلى دعم عملاء من الدرجة الأولى على
+      مدار الساعة.</p>
+
+      <h3>عن الاتحاد</h3>
+
+      <p>يُعد Yamal أحد اتحادات رابطة الدول المستقلة الرائدة على PPPoker، ويجمع لاعبين من روسيا وأوزبكستان وكازاخستان
+      ودول أخرى في المنطقة. يشتهر الاتحاد بطاولاته السهلة وبعدد كبير من اللاعبين الترفيهيين على الحدود الصغيرة
+      والمنخفضة.</p>
+
+      <p>التخصصات الرئيسية هي No-Limit Hold'em (NLH) وOmaha بخمس بطاقات (PLO5). تتراوح الحدود من الصغيرة إلى المتوسطة،
+      وتصل طاولات الكاش إلى NL200. تُقام الألعاب على مدار الساعة، مع ذروة النشاط مساءً بتوقيت موسكو.</p>
+
+      <h3>الشروط</h3>
+
+      <p>ريكباك يصل إلى 75% بالإضافة إلى ريكباك ثابت بنسبة 35%. عضوية النادي بدون KYC — لا حاجة لإرسال مستندات. تخضع
+      جميع الشروط لتحقق داخلي من PokerDealsHub.</p>
+
+      <p>للحصول على معرّف النادي ورابط التسجيل الخاص بك، راسل مدير PDH — نحن متواجدون على مدار الساعة طوال أيام
+      الأسبوع.</p>
+    srcHash: 5d5c9e8c6ae0
+  id:
+    name: Deal poker di union CIS terbesar, Yamal
+    description: >-
+      Deal di salah satu union CIS terbesar di PPPoker: meja soft di Hold'em dan Omaha 5 kartu, rakeback hingga 75%,
+      serta banyak pemain rekreasional dari Rusia, Uzbekistan, dan Kazakhstan.
+    geo: Rusia, Uzbekistan, Kazakhstan
+    body: >-
+      <h3>Deskripsi</h3>
+
+      <p>Deal poker di klub PDH Yamal, bagian dari salah satu union berbahasa Rusia terbesar di PPPoker — Yamal.</p>
+
+      <p>Klub ini dikelola oleh PokerDealsHub, yang menjamin syarat kerja sama yang transparan dan adil serta dukungan
+      pelanggan kelas atas sepanjang waktu.</p>
+
+      <h3>Tentang Union</h3>
+
+      <p>Yamal adalah salah satu union CIS terkemuka di PPPoker, yang menyatukan pemain dari Rusia, Uzbekistan,
+      Kazakhstan, dan negara lain di kawasan tersebut. Union ini dikenal dengan meja soft-nya dan banyaknya pemain
+      rekreasional di limit mikro dan rendah.</p>
+
+      <p>Disiplin utamanya adalah No-Limit Hold'em (NLH) dan Omaha 5 kartu (PLO5). Limit berkisar dari mikro hingga
+      menengah, dengan meja cash sampai NL200. Permainan berlangsung sepanjang waktu, dengan puncak aktivitas pada malam
+      hari waktu Moskow.</p>
+
+      <h3>Ketentuan</h3>
+
+      <p>Rakeback hingga 75% plus rakeback tetap 35%. Keanggotaan klub tanpa KYC — tidak perlu mengirim dokumen. Semua
+      ketentuan menjalani verifikasi internal oleh PokerDealsHub.</p>
+
+      <p>Untuk mendapatkan ID klub dan tautan pendaftaran Anda, hubungi manajer PDH — kami online 24/7.</p>
+    srcHash: 5d5c9e8c6ae0
+  vi:
+    name: Ưu đãi poker tại liên minh CIS lớn nhất Yamal
+    description: >-
+      Ưu đãi tại một trong những liên minh CIS lớn nhất trên PPPoker: bàn mềm ở Hold'em và Omaha 5 lá, rakeback lên đến
+      75% và rất nhiều người chơi giải trí từ Nga, Uzbekistan và Kazakhstan.
+    geo: Nga, Uzbekistan, Kazakhstan
+    body: >-
+      <h3>Mô tả</h3>
+
+      <p>Ưu đãi poker tại câu lạc bộ PDH Yamal, một phần của một trong những liên minh nói tiếng Nga lớn nhất trên
+      PPPoker — Yamal.</p>
+
+      <p>Câu lạc bộ được quản lý bởi PokerDealsHub, đảm bảo các điều kiện hợp tác minh bạch và công bằng cùng dịch vụ hỗ
+      trợ khách hàng hàng đầu suốt ngày đêm.</p>
+
+      <h3>Về liên minh</h3>
+
+      <p>Yamal là một trong những liên minh CIS hàng đầu trên PPPoker, quy tụ người chơi từ Nga, Uzbekistan, Kazakhstan
+      và các quốc gia khác trong khu vực. Liên minh nổi tiếng với bàn mềm và số lượng lớn người chơi giải trí ở các mức
+      cược micro và thấp.</p>
+
+      <p>Các thể loại chính là No-Limit Hold'em (NLH) và Omaha 5 lá (PLO5). Mức cược từ micro đến trung bình, bàn cash
+      lên đến NL200. Các ván diễn ra suốt ngày đêm, cao điểm vào buổi tối theo giờ Moscow.</p>
+
+      <h3>Điều kiện</h3>
+
+      <p>Rakeback lên đến 75% cộng thêm rakeback cố định 35%. Tư cách thành viên câu lạc bộ không cần KYC — không yêu
+      cầu giấy tờ. Mọi điều kiện đều được PokerDealsHub xác minh nội bộ.</p>
+
+      <p>Để nhận ID câu lạc bộ và liên kết đăng ký của bạn, hãy nhắn cho quản lý PDH — chúng tôi trực tuyến 24/7.</p>
+    srcHash: 5d5c9e8c6ae0
+  fil:
+    name: Poker deal sa pinakamalaking CIS union na Yamal
+    description: >-
+      Isang deal sa isa sa pinakamalaking CIS union sa PPPoker: soft na mga mesa sa Hold'em at 5-Card Omaha, rakeback na
+      hanggang 75%, at maraming recreational na manlalaro mula sa Russia, Uzbekistan, at Kazakhstan.
+    geo: Russia, Uzbekistan, Kazakhstan
+    body: >-
+      <h3>Paglalarawan</h3>
+
+      <p>Isang poker deal sa club na PDH Yamal, bahagi ng isa sa pinakamalaking Russian-speaking na union sa PPPoker —
+      Yamal.</p>
+
+      <p>Pinamamahalaan ang club ng PokerDealsHub, na tumitiyak ng transparent at patas na mga kondisyon ng kooperasyon
+      pati na rin ang top-class na customer support sa buong araw.</p>
+
+      <h3>Tungkol sa Union</h3>
+
+      <p>Ang Yamal ay isa sa mga nangungunang CIS union sa PPPoker, na nagbubuklod ng mga manlalaro mula sa Russia,
+      Uzbekistan, Kazakhstan, at iba pang bansa sa rehiyon. Kilala ang union sa soft nitong mga mesa at sa malaking
+      bilang ng recreational na manlalaro sa micro at mababang limits.</p>
+
+      <p>Ang mga pangunahing disiplina ay No-Limit Hold'em (NLH) at 5-Card Omaha (PLO5). Ang mga limit ay mula micro
+      hanggang mid, na may cash table hanggang NL200. Tumatakbo ang mga laro sa buong araw, na may pinakamataas na
+      aktibidad tuwing gabi sa oras ng Moscow.</p>
+
+      <h3>Mga Kondisyon</h3>
+
+      <p>Rakeback hanggang 75% kasama ang fixed na 35% rakeback. Ang membership sa club ay walang KYC — hindi kailangan
+      ng dokumento. Lahat ng kondisyon ay dumadaan sa internal na verification ng PokerDealsHub.</p>
+
+      <p>Upang makuha ang club ID at ang iyong registration link, mag-message sa isang PDH manager — online kami
+      24/7.</p>
+    srcHash: 5d5c9e8c6ae0
