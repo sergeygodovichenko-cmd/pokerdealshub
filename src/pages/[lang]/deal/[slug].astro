@@ -175,7 +175,9 @@ const offerSchema = {
         <div class="flex flex-wrap gap-6 items-center mb-4">
           <div class="flex items-center gap-2"><span class="text-neutral-400 text-sm">MTT</span><span class="text-gold text-lg">{renderStars(deal.ratings.mtt)}</span></div>
           <div class="flex items-center gap-2"><span class="text-neutral-400 text-sm">PLO</span><span class="text-gold text-lg">{renderStars(deal.ratings.plo)}</span></div>
-          <div class="flex items-center gap-2"><span class="text-neutral-400 text-sm">NLH</span><span class="text-gold text-lg">{renderStars(deal.ratings.nlh)}</span></div>
+          {deal.ratings.ofc != null
+            ? <div class="flex items-center gap-2"><span class="text-neutral-400 text-sm">OFC</span><span class="text-gold text-lg">{renderStars(deal.ratings.ofc)}</span></div>
+            : <div class="flex items-center gap-2"><span class="text-neutral-400 text-sm">NLH</span><span class="text-gold text-lg">{renderStars(deal.ratings.nlh ?? 0)}</span></div>}
         </div>
 
         <!-- Editorial body -->

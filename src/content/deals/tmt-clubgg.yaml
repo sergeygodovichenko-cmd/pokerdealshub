@@ -1,0 +1,490 @@
+app: ClubGG
+club: Universall
+union: TMT
+logo: clubgg
+logoimage: /clubGG_logo.webp
+logoalt: ClubGG logo
+format: NLH / PLO / MTT
+type: Decentralized
+rakeback: 40%
+affiliateLink: https://t.me/pdh_support_bot
+featured: true
+order: 5
+badges:
+  - verified
+  - soft
+  - playersChoice
+  - usaPlayers
+regions:
+  - america
+ratings:
+  mtt: 3
+  cash: 5
+  plo: 5
+  nlh: 4
+chipPrice:
+  usd: 0.8
+name: Сделка в союзе TMT на ClubGG
+description: >-
+  Сделка во второй по величине американской union на ClubGG: активные столы NLH, сочные PLO, нон-стоп трафик и крупный
+  Bad Beat Jackpot. Мягкое поле и рейкбэк до 40%.
+geo: США
+bonus: ""
+body: >-
+  <h3>Описание</h3>
+
+  <p>Покерная сделка в клубе Universall, который входит в TMT (Time Machine Tables) — одну из крупнейших американских
+  union на ClubGG.</p>
+
+  <p>Клубом занимается PokerDealsHub: прозрачные и честные условия сотрудничества и клиентская поддержка высшего класса
+  в любое время суток.</p>
+
+  <h3>О союзе</h3>
+
+  <p>TMT — вторая по величине американская union на ClubGG. Союз известен активными столами в безлимитном холдеме (NLH),
+  сочными столами PLO и нон-стоп трафиком, а также промо по лидербордам и одним из крупнейших Bad Beat Jackpot на
+  ClubGG.</p>
+
+  <p>Основные дисциплины — NLH, PLO и MTT. Доступен широкий диапазон лимитов, игры идут круглосуточно с пиком в вечерние
+  часы по американскому времени.</p>
+
+  <h3>Условия</h3>
+
+  <p>Рейкбэк до 40%. Членство в клубе без KYC — отправлять документы не нужно. Все условия проходят внутреннюю проверку
+  PokerDealsHub.</p>
+
+  <p>Чтобы получить ID клуба и ссылку для регистрации, напишите менеджеру PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: TMT Union Deal on ClubGG
+    description: >-
+      A deal in the second-largest American union on ClubGG: active NLH tables, juicy PLO, nonstop traffic and a big Bad
+      Beat Jackpot. Soft field and rakeback up to 40%.
+    geo: United States
+    body: >-
+      <h3>Description</h3>
+
+      <p>A poker deal in the Universall club, part of TMT (Time Machine Tables) — one of the largest American unions on
+      ClubGG.</p>
+
+      <p>The club is managed by PokerDealsHub: transparent and fair cooperation terms and top-class customer support
+      around the clock.</p>
+
+      <h3>About the Union</h3>
+
+      <p>TMT is the second-largest American union on ClubGG. It is known for active No-Limit Hold'em (NLH) tables, juicy
+      PLO tables and nonstop traffic, along with leaderboard promotions and one of the biggest Bad Beat Jackpots on
+      ClubGG.</p>
+
+      <p>The main disciplines are NLH, PLO and MTT. A wide range of stakes is available, and games run around the clock
+      with a peak in the evening US time.</p>
+
+      <h3>Terms</h3>
+
+      <p>Rakeback up to 40%. Club membership is KYC-free — no documents required. All terms undergo internal
+      verification by PokerDealsHub.</p>
+
+      <p>To get the club ID and your registration link, message a PDH manager — we're online 24/7.</p>
+    srcHash: fc4ad4013c98
+  uz:
+    name: ClubGG'dagi TMT ittifoqi bitimi
+    description: >-
+      ClubGG'dagi ikkinchi yirik Amerika ittifoqidagi bitim: faol NLH stollar, sersuv PLO, to'xtovsiz trafik va katta
+      Bad Beat Jackpot. Yumshoq stollar va 40% gacha rakebek.
+    geo: AQSh
+    body: >-
+      <h3>Tavsif</h3>
+
+      <p>Universall klubidagi poker bitimi — bu klub ClubGG'dagi eng yirik Amerika ittifoqlaridan biri TMT (Time Machine
+      Tables) tarkibiga kiradi.</p>
+
+      <p>Klubni PokerDealsHub boshqaradi: shaffof va halol hamkorlik shartlari hamda sutkaning istalgan vaqtida yuqori
+      darajadagi qo'llab-quvvatlash.</p>
+
+      <h3>Ittifoq haqida</h3>
+
+      <p>TMT — ClubGG'dagi ikkinchi yirik Amerika ittifoqi. U faol limitsiz Holdem (NLH) stollari, sersuv PLO stollari
+      va to'xtovsiz trafik, shuningdek liderbord promolari va ClubGG'dagi eng katta Bad Beat Jackpotlardan biri bilan
+      mashhur.</p>
+
+      <p>Asosiy intizomlar — NLH, PLO va MTT. Limitlarning keng doirasi mavjud, o'yinlar kechayu kunduz davom etadi,
+      faollik cho'qqisi — kechqurun AQSh vaqti bilan.</p>
+
+      <h3>Shartlar</h3>
+
+      <p>40% gacha rakebek. Klubga a'zolik KYC-siz — hujjat yuborish shart emas. Barcha shartlar PokerDealsHub ichki
+      tekshiruvidan o'tadi.</p>
+
+      <p>Klub ID va ro'yxatdan o'tish havolasini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
+    srcHash: fc4ad4013c98
+  uk:
+    name: Угода в союзі TMT на ClubGG
+    description: >-
+      Угода в другому за величиною американському союзі на ClubGG: активні столи NLH, соковиті PLO, нон-стоп трафік і
+      великий Bad Beat Jackpot. М'яке поле та рейкбек до 40%.
+    geo: США
+    body: >-
+      <h3>Опис</h3>
+
+      <p>Покерна угода в клубі Universall, який входить до TMT (Time Machine Tables) — одного з найбільших американських
+      союзів на ClubGG.</p>
+
+      <p>Клубом опікується PokerDealsHub: прозорі та чесні умови співпраці й клієнтська підтримка найвищого класу в
+      будь-який час доби.</p>
+
+      <h3>Про союз</h3>
+
+      <p>TMT — другий за величиною американський союз на ClubGG. Він відомий активними столами в безлімітному холдемі
+      (NLH), соковитими столами PLO та нон-стоп трафіком, а також промо за лідербордами й одним із найбільших Bad Beat
+      Jackpot на ClubGG.</p>
+
+      <p>Основні дисципліни — NLH, PLO та MTT. Доступний широкий діапазон лімітів, ігри тривають цілодобово з піком
+      увечері за американським часом.</p>
+
+      <h3>Умови</h3>
+
+      <p>Рейкбек до 40%. Членство в клубі без KYC — надсилати документи не потрібно. Усі умови проходять внутрішню
+      перевірку PokerDealsHub.</p>
+
+      <p>Щоб отримати ID клубу та посилання для реєстрації, напишіть менеджеру PDH — ми на зв'язку 24/7.</p>
+    srcHash: fc4ad4013c98
+  it:
+    name: Deal nella union TMT su ClubGG
+    description: >-
+      Un deal nella seconda union americana più grande su ClubGG: tavoli NLH attivi, PLO succosi, traffico non-stop e un
+      grande Bad Beat Jackpot. Campo soft e rakeback fino al 40%.
+    geo: Stati Uniti
+    body: >-
+      <h3>Descrizione</h3>
+
+      <p>Un poker deal nel club Universall, parte di TMT (Time Machine Tables) — una delle più grandi union americane su
+      ClubGG.</p>
+
+      <p>Il club è gestito da PokerDealsHub: condizioni di collaborazione trasparenti e corrette e un'assistenza clienti
+      di altissimo livello 24 ore su 24.</p>
+
+      <h3>Informazioni sulla union</h3>
+
+      <p>TMT è la seconda union americana più grande su ClubGG. È nota per i tavoli attivi di No-Limit Hold'em (NLH), i
+      tavoli PLO succosi e il traffico non-stop, oltre alle promozioni a classifica e a uno dei più grandi Bad Beat
+      Jackpot su ClubGG.</p>
+
+      <p>Le discipline principali sono NLH, PLO e MTT. È disponibile un'ampia gamma di limiti e si gioca 24 ore su 24,
+      con picco la sera ora degli Stati Uniti.</p>
+
+      <h3>Condizioni</h3>
+
+      <p>Rakeback fino al 40%. L'iscrizione al club è senza KYC — nessun documento richiesto. Tutte le condizioni
+      vengono verificate internamente da PokerDealsHub.</p>
+
+      <p>Per ottenere l'ID del club e il tuo link di registrazione, scrivi a un manager PDH — siamo online 24/7.</p>
+    srcHash: fc4ad4013c98
+  de:
+    name: Deal in der TMT-Union auf ClubGG
+    description: >-
+      Ein Deal in der zweitgrößten amerikanischen Union auf ClubGG: aktive NLH-Tische, saftige PLO-Tische,
+      Nonstop-Traffic und ein großer Bad Beat Jackpot. Weiches Feld und Rakeback bis zu 40 %.
+    geo: USA
+    body: >-
+      <h3>Beschreibung</h3>
+
+      <p>Ein Poker-Deal im Club Universall, der zu TMT (Time Machine Tables) gehört — einer der größten amerikanischen
+      Unions auf ClubGG.</p>
+
+      <p>Der Club wird von PokerDealsHub verwaltet: transparente und faire Konditionen und erstklassiger Kundensupport
+      rund um die Uhr.</p>
+
+      <h3>Über die Union</h3>
+
+      <p>TMT ist die zweitgrößte amerikanische Union auf ClubGG. Sie ist bekannt für aktive No-Limit-Hold'em-Tische
+      (NLH), saftige PLO-Tische und Nonstop-Traffic sowie für Leaderboard-Promotions und einen der größten Bad Beat
+      Jackpots auf ClubGG.</p>
+
+      <p>Die wichtigsten Disziplinen sind NLH, PLO und MTT. Es ist eine breite Auswahl an Limits verfügbar, und gespielt
+      wird rund um die Uhr mit einem Hoch am Abend (US-Zeit).</p>
+
+      <h3>Konditionen</h3>
+
+      <p>Rakeback bis zu 40 %. Die Club-Mitgliedschaft ist KYC-frei — keine Dokumente erforderlich. Alle Konditionen
+      werden intern von PokerDealsHub geprüft.</p>
+
+      <p>Um die Club-ID und deinen Registrierungslink zu erhalten, schreibe einem PDH-Manager — wir sind rund um die Uhr
+      erreichbar.</p>
+    srcHash: fc4ad4013c98
+  es:
+    name: Oferta en la unión TMT en ClubGG
+    description: >-
+      Una oferta en la segunda unión estadounidense más grande de ClubGG: mesas de NLH activas, PLO jugosas, tráfico
+      ininterrumpido y un gran Bad Beat Jackpot. Campo blando y rakeback de hasta el 40%.
+    geo: Estados Unidos
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>Una oferta de póker en el club Universall, que forma parte de TMT (Time Machine Tables): una de las mayores
+      uniones estadounidenses en ClubGG.</p>
+
+      <p>El club está gestionado por PokerDealsHub: condiciones de colaboración transparentes y justas y atención al
+      cliente de primera clase las 24 horas.</p>
+
+      <h3>Sobre la unión</h3>
+
+      <p>TMT es la segunda unión estadounidense más grande de ClubGG. Es conocida por sus mesas activas de No-Limit
+      Hold'em (NLH), sus jugosas mesas de PLO y su tráfico ininterrumpido, además de promociones por clasificación y uno
+      de los mayores Bad Beat Jackpot de ClubGG.</p>
+
+      <p>Las disciplinas principales son NLH, PLO y MTT. Hay una amplia variedad de límites y se juega las 24 horas, con
+      pico por la tarde-noche (hora de EE. UU.).</p>
+
+      <h3>Condiciones</h3>
+
+      <p>Rakeback de hasta el 40%. La membresía del club es sin KYC: no se requieren documentos. Todas las condiciones
+      pasan una verificación interna de PokerDealsHub.</p>
+
+      <p>Para obtener el ID del club y tu enlace de registro, escribe a un mánager de PDH: estamos disponibles 24/7.</p>
+    srcHash: fc4ad4013c98
+  pt:
+    name: Acordo na união TMT no ClubGG
+    description: >-
+      Um acordo na segunda maior união americana do ClubGG: mesas de NLH ativas, PLO recheadas, tráfego ininterrupto e
+      um grande Bad Beat Jackpot. Mesas soft e rakeback de até 40%.
+    geo: Estados Unidos
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>Um acordo de pôquer no clube Universall, que faz parte da TMT (Time Machine Tables) — uma das maiores uniões
+      americanas no ClubGG.</p>
+
+      <p>O clube é administrado pela PokerDealsHub: condições de cooperação transparentes e justas e suporte ao cliente
+      de primeira classe 24 horas por dia.</p>
+
+      <h3>Sobre a união</h3>
+
+      <p>A TMT é a segunda maior união americana no ClubGG. É conhecida por suas mesas ativas de No-Limit Hold'em (NLH),
+      mesas de PLO recheadas e tráfego ininterrupto, além de promoções por ranking e um dos maiores Bad Beat Jackpot do
+      ClubGG.</p>
+
+      <p>As principais modalidades são NLH, PLO e MTT. Há uma ampla variedade de limites e os jogos acontecem 24 horas
+      por dia, com pico à noite (horário dos EUA).</p>
+
+      <h3>Condições</h3>
+
+      <p>Rakeback de até 40%. A adesão ao clube é sem KYC — não são necessários documentos. Todas as condições passam
+      por verificação interna da PokerDealsHub.</p>
+
+      <p>Para obter o ID do clube e o seu link de registro, fale com um gerente da PDH — estamos online 24/7.</p>
+    srcHash: fc4ad4013c98
+  fr:
+    name: Deal dans l'union TMT sur ClubGG
+    description: >-
+      Un deal dans la deuxième plus grande union américaine sur ClubGG : tables NLH actives, PLO juteuses, trafic
+      non-stop et un gros Bad Beat Jackpot. Tables tendres et rakeback jusqu'à 40 %.
+    geo: États-Unis
+    body: >-
+      <h3>Description</h3>
+
+      <p>Un deal poker dans le club Universall, qui fait partie de TMT (Time Machine Tables) — l'une des plus grandes
+      unions américaines sur ClubGG.</p>
+
+      <p>Le club est géré par PokerDealsHub : des conditions de coopération transparentes et équitables et un support
+      client de premier ordre 24 h/24.</p>
+
+      <h3>À propos de l'union</h3>
+
+      <p>TMT est la deuxième plus grande union américaine sur ClubGG. Elle est connue pour ses tables actives de
+      No-Limit Hold'em (NLH), ses tables PLO juteuses et son trafic non-stop, ainsi que pour ses promotions au
+      classement et l'un des plus gros Bad Beat Jackpot sur ClubGG.</p>
+
+      <p>Les principales disciplines sont le NLH, le PLO et les MTT. Une large gamme de limites est disponible et les
+      parties tournent 24 h/24, avec un pic le soir (heure des États-Unis).</p>
+
+      <h3>Conditions</h3>
+
+      <p>Rakeback jusqu'à 40 %. L'adhésion au club est sans KYC — aucun document requis. Toutes les conditions font
+      l'objet d'une vérification interne par PokerDealsHub.</p>
+
+      <p>Pour obtenir l'ID du club et votre lien d'inscription, écrivez à un manager PDH — nous sommes disponibles
+      24/7.</p>
+    srcHash: fc4ad4013c98
+  tr:
+    name: ClubGG'de TMT birliğinde anlaşma
+    description: >-
+      ClubGG'deki en büyük ikinci Amerikan birliğinde bir anlaşma: aktif NLH masaları, bol kazançlı PLO, kesintisiz
+      trafik ve büyük bir Bad Beat Jackpot. Yumuşak masalar ve %40'a varan rakeback.
+    geo: ABD
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>Universall kulübünde bir poker anlaşması; bu kulüp ClubGG'deki en büyük Amerikan birliklerinden biri olan TMT
+      (Time Machine Tables) bünyesindedir.</p>
+
+      <p>Kulüp PokerDealsHub tarafından yönetilir: şeffaf ve adil iş birliği koşulları ve günün her saati birinci sınıf
+      müşteri desteği.</p>
+
+      <h3>Birlik hakkında</h3>
+
+      <p>TMT, ClubGG'deki en büyük ikinci Amerikan birliğidir. Aktif No-Limit Hold'em (NLH) masaları, bol kazançlı PLO
+      masaları ve kesintisiz trafiğinin yanı sıra lider tablosu promosyonları ve ClubGG'deki en büyük Bad Beat
+      Jackpot'lardan biriyle tanınır.</p>
+
+      <p>Başlıca disiplinler NLH, PLO ve MTT'dir. Geniş bir limit yelpazesi mevcuttur ve oyunlar günün her saati sürer,
+      etkinlik zirvesi akşam saatlerindedir (ABD saati).</p>
+
+      <h3>Koşullar</h3>
+
+      <p>%40'a varan rakeback. Kulüp üyeliği KYC gerektirmez — belge göndermeye gerek yoktur. Tüm koşullar PokerDealsHub
+      tarafından dahili olarak doğrulanır.</p>
+
+      <p>Kulüp ID'sini ve kayıt bağlantınızı almak için bir PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
+    srcHash: fc4ad4013c98
+  he:
+    name: עסקה באיגוד TMT ב-ClubGG
+    description: >-
+      עסקה באיגוד האמריקאי השני בגודלו ב-ClubGG: שולחנות NLH פעילים, PLO עסיסיים, תנועה ללא הפסקה ו-Bad Beat Jackpot
+      גדול. שדה רך ורייקבק עד 40%.
+    geo: ארצות הברית
+    body: >-
+      <h3>תיאור</h3>
+
+      <p>עסקת פוקר במועדון Universall, החלק מ-TMT (Time Machine Tables) — אחד מאיגודי אמריקה הגדולים ב-ClubGG.</p>
+
+      <p>המועדון מנוהל על ידי PokerDealsHub: תנאי שיתוף פעולה שקופים והוגנים ותמיכת לקוחות ברמה הגבוהה ביותר מסביב
+      לשעון.</p>
+
+      <h3>על האיגוד</h3>
+
+      <p>TMT הוא האיגוד האמריקאי השני בגודלו ב-ClubGG. הוא ידוע בשולחנות NLH פעילים, בשולחנות PLO עסיסיים ובתנועה ללא
+      הפסקה, וכן במבצעי טבלת מובילים ובאחד מ-Bad Beat Jackpot הגדולים ב-ClubGG.</p>
+
+      <p>הדיסציפלינות העיקריות הן NLH, PLO ו-MTT. קיים מגוון רחב של לימיטים, והמשחקים מתקיימים מסביב לשעון עם שיא בערב
+      לפי שעון ארה"ב.</p>
+
+      <h3>תנאים</h3>
+
+      <p>רייקבק עד 40%. החברות במועדון היא ללא KYC — אין צורך לשלוח מסמכים. כל התנאים עוברים אימות פנימי של
+      PokerDealsHub.</p>
+
+      <p>כדי לקבל את מזהה המועדון ואת קישור ההרשמה, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
+    srcHash: fc4ad4013c98
+  ar:
+    name: صفقة في اتحاد TMT على ClubGG
+    description: >-
+      صفقة في ثاني أكبر اتحاد أمريكي على ClubGG: طاولات NLH نشطة، وPLO غنية، وحركة لا تتوقف، وBad Beat Jackpot كبير.
+      طاولات سهلة وريكباك يصل إلى 40%.
+    geo: الولايات المتحدة
+    body: >-
+      <h3>الوصف</h3>
+
+      <p>صفقة بوكر في نادي Universall، وهو جزء من TMT (Time Machine Tables) — أحد أكبر الاتحادات الأمريكية على
+      ClubGG.</p>
+
+      <p>يُدار النادي بواسطة PokerDealsHub: شروط تعاون شفافة وعادلة ودعم عملاء من الدرجة الأولى على مدار الساعة.</p>
+
+      <h3>عن الاتحاد</h3>
+
+      <p>TMT هو ثاني أكبر اتحاد أمريكي على ClubGG. يشتهر بطاولات No-Limit Hold'em (NLH) النشطة وطاولات PLO الغنية
+      والحركة المستمرة، إضافة إلى عروض لوحة المتصدرين وأحد أكبر Bad Beat Jackpot على ClubGG.</p>
+
+      <p>التخصصات الرئيسية هي NLH وPLO وMTT. تتوفر مجموعة واسعة من الحدود، وتُقام الألعاب على مدار الساعة مع ذروة مساءً
+      بتوقيت الولايات المتحدة.</p>
+
+      <h3>الشروط</h3>
+
+      <p>ريكباك يصل إلى 40%. عضوية النادي بدون KYC — لا حاجة لإرسال مستندات. تخضع جميع الشروط لتحقق داخلي من
+      PokerDealsHub.</p>
+
+      <p>للحصول على معرّف النادي ورابط التسجيل، راسل مدير PDH — نحن متواجدون على مدار الساعة طوال الأسبوع.</p>
+    srcHash: fc4ad4013c98
+  id:
+    name: Deal di union TMT di ClubGG
+    description: >-
+      Deal di union Amerika terbesar kedua di ClubGG: meja NLH aktif, PLO gurih, trafik nonstop, dan Bad Beat Jackpot
+      besar. Meja soft dan rakeback hingga 40%.
+    geo: Amerika Serikat
+    body: >-
+      <h3>Deskripsi</h3>
+
+      <p>Deal poker di klub Universall, bagian dari TMT (Time Machine Tables) — salah satu union Amerika terbesar di
+      ClubGG.</p>
+
+      <p>Klub ini dikelola oleh PokerDealsHub: syarat kerja sama yang transparan dan adil serta dukungan pelanggan kelas
+      atas sepanjang waktu.</p>
+
+      <h3>Tentang Union</h3>
+
+      <p>TMT adalah union Amerika terbesar kedua di ClubGG. Dikenal dengan meja No-Limit Hold'em (NLH) yang aktif, meja
+      PLO yang gurih, dan trafik nonstop, serta promo leaderboard dan salah satu Bad Beat Jackpot terbesar di
+      ClubGG.</p>
+
+      <p>Disiplin utamanya adalah NLH, PLO, dan MTT. Tersedia berbagai limit, dan permainan berlangsung sepanjang waktu
+      dengan puncak pada malam hari waktu AS.</p>
+
+      <h3>Ketentuan</h3>
+
+      <p>Rakeback hingga 40%. Keanggotaan klub tanpa KYC — tidak perlu mengirim dokumen. Semua ketentuan menjalani
+      verifikasi internal oleh PokerDealsHub.</p>
+
+      <p>Untuk mendapatkan ID klub dan tautan pendaftaran Anda, hubungi manajer PDH — kami online 24/7.</p>
+    srcHash: fc4ad4013c98
+  vi:
+    name: Ưu đãi tại liên minh TMT trên ClubGG
+    description: >-
+      Ưu đãi tại liên minh Mỹ lớn thứ hai trên ClubGG: bàn NLH sôi động, PLO béo bở, lưu lượng liên tục và Bad Beat
+      Jackpot lớn. Bàn mềm và rakeback lên đến 40%.
+    geo: Hoa Kỳ
+    body: >-
+      <h3>Mô tả</h3>
+
+      <p>Ưu đãi poker tại câu lạc bộ Universall, thuộc TMT (Time Machine Tables) — một trong những liên minh Mỹ lớn nhất
+      trên ClubGG.</p>
+
+      <p>Câu lạc bộ được quản lý bởi PokerDealsHub: điều kiện hợp tác minh bạch, công bằng và dịch vụ hỗ trợ khách hàng
+      hàng đầu suốt ngày đêm.</p>
+
+      <h3>Về liên minh</h3>
+
+      <p>TMT là liên minh Mỹ lớn thứ hai trên ClubGG. Nổi tiếng với các bàn No-Limit Hold'em (NLH) sôi động, bàn PLO béo
+      bở và lưu lượng liên tục, cùng các chương trình bảng xếp hạng và một trong những Bad Beat Jackpot lớn nhất trên
+      ClubGG.</p>
+
+      <p>Các thể loại chính là NLH, PLO và MTT. Có nhiều mức cược, các ván diễn ra suốt ngày đêm với cao điểm vào buổi
+      tối giờ Mỹ.</p>
+
+      <h3>Điều kiện</h3>
+
+      <p>Rakeback lên đến 40%. Tư cách thành viên câu lạc bộ không cần KYC — không yêu cầu giấy tờ. Mọi điều kiện đều
+      được PokerDealsHub xác minh nội bộ.</p>
+
+      <p>Để nhận ID câu lạc bộ và liên kết đăng ký, hãy nhắn cho quản lý PDH — chúng tôi trực tuyến 24/7.</p>
+    srcHash: fc4ad4013c98
+  fil:
+    name: Deal sa TMT union sa ClubGG
+    description: >-
+      Isang deal sa pangalawang pinakamalaking American union sa ClubGG: aktibong NLH tables, masaganang PLO, nonstop na
+      trapiko at malaking Bad Beat Jackpot. Soft na mesa at rakeback hanggang 40%.
+    geo: Estados Unidos
+    body: >-
+      <h3>Paglalarawan</h3>
+
+      <p>Isang poker deal sa club na Universall, bahagi ng TMT (Time Machine Tables) — isa sa pinakamalaking American
+      union sa ClubGG.</p>
+
+      <p>Pinamamahalaan ang club ng PokerDealsHub: transparent at patas na mga kondisyon ng kooperasyon at top-class na
+      customer support sa buong araw.</p>
+
+      <h3>Tungkol sa Union</h3>
+
+      <p>Ang TMT ang pangalawang pinakamalaking American union sa ClubGG. Kilala ito sa aktibong No-Limit Hold'em (NLH)
+      tables, masaganang PLO tables at nonstop na trapiko, pati na rin sa mga leaderboard promo at isa sa pinakamalaking
+      Bad Beat Jackpot sa ClubGG.</p>
+
+      <p>Ang mga pangunahing disiplina ay NLH, PLO at MTT. May malawak na hanay ng mga limit, at tumatakbo ang mga laro
+      sa buong araw na may pinakamataas na aktibidad tuwing gabi sa oras ng US.</p>
+
+      <h3>Mga Kondisyon</h3>
+
+      <p>Rakeback hanggang 40%. Ang membership sa club ay walang KYC — hindi kailangan ng dokumento. Lahat ng kondisyon
+      ay dumadaan sa internal na verification ng PokerDealsHub.</p>
+
+      <p>Upang makuha ang club ID at ang iyong registration link, mag-message sa isang PDH manager — online kami
+      24/7.</p>
+    srcHash: fc4ad4013c98

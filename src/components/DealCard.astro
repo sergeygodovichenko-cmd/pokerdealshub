@@ -117,10 +117,17 @@ const uniqueId = `badge-${deal.slug}-${Math.random().toString(36).substr(2, 9)}`
           <span class="text-neutral-400 text-sm">PLO</span>
           <span class="text-gold text-lg">{renderStars(deal.ratings.plo)}</span>
         </div>
+        {deal.ratings.ofc != null ? (
+        <div class="flex items-center gap-2">
+          <span class="text-neutral-400 text-sm">OFC</span>
+          <span class="text-gold text-lg">{renderStars(deal.ratings.ofc)}</span>
+        </div>
+        ) : (
         <div class="flex items-center gap-2">
           <span class="text-neutral-400 text-sm">NLH</span>
-          <span class="text-gold text-lg">{renderStars(deal.ratings.nlh)}</span>
+          <span class="text-gold text-lg">{renderStars(deal.ratings.nlh ?? 0)}</span>
         </div>
+        )}
       </div>
 
       <a

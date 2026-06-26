@@ -56,7 +56,8 @@ const deals = defineCollection({
       mtt: z.number(),
       cash: z.number(),
       plo: z.number(),
-      nlh: z.number(),
+      nlh: z.number().optional(),
+      ofc: z.number().optional(),
     }),
     chipPrice: z
       .object({ usd: z.number().optional(), brl: z.number().optional(), rub: z.number().optional() })
