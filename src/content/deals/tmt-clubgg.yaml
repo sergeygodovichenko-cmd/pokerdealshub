@@ -26,15 +26,15 @@ chipPrice:
   usd: 0.8
 name: Сделка в союзе TMT на ClubGG
 description: >-
-  Сделка во второй по величине американской union на ClubGG: активные столы NLH, сочные PLO, нон-стоп трафик и крупный
-  Bad Beat Jackpot. Мягкое поле и рейкбэк до 40%.
+  Сделка во втором по величине американском союзе на ClubGG: активные столы NLH, регулярные PLO игры, нон-стоп трафик и
+  крупный Bad Beat Jackpot. Мягкое поле и рейкбэк до 40%.
 geo: США
 bonus: ""
 body: >-
   <h3>Описание</h3>
 
-  <p>Покерная сделка в клубе Universall, который входит в TMT (Time Machine Tables) — одну из крупнейших американских
-  union на ClubGG.</p>
+  <p>Покерная сделка в клубе Universall, который входит в TMT (Time Machine Tables) — один из крупнейших американских
+  союзов на ClubGG.</p>
 
   <p>Клубом занимается PokerDealsHub: прозрачные и честные условия сотрудничества и клиентская поддержка высшего класса
   в любое время суток.</p>
@@ -58,8 +58,8 @@ i18n:
   en:
     name: TMT Union Deal on ClubGG
     description: >-
-      A deal in the second-largest American union on ClubGG: active NLH tables, juicy PLO, nonstop traffic and a big Bad
-      Beat Jackpot. Soft field and rakeback up to 40%.
+      A deal in the second-largest American union on ClubGG: active NLH tables, regular PLO games, nonstop traffic and a
+      big Bad Beat Jackpot. Soft field and rakeback up to 40%.
     geo: United States
     body: >-
       <h3>Description</h3>
@@ -85,12 +85,12 @@ i18n:
       verification by PokerDealsHub.</p>
 
       <p>To get the club ID and your registration link, message a PDH manager — we're online 24/7.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   uz:
     name: ClubGG'dagi TMT ittifoqi bitimi
     description: >-
-      ClubGG'dagi ikkinchi yirik Amerika ittifoqidagi bitim: faol NLH stollar, sersuv PLO, to'xtovsiz trafik va katta
-      Bad Beat Jackpot. Yumshoq stollar va 40% gacha rakebek.
+      ClubGG'dagi ikkinchi yirik Amerika ittifoqidagi bitim: faol NLH stollar, muntazam PLO oʻyinlari, to'xtovsiz trafik
+      va katta Bad Beat Jackpot. Yumshoq stollar va 40% gacha rakebek.
     geo: AQSh
     body: >-
       <h3>Tavsif</h3>
@@ -116,12 +116,12 @@ i18n:
       tekshiruvidan o'tadi.</p>
 
       <p>Klub ID va ro'yxatdan o'tish havolasini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   uk:
     name: Угода в союзі TMT на ClubGG
     description: >-
-      Угода в другому за величиною американському союзі на ClubGG: активні столи NLH, соковиті PLO, нон-стоп трафік і
-      великий Bad Beat Jackpot. М'яке поле та рейкбек до 40%.
+      Угода в другому за величиною американському союзі на ClubGG: активні столи NLH, регулярні PLO ігри, нон-стоп
+      трафік і великий Bad Beat Jackpot. М'яке поле та рейкбек до 40%.
     geo: США
     body: >-
       <h3>Опис</h3>
@@ -147,12 +147,12 @@ i18n:
       перевірку PokerDealsHub.</p>
 
       <p>Щоб отримати ID клубу та посилання для реєстрації, напишіть менеджеру PDH — ми на зв'язку 24/7.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   it:
     name: Deal nella union TMT su ClubGG
     description: >-
-      Un deal nella seconda union americana più grande su ClubGG: tavoli NLH attivi, PLO succosi, traffico non-stop e un
-      grande Bad Beat Jackpot. Campo soft e rakeback fino al 40%.
+      Un deal nella seconda union americana più grande su ClubGG: tavoli NLH attivi, partite PLO regolari, traffico
+      non-stop e un grande Bad Beat Jackpot. Campo soft e rakeback fino al 40%.
     geo: Stati Uniti
     body: >-
       <h3>Descrizione</h3>
@@ -178,11 +178,11 @@ i18n:
       vengono verificate internamente da PokerDealsHub.</p>
 
       <p>Per ottenere l'ID del club e il tuo link di registrazione, scrivi a un manager PDH — siamo online 24/7.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   de:
     name: Deal in der TMT-Union auf ClubGG
     description: >-
-      Ein Deal in der zweitgrößten amerikanischen Union auf ClubGG: aktive NLH-Tische, saftige PLO-Tische,
+      Ein Deal in der zweitgrößten amerikanischen Union auf ClubGG: aktive NLH-Tische, reguläre PLO-Spiele,
       Nonstop-Traffic und ein großer Bad Beat Jackpot. Weiches Feld und Rakeback bis zu 40 %.
     geo: USA
     body: >-
@@ -210,12 +210,12 @@ i18n:
 
       <p>Um die Club-ID und deinen Registrierungslink zu erhalten, schreibe einem PDH-Manager — wir sind rund um die Uhr
       erreichbar.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   es:
     name: Oferta en la unión TMT en ClubGG
     description: >-
-      Una oferta en la segunda unión estadounidense más grande de ClubGG: mesas de NLH activas, PLO jugosas, tráfico
-      ininterrumpido y un gran Bad Beat Jackpot. Campo blando y rakeback de hasta el 40%.
+      Una oferta en la segunda unión estadounidense más grande de ClubGG: mesas de NLH activas, partidas de PLO
+      regulares, tráfico ininterrumpido y un gran Bad Beat Jackpot. Campo blando y rakeback de hasta el 40%.
     geo: Estados Unidos
     body: >-
       <h3>Descripción</h3>
@@ -241,12 +241,12 @@ i18n:
       pasan una verificación interna de PokerDealsHub.</p>
 
       <p>Para obtener el ID del club y tu enlace de registro, escribe a un mánager de PDH: estamos disponibles 24/7.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   pt:
     name: Acordo na união TMT no ClubGG
     description: >-
-      Um acordo na segunda maior união americana do ClubGG: mesas de NLH ativas, PLO recheadas, tráfego ininterrupto e
-      um grande Bad Beat Jackpot. Mesas soft e rakeback de até 40%.
+      Um acordo na segunda maior união americana do ClubGG: mesas de NLH ativas, jogos de PLO regulares, tráfego
+      ininterrupto e um grande Bad Beat Jackpot. Mesas soft e rakeback de até 40%.
     geo: Estados Unidos
     body: >-
       <h3>Descrição</h3>
@@ -272,12 +272,12 @@ i18n:
       por verificação interna da PokerDealsHub.</p>
 
       <p>Para obter o ID do clube e o seu link de registro, fale com um gerente da PDH — estamos online 24/7.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   fr:
     name: Deal dans l'union TMT sur ClubGG
     description: >-
-      Un deal dans la deuxième plus grande union américaine sur ClubGG : tables NLH actives, PLO juteuses, trafic
-      non-stop et un gros Bad Beat Jackpot. Tables tendres et rakeback jusqu'à 40 %.
+      Un deal dans la deuxième plus grande union américaine sur ClubGG : tables NLH actives, parties de PLO régulières,
+      trafic non-stop et un gros Bad Beat Jackpot. Tables tendres et rakeback jusqu'à 40 %.
     geo: États-Unis
     body: >-
       <h3>Description</h3>
@@ -304,11 +304,11 @@ i18n:
 
       <p>Pour obtenir l'ID du club et votre lien d'inscription, écrivez à un manager PDH — nous sommes disponibles
       24/7.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   tr:
     name: ClubGG'de TMT birliğinde anlaşma
     description: >-
-      ClubGG'deki en büyük ikinci Amerikan birliğinde bir anlaşma: aktif NLH masaları, bol kazançlı PLO, kesintisiz
+      ClubGG'deki en büyük ikinci Amerikan birliğinde bir anlaşma: aktif NLH masaları, düzenli PLO oyunları, kesintisiz
       trafik ve büyük bir Bad Beat Jackpot. Yumuşak masalar ve %40'a varan rakeback.
     geo: ABD
     body: >-
@@ -335,12 +335,12 @@ i18n:
       tarafından dahili olarak doğrulanır.</p>
 
       <p>Kulüp ID'sini ve kayıt bağlantınızı almak için bir PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   he:
     name: עסקה באיגוד TMT ב-ClubGG
     description: >-
-      עסקה באיגוד האמריקאי השני בגודלו ב-ClubGG: שולחנות NLH פעילים, PLO עסיסיים, תנועה ללא הפסקה ו-Bad Beat Jackpot
-      גדול. שדה רך ורייקבק עד 40%.
+      עסקה באיגוד האמריקאי השני בגודלו ב-ClubGG: שולחנות NLH פעילים, משחקי PLO סדירים, תנועה ללא הפסקה ו-Bad Beat
+      Jackpot גדול. שדה רך ורייקבק עד 40%.
     geo: ארצות הברית
     body: >-
       <h3>תיאור</h3>
@@ -364,12 +364,12 @@ i18n:
       PokerDealsHub.</p>
 
       <p>כדי לקבל את מזהה המועדון ואת קישור ההרשמה, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   ar:
     name: صفقة في اتحاد TMT على ClubGG
     description: >-
-      صفقة في ثاني أكبر اتحاد أمريكي على ClubGG: طاولات NLH نشطة، وPLO غنية، وحركة لا تتوقف، وBad Beat Jackpot كبير.
-      طاولات سهلة وريكباك يصل إلى 40%.
+      صفقة في ثاني أكبر اتحاد أمريكي على ClubGG: طاولات NLH نشطة، وألعاب PLO منتظمة، وحركة لا تتوقف، وBad Beat Jackpot
+      كبير. طاولات سهلة وريكباك يصل إلى 40%.
     geo: الولايات المتحدة
     body: >-
       <h3>الوصف</h3>
@@ -393,12 +393,12 @@ i18n:
       PokerDealsHub.</p>
 
       <p>للحصول على معرّف النادي ورابط التسجيل، راسل مدير PDH — نحن متواجدون على مدار الساعة طوال الأسبوع.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   id:
     name: Deal di union TMT di ClubGG
     description: >-
-      Deal di union Amerika terbesar kedua di ClubGG: meja NLH aktif, PLO gurih, trafik nonstop, dan Bad Beat Jackpot
-      besar. Meja soft dan rakeback hingga 40%.
+      Deal di union Amerika terbesar kedua di ClubGG: meja NLH aktif, permainan PLO reguler, trafik nonstop, dan Bad
+      Beat Jackpot besar. Meja soft dan rakeback hingga 40%.
     geo: Amerika Serikat
     body: >-
       <h3>Deskripsi</h3>
@@ -424,12 +424,12 @@ i18n:
       verifikasi internal oleh PokerDealsHub.</p>
 
       <p>Untuk mendapatkan ID klub dan tautan pendaftaran Anda, hubungi manajer PDH — kami online 24/7.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   vi:
     name: Ưu đãi tại liên minh TMT trên ClubGG
     description: >-
-      Ưu đãi tại liên minh Mỹ lớn thứ hai trên ClubGG: bàn NLH sôi động, PLO béo bở, lưu lượng liên tục và Bad Beat
-      Jackpot lớn. Bàn mềm và rakeback lên đến 40%.
+      Ưu đãi tại liên minh Mỹ lớn thứ hai trên ClubGG: bàn NLH sôi động, các ván PLO đều đặn, lưu lượng liên tục và Bad
+      Beat Jackpot lớn. Bàn mềm và rakeback lên đến 40%.
     geo: Hoa Kỳ
     body: >-
       <h3>Mô tả</h3>
@@ -455,12 +455,12 @@ i18n:
       được PokerDealsHub xác minh nội bộ.</p>
 
       <p>Để nhận ID câu lạc bộ và liên kết đăng ký, hãy nhắn cho quản lý PDH — chúng tôi trực tuyến 24/7.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921
   fil:
     name: Deal sa TMT union sa ClubGG
     description: >-
-      Isang deal sa pangalawang pinakamalaking American union sa ClubGG: aktibong NLH tables, masaganang PLO, nonstop na
-      trapiko at malaking Bad Beat Jackpot. Soft na mesa at rakeback hanggang 40%.
+      Isang deal sa pangalawang pinakamalaking American union sa ClubGG: aktibong NLH tables, regular na PLO games,
+      nonstop na trapiko at malaking Bad Beat Jackpot. Soft na mesa at rakeback hanggang 40%.
     geo: Estados Unidos
     body: >-
       <h3>Paglalarawan</h3>
@@ -487,4 +487,4 @@ i18n:
 
       <p>Upang makuha ang club ID at ang iyong registration link, mag-message sa isang PDH manager — online kami
       24/7.</p>
-    srcHash: fc4ad4013c98
+    srcHash: aff2fef21921

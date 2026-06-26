@@ -25,10 +25,10 @@ ratings:
   nlh: 4
 chipPrice:
   rub: 100
-name: Покерная сделка в крупнейшем СНГ союзе Yamal
+name: Сделка в союзе Yamal на PPPoker
 description: >-
   Сделка в одном из крупнейших союзов СНГ на PPPoker: мягкое поле в холдеме и 5-карточной Омахе, рейкбэк до 70% и много
-  казуальных игроков из России, Узбекистана и Казахстана.
+  игроков-любителей из России, Узбекистана и Казахстана.
 geo: Россия, Узбекистан, Казахстан
 bonus: ""
 body: >-
@@ -42,7 +42,7 @@ body: >-
   <h3>О союзе</h3>
 
   <p>Yamal — один из ведущих союзов СНГ на PPPoker, объединяющий игроков из России, Узбекистана, Казахстана и других
-  стран региона. Союз известен мягким полем и большим количеством казуальных игроков.</p>
+  стран региона. Союз известен мягким полем и большим количеством игроков-любителей.</p>
 
   <p>Основные дисциплины — безлимитный холдем (NLH) и 5-карточная Омаха (PLO5). В среднем игра идёт на NL60–NL200. Игры
   идут круглосуточно, пик активности — вечером по московскому времени.</p>
@@ -55,7 +55,7 @@ body: >-
   <p>Чтобы получить ID клуба и ссылку для регистрации, напишите менеджеру PDH — мы на связи 24/7.</p>
 i18n:
   en:
-    name: Poker Deal in the Largest CIS Union Yamal
+    name: Yamal Union Deal on PPPoker
     description: >-
       A deal in one of the largest CIS unions on PPPoker: a soft field at Hold'em and 5-Card Omaha, rakeback up to 70%
       and plenty of recreational players from Russia, Uzbekistan and Kazakhstan.
@@ -83,9 +83,9 @@ i18n:
       undergo internal verification by PokerDealsHub.</p>
 
       <p>To get the club ID and your registration link, message a PDH manager — we're online 24/7.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   uz:
-    name: Eng yirik MDH ittifoqi Yamaldagi poker bitimi
+    name: PPPokerdagi Yamal ittifoqida bitim
     description: >-
       PPPokerdagi eng yirik MDH ittifoqlaridan biridagi bitim: Holdem va 5 kartali Omahada yumshoq stollar, 70% gacha
       rakebek hamda Rossiya, Oʻzbekiston va Qozogʻistondan koʻplab rekreatsion oʻyinchilar.
@@ -114,12 +114,12 @@ i18n:
       PokerDealsHub ichki tekshiruvidan oʻtadi.</p>
 
       <p>Klub ID va roʻyxatdan oʻtish havolasini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   uk:
-    name: Покерна угода в найбільшому союзі СНД Yamal
+    name: Угода в союзі Yamal на PPPoker
     description: >-
       Угода в одному з найбільших союзів СНД на PPPoker: мʼяке поле в холдемі та 5-картковій Омасі, рейкбек до 70% і
-      багато казуальних гравців із Росії, Узбекистану та Казахстану.
+      багато гравців-любителів із Росії, Узбекистану та Казахстану.
     geo: Росія, Узбекистан, Казахстан
     body: >-
       <h3>Опис</h3>
@@ -133,7 +133,7 @@ i18n:
       <h3>Про союз</h3>
 
       <p>Yamal — один із провідних союзів СНД на PPPoker, що обʼєднує гравців із Росії, Узбекистану, Казахстану та інших
-      країн регіону. Союз відомий мʼяким полем і великою кількістю казуальних гравців.</p>
+      країн регіону. Союз відомий мʼяким полем і великою кількістю гравців-любителів.</p>
 
       <p>Основні дисципліни — безлімітний холдем (NLH) і 5-карткова Омаха (PLO5). У середньому грають на NL60–NL200.
       Ігри тривають цілодобово, пік активності — увечері за московським часом.</p>
@@ -144,9 +144,9 @@ i18n:
       проходять внутрішню перевірку PokerDealsHub.</p>
 
       <p>Щоб отримати ID клубу та посилання для реєстрації, напишіть менеджеру PDH — ми на звʼязку 24/7.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   it:
-    name: Poker deal nella più grande union della CSI, Yamal
+    name: Offerta nell'unione Yamal su PPPoker
     description: >-
       Un deal in una delle più grandi union della CSI su PPPoker: campo soft a Hold'em e Omaha a 5 carte, rakeback fino
       al 70% e tanti giocatori ricreativi da Russia, Uzbekistan e Kazakistan.
@@ -174,9 +174,9 @@ i18n:
       richiesto. Tutte le condizioni vengono verificate internamente da PokerDealsHub.</p>
 
       <p>Per ottenere l'ID del club e il tuo link di registrazione, scrivi a un manager PDH — siamo online 24/7.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   de:
-    name: Poker-Deal in der größten GUS-Union Yamal
+    name: Deal in der Union Yamal auf PPPoker
     description: >-
       Ein Deal in einer der größten GUS-Unions auf PPPoker: weiches Feld bei Hold'em und 5-Card Omaha, Rakeback bis zu
       70 % und viele Freizeitspieler aus Russland, Usbekistan und Kasachstan.
@@ -206,9 +206,9 @@ i18n:
 
       <p>Um die Club-ID und deinen Registrierungslink zu erhalten, schreibe einem PDH-Manager — wir sind rund um die Uhr
       erreichbar.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   es:
-    name: Oferta de póker en la mayor unión de la CEI, Yamal
+    name: Oferta en la unión Yamal en PPPoker
     description: >-
       Una oferta en una de las mayores uniones de la CEI en PPPoker: campo blando en Hold'em y Omaha de 5 cartas,
       rakeback de hasta el 70% y muchos jugadores recreativos de Rusia, Uzbekistán y Kazajistán.
@@ -237,9 +237,9 @@ i18n:
       documentos. Todas las condiciones pasan una verificación interna de PokerDealsHub.</p>
 
       <p>Para obtener el ID del club y tu enlace de registro, escribe a un mánager de PDH: estamos disponibles 24/7.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   pt:
-    name: Acordo de pôquer na maior união da CEI, Yamal
+    name: Oferta na união Yamal no PPPoker
     description: >-
       Um acordo em uma das maiores uniões da CEI no PPPoker: mesas soft no Hold'em e no Omaha de 5 cartas, rakeback de
       até 70% e muitos jogadores recreativos da Rússia, Uzbequistão e Cazaquistão.
@@ -267,9 +267,9 @@ i18n:
       Todas as condições passam por verificação interna da PokerDealsHub.</p>
 
       <p>Para obter o ID do clube e o seu link de registro, fale com um gerente da PDH — estamos online 24/7.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   fr:
-    name: Deal poker dans la plus grande union de la CEI, Yamal
+    name: Offre dans l'union Yamal sur PPPoker
     description: >-
       Un deal dans l'une des plus grandes unions de la CEI sur PPPoker : tables tendres au Hold'em et à l'Omaha 5
       cartes, rakeback jusqu'à 70 % et de nombreux joueurs récréatifs de Russie, d'Ouzbékistan et du Kazakhstan.
@@ -299,9 +299,9 @@ i18n:
 
       <p>Pour obtenir l'ID du club et votre lien d'inscription, écrivez à un manager PDH — nous sommes disponibles
       24/7.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   tr:
-    name: En büyük BDT birliği Yamal'da poker anlaşması
+    name: PPPoker'da Yamal birliğinde anlaşma
     description: >-
       PPPoker'daki en büyük BDT birliklerinden birinde anlaşma: Hold'em ve 5 Kartlı Omaha'da yumuşak masalar, %70'e
       varan rakeback ve Rusya, Özbekistan ve Kazakistan'dan çok sayıda rekreasyonel oyuncu.
@@ -330,9 +330,9 @@ i18n:
       Tüm koşullar PokerDealsHub tarafından dahili olarak doğrulanır.</p>
 
       <p>Kulüp ID'sini ve kayıt bağlantınızı almak için bir PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   he:
-    name: עסקת פוקר באיגוד חבר העמים הגדול ביותר Yamal
+    name: דיל באיחוד Yamal ב-PPPoker
     description: >-
       עסקה באחד מאיגודי חבר העמים הגדולים ביותר ב-PPPoker: שדה רך ב-Hold'em וב-Omaha בת 5 קלפים, רייקבק עד 70% והרבה
       שחקנים חובבים מרוסיה, אוזבקיסטן וקזחסטן.
@@ -359,9 +359,9 @@ i18n:
       אימות פנימי של PokerDealsHub.</p>
 
       <p>כדי לקבל את מזהה המועדון ואת קישור ההרשמה שלך, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   ar:
-    name: صفقة بوكر في أكبر اتحاد لرابطة الدول المستقلة Yamal
+    name: صفقة في اتحاد Yamal على PPPoker
     description: >-
       صفقة في أحد أكبر اتحادات رابطة الدول المستقلة على PPPoker: طاولات سهلة في Hold'em وOmaha بخمس بطاقات، ريكباك يصل
       إلى 70% والكثير من اللاعبين الترفيهيين من روسيا وأوزبكستان وكازاخستان.
@@ -389,9 +389,9 @@ i18n:
 
       <p>للحصول على معرّف النادي ورابط التسجيل الخاص بك، راسل مدير PDH — نحن متواجدون على مدار الساعة طوال أيام
       الأسبوع.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   id:
-    name: Deal poker di union CIS terbesar, Yamal
+    name: Deal di union Yamal pada PPPoker
     description: >-
       Deal di salah satu union CIS terbesar di PPPoker: meja soft di Hold'em dan Omaha 5 kartu, rakeback hingga 70%,
       serta banyak pemain rekreasional dari Rusia, Uzbekistan, dan Kazakhstan.
@@ -419,9 +419,9 @@ i18n:
       ketentuan menjalani verifikasi internal oleh PokerDealsHub.</p>
 
       <p>Untuk mendapatkan ID klub dan tautan pendaftaran Anda, hubungi manajer PDH — kami online 24/7.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   vi:
-    name: Ưu đãi poker tại liên minh CIS lớn nhất Yamal
+    name: Kèo tại liên minh Yamal trên PPPoker
     description: >-
       Ưu đãi tại một trong những liên minh CIS lớn nhất trên PPPoker: bàn mềm ở Hold'em và Omaha 5 lá, rakeback lên đến
       70% và rất nhiều người chơi giải trí từ Nga, Uzbekistan và Kazakhstan.
@@ -449,9 +449,9 @@ i18n:
       cầu giấy tờ. Mọi điều kiện đều được PokerDealsHub xác minh nội bộ.</p>
 
       <p>Để nhận ID câu lạc bộ và liên kết đăng ký của bạn, hãy nhắn cho quản lý PDH — chúng tôi trực tuyến 24/7.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
   fil:
-    name: Poker deal sa pinakamalaking CIS union na Yamal
+    name: Deal sa union na Yamal sa PPPoker
     description: >-
       Isang deal sa isa sa pinakamalaking CIS union sa PPPoker: soft na mga mesa sa Hold'em at 5-Card Omaha, rakeback na
       hanggang 70%, at maraming recreational na manlalaro mula sa Russia, Uzbekistan, at Kazakhstan.
@@ -482,4 +482,4 @@ i18n:
 
       <p>Upang makuha ang club ID at ang iyong registration link, mag-message sa isang PDH manager — online kami
       24/7.</p>
-    srcHash: 16a8ac3158a5
+    srcHash: 2e5d086dcc9c
