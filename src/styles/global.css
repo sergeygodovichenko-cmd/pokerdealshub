@@ -3,6 +3,17 @@
 @tailwind utilities;
 
 /* ==== кастомные правки под проект ==== */
+
+/* Prevent horizontal overflow / page-shift-left on mobile reload.
+   <body> already has overflow-x:hidden, but on some devices the scroll
+   container is <html>, so the guard must live here too. No position:sticky
+   is used on the site, so clipping x is safe. */
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 button {
     touch-action: manipulation;
   }
