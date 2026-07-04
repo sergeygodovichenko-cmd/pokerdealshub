@@ -87,46 +87,46 @@ body: |-
   </div>
 
   <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-    <h2 class="text-2xl font-semibold text-gold mb-3">Готовы играть выше?</h2>
-    <p class="text-neutral-300 text-lg mb-2">
-      Напишите нам в Telegram и пришлите <strong>историю винрейтов в разных клубах</strong> — так мы оценим вашу игру и подберём условия бэкинга. Отвечаем каждому кандидату лично.
-    </p>
-    <p class="text-neutral-400 mb-6">
-      А если бэкинг не нужен — просто <a href="/ru/deals/">выберите сделку в каталоге</a> и играйте на лучших условиях на свои.
-    </p>
-    <div class="flex justify-center">
-      <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-        <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-        Написать в Telegram
-      </a>
+      <h2 class="text-2xl font-semibold text-gold mb-3">Готовы играть выше?</h2>
+      <p class="text-neutral-300 text-lg mb-2">
+        Напишите нам на e-mail и пришлите <strong>историю винрейтов в разных клубах</strong> — так мы оценим вашу игру и подберём условия бэкинга. Отвечаем каждому кандидату лично.
+      </p>
+      <p class="text-neutral-400 mb-6">
+        А если бэкинг не нужен — просто <a href="/ru/deals/">выберите сделку в каталоге</a> и играйте на лучших условиях на свои.
+      </p>
+      <div class="flex justify-center">
+        <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+          <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+          pokerdealshub@gmail.com
+        </a>
+      </div>
     </div>
-  </div>
 i18n:
   en:
     title: Poker Backing — Staking and Player Financing
     description: >-
-      Backing, staking and poker player financing (a poker stable) from PokerDealsHub: play above your bankroll with
+      Poker backing, staking and player financing (a poker stable) from PokerDealsHub: play above your bankroll with
       makeup. And our deals — top clubs with soft games, high rakeback and payout guarantees — are open to everyone,
       even without backing.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Backing (staking)</strong> is financing a player: the backer puts up the money, the player plays and shares the profit. A pool of players under backing is called a <strong>poker stable</strong>. We take talented players into our stable who are ready to play stakes higher than their bankroll allows — <strong>we put up the money, you play with makeup</strong>.
+          <strong>Backing (staking)</strong> is financing a player: the backer puts up the money to play, the player plays and splits the profit. A pool of backed players is called a <strong>poker stable</strong>. We take talented players into our stable who are ready to play at limits higher than their bankroll allows — <strong>we put up the money to play, you play with makeup</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          But most importantly — access to the best poker clubs with soft games, high rakeback and payout guarantees is open to <strong>everyone</strong>: both under backing and for playing on your own money. Below is what you get by working with our deals.
+          But the main point — access to the best poker clubs with soft games, high rakeback and payout guarantees is something we open up to <strong>everyone</strong>: both through backing and for playing on your own money. Below is what you get by working with our deals.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <h2 class="text-2xl font-semibold text-gold mb-4">Our deals — open to everyone</h2>
         <p class="text-neutral-300 mb-6">
-          PokerDealsHub terms require no backing — you can use them while playing on your own money. You get access to deals that are usually available only to clubs' inner partners:
+          PokerDealsHub terms don't require backing — you can use them while playing on your own money. You get access to deals that are usually available only to clubs' inner-circle partners:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>The best clubs and unions with soft games</strong> — where you can genuinely beat the field instead of grinding against regulars.</span>
+            <span><strong>The best clubs and unions with soft games</strong> — where you can actually beat the field instead of grinding against regulars.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -143,7 +143,7 @@ i18n:
         </ul>
         <div class="flex justify-center">
           <a href="/en/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            Browse the deals catalog
+            View deals catalog
           </a>
         </div>
       </div>
@@ -151,7 +151,7 @@ i18n:
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <h2 class="text-2xl font-semibold text-gold mb-4">Backing: play above your bankroll</h2>
         <p class="text-neutral-300 mb-4">
-          If you want to play higher but don't yet have the funds, we can take you into our poker stable. Who we're looking for:
+          If you want to play higher but don't have enough of your own funds yet — we can take you into our poker stable. Who we're looking for:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
@@ -160,85 +160,85 @@ i18n:
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Disciplined regulars ready to put in volume and follow each platform's rules strictly.</span>
+            <span>Disciplined regulars ready to put in volume and strictly follow each platform's rules.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Those who can prove their competence — with a history of winrates across different clubs.</span>
+            <span>Those who can prove their competence — with a track record of winrates across different clubs.</span>
           </li>
         </ul>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Terms of cooperation</h3>
         <p class="text-neutral-300 mb-4">
-          We provide the bankroll for play. You play <strong>with makeup</strong>: your share of the profit is credited after any minus has been cleared, if there was one. No investment of your own money into the game — only your time and skill.
+          We provide the bankroll to play. You play <strong>with makeup</strong>: your share of the profit is credited after the losses are recouped, if there were any. No investing your own money in the game — just your time and skill.
         </p>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">How payouts work</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Clubs settle with us for the week played, usually on Monday–Tuesday of the following week.</span>
+            <span>Clubs settle up with us for the week played, usually on the Monday–Tuesday of the following week.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>We hold the player's share for that week for one more week after settlement — meaning the payout goes out with a <strong>+1 week</strong> shift from the settlement day.</span>
+            <span>We hold the player's share for that week one more week after settlement — meaning the payout goes out with a <strong>+1 week</strong> shift from settlement day.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Why this matters: if a profitable week is followed by a losing one, the withheld share covers part of the downswing. This keeps makeup debt from growing and leaves both sides in a stable position.</span>
+            <span>Why this matters: if a profitable week is followed by a losing one, the held share covers part of the downswing. That way we slow the growth of makeup debt, and both sides stay in a stable position.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Ready to play higher?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Message us on Telegram and send your <strong>history of winrates across different clubs</strong> — that's how we'll assess your game and tailor your backing terms. We reply to every candidate personally.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          And if you don't need backing — just <a href="/en/deals/">pick a deal from the catalog</a> and play on your own money on the best terms.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Message us on Telegram
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Ready to play higher?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Email us and send over your <strong>track record of winrates across different clubs</strong> — that's how we'll assess your game and put together backing terms. We reply to every candidate personally.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            And if you don't need backing — just <a href="/en/deals/">pick a deal from the catalog</a> and play on the best terms with your own money.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   uz:
     title: Pokerda beking — steyking va o'yinchilarni moliyalashtirish
     description: >-
-      PokerDealsHub'dan beking, steyking va pokerchilarni moliyalashtirish (poker otxonasi / stable): meykap bilan o'z
-      bankrollingizdan yuqori limitlarda o'ynang. Bizning dillar esa — yumshoq poляna, yuqori rakeback va to'lov
-      kafolati bilan top klublar — hammaga ochiq, hatto bekingsiz ham.
+      PokerDealsHub'dan poker o'yinchilarini beking, steyking va moliyalashtirish (poker otxonasi / stable): meykap
+      bilan o'z bankrolldan yuqorida o'ynang. Bizning s.elkalarimiz esa — yumshoq polyali, yuqori rakeback va to'lovlar
+      kafolatli top-klublar — hattoki bekingsiz ham hammaga ochiq.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Beking (steyking)</strong> — bu o'yinchini moliyalashtirish: o'yin uchun pulni beker beradi, pokerchi o'ynaydi va foydani bo'lishadi. Beking ostidagi o'yinchilar puliga <strong>poker otxonasi</strong> (stable) deyiladi. Biz otxonaga o'z bankrolli imkon berganidan yuqori limitlarda o'ynashga tayyor iqtidorli o'yinchilarni olamiz — <strong>o'yin uchun pulni biz beramiz, siz meykap bilan o'ynaysiz</strong>.
+          <strong>Beking (steyking)</strong> — bu o'yinchini moliyalashtirish: o'yin uchun pulni beker beradi, poker o'yinchisi o'ynaydi va foydani bo'lishadi. Beking ostidagi o'yinchilar guruhini <strong>poker otxonasi</strong> (stable) deb atashadi. Biz otxonaga o'z bankrolli imkon beradiganidan yuqori limitlarda o'ynashga tayyor iste'dodli o'yinchilarni olamiz — <strong>o'yin uchun pulni biz beramiz, siz meykap bilan o'ynaysiz</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Ammo eng muhimi — yumshoq poляna, yuqori rakeback va to'lov kafolati bilan eng yaxshi poker klublariga kirishni biz <strong>hammaga</strong> ochamiz: ham beking doirasida, ham o'z puliga o'ynash uchun. Quyida — bizning dillar bilan ishlab nima olishingiz bayon etilgan.
+          Lekin eng muhimi — yumshoq polya, yuqori rakeback va to'lovlar kafolati bo'lgan eng yaxshi poker klublariga kirishni biz <strong>hammaga</strong> ochamiz: beking doirasida ham, o'z puliga o'ynash uchun ham. Quyida — bizning sdelkalarimiz bilan ishlaganda nima olishingiz keltirilgan.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Bizning dillar — hammaga ochiq</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Bizning sdelkalarimiz — hammaga ochiq</h2>
         <p class="text-neutral-300 mb-6">
-          PokerDealsHub shartlari bekingni talab qilmaydi — ulardan o'z puliga o'ynab ham foydalanish mumkin. Siz odatda faqat klublarning ichki hamkorlariga ochiq bo'lgan dillarga kirish olasiz:
+          PokerDealsHub shartlari beking talab qilmaydi — ulardan o'z puliga o'ynab foydalanish mumkin. Siz odatda faqat klublarning ichki hamkorlariga ochiq bo'lgan selkalarga kirish huquqini olasiz:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Yumshoq poляna bilan eng yaxshi klublar va uyushmalar</strong> — u yerda regulyarlar bilan kurashmasdan, maydonni haqiqatan yutish mumkin.</span>
+            <span><strong>Yumshoq polyali eng yaxshi klublar va uyushmalar</strong> — regularlar bilan kurashish emas, balki polyani yutish real bo'lgan joyda.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Yuqori qat'iy rakeback — 70% gacha</strong> — birinchi kundanoq, stol ortidagi natijadan tashqari qo'shimcha foyda.</span>
+            <span><strong>Yuqori qat'iy rakeback — 70% gacha</strong> — stol ortidagi natijaga qo'shimcha ravishda, birinchi kundan boshlab qo'shimcha foyda.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>To'lov kafolatlari</strong> — botlar yoki timpley (jamoaviy o'yin) ishlatilgani isbotlangan holatlar bundan mustasno.</span>
+            <span><strong>To'lovlar kafolati</strong> — botlar yoki timpley ishlatilgani isbotlangan holatlar bundan mustasno.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -247,94 +247,94 @@ i18n:
         </ul>
         <div class="flex justify-center">
           <a href="/uz/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            Dillar katalogini ko'rish
+            Sdelkalar katalogini ko'rish
           </a>
         </div>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Beking: o'z bankrollingdan yuqorida o'yna</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Beking: o'z bankrolldan yuqorida o'yna</h2>
         <p class="text-neutral-300 mb-4">
-          Agar siz yuqorida o'ynashni istasangiz, lekin o'z mablag'ingiz hozircha yetmasa — biz sizni o'z poker otxonamizga (stable) olishimiz mumkin. Biz kimni izlayapmiz:
+          Agar siz yuqorida o'ynamoqchi bo'lsangiz, lekin o'z mablag'ingiz hozircha yetmasa — biz sizni o'z poker otxonamizga (stable) olishimiz mumkin. Biz kimni izlaymiz:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Bankroll imkon berganidan yuqorida o'ynashni istovchi plyusli o'yinchilarni.</span>
+            <span>Bankroll imkon beradiganidan yuqorida o'ynamoqchi bo'lgan plyusli o'yinchilarni.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Hajm bo'yicha va maydonlar qoidalariga qat'iy amal qilib o'ynashga tayyor intizomli regulyarlarni.</span>
+            <span>Hajm bo'yicha va maydonchalar qoidalariga qat'iy amal qilgan holda o'ynashga tayyor intizomli regularlarni.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>O'z malakasini turli klublardagi winrate tarixi bilan tasdiqlay oladiganlarni.</span>
+            <span>O'z malakasini — turli klublardagi winreyt tarixi bilan tasdiqlay oladiganlarni.</span>
           </li>
         </ul>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Hamkorlik shartlari</h3>
         <p class="text-neutral-300 mb-4">
-          O'yin uchun bankrollni biz taqdim etamiz. Siz <strong>meykap bilan</strong> (makeup) o'ynaysiz: sizning foydadagi ulushingiz, agar minus bo'lgan bo'lsa, u qoplanganidan keyin hisoblanadi. O'yinga o'z mablag'ingizni tikish shart emas — faqat vaqtingiz va mahoratingiz.
+          O'yin uchun bankrollni biz beramiz. Siz <strong>meykap bilan</strong> (makeup) o'ynaysiz: sizning foydadagi ulushingiz, agar minus bo'lgan bo'lsa, u qoplangandan keyin hisoblanadi. O'yinga o'z mablag'ingizni kiritish shart emas — faqat sizning vaqtingiz va mahoratingiz.
         </p>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">To'lovlar qanday amalga oshadi</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Klublar o'ynalgan hafta uchun biz bilan, odatda, keyingi haftaning dushanba–seshanbasida hisoblashadi.</span>
+            <span>Klublar biz bilan o'ynalgan hafta uchun, odatda, keyingi haftaning dushanba–seshanba kunlari hisob-kitob qiladi.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>O'yinchining shu haftadagi ulushini biz hisoblashdan keyin yana bir hafta ushlab turamiz — ya'ni to'lov hisoblash kunidan <strong>+1 hafta</strong> siljish bilan amalga oshadi.</span>
+            <span>O'yinchining shu hafta uchun ulushini biz hisob-kitobdan keyin yana bir hafta ushlab turamiz — ya'ni to'lov hisob-kitob kunidan <strong>+1 hafta</strong> siljish bilan boradi.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Bu nimaga kerak: agar foydali haftadan keyin zararli hafta kelsa, ushlab turilgan ulush prosadkaning bir qismini qoplaydi. Shu tariqa biz meykap-qarzining o'sishini kamaytiramiz va ikkala tomon ham barqaror holatda qoladi.</span>
+            <span>Bu nima uchun kerak: agar foydali haftadan keyin zararli hafta kelsa, ushlab qolingan ulush prosadkaning bir qismini qoplaydi. Shu tariqa biz meykap-qarzning o'sishini kamaytiramiz va ikkala tomon ham barqaror holatda qoladi.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Yuqorida o'ynashga tayyormisiz?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Bizga Telegram orqali yozing va <strong>turli klublardagi winrate tarixini</strong> yuboring — shunda biz o'yiningizni baholaymiz va beking shartlarini tanlab beramiz. Har bir nomzodga shaxsan javob beramiz.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          Agar beking kerak bo'lmasa — shunchaki <a href="/uz/deals/">katalogdan dilni tanlang</a> va o'z puliga eng yaxshi shartlarda o'ynang.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Telegramga yozish
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Yuqorida o'ynashga tayyormisiz?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Bizga e-mail yozing va <strong>turli klublardagi winreyt tarixini</strong> yuboring — shunda biz sizning o'yiningizni baholaymiz va beking shartlarini tanlaymiz. Har bir nomzodga shaxsan javob beramiz.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            Agar beking kerak bo'lmasa — shunchaki <a href="/uz/deals/">katalogdan selka tanlang</a> va o'z puliga eng yaxshi shartlarda o'ynang.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   uk:
-    title: Бекінг у покері — стейкінг та фінансування гравців
+    title: Бекінг у покері — стейкінг і фінансування гравців
     description: >-
       Бекінг, стейкінг і фінансування покеристів (покерна стайня / stable) від PokerDealsHub: грайте вище свого банкролу
-      з мейкапом. А наші deal — топ-клуби з м'якою полянкою, високим rakeback і гарантією виплат — доступні кожному,
+      з мейкапом. А наші деали — топ-клуби з м'якою полянóю, високим rakeback і гарантією виплат — доступні кожному,
       навіть без бекінгу.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Бекінг (стейкінг)</strong> — це фінансування гравця: гроші на гру дає бекер, покерист грає і ділить прибуток. Пул гравців під бекінгом називають <strong>покерною стайнею</strong> (stable). Ми беремо в стайню талановитих гравців, готових грати на лімітах вище, ніж дозволяє їхній банкрол, — <strong>гроші на гру даємо ми, ви граєте з мейкапом</strong>.
+          <strong>Бекінг (стейкінг)</strong> — це фінансування гравця: гроші на гру дає бекер, покерист грає та ділить прибуток. Пул гравців під бекінгом називають <strong>покерною стайнею</strong> (stable). Ми беремо у стайню талановитих гравців, готових грати на лімітах вищих, ніж дозволяє їхній банкрол, — <strong>гроші на гру даємо ми, ви граєте з мейкапом</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Але головне — доступ до найкращих покерних клубів з м'якою полянкою, високим rakeback і гарантією виплат ми відкриваємо <strong>кожному</strong>: і в межах бекінгу, і для гри на свої. Нижче — що ви отримуєте, працюючи з нашими deal.
+          Але головне — доступ до найкращих покерних клубів із м'якою полянóю, високим rakeback і гарантією виплат ми відкриваємо <strong>кожному</strong>: і в межах бекінгу, і для гри на свої. Нижче — що ви отримуєте, працюючи з нашими деалами.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Наші deal — доступні кожному</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Наші деали — доступні кожному</h2>
         <p class="text-neutral-300 mb-6">
-          Умови PokerDealsHub не потребують бекінгу — ними можна користуватися, граючи на свої. Ви отримуєте доступ до deal, які зазвичай доступні лише внутрішнім партнерам клубів:
+          Умови PokerDealsHub не потребують бекінгу — ними можна користуватися, граючи на свої. Ви отримуєте доступ до деалів, які зазвичай доступні лише внутрішнім партнерам клубів:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Найкращі клуби та союзи з м'якою полянкою</strong> — там, де реально обігрувати поле, а не боротися з регулярами.</span>
+            <span><strong>Найкращі клуби та юніони з м'якою полянóю</strong> — там, де реально обігрувати поле, а не боротися з регулярами.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -351,7 +351,7 @@ i18n:
         </ul>
         <div class="flex justify-center">
           <a href="/uk/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            Дивитися каталог deal
+            Дивитися каталог деалів
           </a>
         </div>
       </div>
@@ -359,7 +359,7 @@ i18n:
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <h2 class="text-2xl font-semibold text-gold mb-4">Бекінг: грай вище свого банкролу</h2>
         <p class="text-neutral-300 mb-4">
-          Якщо ви хочете грати вище, але власних коштів поки що бракує, — ми можемо взяти вас до нашої покерної стайні (stable). Кого ми шукаємо:
+          Якщо ви хочете грати вище, але власних коштів поки що бракує, — ми можемо взяти вас у нашу покерну стайню (stable). Кого ми шукаємо:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
@@ -372,7 +372,7 @@ i18n:
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Тих, хто може підтвердити компетентність — історією winrate у різних клубах.</span>
+            <span>Тих, хто може підтвердити компетентність — історією винрейтів у різних клубах.</span>
           </li>
         </ul>
 
@@ -399,50 +399,50 @@ i18n:
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Готові грати вище?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Напишіть нам у Telegram і надішліть <strong>історію winrate у різних клубах</strong> — так ми оцінимо вашу гру та підберемо умови бекінгу. Відповідаємо кожному кандидату особисто.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          А якщо бекінг не потрібен — просто <a href="/uk/deals/">виберіть deal у каталозі</a> і грайте на найкращих умовах на свої.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Написати в Telegram
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Готові грати вище?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Напишіть нам на e-mail і надішліть <strong>історію винрейтів у різних клубах</strong> — так ми оцінимо вашу гру та підберемо умови бекінгу. Відповідаємо кожному кандидату особисто.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            А якщо бекінг не потрібен — просто <a href="/uk/deals/">оберіть деал у каталозі</a> та грайте на найкращих умовах на свої.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   it:
     title: Backing nel poker — staking e finanziamento dei giocatori
     description: >-
-      Backing, staking e finanziamento dei giocatori di poker (stable / scuderia) di PokerDealsHub: gioca sopra il tuo
-      bankroll con il makeup. E le nostre deal — top club con field soft, rakeback alto e garanzia dei pagamenti — sono
-      alla portata di tutti, anche senza backing.
+      Backing, staking e finanziamento dei giocatori di poker (stable / scuderia) da PokerDealsHub: gioca sopra il tuo
+      bankroll con il makeup. E i nostri deal — club top con campo soft, rakeback elevato e garanzia dei pagamenti —
+      sono accessibili a tutti, anche senza backing.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Il backing (staking)</strong> è il finanziamento di un giocatore: i soldi per giocare li mette il backer, il giocatore gioca e divide il profitto. Il pool di giocatori sotto backing si chiama <strong>stable</strong> (scuderia). Prendiamo nella nostra stable giocatori di talento, pronti a giocare a limiti superiori a quelli che consente il loro bankroll — <strong>i soldi per giocare li mettiamo noi, tu giochi con il makeup</strong>.
+          <strong>Il backing (staking)</strong> è il finanziamento di un giocatore: il capitale di gioco lo mette il backer, il giocatore gioca e divide il profitto. Il pool di giocatori sotto backing si chiama <strong>scuderia di poker</strong> (stable). Prendiamo nella scuderia giocatori di talento, pronti a giocare a limiti più alti di quanto consenta il loro bankroll: <strong>il capitale di gioco lo mettiamo noi, tu giochi con il makeup</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Ma la cosa più importante — l'accesso ai migliori club di poker con field soft, rakeback alto e garanzia dei pagamenti lo apriamo a <strong>tutti</strong>: sia nell'ambito del backing, sia per giocare con i propri soldi. Qui sotto trovi cosa ottieni lavorando con le nostre deal.
+          Ma la cosa più importante è l'accesso ai migliori club di poker con campo soft, rakeback elevato e garanzia dei pagamenti, che apriamo a <strong>tutti</strong>: sia nell'ambito del backing, sia per chi gioca con i propri fondi. Qui sotto trovi ciò che ottieni lavorando con i nostri deal.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Le nostre deal — alla portata di tutti</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">I nostri deal — accessibili a tutti</h2>
         <p class="text-neutral-300 mb-6">
-          Le condizioni di PokerDealsHub non richiedono il backing — puoi usarle giocando con i tuoi soldi. Ottieni l'accesso a deal che di solito sono riservate solo ai partner interni dei club:
+          Le condizioni di PokerDealsHub non richiedono il backing: puoi sfruttarle giocando con i tuoi fondi. Ottieni l'accesso a deal normalmente riservati solo ai partner interni dei club:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>I migliori club e le migliori union con field soft</strong> — dove puoi davvero battere il campo, invece di lottare contro i regular.</span>
+            <span><strong>I migliori club e union con campo soft</strong> — dove batti davvero il campo, invece di combattere contro i regular.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Rakeback fisso alto — fino al 70%</strong> — profitto aggiuntivo oltre al risultato al tavolo, fin dal primo giorno.</span>
+            <span><strong>Rakeback fisso elevato — fino al 70%</strong> — profitto aggiuntivo oltre al risultato al tavolo, fin dal primo giorno.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -455,7 +455,7 @@ i18n:
         </ul>
         <div class="flex justify-center">
           <a href="/it/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            Vedi il catalogo delle deal
+            Vedi il catalogo dei deal
           </a>
         </div>
       </div>
@@ -463,26 +463,26 @@ i18n:
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <h2 class="text-2xl font-semibold text-gold mb-4">Backing: gioca sopra il tuo bankroll</h2>
         <p class="text-neutral-300 mb-4">
-          Se vuoi giocare più in alto, ma i tuoi fondi per ora non bastano, possiamo prenderti nella nostra stable (scuderia). Chi cerchiamo:
+          Se vuoi giocare più in alto ma i tuoi fondi non bastano ancora, possiamo prenderti nella nostra scuderia di poker (stable). Chi cerchiamo:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Giocatori vincenti che vogliono giocare più in alto di quanto consenta il loro bankroll.</span>
+            <span>Giocatori vincenti che vogliono giocare più in alto di quanto consenta il bankroll.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Regular disciplinati, pronti a giocare volume e a rispettare rigorosamente le regole delle piattaforme.</span>
+            <span>Regular disciplinati, pronti a giocare a volume e nel rigoroso rispetto delle regole delle piattaforme.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Chi può dimostrare la propria competenza — con uno storico di winrate in diversi club.</span>
+            <span>Chi può dimostrare la propria competenza — con lo storico dei winrate in diversi club.</span>
           </li>
         </ul>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Condizioni di collaborazione</h3>
         <p class="text-neutral-300 mb-4">
-          Il bankroll per giocare lo forniamo noi. Tu giochi <strong>con il makeup</strong>: la tua quota di profitto viene accreditata dopo che è stata recuperata la perdita, se c'è stata. Nessun investimento di fondi propri nel gioco — solo il tuo tempo e la tua abilità.
+          Il bankroll di gioco lo forniamo noi. Tu giochi <strong>con il makeup</strong>: la tua quota di profitto viene accreditata dopo aver recuperato l'eventuale perdita. Nessun investimento di fondi propri nel gioco — solo il tuo tempo e la tua abilità.
         </p>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Come avvengono i pagamenti</h3>
@@ -493,68 +493,68 @@ i18n:
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>La quota del giocatore per quella settimana la tratteniamo ancora una settimana dopo il saldo — cioè il pagamento avviene con uno scarto di <strong>+1 settimana</strong> rispetto al giorno del saldo.</span>
+            <span>La quota del giocatore per quella settimana la tratteniamo per un'altra settimana dopo il saldo — cioè il pagamento avviene con uno slittamento di <strong>+1 settimana</strong> rispetto al giorno del saldo.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>A cosa serve: se a una settimana profittevole ne segue una in perdita, la quota trattenuta copre parte della downswing. Così riduciamo la crescita del debito di makeup, ed entrambe le parti restano in una posizione stabile.</span>
+            <span>A cosa serve: se a una settimana in profitto ne segue una in perdita, la quota trattenuta copre parte del downswing. Così riduciamo la crescita del debito di makeup, ed entrambe le parti restano in una posizione stabile.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Pronto a giocare più in alto?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Scrivici su Telegram e inviaci lo <strong>storico dei winrate in diversi club</strong> — così valuteremo il tuo gioco e ti proporremo le condizioni di backing. Rispondiamo personalmente a ogni candidato.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          E se il backing non ti serve — semplicemente <a href="/it/deals/">scegli una deal nel catalogo</a> e gioca alle migliori condizioni con i tuoi soldi.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Scrivici su Telegram
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Pronto a giocare più in alto?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Scrivici via e-mail e inviaci lo <strong>storico dei winrate in diversi club</strong> — così valutiamo il tuo gioco e definiamo le condizioni di backing. Rispondiamo personalmente a ogni candidato.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            E se il backing non ti serve — semplicemente <a href="/it/deals/">scegli un deal nel catalogo</a> e gioca alle migliori condizioni con i tuoi fondi.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   de:
     title: Backing im Poker — Staking und Spielerfinanzierung
     description: >-
-      Backing, Staking und Spielerfinanzierung (Poker-Stable) von PokerDealsHub: spiel über deiner Bankroll mit Makeup.
-      Und unsere Deals — Top-Clubs mit soft field, hohem Rakeback und Auszahlungsgarantie — stehen jedem offen, auch
-      ohne Backing.
+      Backing, Staking und Finanzierung von Pokerspielern (Poker-Stable / Stall) von PokerDealsHub: Spiele über deinem
+      Bankroll mit Makeup. Und unsere Deals — Top-Clubs mit Soft Games, hohem Rakeback und Auszahlungsgarantie — stehen
+      jedem offen, auch ohne Backing.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Backing (Staking)</strong> — das ist die Finanzierung eines Spielers: Der Backer stellt das Geld fürs Spiel, der Pokerspieler spielt und teilt den Gewinn. Den Pool an Spielern unter Backing nennt man <strong>Poker-Stable</strong>. Wir nehmen talentierte Spieler in unsere Stable auf, die bereit sind, auf höheren Limits zu spielen, als es ihre Bankroll erlaubt — <strong>das Spielgeld stellen wir, du spielst mit Makeup</strong>.
+          <strong>Backing (Staking)</strong> ist die Finanzierung eines Spielers: Das Geld für das Spiel stellt der Backer, der Pokerspieler spielt und teilt den Gewinn. Der Pool an Spielern unter Backing wird als <strong>Poker-Stable</strong> (Stall) bezeichnet. Wir nehmen talentierte Spieler in den Stall auf, die bereit sind, auf höheren Limits zu spielen, als ihr Bankroll es zulässt — <strong>das Geld für das Spiel stellen wir, du spielst mit Makeup</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Doch das Wichtigste: Den Zugang zu den besten Poker-Clubs mit soft field, hohem Rakeback und Auszahlungsgarantie öffnen wir <strong>jedem</strong> — sowohl im Rahmen des Backings als auch fürs Spiel mit eigenem Geld. Nachfolgend, was du bekommst, wenn du mit unseren Deals arbeitest.
+          Doch das Wichtigste: Den Zugang zu den besten Pokerclubs mit Soft Games, hohem Rakeback und Auszahlungsgarantie eröffnen wir <strong>jedem</strong> — sowohl im Rahmen des Backings als auch für das Spiel mit eigenem Geld. Nachfolgend, was du erhältst, wenn du mit unseren Deals arbeitest.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <h2 class="text-2xl font-semibold text-gold mb-4">Unsere Deals — für jeden zugänglich</h2>
         <p class="text-neutral-300 mb-6">
-          Die Konditionen von PokerDealsHub setzen kein Backing voraus — du kannst sie auch nutzen, wenn du mit eigenem Geld spielst. Du erhältst Zugang zu Deals, die normalerweise nur den internen Partnern der Clubs offenstehen:
+          Die Konditionen von PokerDealsHub erfordern kein Backing — du kannst sie nutzen und dabei mit eigenem Geld spielen. Du erhältst Zugang zu Deals, die normalerweise nur internen Partnern der Clubs offenstehen:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Die besten Clubs und Unions mit soft field</strong> — dort, wo du das Feld wirklich schlagen kannst, statt gegen Regs zu kämpfen.</span>
+            <span><strong>Die besten Clubs und Unions mit Soft Games</strong> — dort, wo man das Feld wirklich schlagen kann, statt gegen Regulars zu kämpfen.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Hoher fester Rakeback — bis zu 70%</strong> — zusätzlicher Gewinn über dem Tischresultat hinaus, ab dem ersten Tag.</span>
+            <span><strong>Hohes festes Rakeback — bis zu 70%</strong> — zusätzlicher Gewinn über dem Ergebnis am Tisch, ab dem ersten Tag.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Auszahlungsgarantien</strong> — ausgenommen Fälle, in denen der Einsatz von Bots oder Teamplay nachgewiesen wird.</span>
+            <span><strong>Auszahlungsgarantien</strong> — außer in Fällen, in denen der Einsatz von Bots oder Teamplay nachgewiesen wird.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Geprüfte Clubs und transparente Konditionen</strong> — nachvollziehbarer Rakeback, schnelle Auszahlungen, Support rund um die Uhr.</span>
+            <span><strong>Geprüfte Clubs und transparente Konditionen</strong> — nachvollziehbares Rakeback, schnelle Auszahlungen, Support rund um die Uhr.</span>
           </li>
         </ul>
         <div class="flex justify-center">
@@ -565,18 +565,18 @@ i18n:
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Backing: spiel über deiner Bankroll</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Backing: Spiele über deinem Bankroll</h2>
         <p class="text-neutral-300 mb-4">
-          Wenn du höher spielen willst, deine eigenen Mittel dafür aber noch nicht reichen, können wir dich in unsere Poker-Stable aufnehmen. Wen wir suchen:
+          Wenn du höher spielen möchtest, dein eigenes Kapital dafür aber noch nicht ausreicht — können wir dich in unsere Poker-Stable (Stall) aufnehmen. Wen wir suchen:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Gewinnende Spieler, die höher spielen wollen, als es ihre Bankroll erlaubt.</span>
+            <span>Gewinnende Spieler, die höher spielen möchten, als es ihr Bankroll zulässt.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Disziplinierte Regs, die bereit sind, Volumen zu spielen und sich strikt an die Regeln der Plattformen zu halten.</span>
+            <span>Disziplinierte Regulars, die bereit sind, nach Volumen und strikt nach den Regeln der Plattformen zu spielen.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -586,14 +586,14 @@ i18n:
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Konditionen der Zusammenarbeit</h3>
         <p class="text-neutral-300 mb-4">
-          Die Bankroll fürs Spiel stellen wir. Du spielst <strong>mit Makeup</strong>: Dein Gewinnanteil wird erst ausgeschüttet, nachdem ein etwaiges Minus aufgeholt ist. Keine eigenen Einlagen ins Spiel — nur deine Zeit und dein Können.
+          Den Bankroll für das Spiel stellen wir. Du spielst <strong>mit Makeup</strong> (Makeup): Dein Anteil am Gewinn wird ausgezahlt, nachdem ein etwaiger Minus aufgeholt wurde. Kein Einsatz eigener Mittel ins Spiel — nur deine Zeit und dein Können.
         </p>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Wie die Auszahlungen ablaufen</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Die Clubs rechnen mit uns für die gespielte Woche ab, in der Regel am Montag oder Dienstag der Folgewoche.</span>
+            <span>Die Clubs rechnen die gespielte Woche mit uns ab, in der Regel am Montag oder Dienstag der Folgewoche.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -601,69 +601,69 @@ i18n:
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Wozu das dient: Folgt auf eine profitable Woche eine verlustreiche, deckt der einbehaltene Anteil einen Teil des Downswings ab. So bremsen wir das Anwachsen der Makeup-Schuld, und beide Seiten bleiben in einer stabilen Position.</span>
+            <span>Warum das nötig ist: Wenn auf eine profitable Woche eine Verlustwoche folgt, deckt der einbehaltene Anteil einen Teil des Downswings ab. So bremsen wir das Anwachsen der Makeup-Schuld, und beide Seiten bleiben in einer stabilen Position.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Bereit, höher zu spielen?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Schreib uns auf Telegram und schick deine <strong>Winrate-Historie aus verschiedenen Clubs</strong> — so beurteilen wir dein Spiel und stellen dir passende Backing-Konditionen zusammen. Wir antworten jedem Kandidaten persönlich.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          Und wenn du kein Backing brauchst — <a href="/de/deals/">wähl einfach einen Deal aus dem Katalog</a> und spiel zu den besten Konditionen mit eigenem Geld.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Auf Telegram schreiben
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Bereit, höher zu spielen?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Schreib uns eine E-Mail und schick uns deine <strong>Winrate-Historie aus verschiedenen Clubs</strong> — so bewerten wir dein Spiel und stellen die passenden Backing-Konditionen zusammen. Wir antworten jedem Kandidaten persönlich.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            Und wenn du kein Backing brauchst — <a href="/de/deals/">wähl einfach einen Deal aus dem Katalog</a> und spiel mit eigenem Geld zu den besten Konditionen.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   es:
-    title: Backing en el póker — staking y financiación de jugadores
+    title: "Backing en el póker: staking y financiación de jugadores"
     description: >-
-      Backing, staking y financiación de jugadores de póker (caballeriza / stable) de PokerDealsHub: juega por encima de
-      tu bankroll con makeup. Y nuestros deals — clubes top con campo soft, rakeback alto y garantía de pagos — están al
+      Backing, staking y financiación de jugadores de póker (cuadra / stable) con PokerDealsHub: juega por encima de tu
+      bankroll con makeup. Y nuestros deals —clubes top con mesas blandas, rakeback alto y garantía de pagos— están al
       alcance de todos, incluso sin backing.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>El backing (staking)</strong> es la financiación de un jugador: el dinero para jugar lo pone el backer, el jugador de póker juega y reparte las ganancias. Al conjunto de jugadores con backing se le llama <strong>caballeriza de póker</strong> (stable). Aceptamos en la caballeriza a jugadores talentosos, dispuestos a jugar en límites superiores a los que permite su bankroll: <strong>el dinero para jugar lo ponemos nosotros, tú juegas con makeup</strong>.
+          El <strong>backing (staking)</strong> es la financiación de un jugador: el backer aporta el dinero para jugar, el jugador juega y reparten los beneficios. Al conjunto de jugadores financiados se le llama <strong>cuadra de póker</strong> (stable). Fichamos para la cuadra a jugadores con talento dispuestos a jugar límites más altos de los que permite su bankroll: <strong>el dinero para jugar lo ponemos nosotros y tú juegas con makeup</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Pero lo más importante: el acceso a los mejores clubes de póker con campo soft, rakeback alto y garantía de pagos lo abrimos para <strong>todos</strong>, tanto dentro del backing como para jugar con tu propio dinero. Abajo verás qué obtienes trabajando con nuestros deals.
+          Pero lo más importante: el acceso a los mejores clubes de póker, con mesas blandas, rakeback alto y garantía de pagos, se lo abrimos a <strong>todo el mundo</strong>, tanto dentro del backing como para jugar con tu propio dinero. Abajo te contamos qué obtienes al aprovechar nuestros deals.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Nuestros deals — al alcance de todos</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Nuestros deals: disponibles para todo el mundo</h2>
         <p class="text-neutral-300 mb-6">
-          Las condiciones de PokerDealsHub no requieren backing: puedes aprovecharlas jugando con tu propio dinero. Obtienes acceso a deals que normalmente solo están disponibles para los socios internos de los clubes:
+          Las condiciones de PokerDealsHub no exigen backing: puedes aprovecharlas jugando con tu propio dinero. Consigues acceso a deals que normalmente solo tienen los socios internos de los clubes:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Los mejores clubes y uniones con campo soft</strong>: donde realmente se le puede ganar al field, en lugar de pelear contra los regulares.</span>
+            <span><strong>Los mejores clubes y uniones con mesas blandas</strong>: donde de verdad se puede ganar al campo en lugar de pelear contra los regulares.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Rakeback fijo alto — hasta el 70%</strong>: una ganancia extra por encima del resultado en la mesa, desde el primer día.</span>
+            <span><strong>Rakeback fijo alto: hasta el 70%</strong>: beneficio extra por encima de tu resultado en la mesa, desde el primer día.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Garantías de pago</strong>: salvo en los casos en que se demuestre el uso de bots o teamplay.</span>
+            <span><strong>Garantías de pago</strong>: salvo en los casos en que se demuestre el uso de bots o de juego en equipo.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Clubes verificados y condiciones transparentes</strong>: rakeback claro, pagos rápidos, soporte 24/7.</span>
+            <span><strong>Clubes verificados y condiciones transparentes</strong>: rakeback claro, pagos rápidos y soporte 24/7.</span>
           </li>
         </ul>
         <div class="flex justify-center">
           <a href="/es/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            Ver el catálogo de deals
+            Ver catálogo de deals
           </a>
         </div>
       </div>
@@ -671,94 +671,94 @@ i18n:
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <h2 class="text-2xl font-semibold text-gold mb-4">Backing: juega por encima de tu bankroll</h2>
         <p class="text-neutral-300 mb-4">
-          Si quieres jugar más alto pero tu propio dinero aún no alcanza, podemos aceptarte en nuestra caballeriza de póker (stable). A quién buscamos:
+          Si quieres jugar límites más altos pero de momento no te llega el dinero, podemos ficharte para nuestra cuadra de póker (stable). A quién buscamos:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Jugadores ganadores que quieren jugar más alto de lo que permite su bankroll.</span>
+            <span>Jugadores ganadores que quieran jugar más alto de lo que permite su bankroll.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Regulares disciplinados, dispuestos a jugar volumen y respetando estrictamente las reglas de las salas.</span>
+            <span>Regulares disciplinados, dispuestos a jugar volumen y a respetar estrictamente las normas de las salas.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Quienes puedan demostrar su competencia con un historial de winrates en distintos clubes.</span>
+            <span>Quienes puedan acreditar su nivel con un historial de winrates en distintos clubes.</span>
           </li>
         </ul>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Condiciones de colaboración</h3>
         <p class="text-neutral-300 mb-4">
-          El bankroll para jugar lo ponemos nosotros. Tú juegas <strong>con makeup</strong> (makeup): tu parte de las ganancias se acredita después de recuperar la pérdida, si la hubo. Sin aportar tu propio dinero al juego: solo tu tiempo y tu habilidad.
+          El bankroll para jugar lo ponemos nosotros. Tú juegas <strong>con makeup</strong>: tu parte de los beneficios se abona una vez recuperado el minus, si lo hubo. Sin poner nada de tu propio dinero en el juego: solo tu tiempo y tu habilidad.
         </p>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Cómo se realizan los pagos</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Los clubes nos liquidan la semana jugada, por lo general, el lunes o martes de la semana siguiente.</span>
+            <span>Los clubes nos liquidan la semana jugada, por lo general el lunes o martes de la semana siguiente.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>La parte del jugador de esa semana la retenemos una semana más tras la liquidación: es decir, el pago se realiza con un desfase de <strong>+1 semana</strong> respecto al día de liquidación.</span>
+            <span>La parte del jugador de esa semana la retenemos una semana más tras la liquidación; es decir, el pago se realiza con un desfase de <strong>+1 semana</strong> respecto al día de liquidación.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Para qué sirve esto: si a una semana ganadora le sigue una perdedora, la parte retenida cubre parte del bajón. Así reducimos el crecimiento de la deuda de makeup y ambas partes se mantienen en una posición estable.</span>
+            <span>Para qué sirve: si a una semana ganadora le sigue una perdedora, la parte retenida cubre parte del bajón. Así frenamos el crecimiento de la deuda de makeup y ambas partes se mantienen en una posición estable.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">¿Listo para jugar más alto?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Escríbenos por Telegram y envíanos tu <strong>historial de winrates en distintos clubes</strong>: así evaluaremos tu juego y te ofreceremos las condiciones de backing. Respondemos personalmente a cada candidato.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          Y si no necesitas backing, simplemente <a href="/es/deals/">elige un deal en el catálogo</a> y juega en las mejores condiciones con tu propio dinero.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Escribir por Telegram
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">¿Listo para jugar más alto?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Escríbenos por e-mail y envíanos tu <strong>historial de winrates en distintos clubes</strong>: así evaluamos tu juego y te ajustamos las condiciones de backing. Respondemos personalmente a cada candidato.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            Y si no necesitas backing, simplemente <a href="/es/deals/">elige un deal en el catálogo</a> y juega en las mejores condiciones con tu propio dinero.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   pt:
     title: Backing no poker — staking e financiamento de jogadores
     description: >-
-      Backing, staking e financiamento de jogadores de poker (stable / cavalariça de poker) da PokerDealsHub: jogue
-      acima do seu bankroll com makeup. E os nossos deals — clubes top com mesas soft, rakeback alto e garantia de
-      pagamento — estão disponíveis para todo mundo, mesmo sem backing.
+      Backing, staking e financiamento de jogadores de poker (stable / cavalariça de poker) pela PokerDealsHub: jogue
+      acima do seu bankroll com makeup. E os nossos deals — clubes top com soft field, rakeback alto e garantia de
+      pagamentos — estão disponíveis para todo mundo, mesmo sem backing.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Backing (staking)</strong> — é o financiamento do jogador: o backer coloca o dinheiro para o jogo, o jogador joga e divide o lucro. O grupo de jogadores sob backing é chamado de <strong>stable</strong> (cavalariça de poker). Nós colocamos na stable jogadores talentosos, prontos para jogar em limites acima do que o bankroll deles permite — <strong>o dinheiro para o jogo é nosso, você joga com makeup</strong>.
+          <strong>Backing (staking)</strong> é o financiamento de um jogador: o backer coloca o dinheiro para o jogo, o jogador joga e divide o lucro. O grupo de jogadores sob backing é chamado de <strong>stable (cavalariça de poker)</strong>. Nós trazemos para a stable jogadores talentosos, prontos para jogar em limites acima do que o bankroll permite — <strong>o dinheiro para o jogo é nosso, você joga com makeup</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Mas o mais importante — o acesso aos melhores clubes de poker com mesas soft, rakeback alto e garantia de pagamento nós abrimos para <strong>todo mundo</strong>: tanto dentro do backing quanto para jogar com o seu próprio dinheiro. Abaixo — o que você ganha jogando com os nossos deals.
+          Mas o mais importante: o acesso aos melhores clubes de poker com soft field, rakeback alto e garantia de pagamentos nós abrimos para <strong>todo mundo</strong>, tanto dentro do backing quanto para quem joga com o próprio dinheiro. Abaixo, veja o que você ganha trabalhando com os nossos deals.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Nossos deals — disponíveis para todo mundo</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Nossos deals — para todo mundo</h2>
         <p class="text-neutral-300 mb-6">
-          As condições da PokerDealsHub não exigem backing — dá para usá-las jogando com o seu próprio dinheiro. Você tem acesso a deals que normalmente só ficam disponíveis para parceiros internos dos clubes:
+          As condições da PokerDealsHub não exigem backing — dá para usá-las jogando com o próprio dinheiro. Você tem acesso a deals que normalmente só ficam disponíveis para os parceiros internos dos clubes:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Os melhores clubes e uniões com mesas soft</strong> — onde dá para bater o field de verdade, e não ficar brigando com os regulares.</span>
+            <span><strong>Os melhores clubes e uniões com soft field</strong> — onde dá de verdade para bater o campo, em vez de brigar contra os regulares.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Rakeback fixo alto — até 70%</strong> — lucro extra por cima do resultado na mesa, desde o primeiro dia.</span>
+            <span><strong>Rakeback fixo alto — de até 70%</strong> — lucro extra por cima do resultado na mesa, desde o primeiro dia.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Garantias de pagamento</strong> — exceto nos casos em que ficar comprovado o uso de bots ou de teamplay.</span>
+            <span><strong>Garantia de pagamentos</strong> — exceto nos casos em que fique comprovado o uso de bots ou de teamplay.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -767,7 +767,7 @@ i18n:
         </ul>
         <div class="flex justify-center">
           <a href="/pt/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            Ver catálogo de deals
+            Ver o catálogo de deals
           </a>
         </div>
       </div>
@@ -775,16 +775,16 @@ i18n:
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <h2 class="text-2xl font-semibold text-gold mb-4">Backing: jogue acima do seu bankroll</h2>
         <p class="text-neutral-300 mb-4">
-          Se você quer jogar mais alto, mas ainda não tem dinheiro suficiente — podemos colocar você na nossa stable (cavalariça de poker). Quem procuramos:
+          Se você quer jogar mais alto, mas o seu dinheiro ainda não é suficiente, podemos trazer você para a nossa stable (cavalariça de poker). Quem procuramos:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Jogadores ganhadores que querem jogar acima do que o bankroll permite.</span>
+            <span>Jogadores vencedores que querem jogar acima do que o bankroll permite.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Regulares disciplinados, prontos para jogar por volume e seguindo à risca as regras das plataformas.</span>
+            <span>Regulares disciplinados, prontos para jogar volume e seguir à risca as regras das salas.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -794,18 +794,18 @@ i18n:
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Condições da parceria</h3>
         <p class="text-neutral-300 mb-4">
-          O bankroll para o jogo é fornecido por nós. Você joga <strong>com makeup</strong> (makeup): a sua parte do lucro é calculada depois que o prejuízo for coberto, caso tenha havido. Nenhum aporte de dinheiro próprio no jogo — apenas o seu tempo e a sua habilidade.
+          O bankroll para o jogo é fornecido por nós. Você joga <strong>com makeup</strong>: a sua parte do lucro passa a ser paga depois que o prejuízo é recuperado, caso ele tenha existido. Nenhum aporte de dinheiro próprio no jogo — apenas o seu tempo e a sua habilidade.
         </p>
 
-        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Como acontecem os pagamentos</h3>
+        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Como funcionam os pagamentos</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Os clubes acertam conosco pela semana jogada, em geral na segunda ou terça-feira da semana seguinte.</span>
+            <span>Os clubes acertam com a gente a semana jogada, em geral na segunda ou terça-feira da semana seguinte.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>A parte do jogador referente a essa semana nós retemos por mais uma semana após o acerto — ou seja, o pagamento sai com um deslocamento de <strong>+1 semana</strong> em relação ao dia do acerto.</span>
+            <span>A parte do jogador referente a essa semana nós retemos por mais uma semana após o acerto — ou seja, o pagamento sai com uma defasagem de <strong>+1 semana</strong> em relação ao dia do acerto.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -815,54 +815,54 @@ i18n:
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Pronto para jogar mais alto?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Escreva para nós no Telegram e envie o seu <strong>histórico de winrate em diferentes clubes</strong> — assim avaliamos o seu jogo e montamos as condições de backing. Respondemos pessoalmente a cada candidato.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          E se você não precisa de backing — é só <a href="/pt/deals/">escolher um deal no catálogo</a> e jogar nas melhores condições com o seu próprio dinheiro.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Escrever no Telegram
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Pronto para jogar mais alto?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Escreva para o nosso e-mail e envie o seu <strong>histórico de winrate em diferentes clubes</strong> — assim avaliamos o seu jogo e montamos as condições de backing. Respondemos a cada candidato pessoalmente.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            E se você não precisa de backing — é só <a href="/pt/deals/">escolher um deal no catálogo</a> e jogar nas melhores condições com o seu próprio dinheiro.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   fr:
     title: Backing au poker — staking et financement des joueurs
     description: >-
-      Backing, staking et financement des joueurs de poker (écurie de poker / stable) par PokerDealsHub : jouez
-      au-dessus de votre bankroll avec un makeup. Et nos deals — top clubs au field soft, rakeback élevé et garantie de
-      paiement — sont accessibles à chacun, même sans backing.
+      Backing, staking et financement de joueurs de poker (écurie de poker / stable) par PokerDealsHub : jouez au-dessus
+      de votre bankroll avec makeup. Et nos deals — top clubs à field soft, rakeback élevé et garantie de paiement —
+      sont accessibles à tous, même sans backing.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Le backing (staking)</strong> — c'est le financement d'un joueur : le backer fournit l'argent pour jouer, le joueur joue et partage les profits. Le groupe de joueurs financés s'appelle une <strong>écurie de poker</strong> (stable). Nous prenons dans notre écurie des joueurs talentueux, prêts à jouer à des limites supérieures à ce que permet leur bankroll — <strong>c'est nous qui fournissons l'argent pour jouer, vous jouez avec un makeup</strong>.
+          Le <strong>backing (staking)</strong>, c'est le financement d'un joueur : le backer fournit l'argent pour jouer, le joueur joue et partage les profits. Le pool de joueurs sous backing s'appelle une <strong>écurie de poker</strong> (stable). Nous prenons dans notre écurie des joueurs talentueux, prêts à jouer à des limites plus hautes que ne le permet leur bankroll — <strong>c'est nous qui fournissons l'argent pour jouer, vous jouez avec makeup</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Mais surtout — l'accès aux meilleurs clubs de poker avec un field soft, un rakeback élevé et une garantie de paiement, nous l'ouvrons à <strong>chacun</strong> : que ce soit dans le cadre du backing, ou pour jouer sur ses propres fonds. Ci-dessous — ce que vous obtenez en profitant de nos deals.
+          Mais surtout : l'accès aux meilleurs clubs de poker à field soft, rakeback élevé et garantie de paiement, nous l'ouvrons à <strong>tout le monde</strong> — que ce soit dans le cadre du backing ou pour jouer sur son propre argent. Voici ci-dessous ce que vous obtenez en profitant de nos deals.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Nos deals — accessibles à chacun</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Nos deals — accessibles à tous</h2>
         <p class="text-neutral-300 mb-6">
-          Les conditions de PokerDealsHub n'exigent aucun backing — vous pouvez en profiter en jouant sur vos propres fonds. Vous accédez à des deals habituellement réservés aux partenaires internes des clubs :
+          Les conditions de PokerDealsHub n'exigent aucun backing — vous pouvez en profiter en jouant sur votre propre argent. Vous accédez à des deals habituellement réservés aux partenaires internes des clubs :
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Les meilleurs clubs et unions au field soft</strong> — là où l'on peut réellement battre le field, au lieu de lutter contre les réguliers.</span>
+            <span><strong>Les meilleurs clubs et unions à field soft</strong> — là où l'on peut réellement battre le field, au lieu de se battre contre des réguliers.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Un rakeback fixe élevé — jusqu'à 70%</strong> — un profit supplémentaire par-dessus votre résultat à la table, dès le premier jour.</span>
+            <span><strong>Un rakeback fixe élevé — jusqu'à 70%</strong> — un profit supplémentaire au-delà de vos résultats à la table, dès le premier jour.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Des garanties de paiement</strong> — sauf en cas d'utilisation avérée de bots ou de jeu en équipe.</span>
+            <span><strong>Des garanties de paiement</strong> — sauf en cas d'utilisation prouvée de bots ou de collusion.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -871,15 +871,15 @@ i18n:
         </ul>
         <div class="flex justify-center">
           <a href="/fr/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            Voir le catalogue des deals
+            Voir le catalogue de deals
           </a>
         </div>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Backing : jouez au-dessus de votre bankroll</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Backing : joue au-dessus de ta bankroll</h2>
         <p class="text-neutral-300 mb-4">
-          Si vous voulez jouer plus haut mais que vos propres fonds ne suffisent pas encore — nous pouvons vous prendre dans notre écurie de poker (stable). Qui nous recherchons :
+          Si vous voulez jouer plus haut mais que vos fonds ne suffisent pas encore, nous pouvons vous prendre dans notre écurie de poker (stable). Qui nous recherchons :
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
@@ -888,17 +888,17 @@ i18n:
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Des réguliers disciplinés, prêts à jouer du volume et à respecter strictement les règles des plateformes.</span>
+            <span>Des réguliers disciplinés, prêts à jouer au volume et dans le strict respect des règles des rooms.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Ceux qui peuvent prouver leur compétence — via un historique de winrates dans différents clubs.</span>
+            <span>Ceux qui peuvent prouver leur compétence — avec un historique de winrates dans différents clubs.</span>
           </li>
         </ul>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Conditions de collaboration</h3>
         <p class="text-neutral-300 mb-4">
-          C'est nous qui fournissons le bankroll pour jouer. Vous jouez <strong>avec un makeup</strong> (makeup) : votre part des profits est versée une fois le déficit remboursé, s'il y en a eu un. Aucun apport de fonds propres dans le jeu — seulement votre temps et votre talent.
+          La bankroll de jeu, c'est nous qui la fournissons. Vous jouez <strong>avec makeup</strong> (makeup) : votre part des profits est calculée une fois le déficit remboursé, s'il y en avait un. Aucun apport de fonds propres dans le jeu — seulement votre temps et votre talent.
         </p>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Comment se déroulent les paiements</h3>
@@ -909,60 +909,60 @@ i18n:
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Nous conservons la part du joueur pour cette semaine encore une semaine après le règlement — le paiement se fait donc avec un décalage de <strong>+1 semaine</strong> par rapport au jour de règlement.</span>
+            <span>La part du joueur pour cette semaine, nous la retenons encore une semaine après le règlement — autrement dit, le paiement part avec un décalage de <strong>+1 semaine</strong> par rapport au jour de règlement.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>À quoi ça sert : si une semaine profitable est suivie d'une semaine perdante, la part retenue couvre une partie de la downswing. Ainsi nous limitons la croissance de la dette de makeup, et les deux parties restent dans une position stable.</span>
+            <span>Pourquoi c'est utile : si une semaine profitable est suivie d'une semaine perdante, la part retenue couvre une partie de la downswing. On limite ainsi la croissance de la dette de makeup, et les deux parties restent dans une position stable.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Prêt à jouer plus haut ?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Écrivez-nous sur Telegram et envoyez-nous votre <strong>historique de winrates dans différents clubs</strong> — nous évaluerons ainsi votre jeu et définirons vos conditions de backing. Nous répondons personnellement à chaque candidat.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          Et si vous n'avez pas besoin de backing — il vous suffit de <a href="/fr/deals/">choisir un deal dans le catalogue</a> et de jouer aux meilleures conditions sur vos propres fonds.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Écrire sur Telegram
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Prêt à jouer plus haut ?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Écrivez-nous par e-mail et envoyez votre <strong>historique de winrates dans différents clubs</strong> — nous évaluerons ainsi votre jeu et vous proposerons des conditions de backing adaptées. Nous répondons personnellement à chaque candidat.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            Et si vous n'avez pas besoin de backing — <a href="/fr/deals/">choisissez simplement un deal dans le catalogue</a> et jouez aux meilleures conditions sur votre propre argent.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   tr:
     title: Pokerde backing — staking ve oyuncu finansmanı
     description: >-
-      PokerDealsHub'tan poker backing, staking ve oyuncu finansmanı (poker ahırı / stable): makeup ile bankroll'unuzun
-      üstünde oynayın. Sunduğumuz deal'ler ise — soft field'e sahip top kulüpler, yüksek rakeback ve ödeme garantisi —
-      backing olmadan bile herkese açık.
+      PokerDealsHub'tan poker backing, staking ve oyuncu finansmanı (poker ahırı / stable): makeup ile bankroll'ünüzün
+      üstünde oynayın. Deal'lerimiz ise — soft field, yüksek rakeback ve ödeme garantili en iyi kulüpler — backing
+      olmadan bile herkese açık.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Backing (staking)</strong> — oyuncunun finanse edilmesidir: oyun için parayı backer verir, poker oyuncusu oynar ve karı paylaşır. Backing altındaki oyuncu havuzuna <strong>poker ahırı</strong> (stable) denir. Ahırımıza, bankroll'unun izin verdiğinden daha yüksek limitlerde oynamaya hazır yetenekli oyuncuları alıyoruz — <strong>oyun için parayı biz veriyoruz, siz makeup ile oynuyorsunuz</strong>.
+          <strong>Backing (staking)</strong> — bir oyuncunun finanse edilmesidir: oyun için parayı backer verir, oyuncu oynar ve karı paylaşır. Backing altındaki oyuncu havuzuna <strong>poker ahırı</strong> (stable) denir. Ahırımıza, bankroll'ünün izin verdiğinden daha yüksek limitlerde oynamaya hazır yetenekli oyuncuları alıyoruz — <strong>oyun için parayı biz veriyoruz, siz makeup ile oynuyorsunuz</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Ama asıl önemli olan — soft field'e, yüksek rakeback'e ve ödeme garantisine sahip en iyi poker kulüplerine erişimi <strong>herkese</strong> açıyoruz: hem backing kapsamında, hem de kendi paranızla oynamak için. Aşağıda — deal'lerimizle çalışarak neler kazandığınızı bulacaksınız.
+          Ama en önemlisi — soft field, yüksek rakeback ve ödeme garantisiyle en iyi poker kulüplerine erişimi <strong>herkese</strong> açıyoruz: hem backing kapsamında, hem de kendi paranızla oynamak için. Aşağıda — deal'lerimizle çalışarak neler elde ettiğiniz.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <h2 class="text-2xl font-semibold text-gold mb-4">Deal'lerimiz — herkese açık</h2>
         <p class="text-neutral-300 mb-6">
-          PokerDealsHub koşulları backing gerektirmez — bunları kendi paranızla oynayarak da kullanabilirsiniz. Genellikle yalnızca kulüplerin iç ortaklarına açık olan deal'lere erişim elde edersiniz:
+          PokerDealsHub koşulları backing gerektirmez — kendi paranızla oynarken de bunları kullanabilirsiniz. Genellikle yalnızca kulüplerin iç ortaklarına açık olan deal'lere erişim kazanırsınız:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Soft field'e sahip en iyi kulüpler ve union'lar</strong> — regular'larla boğuşmak yerine, sahayı gerçekten yenebileceğiniz yerler.</span>
+            <span><strong>Soft field'a sahip en iyi kulüpler ve union'lar</strong> — regüllerle boğuşmak yerine, sahayı gerçekten yenebileceğiniz yerler.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Yüksek sabit rakeback — %70'e kadar</strong> — masadaki sonucunuzun üzerine, ilk günden itibaren ek kar.</span>
+            <span><strong>Yüksek sabit rakeback — %70'e kadar</strong> — ilk günden itibaren, masadaki sonucun üzerine ek kâr.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -975,24 +975,24 @@ i18n:
         </ul>
         <div class="flex justify-center">
           <a href="/tr/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            Deal kataloğunu gör
+            Deal kataloğunu görüntüle
           </a>
         </div>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Backing: bankroll'unun üstünde oyna</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Backing: bankroll'ünün üstünde oyna</h2>
         <p class="text-neutral-300 mb-4">
-          Daha yüksekte oynamak istiyorsanız ama kendi paranız henüz yeterli değilse — sizi poker ahırımıza (stable) alabiliriz. Kimleri arıyoruz:
+          Daha yüksekte oynamak istiyorsanız ama kendi paranız henüz yetmiyorsa — sizi poker ahırımıza (stable) alabiliriz. Aradığımız kişiler:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Bankroll'unun izin verdiğinden daha yüksekte oynamak isteyen artıda oyuncular.</span>
+            <span>Bankroll'ünün izin verdiğinden daha yüksekte oynamak isteyen artıda oyuncular.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Hacme göre ve platformların kurallarına harfiyen uyarak oynamaya hazır disiplinli regular'lar.</span>
+            <span>Hacimli oynamaya ve platform kurallarına harfiyen uymaya hazır disiplinli regüller.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -1002,274 +1002,274 @@ i18n:
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">İş birliği koşulları</h3>
         <p class="text-neutral-300 mb-4">
-          Oyun için bankroll'u biz sağlıyoruz. Siz <strong>makeup ile</strong> (makeup) oynuyorsunuz: kardan payınız, varsa eksinin kapatılmasından sonra tahakkuk eder. Oyuna kendi paranızı yatırmanız gerekmez — yalnızca zamanınız ve beceriniz.
+          Oyun için bankroll'ü biz sağlıyoruz. Siz <strong>makeup ile</strong> oynuyorsunuz: kardan payınız, varsa eksi kapandıktan sonra hesaplanır. Oyuna kendi paranızdan hiçbir yatırım yok — yalnızca zamanınız ve ustalığınız.
         </p>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Ödemeler nasıl yapılır</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Kulüpler oynanan hafta için bizimle, genellikle bir sonraki haftanın pazartesi–salı günleri hesaplaşır.</span>
+            <span>Kulüpler oynanan hafta için bizimle, genellikle bir sonraki haftanın pazartesi–salı günü hesaplaşır.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Oyuncunun o haftaki payını, hesaplaşmadan sonra bir hafta daha elimizde tutuyoruz — yani ödeme, hesaplaşma gününden <strong>+1 hafta</strong> kaymayla yapılır.</span>
+            <span>Oyuncunun o haftaya ait payını, hesaplaşmadan sonra bir hafta daha tutuyoruz — yani ödeme, hesaplaşma gününden <strong>+1 hafta</strong> kaymayla yapılır.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Bu neden gerekli: karlı bir haftayı zararlı bir hafta izlerse, tutulan pay düşüşün bir kısmını karşılar. Böylece makeup borcunun büyümesini azaltıyoruz ve her iki taraf da sağlam bir konumda kalıyor.</span>
+            <span>Bunun amacı: kârlı bir haftayı zararlı bir hafta izlerse, tutulan pay düşüşün bir kısmını karşılar. Böylece makeup borcunun büyümesini azaltıyoruz ve iki taraf da sağlam bir konumda kalıyor.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Daha yüksekte oynamaya hazır mısınız?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Bize Telegram'dan yazın ve <strong>farklı kulüplerdeki winrate geçmişinizi</strong> gönderin — böylece oyununuzu değerlendirip size uygun backing koşullarını belirleriz. Her adaya kişisel olarak yanıt veriyoruz.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          Backing gerekmiyorsa — sadece <a href="/tr/deals/">katalogdan bir deal seçin</a> ve kendi paranızla en iyi koşullarda oynayın.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Telegram'dan yaz
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Daha yüksekte oynamaya hazır mısınız?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Bize e-posta yazın ve <strong>farklı kulüplerdeki winrate geçmişinizi</strong> gönderin — böylece oyununuzu değerlendirip size uygun backing koşullarını belirleriz. Her adaya kişisel olarak yanıt veriyoruz.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            Backing gerekmiyorsa — sadece <a href="/tr/deals/">katalogdan bir deal seçin</a> ve kendi paranızla en iyi koşullarda oynayın.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   he:
     title: בקינג בפוקר — סטייקינג ומימון שחקנים
     description: >-
-      בקינג, סטייקינג ומימון שחקני פוקר (אורוות פוקר / stable) מ-PokerDealsHub: שחקו מעל הבנקרול שלכם עם מייקאפ.
-      והעסקאות שלנו — מועדונים מובילים עם שדה רך, רייקבק גבוה וערבות לתשלומים — זמינות לכל אחד, גם בלי בקינג.
+      בקינג, סטייקינג ומימון שחקני פוקר (אורוות פוקר / stable) מבית PokerDealsHub: שחקו מעל הבנקרול שלכם עם מייקאפ.
+      והדילים שלנו — מועדונים מובילים עם שדה רך, rakeback גבוה וערבות תשלומים — זמינים לכל אחד, גם בלי בקינג.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>בקינג (סטייקינג)</strong> — זהו מימון של שחקן: הבקר נותן כסף למשחק, שחקן הפוקר משחק ומחלק את הרווח. מאגר השחקנים תחת בקינג נקרא <strong>אורוות פוקר</strong> (stable). אנחנו מקבלים לאורווה שחקנים מוכשרים שמוכנים לשחק בלימיטים גבוהים ממה שהבנקרול שלהם מאפשר, — <strong>את הכסף למשחק נותנים אנחנו, אתם משחקים עם מייקאפ</strong>.
+          <strong>בקינג (סטייקינג)</strong> — זהו מימון של שחקן: הבקר נותן את הכסף למשחק, השחקן משחק ומחלק את הרווח. מאגר השחקנים שנמצאים תחת בקינג נקרא <strong>אורוות פוקר</strong> (stable). אנחנו מקבלים לאורווה שחקנים מוכשרים שמוכנים לשחק בלימיטים גבוהים ממה שהבנקרול שלהם מאפשר — <strong>את הכסף למשחק אנחנו נותנים, ואתם משחקים עם מייקאפ</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          אבל העיקר — את הגישה למועדוני הפוקר הטובים ביותר עם שדה רך, רייקבק גבוה וערבות לתשלומים אנחנו פותחים <strong>לכל אחד</strong>: גם במסגרת בקינג, וגם למשחק על הכסף שלכם. למטה — מה אתם מקבלים כשאתם עובדים עם העסקאות שלנו.
+          אבל העיקר — את הגישה למועדוני הפוקר הטובים ביותר עם שדה רך, rakeback גבוה וערבות תשלומים אנחנו פותחים <strong>לכל אחד</strong>: גם במסגרת בקינג, וגם למשחק בכסף שלכם. למטה — מה אתם מקבלים כשאתם עובדים עם הדילים שלנו.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">העסקאות שלנו — זמינות לכל אחד</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">הדילים שלנו — זמינים לכל אחד</h2>
         <p class="text-neutral-300 mb-6">
-          התנאים של PokerDealsHub לא דורשים בקינג — אפשר להשתמש בהם גם כשמשחקים על הכסף שלכם. אתם מקבלים גישה לעסקאות שבדרך כלל זמינות רק לשותפים פנימיים של המועדונים:
+          התנאים של PokerDealsHub לא דורשים בקינג — אפשר להשתמש בהם גם במשחק בכסף שלכם. אתם מקבלים גישה לדילים שבדרך כלל זמינים רק לשותפים הפנימיים של המועדונים:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>המועדונים והאיגודים הטובים ביותר עם שדה רך</strong> — שם באמת אפשר להכות את השדה, ולא להיאבק ברגולרים.</span>
+            <span><strong>המועדונים והאיגודים הטובים ביותר עם שדה רך</strong> — שם שבאמת אפשר להביס את השדה, ולא להיאבק ברגולרים.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>רייקבק קבוע גבוה — עד 70%</strong> — רווח נוסף מעבר לתוצאה בשולחן, כבר מהיום הראשון.</span>
+            <span><strong>rakeback קבוע וגבוה — עד 70%</strong> — רווח נוסף מעבר לתוצאה בשולחן, כבר מהיום הראשון.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>ערבות לתשלומים</strong> — למעט מקרים שבהם הוכח שימוש בבוטים או במשחק צוותי.</span>
+            <span><strong>ערבות תשלומים</strong> — למעט מקרים שבהם הוכח שימוש בבוטים או במשחק צוותי (team play).</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>מועדונים מאומתים ותנאים שקופים</strong> — רייקבק ברור, תשלומים מהירים, תמיכה 24/7.</span>
+            <span><strong>מועדונים מאומתים ותנאים שקופים</strong> — rakeback ברור, תשלומים מהירים, תמיכה 24/7.</span>
           </li>
         </ul>
         <div class="flex justify-center">
           <a href="/he/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            לצפייה בקטלוג העסקאות
+            לצפייה בקטלוג הדילים
           </a>
         </div>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">בקינג: שחקו גבוה מהבנקרול שלכם</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">בקינג: שחקו מעל הבנקרול שלכם</h2>
         <p class="text-neutral-300 mb-4">
-          אם אתם רוצים לשחק גבוה יותר, אבל האמצעים שלכם עדיין לא מספיקים, — אנחנו יכולים לקבל אתכם לאורוות הפוקר שלנו (stable). את מי אנחנו מחפשים:
+          אם אתם רוצים לשחק גבוה יותר, אבל האמצעים שלכם עדיין לא מספיקים — אנחנו יכולים לקבל אתכם לאורוות הפוקר שלנו (stable). את מי אנחנו מחפשים:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>שחקנים מנצחים, שרוצים לשחק גבוה יותר ממה שהבנקרול מאפשר.</span>
+            <span>שחקנים מנצחים שרוצים לשחק גבוה יותר ממה שהבנקרול מאפשר.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>רגולרים ממושמעים, שמוכנים לשחק בנפח ובהתאם מלא לחוקי הפלטפורמות.</span>
+            <span>רגולרים ממושמעים, מוכנים לשחק בכמות ובהתאם מדויק לכללי הפלטפורמות.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>מי שיכול להוכיח מיומנות — עם היסטוריית וינרייט במועדונים שונים.</span>
+            <span>מי שיכול להוכיח מקצועיות — עם היסטוריית winrate במועדונים שונים.</span>
           </li>
         </ul>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">תנאי שיתוף הפעולה</h3>
         <p class="text-neutral-300 mb-4">
-          את הבנקרול למשחק מספקים אנחנו. אתם משחקים <strong>עם מייקאפ</strong> (makeup): החלק שלכם מהרווח נצבר לאחר שכוסה המינוס, אם היה. בלי שום השקעה של כספכם במשחק — רק הזמן והמיומנות שלכם.
+          את הבנקרול למשחק אנחנו מספקים. אתם משחקים <strong>עם מייקאפ</strong> (makeup): החלק שלכם מהרווח מזוכה לאחר שהמינוס כוסה, אם היה. בלי שום השקעה של כסף עצמי במשחק — רק הזמן והמיומנות שלכם.
         </p>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">איך מתבצעים התשלומים</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>המועדונים מתחשבנים איתנו על השבוע ששוחק, בדרך כלל ביום שני–שלישי של השבוע שאחריו.</span>
+            <span>המועדונים מתחשבנים איתנו על השבוע ששוחק, בדרך כלל בימים שני–שלישי של השבוע שלאחר מכן.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>את חלקו של השחקן על השבוע הזה אנחנו מחזיקים עוד שבוע לאחר ההתחשבנות — כלומר התשלום יוצא בהיסט של <strong>+1 שבוע</strong> מיום ההתחשבנות.</span>
+            <span>את החלק של השחקן עבור השבוע הזה אנחנו מחזיקים עוד שבוע נוסף לאחר ההתחשבנות — כלומר התשלום מתבצע עם היסט של <strong>שבוע +1</strong> מיום ההתחשבנות.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>למה זה נחוץ: אם אחרי שבוע רווחי מגיע שבוע מפסיד, החלק שהוחזק מכסה חלק מהירידה. כך אנחנו מצמצמים את הצטברות חוב המייקאפ, ושני הצדדים נשארים במצב יציב.</span>
+            <span>למה זה נחוץ: אם אחרי שבוע רווחי מגיע שבוע הפסדי, החלק המוחזק מכסה חלק מהירידה. כך אנחנו מצמצמים את גידול חוב המייקאפ, ושני הצדדים נשארים בעמדה יציבה.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">מוכנים לשחק גבוה יותר?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          כתבו לנו בטלגרם ושלחו <strong>היסטוריית וינרייט במועדונים שונים</strong> — כך נעריך את המשחק שלכם ונתאים תנאי בקינג. עונים לכל מועמד באופן אישי.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          ואם בקינג לא נחוץ — פשוט <a href="/he/deals/">בחרו עסקה בקטלוג</a> ושחקו בתנאים הטובים ביותר על הכסף שלכם.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            כתבו לנו בטלגרם
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">מוכנים לשחק גבוה יותר?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            כתבו לנו למייל ושלחו <strong>היסטוריית winrate במועדונים שונים</strong> — כך נעריך את המשחק שלכם ונתאים תנאי בקינג. אנחנו עונים לכל מועמד אישית.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            ואם בקינג לא נחוץ — פשוט <a href="/he/deals/">בחרו דיל בקטלוג</a> ושחקו בתנאים הטובים ביותר בכסף שלכם.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   ar:
     title: الباكينج في البوكر — الستيكينج وتمويل اللاعبين
     description: >-
-      الباكينج والستيكينج وتمويل لاعبي البوكر (إسطبل البوكر / stable) من PokerDealsHub: العب فوق حجم بنك رولك مع الميك
-      أب. أما صفقاتنا — أفضل النوادي ذات البيئة الرخوة، والريك باك المرتفع، وضمان الدفع — فهي متاحة للجميع، حتى بدون
-      باكينج.
+      الباكينج والستيكينج وتمويل لاعبي البوكر (اسطبل البوكر / stable) من PokerDealsHub: العب فوق مستوى bankroll الخاص بك
+      مع الميك أب. أما صفقاتنا — أفضل الأندية بأرضية لعب سهلة و rakeback مرتفع وضمان الدفعات — فهي متاحة للجميع، حتى
+      بدون باكينج.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>الباكينج (الستيكينج)</strong> هو تمويل اللاعب: يقدّم الباكر المال للعب، ويلعب لاعب البوكر ثم يتقاسمان الأرباح. ويُسمّى تجمّع اللاعبين تحت الباكينج <strong>إسطبل البوكر</strong> (stable). نحن نضمّ إلى الإسطبل لاعبين موهوبين مستعدين للعب على حدود أعلى مما يسمح به بنك رولهم — <strong>نحن نقدّم المال للعب، وأنت تلعب مع الميك أب</strong>.
-        </p>
-        <p class="text-neutral-300 text-lg leading-relaxed">
-          لكن الأهم — أننا نفتح الوصول إلى أفضل نوادي البوكر ذات البيئة الرخوة والريك باك المرتفع وضمان الدفع <strong>للجميع</strong>: سواء ضمن الباكينج أو للعب بأموالك الخاصة. فيما يلي ما تحصل عليه عند العمل مع صفقاتنا.
-        </p>
-      </div>
-
-      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">صفقاتنا — متاحة للجميع</h2>
-        <p class="text-neutral-300 mb-6">
-          شروط PokerDealsHub لا تتطلب باكينج — يمكنك الاستفادة منها وأنت تلعب بأموالك الخاصة. تحصل على الوصول إلى صفقات عادةً ما تكون متاحة فقط للشركاء الداخليين في النوادي:
-        </p>
-        <ul class="space-y-3 text-neutral-300 mb-6">
-          <li class="flex items-start">
-            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>أفضل النوادي والاتحادات ذات البيئة الرخوة</strong> — حيث يمكنك فعليًا التغلّب على الطاولة بدلًا من مصارعة اللاعبين المحترفين.</span>
-          </li>
-          <li class="flex items-start">
-            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>ريك باك ثابت مرتفع — حتى 70%</strong> — ربح إضافي فوق نتيجتك على الطاولة، منذ اليوم الأول.</span>
-          </li>
-          <li class="flex items-start">
-            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>ضمانات الدفع</strong> — باستثناء الحالات التي يُثبت فيها استخدام البوتات أو اللعب الجماعي.</span>
-          </li>
-          <li class="flex items-start">
-            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>نوادٍ موثوقة وشروط شفّافة</strong> — ريك باك واضح، دفعات سريعة، ودعم على مدار الساعة طوال أيام الأسبوع.</span>
-          </li>
-        </ul>
-        <div class="flex justify-center">
-          <a href="/ar/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            تصفّح كتالوج الصفقات
-          </a>
+          <p class="text-neutral-300 text-lg leading-relaxed mb-4">
+            <strong>الباكينج (الستيكينج)</strong> — هو تمويل اللاعب: يقدّم الباكر المال للعب، ويلعب لاعب البوكر ويتقاسم الأرباح. تُسمّى مجموعة اللاعبين تحت الباكينج <strong>اسطبل البوكر</strong> (stable). نضمّ إلى الاسطبل لاعبين موهوبين مستعدين للعب على حدود أعلى مما يسمح به bankroll الخاص بهم — <strong>نحن نقدّم المال للعب، وأنت تلعب مع الميك أب</strong>.
+          </p>
+          <p class="text-neutral-300 text-lg leading-relaxed">
+            لكن الأهم — أننا نفتح الوصول إلى أفضل أندية البوكر ذات أرضية اللعب السهلة و rakeback المرتفع وضمان الدفعات <strong>للجميع</strong>: سواء ضمن الباكينج أو للعب بأموالك الخاصة. في ما يلي — ما الذي تحصل عليه بالعمل مع صفقاتنا.
+          </p>
         </div>
-      </div>
 
-      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">الباكينج: العب فوق حجم بنك رولك</h2>
-        <p class="text-neutral-300 mb-4">
-          إذا كنت تريد اللعب على حدود أعلى لكن أموالك الخاصة لا تكفي بعد — يمكننا ضمّك إلى إسطبل البوكر لدينا (stable). من نبحث عنه:
-        </p>
-        <ul class="space-y-3 text-neutral-300">
-          <li class="flex items-start">
-            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>لاعبون رابحون يريدون اللعب على حدود أعلى مما يسمح به بنك رولهم.</span>
-          </li>
-          <li class="flex items-start">
-            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>لاعبون محترفون منضبطون مستعدون للعب بحجم كبير والالتزام الصارم بقواعد المنصّات.</span>
-          </li>
-          <li class="flex items-start">
-            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>من يستطيع إثبات كفاءته — عبر سجلّ من الوين ريت في نوادٍ مختلفة.</span>
-          </li>
-        </ul>
-
-        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">شروط التعاون</h3>
-        <p class="text-neutral-300 mb-4">
-          نحن من يوفّر بنك رول اللعب. أنت تلعب <strong>مع الميك أب</strong> (makeup): تُحتسب حصّتك من الأرباح بعد تعويض الخسارة، إن وُجدت. لا حاجة لاستثمار أي من أموالك الخاصة في اللعب — فقط وقتك ومهارتك.
-        </p>
-
-        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">كيف تتم الدفعات</h3>
-        <ul class="space-y-3 text-neutral-300">
-          <li class="flex items-start">
-            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>تسوّي النوادي حساباتها معنا عن الأسبوع الذي تم لعبه، عادةً يوم الاثنين أو الثلاثاء من الأسبوع التالي.</span>
-          </li>
-          <li class="flex items-start">
-            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>نحتفظ بحصّة اللاعب عن هذا الأسبوع لمدة أسبوع إضافي بعد التسوية — أي أن الدفعة تتم بإزاحة <strong>+1 أسبوع</strong> عن يوم التسوية.</span>
-          </li>
-          <li class="flex items-start">
-            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>لماذا هذا مهم: إذا أعقب أسبوعًا رابحًا أسبوعٌ خاسر، فإن الحصّة المحتجزة تغطّي جزءًا من التراجع. بهذا نقلّل من تراكم ديون الميك أب، ويبقى الطرفان في وضع مستقر.</span>
-          </li>
-        </ul>
-      </div>
-
-      <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">مستعد للعب على حدود أعلى؟</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          راسلنا على Telegram وأرسل لنا <strong>سجلّ الوين ريت في نوادٍ مختلفة</strong> — بذلك نقيّم لعبك ونختار لك شروط الباكينج المناسبة. نردّ على كل مرشّح شخصيًا.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          وإن لم تكن بحاجة إلى الباكينج — فببساطة <a href="/ar/deals/">اختر صفقة من الكتالوج</a> والعب بأفضل الشروط بأموالك الخاصة.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            راسلنا على Telegram
-          </a>
+        <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
+          <h2 class="text-2xl font-semibold text-gold mb-4">صفقاتنا — متاحة للجميع</h2>
+          <p class="text-neutral-300 mb-6">
+            لا تتطلّب شروط PokerDealsHub وجود باكينج — يمكنك الاستفادة منها وأنت تلعب بأموالك الخاصة. تحصل على الوصول إلى صفقات لا تكون عادةً متاحة إلا لشركاء الأندية الداخليين:
+          </p>
+          <ul class="space-y-3 text-neutral-300 mb-6">
+            <li class="flex items-start">
+              <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span><strong>أفضل الأندية والاتحادات ذات أرضية اللعب السهلة</strong> — حيث يمكنك فعلاً هزيمة الطاولة بدل الصراع مع المحترفين المنتظمين.</span>
+            </li>
+            <li class="flex items-start">
+              <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span><strong>rakeback ثابت مرتفع — حتى 70%</strong> — ربح إضافي فوق نتيجتك على الطاولة، من اليوم الأول.</span>
+            </li>
+            <li class="flex items-start">
+              <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span><strong>ضمانات الدفعات</strong> — باستثناء الحالات التي يُثبت فيها استخدام البوتات أو اللعب الجماعي.</span>
+            </li>
+            <li class="flex items-start">
+              <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span><strong>أندية موثوقة وشروط شفافة</strong> — rakeback واضح، دفعات سريعة، دعم على مدار الساعة طوال أيام الأسبوع.</span>
+            </li>
+          </ul>
+          <div class="flex justify-center">
+            <a href="/ar/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              استعرض كتالوج الصفقات
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+
+        <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
+          <h2 class="text-2xl font-semibold text-gold mb-4">الباكينج: العب فوق مستوى bankroll الخاص بك</h2>
+          <p class="text-neutral-300 mb-4">
+            إذا كنت ترغب في اللعب على حدود أعلى، لكن أموالك الخاصة لا تكفي بعد — يمكننا ضمّك إلى اسطبل البوكر الخاص بنا (stable). عمّن نبحث:
+          </p>
+          <ul class="space-y-3 text-neutral-300">
+            <li class="flex items-start">
+              <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span>لاعبين رابحين يرغبون في اللعب على حدود أعلى مما يسمح به bankroll الخاص بهم.</span>
+            </li>
+            <li class="flex items-start">
+              <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span>محترفين منتظمين منضبطين، مستعدين للعب بالحجم والالتزام الصارم بقواعد المنصّات.</span>
+            </li>
+            <li class="flex items-start">
+              <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span>من يستطيع إثبات كفاءته — بسجل winrate في أندية مختلفة.</span>
+            </li>
+          </ul>
+
+          <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">شروط التعاون</h3>
+          <p class="text-neutral-300 mb-4">
+            نحن نقدّم bankroll اللعب. أنت تلعب <strong>مع الميك أب</strong> (makeup): تُحتسب حصتك من الربح بعد تعويض الخسارة، إن وُجدت. لا حاجة لاستثمار أي من أموالك الخاصة في اللعب — فقط وقتك ومهارتك.
+          </p>
+
+          <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">كيف تتم الدفعات</h3>
+          <ul class="space-y-3 text-neutral-300">
+            <li class="flex items-start">
+              <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span>تُسدّد الأندية لنا مقابل الأسبوع المُلعوب، عادةً يومي الاثنين–الثلاثاء من الأسبوع التالي.</span>
+            </li>
+            <li class="flex items-start">
+              <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span>نحتفظ بحصة اللاعب عن هذا الأسبوع لمدة أسبوع إضافي بعد التسوية — أي أن الدفعة تتم بإزاحة <strong>+1 أسبوع</strong> عن يوم التسوية.</span>
+            </li>
+            <li class="flex items-start">
+              <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span>لماذا هذا ضروري: إذا أعقب أسبوعًا رابحًا أسبوع خاسر، فإن الحصة المحتجزة تغطّي جزءًا من التراجع. بهذا نقلّل من نمو دَين الميك أب، ويبقى الطرفان في وضع مستقر.</span>
+            </li>
+          </ul>
+        </div>
+
+        <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
+            <h2 class="text-2xl font-semibold text-gold mb-3">مستعد للعب على حدود أعلى؟</h2>
+            <p class="text-neutral-300 text-lg mb-2">
+              راسلنا عبر البريد الإلكتروني وأرسل لنا <strong>سجل winrate في أندية مختلفة</strong> — بذلك نقيّم لعبك ونختار لك شروط الباكينج المناسبة. نردّ على كل مرشّح شخصيًا.
+            </p>
+            <p class="text-neutral-400 mb-6">
+              وإن لم تكن بحاجة إلى الباكينج — فببساطة <a href="/ar/deals/">اختر صفقة من الكتالوج</a> والعب بأفضل الشروط بأموالك الخاصة.
+            </p>
+            <div class="flex justify-center">
+              <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+                <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+                pokerdealshub@gmail.com
+              </a>
+            </div>
+          </div>
+    srcHash: e9c19c138372
   id:
-    title: Backing di poker — staking dan pendanaan pemain
+    title: Backing Poker — Staking dan Pendanaan Pemain
     description: >-
       Backing, staking, dan pendanaan pemain poker (stable / kandang poker) dari PokerDealsHub: main di atas bankroll
-      Anda dengan makeup. Dan deal kami — club top dengan meja soft, rakeback tinggi, dan jaminan pembayaran — terbuka
-      untuk siapa saja, bahkan tanpa backing.
+      kamu dengan sistem makeup. Dan deal kami — club top dengan meja soft, rakeback tinggi, dan garansi pembayaran —
+      terbuka untuk semua orang, bahkan tanpa backing.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Backing (staking)</strong> — adalah pendanaan seorang pemain: modal main disediakan oleh backer, pemain poker bermain dan membagi keuntungan. Kumpulan pemain di bawah backing disebut <strong>stable (kandang poker)</strong>. Kami menerima pemain berbakat ke dalam stable, yang siap bermain di limit lebih tinggi daripada yang diizinkan bankroll mereka, — <strong>modal main kami yang sediakan, Anda bermain dengan makeup</strong>.
+          <strong>Backing (staking)</strong> adalah pendanaan untuk pemain: modal main disediakan oleh backer, pemain poker bermain dan membagi keuntungan. Kumpulan pemain di bawah backing disebut <strong>stable (kandang poker)</strong>. Kami merekrut ke dalam stable pemain-pemain berbakat yang siap bermain di limit lebih tinggi daripada yang diizinkan bankroll mereka — <strong>modal main kami yang sediakan, kamu bermain dengan makeup</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Namun yang terpenting — akses ke club poker terbaik dengan meja soft, rakeback tinggi, dan jaminan pembayaran kami buka untuk <strong>siapa saja</strong>: baik dalam skema backing, maupun untuk bermain dengan modal sendiri. Di bawah ini — apa yang Anda dapatkan saat menggunakan deal kami.
+          Tapi yang terpenting — akses ke club poker terbaik dengan meja soft, rakeback tinggi, dan garansi pembayaran kami buka untuk <strong>semua orang</strong>: baik dalam kerangka backing, maupun untuk bermain dengan modal sendiri. Di bawah ini — apa yang kamu dapatkan saat bekerja sama dengan deal kami.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Deal kami — terbuka untuk siapa saja</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Deal kami — terbuka untuk semua orang</h2>
         <p class="text-neutral-300 mb-6">
-          Syarat PokerDealsHub tidak mewajibkan backing — semuanya bisa Anda pakai sambil bermain dengan modal sendiri. Anda mendapatkan akses ke deal yang biasanya hanya tersedia bagi partner internal club:
+          Syarat PokerDealsHub tidak mengharuskan backing — kamu bisa memakainya sambil bermain dengan modal sendiri. Kamu mendapatkan akses ke deal yang biasanya hanya tersedia untuk mitra internal club:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Club dan union terbaik dengan meja soft</strong> — tempat di mana Anda benar-benar bisa mengalahkan meja, bukan bertarung melawan regular.</span>
+            <span><strong>Club dan union terbaik dengan meja soft</strong> — tempat di mana kamu benar-benar bisa mengalahkan field, bukan bertarung melawan reguler.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -1277,11 +1277,11 @@ i18n:
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Jaminan pembayaran</strong> — kecuali dalam kasus yang terbukti menggunakan bot atau teamplay.</span>
+            <span><strong>Garansi pembayaran</strong> — kecuali dalam kasus terbukti menggunakan bot atau teamplay.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Club terverifikasi dan syarat yang transparan</strong> — rakeback yang jelas, pembayaran cepat, dukungan 24/7.</span>
+            <span><strong>Club terpercaya dan syarat transparan</strong> — rakeback yang jelas, pembayaran cepat, dukungan 24/7.</span>
           </li>
         </ul>
         <div class="flex justify-center">
@@ -1292,100 +1292,100 @@ i18n:
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Backing: main di atas bankroll Anda</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Backing: main di atas bankroll kamu</h2>
         <p class="text-neutral-300 mb-4">
-          Jika Anda ingin bermain di limit lebih tinggi, tetapi modal sendiri belum cukup, — kami bisa menerima Anda ke dalam stable (kandang poker) kami. Siapa yang kami cari:
+          Kalau kamu ingin bermain di limit lebih tinggi, tapi modal sendiri belum cukup — kami bisa merekrut kamu ke dalam stable (kandang poker) kami. Siapa yang kami cari:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Pemain plus yang ingin bermain di limit lebih tinggi daripada yang diizinkan bankroll.</span>
+            <span>Pemain plus (winning player) yang ingin bermain di limit lebih tinggi daripada yang diizinkan bankroll.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Regular yang disiplin, siap bermain dengan volume dan patuh pada aturan platform.</span>
+            <span>Reguler yang disiplin, siap bermain dengan volume dan mematuhi aturan platform secara ketat.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Mereka yang bisa membuktikan kompetensi — dengan riwayat winrate di berbagai club.</span>
+            <span>Mereka yang bisa membuktikan kompetensinya — dengan riwayat winrate di berbagai club.</span>
           </li>
         </ul>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Syarat kerja sama</h3>
         <p class="text-neutral-300 mb-4">
-          Bankroll untuk bermain kami yang sediakan. Anda bermain <strong>dengan makeup</strong> (makeup): bagian keuntungan Anda dihitung setelah minus tertutup, jika sebelumnya ada minus. Tanpa perlu menanamkan modal sendiri ke dalam permainan — hanya waktu dan keahlian Anda.
+          Bankroll untuk bermain kami yang sediakan. Kamu bermain <strong>dengan makeup</strong> (makeup): bagianmu dari keuntungan dihitung setelah minus tertutupi, jika ada. Tanpa perlu menaruh modal sendiri untuk bermain — hanya waktu dan keahlianmu.
         </p>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Bagaimana pembayaran berlangsung</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Club membayar kami untuk satu minggu permainan, biasanya pada Senin–Selasa minggu berikutnya.</span>
+            <span>Club membayar kami untuk minggu yang telah dimainkan, biasanya pada hari Senin–Selasa minggu berikutnya.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Bagian pemain untuk minggu tersebut kami tahan satu minggu lagi setelah penyelesaian — artinya pembayaran berjalan dengan pergeseran <strong>+1 minggu</strong> dari hari penyelesaian.</span>
+            <span>Bagian pemain untuk minggu ini kami tahan satu minggu lagi setelah penghitungan — artinya pembayaran berjalan dengan pergeseran <strong>+1 minggu</strong> dari hari penghitungan.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Untuk apa ini: jika minggu yang untung disusul minggu yang rugi, bagian yang ditahan menutupi sebagian downswing. Dengan begitu kami menekan pertumbuhan utang makeup, dan kedua pihak tetap berada di posisi yang stabil.</span>
+            <span>Kenapa ini perlu: kalau minggu untung diikuti minggu rugi, bagian yang ditahan menutupi sebagian downswing. Dengan begitu kami menekan pertumbuhan utang makeup, dan kedua belah pihak tetap berada di posisi yang stabil.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Siap main di limit lebih tinggi?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Hubungi kami di Telegram dan kirimkan <strong>riwayat winrate di berbagai club</strong> — dengan begitu kami menilai permainan Anda dan menyesuaikan syarat backing. Kami membalas setiap kandidat secara pribadi.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          Dan jika backing tidak diperlukan — cukup <a href="/id/deals/">pilih deal di katalog</a> dan mainlah dengan syarat terbaik menggunakan modal sendiri.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Hubungi via Telegram
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Siap main di limit lebih tinggi?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Kirim e-mail ke kami dan lampirkan <strong>riwayat winrate di berbagai club</strong> — dengan begitu kami menilai permainanmu dan menyusun syarat backing yang tepat. Kami menjawab setiap kandidat secara langsung.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            Dan kalau backing tidak dibutuhkan — cukup <a href="/id/deals/">pilih deal di katalog</a> dan bermainlah dengan syarat terbaik memakai modal sendiri.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   vi:
     title: Backing trong poker — staking và tài trợ người chơi
     description: >-
-      Backing, staking và tài trợ người chơi poker (lò poker / stable) từ PokerDealsHub: chơi trên mức bankroll của bạn
-      với makeup. Còn các deal của chúng tôi — club hàng đầu với soft field, rakeback cao và bảo đảm chi trả — dành cho
-      mọi người, kể cả khi không cần backing.
+      Backing, staking và tài trợ người chơi poker (stable poker / chuồng ngựa) từ PokerDealsHub: chơi cao hơn bankroll
+      của bạn với makeup. Còn các deal của chúng tôi — những club hàng đầu với soft field, rakeback cao và bảo đảm chi
+      trả — dành cho tất cả mọi người, kể cả khi không cần backing.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Backing (staking)</strong> — là hình thức tài trợ người chơi: backer bỏ tiền cho ván chơi, người chơi poker thi đấu và chia lợi nhuận. Nhóm người chơi được backing gọi là <strong>lò poker</strong> (stable). Chúng tôi nhận vào lò những người chơi tài năng, sẵn sàng chơi ở các mức cao hơn khả năng bankroll của họ — <strong>tiền chơi do chúng tôi cấp, bạn chơi với makeup</strong>.
+          <strong>Backing (staking)</strong> là hình thức tài trợ cho người chơi: backer bỏ tiền cho ván đấu, người chơi poker thi đấu và chia lợi nhuận. Nhóm người chơi được backing gọi là <strong>stable poker</strong> (chuồng ngựa). Chúng tôi nhận vào stable những người chơi tài năng, sẵn sàng chơi ở mức cược cao hơn khả năng bankroll của họ — <strong>tiền chơi là do chúng tôi cấp, bạn chơi với makeup</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Nhưng quan trọng nhất — quyền tiếp cận những club poker tốt nhất với soft field, rakeback cao và bảo đảm chi trả thì chúng tôi mở ra cho <strong>tất cả mọi người</strong>: cả khi backing, lẫn khi chơi bằng tiền của bạn. Dưới đây là những gì bạn nhận được khi làm việc với các deal của chúng tôi.
+          Nhưng quan trọng nhất — quyền tiếp cận những câu lạc bộ poker tốt nhất với soft field, rakeback cao và bảo đảm chi trả thì chúng tôi mở cho <strong>tất cả mọi người</strong>: cả trong khuôn khổ backing lẫn khi chơi bằng tiền của bạn. Dưới đây là những gì bạn nhận được khi hợp tác với các deal của chúng tôi.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Các deal của chúng tôi — dành cho mọi người</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Các deal của chúng tôi — dành cho tất cả mọi người</h2>
         <p class="text-neutral-300 mb-6">
-          Điều kiện của PokerDealsHub không đòi hỏi backing — bạn có thể dùng chúng khi chơi bằng tiền của mình. Bạn được tiếp cận những deal mà thường chỉ dành cho đối tác nội bộ của các club:
+          Điều kiện của PokerDealsHub không đòi hỏi backing — bạn có thể sử dụng chúng khi chơi bằng tiền của mình. Bạn được tiếp cận những deal thường chỉ dành cho các đối tác nội bộ của club:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Những club và union tốt nhất với soft field</strong> — nơi bạn thực sự đánh bại được field, thay vì phải vật lộn với dân reg.</span>
+            <span><strong>Những club và union tốt nhất với soft field</strong> — nơi bạn thật sự đánh bại được bàn chơi, chứ không phải vật lộn với đám regular.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Rakeback cố định cao — lên tới 70%</strong> — thêm lợi nhuận ngoài kết quả tại bàn, ngay từ ngày đầu.</span>
+            <span><strong>Rakeback cố định cao — lên đến 70%</strong> — lợi nhuận cộng thêm ngoài kết quả tại bàn, ngay từ ngày đầu tiên.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Bảo đảm chi trả</strong> — trừ những trường hợp có bằng chứng sử dụng bot hoặc chơi tổ đội (teamplay).</span>
+            <span><strong>Bảo đảm chi trả</strong> — ngoại trừ trường hợp có bằng chứng sử dụng bot hoặc chơi đồng đội (teamplay).</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Club đã được kiểm chứng và điều kiện minh bạch</strong> — rakeback rõ ràng, chi trả nhanh, hỗ trợ 24/7.</span>
+            <span><strong>Các club đã được kiểm chứng và điều kiện minh bạch</strong> — rakeback rõ ràng, chi trả nhanh, hỗ trợ 24/7.</span>
           </li>
         </ul>
         <div class="flex justify-center">
@@ -1396,100 +1396,100 @@ i18n:
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Backing: chơi trên mức bankroll của bạn</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Backing: chơi cao hơn bankroll của bạn</h2>
         <p class="text-neutral-300 mb-4">
-          Nếu bạn muốn chơi ở mức cao hơn nhưng tiền của mình chưa đủ — chúng tôi có thể nhận bạn vào lò poker (stable) của mình. Chúng tôi tìm kiếm ai:
+          Nếu bạn muốn chơi ở mức cao hơn nhưng vốn của bạn hiện chưa đủ — chúng tôi có thể nhận bạn vào stable poker của mình. Chúng tôi tìm kiếm những ai:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Người chơi có lãi, muốn chơi ở mức cao hơn khả năng bankroll cho phép.</span>
+            <span>Người chơi có lãi, muốn chơi cao hơn mức bankroll cho phép.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Dân reg kỷ luật, sẵn sàng chơi theo khối lượng và tuân thủ nghiêm ngặt luật của các nền tảng.</span>
+            <span>Những regular kỷ luật, sẵn sàng chơi theo khối lượng và tuân thủ nghiêm ngặt quy định của các nền tảng.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Người có thể chứng minh năng lực — bằng lịch sử winrate ở nhiều club khác nhau.</span>
+            <span>Những ai có thể chứng minh năng lực — bằng lịch sử winrate ở các club khác nhau.</span>
           </li>
         </ul>
 
         <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Điều kiện hợp tác</h3>
         <p class="text-neutral-300 mb-4">
-          Bankroll để chơi do chúng tôi cấp. Bạn chơi <strong>với makeup</strong> (makeup): phần lợi nhuận của bạn được tính sau khi đã bù xong khoản lỗ, nếu có. Không cần bỏ tiền của bản thân vào ván chơi — chỉ cần thời gian và kỹ năng của bạn.
+          Bankroll để chơi do chúng tôi cung cấp. Bạn chơi <strong>với makeup</strong>: phần chia lợi nhuận của bạn được tính sau khi đã bù xong khoản âm, nếu có. Không cần bỏ vốn của riêng bạn vào ván đấu — chỉ cần thời gian và tay nghề của bạn.
         </p>
 
-        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Việc chi trả diễn ra thế nào</h3>
+        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Cách thức chi trả</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Các club thanh toán cho chúng tôi theo tuần đã chơi, thường là vào thứ Hai–thứ Ba của tuần kế tiếp.</span>
+            <span>Các club thanh toán cho chúng tôi theo tuần đã chơi, thường vào thứ Hai–thứ Ba của tuần kế tiếp.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Phần của người chơi trong tuần đó chúng tôi giữ lại thêm một tuần nữa sau khi thanh toán — nghĩa là việc chi trả diễn ra với độ trễ <strong>+1 tuần</strong> so với ngày thanh toán.</span>
+            <span>Phần chia của người chơi cho tuần đó chúng tôi giữ thêm một tuần nữa sau khi thanh toán — tức là khoản chi trả sẽ lệch <strong>+1 tuần</strong> so với ngày thanh toán.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Vì sao cần vậy: nếu một tuần có lãi bị nối tiếp bởi một tuần thua lỗ, phần giữ lại sẽ bù đắp một phần khoản sụt giảm. Nhờ đó chúng tôi hạn chế sự gia tăng của nợ makeup, và cả hai bên đều giữ được vị thế ổn định.</span>
+            <span>Vì sao cần vậy: nếu một tuần có lãi bị nối tiếp bởi một tuần thua lỗ, phần được giữ lại sẽ bù đắp một phần của khoản sụt giảm. Nhờ đó chúng tôi giảm được đà tăng của nợ makeup, và cả hai bên đều giữ được vị thế vững vàng.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Sẵn sàng chơi ở mức cao hơn?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Hãy nhắn cho chúng tôi qua Telegram và gửi <strong>lịch sử winrate ở nhiều club khác nhau</strong> — để chúng tôi đánh giá lối chơi của bạn và đề xuất điều kiện backing. Chúng tôi trả lời trực tiếp từng ứng viên.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          Còn nếu không cần backing — chỉ cần <a href="/vi/deals/">chọn một deal trong danh mục</a> và chơi với điều kiện tốt nhất bằng tiền của bạn.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Nhắn qua Telegram
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Sẵn sàng chơi cao hơn?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Hãy gửi e-mail cho chúng tôi kèm theo <strong>lịch sử winrate ở các club khác nhau</strong> — để chúng tôi đánh giá lối chơi của bạn và đề xuất điều kiện backing phù hợp. Chúng tôi trả lời trực tiếp cho từng ứng viên.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            Còn nếu bạn không cần backing — chỉ cần <a href="/vi/deals/">chọn một deal trong danh mục</a> và chơi với điều kiện tốt nhất bằng tiền của bạn.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
   fil:
-    title: Backing sa poker — staking at financing ng mga player
+    title: Backing sa poker — staking at financing ng mga manlalaro
     description: >-
       Backing, staking at financing ng mga poker player (poker stable) mula sa PokerDealsHub: maglaro nang mas mataas sa
       iyong bankroll gamit ang makeup. At ang aming mga deal — top club na may soft field, mataas na rakeback at
-      garantiya sa payout — bukas para sa lahat, kahit walang backing.
+      garantiya ng bayad — ay bukas sa lahat, kahit walang backing.
     body: |-
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <p class="text-neutral-300 text-lg leading-relaxed mb-4">
-          <strong>Backing (staking)</strong> — ito ang financing sa isang manlalaro: ibinibigay ng backer ang pera para sa laro, ang poker player ang naglalaro at hinahati ang kita. Ang pool ng mga player na naka-backing ay tinatawag na <strong>poker stable</strong>. Kinukuha namin sa aming stable ang mga talentadong player na handang maglaro sa mga limit na mas mataas kaysa pinapayagan ng kanilang bankroll — <strong>kami ang nagbibigay ng pera para sa laro, ikaw ang naglalaro na may makeup</strong>.
+          <strong>Ang backing (staking)</strong> ay ang financing ng isang manlalaro: ang backer ang nagbibigay ng pera para sa laro, ang poker player ang naglalaro at hinahati ang kita. Ang pool ng mga manlalarong nasa ilalim ng backing ay tinatawag na <strong>poker stable</strong>. Kinukuha namin sa stable ang mga mahuhusay na manlalaro na handang maglaro sa mas mataas na limits kaysa sa kaya ng kanilang bankroll — <strong>kami ang nagbibigay ng pera para sa laro, ikaw ang naglalaro nang may makeup</strong>.
         </p>
         <p class="text-neutral-300 text-lg leading-relaxed">
-          Pero ang pinakamahalaga — ang access sa pinakamahuhusay na poker club na may soft field, mataas na rakeback at garantiya sa payout ay binubuksan namin para sa <strong>lahat</strong>: kapwa sa loob ng backing, at para sa paglalaro gamit ang sariling pera. Sa ibaba — kung ano ang makukuha mo sa pagtatrabaho sa aming mga deal.
+          Pero ang pinakamahalaga — ang access sa pinakamagagandang poker club na may soft field, mataas na rakeback at garantiya ng bayad ay binubuksan namin para sa <strong>lahat</strong>: parehong sa loob ng backing at para sa paglalaro gamit ang sariling pera. Sa ibaba — kung ano ang makukuha mo kapag ginamit mo ang aming mga deal.
         </p>
       </div>
 
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
-        <h2 class="text-2xl font-semibold text-gold mb-4">Ang aming mga deal — bukas para sa lahat</h2>
+        <h2 class="text-2xl font-semibold text-gold mb-4">Ang aming mga deal — bukas sa lahat</h2>
         <p class="text-neutral-300 mb-6">
-          Ang mga kondisyon ng PokerDealsHub ay hindi nangangailangan ng backing — magagamit ang mga ito habang naglalaro gamit ang sariling pera. Makukuha mo ang access sa mga deal na karaniwang para lang sa mga internal na partner ng mga club:
+          Ang mga kondisyon ng PokerDealsHub ay hindi nangangailangan ng backing — magagamit ang mga ito kahit naglalaro ka gamit ang sariling pera. Makukuha mo ang access sa mga deal na kadalasang bukas lamang sa mga internal na partner ng mga club:
         </p>
         <ul class="space-y-3 text-neutral-300 mb-6">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Pinakamahuhusay na club at union na may soft field</strong> — kung saan talagang kaya mong talunin ang field, sa halip na makipaglaban sa mga regular.</span>
+            <span><strong>Pinakamagagandang club at union na may soft field</strong> — kung saan talagang kaya mong talunin ang field, sa halip na makipaglaban sa mga regular.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Mataas na fixed na rakeback — hanggang 70%</strong> — dagdag na kita bukod sa resulta sa mesa, mula sa unang araw.</span>
+            <span><strong>Mataas na fixed na rakeback — hanggang 70%</strong> — dagdag na kita bukod pa sa resulta sa mesa, mula sa unang araw.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Garantiya sa payout</strong> — maliban sa mga kaso kung saan napatunayang gumamit ng bot o teamplay.</span>
+            <span><strong>Garantiya ng bayad</strong> — maliban sa mga kaso kung saan napatunayang gumamit ng bot o teamplay.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span><strong>Beripikadong club at malinaw na kondisyon</strong> — malinaw na rakeback, mabilis na payout, suporta 24/7.</span>
+            <span><strong>Napatunayang club at malinaw na kondisyon</strong> — malinaw na rakeback, mabibilis na bayad, 24/7 na suporta.</span>
           </li>
         </ul>
         <div class="flex justify-center">
@@ -1502,58 +1502,58 @@ i18n:
       <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
         <h2 class="text-2xl font-semibold text-gold mb-4">Backing: maglaro nang mas mataas sa iyong bankroll</h2>
         <p class="text-neutral-300 mb-4">
-          Kung gusto mong maglaro nang mas mataas, pero kulang pa ang iyong sariling pondo — maaari ka naming kunin sa aming poker stable. Sino ang hinahanap namin:
+          Kung gusto mong maglaro nang mas mataas pero kulang pa ang sarili mong pera — puwede ka naming kunin sa aming poker stable. Sino ang hinahanap namin:
         </p>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Mga winning player na gustong maglaro nang mas mataas kaysa pinapayagan ng bankroll.</span>
+            <span>Mga winning na manlalaro na gustong maglaro nang mas mataas kaysa sa kaya ng bankroll.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Mga disiplinadong regular na handang maglaro sa volume at mahigpit na sumusunod sa mga patakaran ng platform.</span>
+            <span>Mga disiplinadong regular na handang maglaro nang malaking volume at mahigpit na sumusunod sa mga patakaran ng mga platform.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Mga makakapagpatunay ng kanilang husay — sa pamamagitan ng history ng winrate sa iba't ibang club.</span>
+            <span>Mga makapagpapatunay ng kanilang kakayahan — sa pamamagitan ng history ng winrate sa iba't ibang club.</span>
           </li>
         </ul>
 
-        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Mga kondisyon ng pakikipagtulungan</h3>
+        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Mga kondisyon ng kooperasyon</h3>
         <p class="text-neutral-300 mb-4">
-          Kami ang nagbibigay ng bankroll para sa laro. Naglalaro ka <strong>na may makeup</strong>: ang iyong bahagi mula sa kita ay ikakalkula pagkatapos mabawi ang minus, kung mayroon man. Walang pamumuhunan ng sariling pera sa laro — ang oras at galing mo lang.
+          Kami ang nagbibigay ng bankroll para sa laro. Naglalaro ka nang <strong>may makeup</strong>: ang iyong parte sa kita ay ibinibigay pagkatapos mabawi ang minus, kung mayroon man. Walang anumang paglalagay ng sarili mong pera sa laro — ang oras at galing mo lang.
         </p>
 
-        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Paano ginagawa ang mga payout</h3>
+        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">Paano ginagawa ang mga bayad</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Nagbabayad sa amin ang mga club para sa naglaro na linggo, kadalasan tuwing Lunes–Martes ng sumunod na linggo.</span>
+            <span>Ang mga club ay nakikipag-ayos sa amin para sa naglaro na linggo, kadalasan tuwing Lunes–Martes ng susunod na linggo.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Ang bahagi ng player para sa linggong iyon ay hinahawakan pa namin nang isa pang linggo pagkatapos ng settlement — ibig sabihin, ang payout ay may shift na <strong>+1 linggo</strong> mula sa araw ng settlement.</span>
+            <span>Ang parte ng manlalaro para sa linggong iyon ay hinahawakan pa namin ng isang linggo pagkatapos ng ayusan — ibig sabihin ang bayad ay may pagkaantala na <strong>+1 linggo</strong> mula sa araw ng ayusan.</span>
           </li>
           <li class="flex items-start">
             <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span>Bakit ito kailangan: kung ang isang kumikitang linggo ay susundan ng lugi na linggo, ang hinawakang bahagi ay sumasaklaw sa bahagi ng downswing. Sa ganitong paraan binabawasan namin ang paglaki ng makeup na utang, at kapwa panig ay nananatili sa matatag na posisyon.</span>
+            <span>Bakit ito kailangan: kung ang isang kumikitang linggo ay sundan ng luging linggo, ang hinawakang parte ay tumatakip sa bahagi ng downswing. Sa ganitong paraan binabawasan namin ang paglaki ng makeup na utang, at ang dalawang panig ay nananatili sa matatag na posisyon.</span>
           </li>
         </ul>
       </div>
 
       <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
-        <h2 class="text-2xl font-semibold text-gold mb-3">Handa nang maglaro nang mas mataas?</h2>
-        <p class="text-neutral-300 text-lg mb-2">
-          Sumulat sa amin sa Telegram at ipadala ang iyong <strong>history ng winrate sa iba't ibang club</strong> — sa ganitong paraan masusuri namin ang iyong laro at pipiliin ang mga kondisyon ng backing. Sumasagot kami sa bawat kandidato nang personal.
-        </p>
-        <p class="text-neutral-400 mb-6">
-          At kung hindi mo kailangan ng backing — basta <a href="/fil/deals/">pumili ng deal sa catalog</a> at maglaro sa pinakamahuhusay na kondisyon gamit ang sarili mong pera.
-        </p>
-        <div class="flex justify-center">
-          <a href="https://t.me/pdh_support_bot" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
-            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/></svg>
-            Sumulat sa Telegram
-          </a>
+          <h2 class="text-2xl font-semibold text-gold mb-3">Handa nang maglaro nang mas mataas?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            Sumulat sa amin sa e-mail at ipadala ang <strong>history ng winrate sa iba't ibang club</strong> — sa gayon masusuri namin ang iyong laro at makakapili kami ng mga kondisyon ng backing. Sinasagot namin nang personal ang bawat kandidato.
+          </p>
+          <p class="text-neutral-400 mb-6">
+            At kung hindi mo naman kailangan ng backing — <a href="/fil/deals/">pumili na lang ng deal sa catalog</a> at maglaro sa pinakamagandang kondisyon gamit ang sarili mong pera.
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
         </div>
-      </div>
-    srcHash: f39805cc9842
+    srcHash: e9c19c138372
