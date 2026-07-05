@@ -39,6 +39,7 @@ export const GET: APIRoute = async () => {
     ...deals.flatMap((d) => localized((l) => `/${l}/deal/${d.id}/`, "weekly", 0.9)),
     ...guides.flatMap((g) => localized((l) => `/${l}/guides/${g.id}/`, "monthly", 0.7)),
     ...filters.flatMap((f) => localized((l) => `/${l}/deals/${f}/`, "weekly", 0.8)),
+    ...localized((l) => `/${l}/backing/`, "weekly", 0.7),
     ...["about", "add-deal", "privacy", "terms"].flatMap((p) =>
       localized((l) => `/${l}/${p}/`, "monthly", 0.5)
     ),
