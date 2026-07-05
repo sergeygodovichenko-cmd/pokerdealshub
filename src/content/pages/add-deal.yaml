@@ -1777,3 +1777,122 @@ i18n:
               </p>
             </div>
     srcHash: 38be4d131432
+  th:
+    title: เพิ่มดีลของคุณลงบนเว็บไซต์
+    description: ลงประกาศดีลโป๊กเกอร์ของคุณบน PokerDealsHub แพลตฟอร์มสำหรับคลับ ยูเนียน และเครือข่ายเอเยนต์
+    body: |-
+      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
+              <p class="text-neutral-300 text-lg leading-relaxed mb-6">
+                เราเผยแพร่ข้อเสนอโป๊กเกอร์ที่ผ่านการตรวจสอบจากคลับและยูเนียน การลงประกาศจะทำได้หลังจากตรวจสอบชื่อเสียงและเงื่อนไขของดีลแล้ว
+              </p>
+
+              <h2 class="text-2xl font-semibold text-gold mb-4">ข้อกำหนด</h2>
+              <ul class="space-y-3 text-neutral-300 mb-8">
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>ชื่อเสียงของคลับหรือยูเนียนที่ได้รับการยืนยัน</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>เงื่อนไขเรคแบ็กและการจ่ายเงินที่โปร่งใส</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>ฐานผู้เล่นและทราฟฟิกที่แอ็กทีฟ</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>การซัพพอร์ตผู้เล่นที่เชื่อถือได้</span>
+                </li>
+                <li class="flex items-start">
+                  <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+                  <span>ความพร้อมในการตรวจสอบเงื่อนไขและเอกสาร</span>
+                </li>
+              </ul>
+
+              <div class="bg-gold/10 border border-gold/30 rounded-xl p-6">
+                <p class="text-neutral-300 mb-6 text-lg font-medium text-center">
+                  ติดต่อเราเพื่อพูดคุยรายละเอียด:
+                </p>
+
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                  <a
+                    href="https://t.me/pdh_support_bot"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-3 px-6 py-3 bg-gold !text-neutral-900 rounded-xl font-semibold hover:bg-gold-light transition-colors"
+                  >
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.831-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.001.321.023.465.141.121.099.155.232.171.326.016.093.036.306.02.472z"/>
+                    </svg>
+                    Telegram
+                  </a>
+
+                  <a
+                    href="https://discord.gg/Zgdmf6szS"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-3 px-6 py-3 border-2 border-gold text-gold rounded-xl font-semibold hover:bg-gold hover:text-neutral-900 transition-colors"
+                  >
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"/>
+                    </svg>
+                    Discord
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+              <h2 class="text-2xl font-semibold text-gold mb-4">ทำไมต้องลงดีลบน PokerDealsHub?</h2>
+
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">กลุ่มเป้าหมาย</h3>
+                  <p class="text-neutral-400 text-sm">
+                    เว็บไซต์ของเรามีผู้เล่นที่แอ็กทีฟเข้าชม ซึ่งกำลังมองหาเงื่อนไขที่คุ้มค่าและดีลใหม่ๆ
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">การเพิ่มประสิทธิภาพ SEO</h3>
+                  <p class="text-neutral-400 text-sm">
+                    ทุกดีลจะได้รับหน้าเพจแยกเฉพาะที่ปรับแต่งมาเพื่อเครื่องมือค้นหา
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">การเข้าถึงระดับสากล</h3>
+                  <p class="text-neutral-400 text-sm">
+                    เว็บไซต์รองรับภาษารัสเซีย ภาษาอังกฤษ และภาษาสเปน
+                  </p>
+                </div>
+
+                <div>
+                  <h3 class="text-lg font-semibold text-neutral-100 mb-2">ความโปร่งใส</h3>
+                  <p class="text-neutral-400 text-sm">
+                    เราเผยแพร่เฉพาะข้อเสนอที่ผ่านการตรวจสอบพร้อมเงื่อนไขจริงเท่านั้น
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="mt-8 bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+              <p class="text-neutral-300 text-sm">
+                การลงดีลโป๊กเกอร์บน PokerDealsHub คือโอกาสในการดึงดูดผู้เล่นกลุ่มเป้าหมายจากหลากหลายภูมิภาค
+                เราทำงานร่วมกับคลับบน <a href="/th/deals/" class="text-gold hover:text-gold-light underline underline-offset-2 hover:decoration-gold-light"
+      >PPPoker, ClubGG, X-Poker</a>
+                และแพลตฟอร์มอื่นๆ หากคุณกำลังมองหาพื้นที่ที่เชื่อถือได้เพื่อโปรโมตยูเนียนหรือคลับของคุณ ติดต่อเราได้เลย
+              </p>
+            </div>
+    srcHash: 38be4d131432

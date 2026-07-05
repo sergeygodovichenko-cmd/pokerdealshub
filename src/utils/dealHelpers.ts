@@ -283,6 +283,24 @@ export const badgeLabels = {
     international: '🌍 Internasyonal',
     australia: '🇦🇺 Australia',
    },
+  th: {
+    blockchain: "🔗 Blockchain RNG",
+    usaPlayers: '🇺🇸 USA players',
+    asia: '🏮 เอเชีย',
+    topDeal: '💎 ดีลเด็ด!',
+    playersChoice: '👍 Players’ Choice',
+    cisPlayers: '🌐 CIS players',
+    pdhClub: '🔥 PDH club',
+    pdhPartner: '🤝 PDH partner',
+    centralized: '🏬 แบบรวมศูนย์',
+    soft: '🐟 เกมง่าย',
+    highRakeback: '💰 เรคแบ็กสูง',
+    verified: '✅ ตรวจสอบแล้ว',
+    allLimits: '📊 ทุกลิมิต',
+    nonStop: '⏱ 24/7',
+    international: '🌍 นานาชาติ',
+    australia: '🇦🇺 Australia',
+   },
 };
 
 export const tooltips = {
@@ -345,6 +363,10 @@ export const tooltips = {
   fil: {
     featured:
       'Club na pinamamahalaan ng PokerDealsHub. Tinitiyak nito ang transparency, reliability, at premium-class na serbisyo 24/7.',
+  },
+  th: {
+    featured:
+      'คลับที่บริหารโดย PokerDealsHub ซึ่งรับประกันความโปร่งใส ความน่าเชื่อถือ และบริการระดับพรีเมียมตลอด 24 ชั่วโมงทุกวัน',
   },
 };
 
@@ -603,6 +625,23 @@ export const labl = {
     weAreHere2: 'Mag-message sa isang PDH manager — online kami 24/7.',
     tgContact: 'Mag-message sa Telegram',
     discordContact: 'Sumali sa Discord',
+  },
+  th: {
+    club: 'คลับ:',
+    union: 'ยูเนียน:',
+    geog: 'ภูมิภาค:',
+    platform: 'แพลตฟอร์ม:',
+    upTo: 'เรคแบ็กสูงสุด',
+    bonusL: "โบนัส:",
+    getDeal: 'รับดีล',
+    rateBy: 'คะแนนตามประเภทเกม',
+    verif: 'ทุกข้อเสนอผ่านการตรวจสอบภายในโดย PDH เรารับประกันเงื่อนไขความร่วมมือที่เป็นธรรมและการสนับสนุนลูกค้าระดับสูงสุดตลอด 24 ชั่วโมง',
+    readyJoin: 'มีคำถามไหม? พร้อมเข้าร่วมคลับหรือยัง?',
+    weAreHere: 'ทุกดีลให้บริการฟรี การเป็นสมาชิกคลับไม่ต้องทำ KYC (ไม่ต้องส่งเอกสาร)',
+    weAreHereNoKyc: 'เรียนรู้เกี่ยวกับสิทธิประโยชน์เพิ่มเติมของคุณและรับลิงก์สมัคร',
+    weAreHere2: 'ทักหาผู้จัดการ PDH — เราออนไลน์ตลอด 24/7',
+    tgContact: 'ส่งข้อความทาง Telegram',
+    discordContact: 'เข้าร่วม Discord',
   },
 };
 

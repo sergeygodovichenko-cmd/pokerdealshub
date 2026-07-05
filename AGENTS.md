@@ -59,9 +59,23 @@ in the deal's YAML, which removes it from every listing, filter, the homepage, r
 the sitemap, and stops building its detail page. `npm run deal:show <slug>` re-enables it.
 `npm run deal:list` shows status. Then build (commit + push to deploy).
 
-**Add a new locale** (towards top-8) — add it to `locales` in `src/i18n/ui.ts`, add its
-`ui` strings + `labl`/`badgeLabels`/`tooltips` entries in `dealHelpers.ts`, translate every
-collection entry into it, then stamp + check + build.
+**Add a new locale** — ru is the source of truth. A locale needs BOTH the content-collection
+i18n AND every hardcoded per-locale dictionary in the templates, or those pages silently fall
+back to en (the content `i18n:check` does NOT catch template/data dicts). Full checklist:
+1. `src/i18n/ui.ts` — add to the `languages` map + the `locales` array + a full `ui` block
+   (and `rtlLocales` if the script is RTL).
+2. `src/utils/dealHelpers.ts` — add `badgeLabels` + `tooltips` + `labl` blocks.
+3. Template dicts (each has `ru:/en:/…` with a `?? …​.en` fallback): `src/pages/[lang]/index.astro`
+   (`STR`), `src/pages/[lang]/guides/index.astro` (`dateLocale`/`catLabel`/`readMore`/`aboutBlock`),
+   `src/components/FilterSidebar.astro` (`filterData`), `src/components/DealsList.astro` (`UI`).
+4. `src/data/filterContent.json` — add a top-level locale key (27 filter landing pages ×
+   `title/description/h1/intro/seoText`, plus `seoTitle` on some).
+5. `src/pages/sitemap.xml.ts` — add the `HREFLANG` region code (hreflang in `<head>` is auto).
+6. Bump the "N languages" count in `src/pages/llms.txt.ts` and `src/pages/index.astro`.
+7. Translate every collection entry into `i18n.<locale>` (note: several deals place `body`
+   AFTER their i18n block — translate those too).
+8. `npm run i18n:stamp && npm run i18n:check` → ✓, then `npm run build`. Spot-check a
+   `/<locale>/` home + deals + a deal page for any en fallback.
 
 ## Commands
 

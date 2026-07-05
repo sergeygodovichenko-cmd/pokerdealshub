@@ -17,7 +17,7 @@ const guides = all
   .map((entry) => ({ slug: entry.id, ...entry.data, ...localizeGuide(entry.data, lang) }))
   .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
-const dateLocale: Record<string, string> = { ru: "ru-RU", en: "en-US", uz: "uz-UZ", uk: "uk-UA", it: "it-IT", de: "de-DE", es: "es-ES", pt: "pt-BR", fr: "fr-FR", tr: "tr-TR", he: "he-IL", ar: "ar", id: "id-ID", vi: "vi-VN", fil: "fil-PH" };
+const dateLocale: Record<string, string> = { ru: "ru-RU", en: "en-US", uz: "uz-UZ", uk: "uk-UA", it: "it-IT", de: "de-DE", es: "es-ES", pt: "pt-BR", fr: "fr-FR", tr: "tr-TR", he: "he-IL", ar: "ar", id: "id-ID", vi: "vi-VN", fil: "fil-PH", th: "th-TH" };
 const catLabel: Record<string, { guide: string; review: string }> = {
   ru: { guide: "Гайд", review: "Обзор" },
   en: { guide: "Guide", review: "Review" },
@@ -34,8 +34,9 @@ const catLabel: Record<string, { guide: string; review: string }> = {
   id: { guide: "Panduan", review: "Ulasan" },
   vi: { guide: "Hướng dẫn", review: "Đánh giá" },
   fil: { guide: "Gabay", review: "Review" },
+  th: { guide: "ไกด์", review: "รีวิว" },
 };
-const readMore: Record<string, string> = { ru: "Читать далее", en: "Read more", uz: "Batafsil", uk: "Читати далі", it: "Leggi di più", de: "Mehr lesen", es: "Leer más", pt: "Leia mais", fr: "Lire la suite", tr: "Devamını oku", he: "קרא עוד", ar: "اقرأ المزيد", id: "Baca selengkapnya", vi: "Đọc thêm", fil: "Magbasa pa" };
+const readMore: Record<string, string> = { ru: "Читать далее", en: "Read more", uz: "Batafsil", uk: "Читати далі", it: "Leggi di più", de: "Mehr lesen", es: "Leer más", pt: "Leia mais", fr: "Lire la suite", tr: "Devamını oku", he: "קרא עוד", ar: "اقرأ المزيد", id: "Baca selengkapnya", vi: "Đọc thêm", fil: "Magbasa pa", th: "อ่านต่อ" };
 const aboutBlock: Record<string, { title: string; p1: string; p2: string }> = {
   ru: {
     title: "О разделе гайдов",
@@ -111,6 +112,11 @@ const aboutBlock: Record<string, { title: string; p1: string; p2: string }> = {
     title: "Tungkol sa seksyon ng mga gabay",
     p1: "Dito kami naglalathala ng detalyadong gabay at review ng mga poker app, union, at deals. Layunin namin na tulungan kang maunawaan ang mga kondisyon ng laro at piliin ang pinakamahusay na alok.",
     p2: "Lahat ng gabay ay batay sa tunay na karanasan sa paglalaro at na-verify na impormasyon.",
+  },
+  th: {
+    title: "เกี่ยวกับส่วนไกด์",
+    p1: "ที่นี่เราเผยแพร่ไกด์และรีวิวโดยละเอียดเกี่ยวกับแอปโป๊กเกอร์ ยูเนียน และดีลต่าง ๆ เป้าหมายของเราคือช่วยให้คุณเข้าใจเงื่อนไขการเล่นและเลือกข้อเสนอที่ดีที่สุด",
+    p2: "ไกด์ทั้งหมดอ้างอิงจากประสบการณ์การเล่นจริงและข้อมูลที่ผ่านการตรวจสอบ",
   },
 };
 const about = aboutBlock[lang] ?? aboutBlock.en;

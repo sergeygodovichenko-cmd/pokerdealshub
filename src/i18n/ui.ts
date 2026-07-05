@@ -14,6 +14,7 @@ export const languages = {
   id: 'Bahasa Indonesia',
   vi: 'Tiếng Việt',
   fil: 'Filipino',
+  th: 'ไทย',
 };
 
 export const defaultLang = 'ru';
@@ -21,7 +22,7 @@ export const defaultLang = 'ru';
 // Active locales that get built/rendered. The source language is `defaultLang` (ru);
 // the others are produced by the translation pipeline. Add a locale here (and run
 // `npm run translate`) to expand coverage — e.g. towards the planned top-8.
-export const locales = ['ru', 'en', 'uz', 'uk', 'it', 'de', 'es', 'pt', 'fr', 'tr', 'he', 'ar', 'id', 'vi', 'fil'] as const;
+export const locales = ['ru', 'en', 'uz', 'uk', 'it', 'de', 'es', 'pt', 'fr', 'tr', 'he', 'ar', 'id', 'vi', 'fil', 'th'] as const;
 export type Locale = (typeof locales)[number];
 
 // Right-to-left locales — the <html dir> attribute is set from this list.
@@ -62,6 +63,40 @@ export const ui = {
     'breadcrumb.home': 'Главная',
     'breadcrumb.deals': 'Покерные сделки',
     'breadcrumb.guides': 'Гайды и обзоры',
+  },
+  th: {
+    'nav.deals': 'ดีล',
+    'nav.guides': 'ไกด์และรีวิว',
+    'nav.about': 'เกี่ยวกับเรา',
+    'nav.addDeal': 'เพิ่มดีล',
+    'nav.backing': 'แบ็กกิ้ง',
+    'footer.copyright': '© PokerDealsHub 2025',
+    'footer.privacy': 'นโยบายความเป็นส่วนตัว',
+    'footer.terms': 'ข้อกำหนดการใช้งาน',
+    'footer.ageRestriction': '18+',
+    'footer.playResponsibly': 'เล่นอย่างมีความรับผิดชอบ',
+    'footer.cookiesNotice': 'เว็บไซต์นี้ใช้คุกกี้',
+    'home.title': 'ดีลโป๊กเกอร์ทั้งหมด',
+    'home.subtitle': 'แคตตาล็อกดีลโป๊กเกอร์ที่ผ่านการตรวจสอบ — ข้อเสนอแบบรวมศูนย์และแบบกระจายศูนย์สำหรับผู้เล่นทั่วโลก',
+    'deal.getButton': 'รับดีล',
+    'deal.similarDeals': 'ดีลที่คล้ายกัน',
+    'guides.title': 'ไกด์และรีวิวโป๊กเกอร์',
+    'guides.subtitle': 'พบไกด์และรีวิวโดยละเอียดเกี่ยวกับแอป ยูเนียน และดีลเรคแบ็ก',
+    'about.title': 'เกี่ยวกับ PokerDealsHub',
+    'about.mission': 'PokerDealsHub เป็นแหล่งรวมดีลโป๊กเกอร์อิสระ ที่นำข้อเสนอแบบรวมศูนย์และแบบกระจายศูนย์มารวมไว้สำหรับผู้เล่นและเอเยนต์ทั่วโลก',
+    'about.principles': 'หลักการของเรา',
+    'about.verified': 'ดีลที่ผ่านการตรวจสอบ',
+    'about.transparent': 'เงื่อนไขที่โปร่งใส',
+    'about.international': 'แนวทางระดับสากล',
+    'about.partnerships': 'เปิดรับความร่วมมือ',
+    'about.contact': 'ติดต่อ',
+    'addDeal.title': 'เพิ่มดีลของคุณลงในเว็บไซต์',
+    'addDeal.description': 'เราเผยแพร่ข้อเสนอโป๊กเกอร์ที่ผ่านการตรวจสอบจากคลับและยูเนียน การลงประกาศทำได้หลังจากตรวจสอบชื่อเสียงและเงื่อนไขของดีลแล้ว',
+    'addDeal.requirements': 'ข้อกำหนด',
+    'addDeal.cta': 'ติดต่อเราเพื่อพูดคุย:',
+    'breadcrumb.home': 'หน้าแรก',
+    'breadcrumb.deals': 'ดีลโป๊กเกอร์',
+    'breadcrumb.guides': 'ไกด์และรีวิว',
   },
   en: {
     'nav.deals': 'Deals',

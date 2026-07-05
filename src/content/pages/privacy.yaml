@@ -1272,3 +1272,91 @@ i18n:
               </div>
             </div>
     srcHash: d5eb4d638c11
+  th:
+    title: นโยบายความเป็นส่วนตัว
+    description: "นโยบายความเป็นส่วนตัวของ PokerDealsHub: การใช้ข้อมูล คุกกี้ และการปกป้องข้อมูล"
+    body: |-
+      <div class="prose prose-invert max-w-none">
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <p class="text-neutral-300 mb-4">
+                  อัปเดตล่าสุด: 19 ตุลาคม 2025
+                </p>
+                <p class="text-neutral-300">
+                  PokerDealsHub ("เรา", "ของเรา", "พวกเรา") มุ่งมั่นที่จะปกป้องความเป็นส่วนตัวของผู้เข้าชมเว็บไซต์ของเรา
+                  นโยบายนี้อธิบายว่าเราเก็บรวบรวม ใช้ และปกป้องข้อมูลของคุณอย่างไร
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">1. ข้อมูลที่เราเก็บรวบรวม</h2>
+                <p class="text-neutral-300 mb-3">เราอาจเก็บรวบรวมข้อมูลประเภทต่อไปนี้:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>ข้อมูลที่คุณให้ไว้เมื่อติดต่อเรา (ชื่อ, email, ข้อมูลการติดต่อ)</li>
+                  <li>ข้อมูลทางเทคนิค (IP-address, ชนิดของเบราว์เซอร์, ระบบปฏิบัติการ)</li>
+                  <li>ข้อมูลการโต้ตอบกับเว็บไซต์ (หน้าที่เข้าชม, เวลาที่ใช้บนเว็บไซต์)</li>
+                  <li>Cookies และเทคโนโลยีการติดตามที่คล้ายกัน</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">2. การใช้ข้อมูล</h2>
+                <p class="text-neutral-300 mb-3">เราใช้ข้อมูลที่เก็บรวบรวมเพื่อ:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>ให้บริการและปรับปรุงบริการของเรา</li>
+                  <li>ติดต่อคุณในเรื่องความร่วมมือ</li>
+                  <li>วิเคราะห์การใช้งานเว็บไซต์และเพิ่มประสิทธิภาพฟังก์ชันการทำงาน</li>
+                  <li>รักษาความปลอดภัยของเว็บไซต์</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">3. การใช้ Cookies</h2>
+                <p class="text-neutral-300 mb-3">
+                  เว็บไซต์ใช้ cookies เพื่อปรับปรุงการทำงานของเว็บไซต์ วิเคราะห์ทราฟฟิก และบันทึกการตั้งค่าที่คุณต้องการ
+                  คุณสามารถจัดการ cookies ได้ผ่านการตั้งค่าของเบราว์เซอร์ เราใช้:
+                </p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>Cookies เชิงวิเคราะห์เพื่อทำความเข้าใจพฤติกรรมของผู้ใช้</li>
+                  <li>Cookies เชิงฟังก์ชันเพื่อบันทึกการตั้งค่าที่คุณต้องการ (เช่น ภาษา)</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">4. การเปิดเผยข้อมูลแก่บุคคลที่สาม</h2>
+                <p class="text-neutral-300">
+                  เราไม่ขายหรือเปิดเผยข้อมูลส่วนบุคคลของคุณแก่บุคคลที่สาม ยกเว้นในกรณีที่จำเป็น
+                  ต่อการให้บริการ (เช่น บริการวิเคราะห์ข้อมูล) หรือเมื่อกฎหมายกำหนด
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">5. ความปลอดภัยของข้อมูล</h2>
+                <p class="text-neutral-300">
+                  เราใช้มาตรการที่เหมาะสมเพื่อปกป้องข้อมูลของคุณจากการเข้าถึง การเปลี่ยนแปลง
+                  การเปิดเผย หรือการทำลายโดยไม่ได้รับอนุญาต
+                </p>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-6">
+                <h2 class="text-2xl font-semibold text-gold mb-4">6. สิทธิของคุณ</h2>
+                <p class="text-neutral-300 mb-3">คุณมีสิทธิที่จะ:</p>
+                <ul class="list-disc ml-6 text-neutral-300 space-y-2">
+                  <li>ขอเข้าถึงข้อมูลส่วนบุคคลของคุณ</li>
+                  <li>ขอแก้ไขข้อมูลที่ไม่ถูกต้อง</li>
+                  <li>ขอลบข้อมูลของคุณ</li>
+                  <li>เพิกถอนความยินยอมในการประมวลผลข้อมูล</li>
+                </ul>
+              </div>
+
+              <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8">
+                <h2 class="text-2xl font-semibold text-gold mb-4">7. ติดต่อ</h2>
+                <p class="text-neutral-300 mb-3">
+                  หากคุณมีคำถามเกี่ยวกับนโยบายความเป็นส่วนตัวของเรา โปรดติดต่อเรา:
+                </p>
+                <p class="text-neutral-300">
+                  Email: <a href="mailto:pokerdealshub@gmail.com" class="text-gold hover:text-gold-light">pokerdealshub@gmail.com</a><br>
+                  Telegram: <a href="https://t.me/pdh_support_bot" class="text-gold hover:text-gold-light" target="_blank" rel="noopener noreferrer">@pdh_support_bot</a>
+                </p>
+              </div>
+            </div>
+    srcHash: d5eb4d638c11

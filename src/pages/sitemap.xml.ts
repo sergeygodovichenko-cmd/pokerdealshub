@@ -9,6 +9,7 @@ const HREFLANG: Record<string, string> = {
   ru: "ru-RU",
   en: "en-US",
   uz: "uz-Latn-UZ",
+  th: "th-TH",
 };
 
 interface SitemapURL {

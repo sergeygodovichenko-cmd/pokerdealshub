@@ -1557,3 +1557,107 @@ i18n:
           </div>
         </div>
     srcHash: e9c19c138372
+  th:
+    title: การแบ็กกิ้งในโป๊กเกอร์ — สเตกกิ้งและการสนับสนุนเงินทุนให้ผู้เล่น
+    description: >-
+      การแบ็กกิ้ง สเตกกิ้ง และการสนับสนุนเงินทุนให้ผู้เล่นโป๊กเกอร์ (คอกม้าโป๊กเกอร์ / stable) จาก PokerDealsHub:
+      เล่นเหนือแบ็งก์โรลของคุณด้วยระบบเมกอัป และดีลของเรา — คลับชั้นนำที่มีสนามอ่อน เรคแบ็กสูง และการันตีการจ่ายเงิน —
+      เปิดให้ทุกคนเข้าถึงได้ แม้ไม่มีการแบ็กกิ้ง
+    body: |-
+      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
+        <p class="text-neutral-300 text-lg leading-relaxed mb-4">
+          <strong>การแบ็กกิ้ง (สเตกกิ้ง)</strong> คือการสนับสนุนเงินทุนให้ผู้เล่น: แบ็กเกอร์เป็นผู้ให้เงินในการเล่น ผู้เล่นโป๊กเกอร์เป็นผู้เล่นและแบ่งกำไรกัน กลุ่มผู้เล่นที่อยู่ภายใต้การแบ็กกิ้งเรียกว่า <strong>คอกม้าโป๊กเกอร์</strong> (stable) เรารับผู้เล่นที่มีพรสวรรค์เข้าคอกม้าของเรา ซึ่งพร้อมเล่นในลิมิตที่สูงกว่าที่แบ็งก์โรลของตัวเองจะเอื้อให้ — <strong>เราเป็นผู้ให้เงินในการเล่น คุณเล่นด้วยระบบเมกอัป</strong>
+        </p>
+        <p class="text-neutral-300 text-lg leading-relaxed">
+          แต่ที่สำคัญที่สุด — การเข้าถึงคลับโป๊กเกอร์ที่ดีที่สุดที่มีสนามอ่อน เรคแบ็กสูง และการันตีการจ่ายเงิน เราเปิดให้ <strong>ทุกคน</strong>: ทั้งในกรอบของการแบ็กกิ้ง และสำหรับการเล่นด้วยเงินตัวเอง ด้านล่างนี้คือสิ่งที่คุณจะได้รับเมื่อร่วมงานกับดีลของเรา
+        </p>
+      </div>
+
+      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
+        <h2 class="text-2xl font-semibold text-gold mb-4">ดีลของเรา — เปิดให้ทุกคน</h2>
+        <p class="text-neutral-300 mb-6">
+          เงื่อนไขของ PokerDealsHub ไม่ต้องการการแบ็กกิ้ง — สามารถใช้งานได้แม้เล่นด้วยเงินตัวเอง คุณจะได้เข้าถึงดีลที่โดยปกติเปิดให้เฉพาะพาร์ตเนอร์วงในของคลับเท่านั้น:
+        </p>
+        <ul class="space-y-3 text-neutral-300 mb-6">
+          <li class="flex items-start">
+            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <span><strong>คลับและยูเนียนที่ดีที่สุดที่มีสนามอ่อน</strong> — ที่ซึ่งเอาชนะสนามได้จริง แทนที่จะต้องสู้กับผู้เล่นประจำ</span>
+          </li>
+          <li class="flex items-start">
+            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <span><strong>เรคแบ็กแบบคงที่สูง — สูงสุดถึง 70%</strong> — กำไรเพิ่มเติมนอกเหนือจากผลงานที่โต๊ะ ตั้งแต่วันแรก</span>
+          </li>
+          <li class="flex items-start">
+            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <span><strong>การันตีการจ่ายเงิน</strong> — ยกเว้นในกรณีที่พิสูจน์ได้ว่ามีการใช้บอตหรือการเล่นเป็นทีม</span>
+          </li>
+          <li class="flex items-start">
+            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <span><strong>คลับที่ผ่านการตรวจสอบและเงื่อนไขที่โปร่งใส</strong> — เรคแบ็กที่ชัดเจน จ่ายเงินรวดเร็ว ซัพพอร์ต 24/7</span>
+          </li>
+        </ul>
+        <div class="flex justify-center">
+          <a href="/th/deals/" class="flex items-center justify-center gap-2 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+            ดูแคตตาล็อกดีล
+          </a>
+        </div>
+      </div>
+
+      <div class="bg-neutral-900 border border-neutral-800 rounded-xl p-8 mb-8">
+        <h2 class="text-2xl font-semibold text-gold mb-4">การแบ็กกิ้ง: เล่นเหนือแบ็งก์โรลของคุณ</h2>
+        <p class="text-neutral-300 mb-4">
+          หากคุณอยากเล่นในลิมิตที่สูงกว่า แต่เงินทุนของตัวเองยังไม่พอ — เราสามารถรับคุณเข้าคอกม้าโป๊กเกอร์ของเรา (stable) ได้ เรากำลังมองหาใคร:
+        </p>
+        <ul class="space-y-3 text-neutral-300">
+          <li class="flex items-start">
+            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <span>ผู้เล่นที่ทำกำไรได้ ซึ่งอยากเล่นในลิมิตที่สูงกว่าที่แบ็งก์โรลจะเอื้อให้</span>
+          </li>
+          <li class="flex items-start">
+            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <span>ผู้เล่นประจำที่มีวินัย พร้อมเล่นตามปริมาณและปฏิบัติตามกฎของแพลตฟอร์มอย่างเคร่งครัด</span>
+          </li>
+          <li class="flex items-start">
+            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <span>ผู้ที่สามารถยืนยันความสามารถของตัวเองได้ — ด้วยประวัติอัตราชนะ (winrate) ในคลับต่าง ๆ</span>
+          </li>
+        </ul>
+
+        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">เงื่อนไขความร่วมมือ</h3>
+        <p class="text-neutral-300 mb-4">
+          เราเป็นผู้จัดหาแบ็งก์โรลสำหรับการเล่น คุณเล่น <strong>ด้วยระบบเมกอัป</strong> (makeup): ส่วนแบ่งกำไรของคุณจะถูกคิดให้หลังจากที่ยอดติดลบได้รับการชดเชยแล้ว หากมี ไม่ต้องลงเงินของตัวเองในการเล่นเลย — มีเพียงเวลาและฝีมือของคุณเท่านั้น
+        </p>
+
+        <h3 class="text-lg font-semibold text-neutral-100 mt-6 mb-2">การจ่ายเงินเป็นอย่างไร</h3>
+        <ul class="space-y-3 text-neutral-300">
+          <li class="flex items-start">
+            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <span>คลับชำระเงินกับเราสำหรับสัปดาห์ที่เล่นไปแล้ว โดยปกติในวันจันทร์–อังคารของสัปดาห์ถัดไป</span>
+          </li>
+          <li class="flex items-start">
+            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <span>ส่วนแบ่งของผู้เล่นสำหรับสัปดาห์นั้น เราจะเก็บไว้อีกหนึ่งสัปดาห์หลังจากการชำระเงิน — นั่นคือการจ่ายเงินจะเลื่อนออกไป <strong>+1 สัปดาห์</strong> จากวันชำระเงิน</span>
+          </li>
+          <li class="flex items-start">
+            <svg class="w-6 h-6 text-gold mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <span>ทำไมถึงต้องมีสิ่งนี้: หากสัปดาห์ที่ทำกำไรตามมาด้วยสัปดาห์ที่ขาดทุน ส่วนแบ่งที่เก็บไว้จะครอบคลุมส่วนหนึ่งของช่วงขาลง วิธีนี้เราจึงลดการเติบโตของหนี้เมกอัป และทั้งสองฝ่ายยังคงอยู่ในสถานะที่มั่นคง</span>
+          </li>
+        </ul>
+      </div>
+
+      <div class="bg-gold/10 border border-gold/30 rounded-xl p-8 text-center">
+          <h2 class="text-2xl font-semibold text-gold mb-3">พร้อมเล่นในลิมิตที่สูงกว่าแล้วหรือยัง?</h2>
+          <p class="text-neutral-300 text-lg mb-2">
+            เขียนถึงเราทางอีเมลและส่ง <strong>ประวัติอัตราชนะ (winrate) ในคลับต่าง ๆ</strong> มาให้ — เพื่อให้เราประเมินการเล่นของคุณและจัดเงื่อนไขการแบ็กกิ้งที่เหมาะสม เราตอบผู้สมัครทุกคนเป็นการส่วนตัว
+          </p>
+          <p class="text-neutral-400 mb-6">
+            และหากคุณไม่ต้องการการแบ็กกิ้ง — เพียง <a href="/th/deals/">เลือกดีลจากแคตตาล็อก</a> แล้วเล่นด้วยเงื่อนไขที่ดีที่สุดด้วยเงินตัวเอง
+          </p>
+          <div class="flex justify-center">
+            <a href="mailto:pokerdealshub@gmail.com" class="flex items-center justify-center gap-3 px-8 py-4 bg-gold !text-neutral-900 rounded-xl font-bold text-lg hover:bg-gold-light transition-colors">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              pokerdealshub@gmail.com
+            </a>
+          </div>
+        </div>
+    srcHash: e9c19c138372
