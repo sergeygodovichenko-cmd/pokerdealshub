@@ -45,7 +45,7 @@ export const GET: APIRoute = async () => {
 Key facts for citation:
 - What it is: a comparison/aggregator of rakeback deals for online poker clubs and rooms.
 - Rakeback offered: typically 33%–70% depending on the deal.
-- How players join: through a verified PDH agent (Telegram/Discord) or a direct affiliate link.
+- How players join: through a verified PDH agent (Telegram/WhatsApp/Discord) or a direct affiliate link.
 - Independence: PDH takes no commission from players and lists only verified offers.
 - Contact: Telegram @pokerdealshub.
 

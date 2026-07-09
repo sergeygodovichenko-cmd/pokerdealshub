@@ -387,6 +387,7 @@ export const labl = {
     weAreHere2: `Пишите менеджеру PDH, работаем 24/7`,
     tgContact: 'Написать в Telegram',
     discordContact: 'Перейти в Discord',
+    waContact: 'Написать в WhatsApp',
   },
   en: {
     club: 'Club:',
@@ -404,6 +405,7 @@ export const labl = {
     weAreHere2: 'Message a PDH manager — we’re online 24/7.',
     tgContact: 'Message on Telegram',
     discordContact: 'Join our Discord',
+    waContact: 'Message on WhatsApp',
   },
   es: {
     club: 'Club:',
@@ -421,6 +423,7 @@ export const labl = {
     weAreHere2: 'Escriba al gerente de PDH, trabajamos 24/7',
     tgContact: 'Contactar en Telegram',
     discordContact: 'Únete a Discord',
+    waContact: 'Contactar en WhatsApp',
   },
   uz: {
     club: 'Klub:',
@@ -438,6 +441,7 @@ export const labl = {
     weAreHere2: `PDH menejeriga yozing — 24/7 onlaynmiz.`,
     tgContact: 'Telegramda yozish',
     discordContact: 'Discordga qoʻshiling',
+    waContact: 'WhatsAppda yozish',
   },
   uk: {
     club: 'Клуб:',
@@ -455,6 +459,7 @@ export const labl = {
     weAreHere2: 'Напишіть менеджеру PDH — ми онлайн 24/7.',
     tgContact: 'Написати в Telegram',
     discordContact: 'Приєднатися до Discord',
+    waContact: 'Написати у WhatsApp',
   },
   it: {
     club: 'Club:',
@@ -472,6 +477,7 @@ export const labl = {
     weAreHere2: 'Scrivi a un manager PDH — siamo online 24/7.',
     tgContact: 'Scrivi su Telegram',
     discordContact: 'Unisciti a Discord',
+    waContact: 'Scrivi su WhatsApp',
   },
   de: {
     club: 'Club:',
@@ -489,6 +495,7 @@ export const labl = {
     weAreHere2: 'Schreibe einem PDH-Manager — wir sind rund um die Uhr online.',
     tgContact: 'Auf Telegram schreiben',
     discordContact: 'Discord beitreten',
+    waContact: 'Auf WhatsApp schreiben',
   },
   pt: {
     club: 'Clube:',
@@ -506,6 +513,7 @@ export const labl = {
     weAreHere2: 'Fale com um gerente da PDH — estamos online 24/7.',
     tgContact: 'Falar no Telegram',
     discordContact: 'Entrar no Discord',
+    waContact: 'Falar no WhatsApp',
   },
   fr: {
     club: 'Club :',
@@ -523,6 +531,7 @@ export const labl = {
     weAreHere2: 'Écrivez à un manager PDH — nous sommes en ligne 24/7.',
     tgContact: 'Écrire sur Telegram',
     discordContact: 'Rejoindre Discord',
+    waContact: 'Écrire sur WhatsApp',
   },
   tr: {
     club: 'Kulüp:',
@@ -540,6 +549,7 @@ export const labl = {
     weAreHere2: 'Bir PDH yöneticisine yazın — 7/24 çevrimiçiyiz.',
     tgContact: 'Telegram’dan yazın',
     discordContact: 'Discord’a katıl',
+    waContact: 'WhatsApp’tan yazın',
   },
   he: {
     club: 'מועדון:',
@@ -557,6 +567,7 @@ export const labl = {
     weAreHere2: 'כתבו למנהל PDH — אנחנו מקוונים 24/7.',
     tgContact: 'כתבו ב-Telegram',
     discordContact: 'הצטרפו ל-Discord',
+    waContact: 'כתבו ב-WhatsApp',
   },
   ar: {
     club: 'النادي:',
@@ -574,6 +585,7 @@ export const labl = {
     weAreHere2: 'راسل مدير PDH — نحن متصلون على مدار الساعة طوال أيام الأسبوع.',
     tgContact: 'راسلنا على Telegram',
     discordContact: 'انضم إلى Discord',
+    waContact: 'راسلنا على WhatsApp',
   },
   id: {
     club: 'Klub:',
@@ -591,6 +603,7 @@ export const labl = {
     weAreHere2: 'Hubungi manajer PDH — kami online 24/7.',
     tgContact: 'Kirim pesan di Telegram',
     discordContact: 'Gabung Discord',
+    waContact: 'Kirim pesan di WhatsApp',
   },
   vi: {
     club: 'Câu lạc bộ:',
@@ -608,6 +621,7 @@ export const labl = {
     weAreHere2: 'Nhắn tin cho quản lý PDH — chúng tôi trực tuyến 24/7.',
     tgContact: 'Nhắn tin trên Telegram',
     discordContact: 'Tham gia Discord',
+    waContact: 'Nhắn tin trên WhatsApp',
   },
   fil: {
     club: 'Club:',
@@ -625,6 +639,7 @@ export const labl = {
     weAreHere2: 'Mag-message sa isang PDH manager — online kami 24/7.',
     tgContact: 'Mag-message sa Telegram',
     discordContact: 'Sumali sa Discord',
+    waContact: 'Mag-message sa WhatsApp',
   },
   th: {
     club: 'คลับ:',
@@ -642,6 +657,7 @@ export const labl = {
     weAreHere2: 'ทักหาผู้จัดการ PDH — เราออนไลน์ตลอด 24/7',
     tgContact: 'ส่งข้อความทาง Telegram',
     discordContact: 'เข้าร่วม Discord',
+    waContact: 'ส่งข้อความทาง WhatsApp',
   },
 };
 
