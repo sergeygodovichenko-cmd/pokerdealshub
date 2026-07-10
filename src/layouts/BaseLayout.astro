@@ -94,6 +94,12 @@ const breadcrumbSchema = breadcrumbs
     <title>{title}</title>
     <meta name="description" content={description} />
 
+    <!-- Bing Webmaster verification — set BING_SITE_VERIFICATION in Netlify env
+         (from Bing Webmaster Tools → HTML Meta Tag) to emit this automatically. -->
+    {import.meta.env.BING_SITE_VERIFICATION && (
+      <meta name="msvalidate.01" content={import.meta.env.BING_SITE_VERIFICATION} />
+    )}
+
     <!-- Canonical -->
     <link rel="canonical" href={canonicalURL} />
 

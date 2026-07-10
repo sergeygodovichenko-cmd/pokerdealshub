@@ -2,7 +2,9 @@
 # This file overrides the dashboard "Build settings" (which were unset, serving the repo root as-is).
 
 [build]
-  command = "npm run build"
+  # Build the static site, then ping IndexNow (Bing/Yandex/…) with the sitemap URLs.
+  # The indexnow step self-guards to real deploys and never fails the build.
+  command = "npm run build && npm run indexnow"
   publish = "dist"
 
 [build.environment]
