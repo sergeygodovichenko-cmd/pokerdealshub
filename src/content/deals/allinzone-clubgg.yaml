@@ -1,0 +1,486 @@
+app: ClubGG
+club: PDH Allin Zone
+union: Allin Zone
+logo: clubgg
+logoimage: /clubGG_logo.webp
+logoalt: ClubGG logo
+format: NLH / PLO
+type: Decentralized
+rakeback: 50%
+affiliateLink: https://t.me/pdh_support_bot
+featured: true
+order: 8
+badges:
+  - pdhClub
+  - soft
+  - international
+  - verified
+regions:
+  - europe
+  - cis
+  - asia
+ratings:
+  mtt: 3
+  cash: 5
+  plo: 5
+  nlh: 5
+chipPrice:
+  usd: 0.8
+name: Сделка в союзе Allin Zone на ClubGG
+description: >-
+  Сделка от PDH в международном союзе Allin Zone на ClubGG: активные столы NLH и PLO, нон-стоп трафик и удобное время
+  игры для СНГ и Европы. Мягкое поле и рейкбэк до 50%.
+geo: Международный
+bonus: ""
+body: >-
+  <h3>Описание</h3>
+
+  <p>Покерная сделка в клубе PDH Allin Zone (id клуба: 645895), который входит в международный союз Allin Zone на
+  ClubGG. Клуб принадлежит PokerDealsHub, что гарантирует вашу безопасность и клиентский сервис высшего класса 24/7.</p>
+
+  <h3>О союзе</h3>
+
+  <p>Allin Zone — международный союз на ClubGG с активными столами в безлимитном холдеме (NLH) и Pot-Limit Omaha (PLO).
+  Союз собирает игроков из СНГ, Европы и Азии, поэтому поле остаётся мягким, а трафик — стабильным.</p>
+
+  <p>Основные дисциплины — NLH и PLO. Доступен широкий диапазон лимитов, игры идут круглосуточно, пик активности
+  приходится на 20:00 по МСК.</p>
+
+  <h3>Условия</h3>
+
+  <p>Рейкбэк до 50%. Членство в клубе без KYC — отправлять документы не нужно. Все условия проходят внутреннюю проверку
+  PokerDealsHub.</p>
+
+  <p>Чтобы получить ссылку для регистрации, напишите менеджеру PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in the Allin Zone union on ClubGG
+    description: >-
+      A PDH deal in the international Allin Zone union on ClubGG: active NLH and PLO tables, non-stop traffic and
+      convenient playing hours for the CIS and Europe. Soft field and rakeback up to 50%.
+    geo: International
+    body: >-
+      <h3>Description</h3>
+
+      <p>A poker deal in the PDH Allin Zone club (club id: 645895), which is part of the international Allin Zone union
+      on ClubGG. The club is owned by PokerDealsHub, ensuring your safety and top-class customer service 24/7.</p>
+
+      <h3>About the Union</h3>
+
+      <p>Allin Zone is an international union on ClubGG with active tables in No-Limit Hold'em (NLH) and Pot-Limit Omaha
+      (PLO). The union brings together players from the CIS, Europe and Asia, so the field stays soft and the traffic
+      stable.</p>
+
+      <p>The main games are NLH and PLO. A wide range of limits is available, games run around the clock, and activity
+      peaks at 18:00 UK time (BST).</p>
+
+      <h3>Terms</h3>
+
+      <p>Rakeback up to 50%. Club membership is KYC-free — no need to send documents. All terms undergo internal
+      verification by PokerDealsHub.</p>
+
+      <p>To get a registration link, message a PDH manager — we're available 24/7.</p>
+    srcHash: 582a46d45485
+  uz:
+    name: ClubGG'dagi Allin Zone ittifoqida bitim
+    description: >-
+      ClubGG'dagi xalqaro Allin Zone ittifoqida PDH bitimi: faol NLH va PLO stollari, to'xtovsiz trafik hamda MDH va
+      Yevropa uchun qulay o'yin vaqti. Yumshoq maydon va 50% gacha reykbek.
+    geo: Xalqaro
+    body: >-
+      <h3>Tavsif</h3>
+
+      <p>ClubGG'dagi xalqaro Allin Zone ittifoqiga kiruvchi PDH Allin Zone klubidagi (klub id: 645895) poker bitimi.
+      Klub PokerDealsHub'ga tegishli bo'lib, bu sizning xavfsizligingizni va 24/7 oliy darajadagi mijozlar xizmatini
+      kafolatlaydi.</p>
+
+      <h3>Ittifoq haqida</h3>
+
+      <p>Allin Zone — ClubGG'dagi xalqaro ittifoq bo'lib, limitsiz holdem (NLH) va Pot-Limit Omaha (PLO) bo'yicha faol
+      stollarga ega. Ittifoq MDH, Yevropa va Osiyodan o'yinchilarni to'playdi, shu sababli maydon yumshoq, trafik esa
+      barqaror bo'lib qoladi.</p>
+
+      <p>Asosiy o'yin turlari — NLH va PLO. Limitlarning keng diapazoni mavjud, o'yinlar kechayu kunduz davom etadi,
+      faollik cho'qqisi Toshkent vaqti bilan soat 22:00 ga to'g'ri keladi.</p>
+
+      <h3>Shartlar</h3>
+
+      <p>50% gacha reykbek. Klub a'zoligi KYC'siz — hujjatlarni yuborish shart emas. Barcha shartlar PokerDealsHub'ning
+      ichki tekshiruvidan o'tadi.</p>
+
+      <p>Ro'yxatdan o'tish havolasini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
+    srcHash: 582a46d45485
+  uk:
+    name: Угода в союзі Allin Zone на ClubGG
+    description: >-
+      Угода від PDH у міжнародному союзі Allin Zone на ClubGG: активні столи NLH та PLO, нон-стоп трафік і зручний час
+      гри для СНД та Європи. М'яке поле та рейкбек до 50%.
+    geo: Міжнародний
+    body: >-
+      <h3>Опис</h3>
+
+      <p>Покерна угода в клубі PDH Allin Zone (id клубу: 645895), який входить до міжнародного союзу Allin Zone на
+      ClubGG. Клуб належить PokerDealsHub, що гарантує вашу безпеку та клієнтський сервіс найвищого класу 24/7.</p>
+
+      <h3>Про союз</h3>
+
+      <p>Allin Zone — міжнародний союз на ClubGG з активними столами в безлімітному холдемі (NLH) та Pot-Limit Omaha
+      (PLO). Союз збирає гравців із СНД, Європи та Азії, тому поле залишається м'яким, а трафік — стабільним.</p>
+
+      <p>Основні дисципліни — NLH та PLO. Доступний широкий діапазон лімітів, ігри тривають цілодобово, пік активності
+      припадає на 20:00 за київським часом.</p>
+
+      <h3>Умови</h3>
+
+      <p>Рейкбек до 50%. Членство в клубі без KYC — надсилати документи не потрібно. Усі умови проходять внутрішню
+      перевірку PokerDealsHub.</p>
+
+      <p>Щоб отримати посилання для реєстрації, напишіть менеджеру PDH — ми на зв'язку 24/7.</p>
+    srcHash: 582a46d45485
+  it:
+    name: Deal nell'unione Allin Zone su ClubGG
+    description: >-
+      Deal di PDH nell'unione internazionale Allin Zone su ClubGG: tavoli attivi NLH e PLO, traffico non-stop e orari di
+      gioco comodi per CSI ed Europa. Campo soft e rakeback fino al 50%.
+    geo: Internazionale
+    body: >-
+      <h3>Descrizione</h3>
+
+      <p>Deal di poker nel club PDH Allin Zone (id club: 645895), che fa parte dell'unione internazionale Allin Zone su
+      ClubGG. Il club è di proprietà di PokerDealsHub, il che garantisce la tua sicurezza e un servizio clienti di
+      altissimo livello 24/7.</p>
+
+      <h3>Informazioni sull'unione</h3>
+
+      <p>Allin Zone è un'unione internazionale su ClubGG con tavoli attivi di No-Limit Hold'em (NLH) e Pot-Limit Omaha
+      (PLO). L'unione raccoglie giocatori da CSI, Europa e Asia, quindi il campo rimane soft e il traffico stabile.</p>
+
+      <p>Le discipline principali sono NLH e PLO. È disponibile un'ampia gamma di limiti, i giochi si svolgono 24 ore su
+      24 e il picco di attività si registra alle 19:00 (ora italiana, CEST).</p>
+
+      <h3>Condizioni</h3>
+
+      <p>Rakeback fino al 50%. Iscrizione al club senza KYC — non è necessario inviare documenti. Tutte le condizioni
+      sono soggette a verifica interna di PokerDealsHub.</p>
+
+      <p>Per ricevere il link di registrazione, scrivi al manager PDH — siamo disponibili 24/7.</p>
+    srcHash: 582a46d45485
+  de:
+    name: Deal in der Union Allin Zone auf ClubGG
+    description: >-
+      PDH-Deal in der internationalen Union Allin Zone auf ClubGG: aktive NLH- und PLO-Tische, Non-Stop-Traffic und
+      angenehme Spielzeiten für die GUS und Europa. Weiches Feld und Rakeback bis zu 50%.
+    geo: International
+    body: >-
+      <h3>Beschreibung</h3>
+
+      <p>Poker-Deal im Club PDH Allin Zone (Club-ID: 645895), der zur internationalen Union Allin Zone auf ClubGG
+      gehört. Der Club gehört PokerDealsHub, was Ihre Sicherheit und erstklassigen Kundenservice rund um die Uhr (24/7)
+      garantiert.</p>
+
+      <h3>Über die Union</h3>
+
+      <p>Allin Zone ist eine internationale Union auf ClubGG mit aktiven Tischen in No-Limit Hold'em (NLH) und Pot-Limit
+      Omaha (PLO). Die Union bringt Spieler aus der GUS, Europa und Asien zusammen, wodurch das Feld weich und der
+      Traffic stabil bleibt.</p>
+
+      <p>Die Hauptdisziplinen sind NLH und PLO. Es steht ein breites Spektrum an Limits zur Verfügung, gespielt wird
+      rund um die Uhr, und die Aktivität erreicht ihren Höhepunkt um 19:00 Uhr (MESZ).</p>
+
+      <h3>Konditionen</h3>
+
+      <p>Rakeback bis zu 50%. Club-Mitgliedschaft ohne KYC — Sie müssen keine Dokumente einsenden. Alle Konditionen
+      werden intern von PokerDealsHub geprüft.</p>
+
+      <p>Um den Registrierungslink zu erhalten, schreiben Sie dem PDH-Manager — wir sind rund um die Uhr (24/7) für Sie
+      da.</p>
+    srcHash: 582a46d45485
+  es:
+    name: Acuerdo en la unión Allin Zone en ClubGG
+    description: >-
+      Acuerdo de PDH en la unión internacional Allin Zone en ClubGG: mesas activas de NLH y PLO, tráfico non-stop y
+      horarios de juego cómodos para la CEI y Europa. Campo blando y rakeback de hasta 50%.
+    geo: Internacional
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>Acuerdo de póker en el club PDH Allin Zone (id del club: 645895), que forma parte de la unión internacional
+      Allin Zone en ClubGG. El club pertenece a PokerDealsHub, lo que garantiza tu seguridad y un servicio al cliente de
+      primera clase 24/7.</p>
+
+      <h3>Sobre la unión</h3>
+
+      <p>Allin Zone es una unión internacional en ClubGG con mesas activas de Hold'em sin límite (NLH) y Pot-Limit Omaha
+      (PLO). La unión reúne a jugadores de la CEI, Europa y Asia, por lo que el campo se mantiene blando y el tráfico,
+      estable.</p>
+
+      <p>Las disciplinas principales son NLH y PLO. Está disponible una amplia gama de límites, las partidas se juegan
+      las 24 horas y el pico de actividad se alcanza a las 19:00 (hora peninsular española, CEST).</p>
+
+      <h3>Condiciones</h3>
+
+      <p>Rakeback de hasta 50%. Membresía en el club sin KYC: no es necesario enviar documentos. Todas las condiciones
+      pasan por la verificación interna de PokerDealsHub.</p>
+
+      <p>Para obtener el enlace de registro, escribe al manager de PDH: estamos disponibles 24/7.</p>
+    srcHash: 582a46d45485
+  pt:
+    name: Acordo na união Allin Zone no ClubGG
+    description: >-
+      Acordo da PDH na união internacional Allin Zone no ClubGG: mesas ativas de NLH e PLO, tráfego não-stop e horários
+      de jogo convenientes para a CEI e a Europa. Campo mole e rakeback até 50%.
+    geo: Internacional
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>Acordo de poker no clube PDH Allin Zone (id do clube: 645895), que integra a união internacional Allin Zone no
+      ClubGG. O clube pertence à PokerDealsHub, o que garante a sua segurança e um serviço ao cliente de topo 24/7.</p>
+
+      <h3>Sobre a união</h3>
+
+      <p>A Allin Zone é uma união internacional no ClubGG com mesas ativas de Hold'em sem limite (NLH) e Pot-Limit Omaha
+      (PLO). A união reúne jogadores da CEI, da Europa e da Ásia, pelo que o campo se mantém mole e o tráfego
+      estável.</p>
+
+      <p>As modalidades principais são NLH e PLO. Está disponível uma ampla gama de limites, os jogos decorrem 24 horas
+      por dia e o pico de atividade acontece por volta das 18:00 (hora de Portugal).</p>
+
+      <h3>Condições</h3>
+
+      <p>Rakeback até 50%. Adesão ao clube sem KYC — não é necessário enviar documentos. Todas as condições passam pela
+      verificação interna da PokerDealsHub.</p>
+
+      <p>Para receber o link de registo, contacte o gestor da PDH — estamos disponíveis 24/7.</p>
+    srcHash: 582a46d45485
+  fr:
+    name: Deal dans l'union Allin Zone sur ClubGG
+    description: >-
+      Deal PDH dans l'union internationale Allin Zone sur ClubGG : tables actives NLH et PLO, trafic non-stop et
+      horaires de jeu adaptés à la CEI et à l'Europe. Champ tendre et rakeback jusqu'à 50%.
+    geo: International
+    body: >-
+      <h3>Description</h3>
+
+      <p>Deal de poker dans le club PDH Allin Zone (id du club : 645895), qui fait partie de l'union internationale
+      Allin Zone sur ClubGG. Le club appartient à PokerDealsHub, ce qui garantit votre sécurité et un service client
+      haut de gamme 24/7.</p>
+
+      <h3>À propos de l'union</h3>
+
+      <p>Allin Zone est une union internationale sur ClubGG avec des tables actives en No-Limit Hold'em (NLH) et
+      Pot-Limit Omaha (PLO). L'union rassemble des joueurs de la CEI, d'Europe et d'Asie, ce qui maintient un champ
+      tendre et un trafic stable.</p>
+
+      <p>Les disciplines principales sont le NLH et le PLO. Une large gamme de limites est disponible, les parties se
+      déroulent 24h/24 et le pic d'activité se situe autour de 19h00 (heure de Paris, CEST).</p>
+
+      <h3>Conditions</h3>
+
+      <p>Rakeback jusqu'à 50%. Adhésion au club sans KYC — aucun document à envoyer. Toutes les conditions font l'objet
+      d'une vérification interne par PokerDealsHub.</p>
+
+      <p>Pour obtenir le lien d'inscription, écrivez au manager PDH — nous sommes disponibles 24/7.</p>
+    srcHash: 582a46d45485
+  tr:
+    name: ClubGG üzerindeki Allin Zone birliğinde anlaşma
+    description: >-
+      ClubGG üzerindeki uluslararası Allin Zone birliğinde PDH anlaşması: aktif NLH ve PLO masaları, non-stop trafik ve
+      BDT ile Avrupa için uygun oyun saatleri. Yumuşak masa ve %50'ye varan rakeback.
+    geo: Uluslararası
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>ClubGG üzerindeki uluslararası Allin Zone birliğine dahil olan PDH Allin Zone kulübünde (kulüp id: 645895)
+      poker anlaşması. Kulüp PokerDealsHub'a aittir; bu da güvenliğinizi ve 7/24 birinci sınıf müşteri hizmetini garanti
+      eder.</p>
+
+      <h3>Birlik Hakkında</h3>
+
+      <p>Allin Zone, ClubGG üzerinde limitsiz hold'em (NLH) ve Pot-Limit Omaha (PLO) masalarının aktif olduğu
+      uluslararası bir birliktir. Birlik; BDT, Avrupa ve Asya'dan oyuncuları bir araya getirir, bu nedenle masa yumuşak,
+      trafik ise istikrarlı kalır.</p>
+
+      <p>Ana disiplinler NLH ve PLO'dur. Geniş bir limit aralığı mevcuttur, oyunlar günün her saati devam eder ve
+      aktivite zirvesi 20:00'de (Türkiye saati) yaşanır.</p>
+
+      <h3>Koşullar</h3>
+
+      <p>%50'ye varan rakeback. Kulüp üyeliği KYC gerektirmez — belge göndermenize gerek yoktur. Tüm koşullar
+      PokerDealsHub'ın iç denetiminden geçer.</p>
+
+      <p>Kayıt bağlantısını almak için PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
+    srcHash: 582a46d45485
+  he:
+    name: עסקה באיחוד Allin Zone ב-ClubGG
+    description: >-
+      עסקה מבית PDH באיחוד הבינלאומי Allin Zone ב-ClubGG: שולחנות NLH ו-PLO פעילים, תנועה נון-סטופ ושעות משחק נוחות
+      לשחקני חבר העמים ואירופה. שדה רך ורייקבק עד 50%.
+    geo: בינלאומי
+    body: >-
+      <h3>תיאור</h3>
+
+      <p>עסקת פוקר במועדון PDH Allin Zone (מזהה מועדון: 645895), החבר באיחוד הבינלאומי Allin Zone ב-ClubGG. המועדון
+      בבעלות PokerDealsHub, מה שמבטיח את הביטחון שלכם ושירות לקוחות ברמה הגבוהה ביותר 24/7.</p>
+
+      <h3>על האיחוד</h3>
+
+      <p>Allin Zone הוא איחוד בינלאומי ב-ClubGG עם שולחנות פעילים בהולדם ללא הגבלה (NLH) וב-Pot-Limit Omaha (PLO).
+      האיחוד מקבץ שחקנים מחבר העמים, אירופה ואסיה, ולכן השדה נשאר רך והתנועה יציבה.</p>
+
+      <p>הדיסציפלינות המרכזיות הן NLH ו-PLO. זמין מגוון רחב של לימיטים, המשחקים מתנהלים מסביב לשעון, ושיא הפעילות הוא
+      בשעה 20:00 (שעון ישראל, IDT).</p>
+
+      <h3>תנאים</h3>
+
+      <p>רייקבק עד 50%. חברות במועדון ללא KYC — אין צורך לשלוח מסמכים. כל התנאים עוברים בדיקה פנימית של
+      PokerDealsHub.</p>
+
+      <p>כדי לקבל קישור להרשמה, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
+    srcHash: 582a46d45485
+  ar:
+    name: صفقة في اتحاد Allin Zone على ClubGG
+    description: >-
+      صفقة من PDH في اتحاد Allin Zone الدولي على ClubGG: طاولات NLH وPLO نشطة، حركة لاعبين متواصلة على مدار الساعة
+      وأوقات لعب مناسبة لدول رابطة الدول المستقلة وأوروبا. منافسة سهلة وريكباك يصل إلى 50%.
+    geo: دولي
+    body: >-
+      <h3>الوصف</h3>
+
+      <p>صفقة بوكر في نادي PDH Allin Zone (معرّف النادي: 645895)، وهو جزء من اتحاد Allin Zone الدولي على ClubGG. النادي
+      مملوك لـ PokerDealsHub، ما يضمن لك الأمان وخدمة عملاء من الطراز الأول على مدار الساعة طوال أيام الأسبوع.</p>
+
+      <h3>عن الاتحاد</h3>
+
+      <p>Allin Zone هو اتحاد دولي على ClubGG يضم طاولات نشطة في هولدم بلا حدود (NLH) وPot-Limit Omaha (PLO). يجمع
+      الاتحاد لاعبين من رابطة الدول المستقلة وأوروبا وآسيا، لذلك يبقى مستوى المنافسة سهلاً وحركة اللاعبين مستقرة.</p>
+
+      <p>التخصصات الأساسية هي NLH وPLO. يتوفر نطاق واسع من الحدود، وتُقام الألعاب على مدار الساعة، مع بلوغ ذروة النشاط
+      عند الساعة 20:00 (بتوقيت UTC+3).</p>
+
+      <h3>الشروط</h3>
+
+      <p>ريكباك حتى 50%. عضوية النادي دون KYC — لا حاجة لإرسال أي مستندات. تخضع جميع الشروط لتدقيق داخلي من
+      PokerDealsHub.</p>
+
+      <p>للحصول على رابط التسجيل، راسل مدير PDH — نحن متواجدون على مدار الساعة طوال أيام الأسبوع.</p>
+    srcHash: 582a46d45485
+  id:
+    name: Deal di Union Allin Zone di ClubGG
+    description: >-
+      Deal dari PDH di union internasional Allin Zone di ClubGG: meja NLH dan PLO yang aktif, trafik non-stop, dan waktu
+      bermain yang nyaman untuk CIS dan Eropa. Field yang lunak dan rakeback hingga 50%.
+    geo: Internasional
+    body: >-
+      <h3>Deskripsi</h3>
+
+      <p>Deal poker di klub PDH Allin Zone (id klub: 645895), yang tergabung dalam union internasional Allin Zone di
+      ClubGG. Klub ini dimiliki oleh PokerDealsHub, yang menjamin keamanan Anda dan layanan pelanggan kelas atas
+      24/7.</p>
+
+      <h3>Tentang Union</h3>
+
+      <p>Allin Zone adalah union internasional di ClubGG dengan meja aktif di No-Limit Hold'em (NLH) dan Pot-Limit Omaha
+      (PLO). Union ini mengumpulkan pemain dari CIS, Eropa, dan Asia, sehingga field tetap lunak dan trafik tetap
+      stabil.</p>
+
+      <p>Disiplin utama adalah NLH dan PLO. Tersedia rentang limit yang luas, permainan berlangsung sepanjang hari, dan
+      puncak aktivitas terjadi pada pukul 00:00 WIB (tengah malam).</p>
+
+      <h3>Ketentuan</h3>
+
+      <p>Rakeback hingga 50%. Keanggotaan klub tanpa KYC — tidak perlu mengirim dokumen. Semua ketentuan melewati
+      verifikasi internal PokerDealsHub.</p>
+
+      <p>Untuk mendapatkan tautan pendaftaran, hubungi manajer PDH — kami siap membantu 24/7.</p>
+    srcHash: 582a46d45485
+  vi:
+    name: Ưu đãi trong liên minh Allin Zone trên ClubGG
+    description: >-
+      Ưu đãi từ PDH trong liên minh quốc tế Allin Zone trên ClubGG: các bàn NLH và PLO sôi động, lưu lượng người chơi
+      liên tục và giờ chơi thuận tiện cho khu vực SNG và châu Âu. Field mềm và rakeback lên đến 50%.
+    geo: Quốc tế
+    body: >-
+      <h3>Mô tả</h3>
+
+      <p>Ưu đãi poker tại câu lạc bộ PDH Allin Zone (id câu lạc bộ: 645895), thuộc liên minh quốc tế Allin Zone trên
+      ClubGG. Câu lạc bộ thuộc sở hữu của PokerDealsHub, điều này đảm bảo sự an toàn của bạn cùng dịch vụ khách hàng
+      đẳng cấp cao nhất 24/7.</p>
+
+      <h3>Về liên minh</h3>
+
+      <p>Allin Zone là liên minh quốc tế trên ClubGG với các bàn sôi động ở No-Limit Hold'em (NLH) và Pot-Limit Omaha
+      (PLO). Liên minh quy tụ người chơi từ SNG, châu Âu và châu Á, nhờ đó field luôn mềm và lưu lượng luôn ổn định.</p>
+
+      <p>Các bộ môn chính là NLH và PLO. Có nhiều mức cược đa dạng, các ván diễn ra suốt ngày đêm, đỉnh điểm hoạt động
+      rơi vào 00:00 giờ Việt Nam (nửa đêm).</p>
+
+      <h3>Điều kiện</h3>
+
+      <p>Rakeback lên đến 50%. Thành viên câu lạc bộ không cần KYC — bạn không phải gửi giấy tờ. Mọi điều kiện đều được
+      PokerDealsHub kiểm tra nội bộ.</p>
+
+      <p>Để nhận liên kết đăng ký, hãy nhắn cho quản lý PDH — chúng tôi luôn trực tuyến 24/7.</p>
+    srcHash: 582a46d45485
+  fil:
+    name: Deal sa unyon na Allin Zone sa ClubGG
+    description: >-
+      Deal mula sa PDH sa internasyonal na unyon na Allin Zone sa ClubGG: aktibong mga mesa ng NLH at PLO, non-stop na
+      trapiko at komportableng oras ng laro para sa CIS at Europa. Malambot na field at rakeback na hanggang 50%.
+    geo: Internasyonal
+    body: >-
+      <h3>Paglalarawan</h3>
+
+      <p>Poker deal sa club na PDH Allin Zone (club id: 645895), na kabilang sa internasyonal na unyon na Allin Zone sa
+      ClubGG. Ang club ay pag-aari ng PokerDealsHub, na siyang garantiya ng inyong kaligtasan at pinakamataas na uri ng
+      customer service 24/7.</p>
+
+      <h3>Tungkol sa Unyon</h3>
+
+      <p>Ang Allin Zone ay isang internasyonal na unyon sa ClubGG na may aktibong mga mesa sa no-limit hold'em (NLH) at
+      Pot-Limit Omaha (PLO). Nagtitipon ang unyon ng mga manlalaro mula sa CIS, Europa at Asya, kaya nananatiling
+      malambot ang field at matatag ang trapiko.</p>
+
+      <p>Ang mga pangunahing disiplina ay NLH at PLO. May malawak na hanay ng mga limit, tuloy-tuloy ang mga laro sa
+      buong araw, at umaabot ang pik ng aktibidad sa ala-1:00 ng madaling araw (oras ng Pilipinas).</p>
+
+      <h3>Mga Kondisyon</h3>
+
+      <p>Rakeback na hanggang 50%. KYC-free ang membership sa club — hindi na kailangang magpadala ng mga dokumento.
+      Lahat ng kondisyon ay dumaraan sa panloob na pagsusuri ng PokerDealsHub.</p>
+
+      <p>Upang makuha ang link para sa pagpaparehistro, mag-message sa manager ng PDH — nasa linya kami 24/7.</p>
+    srcHash: 582a46d45485
+  th:
+    name: ดีลในยูเนียน Allin Zone บน ClubGG
+    description: >-
+      ดีลจาก PDH ในยูเนียนระหว่างประเทศ Allin Zone บน ClubGG: โต๊ะ NLH และ PLO ที่คึกคัก ทราฟฟิกไม่มีหยุด
+      และเวลาเล่นที่สะดวกสำหรับกลุ่มประเทศ CIS และยุโรป สนามอ่อนและเรคแบ็กสูงถึง 50%
+    geo: ระหว่างประเทศ
+    body: >-
+      <h3>รายละเอียด</h3>
+
+
+      <p>ดีลโป๊กเกอร์ในคลับ PDH Allin Zone (ID คลับ: 645895) ซึ่งเป็นส่วนหนึ่งของยูเนียนระหว่างประเทศ Allin Zone บน
+      ClubGG คลับนี้เป็นของ PokerDealsHub ซึ่งรับประกันความปลอดภัยของคุณและบริการลูกค้าระดับชั้นนำตลอด 24/7</p>
+
+
+      <h3>เกี่ยวกับยูเนียน</h3>
+
+
+      <p>Allin Zone คือยูเนียนระหว่างประเทศบน ClubGG ที่มีโต๊ะคึกคักในโฮลด์เอมไม่จำกัด (NLH) และ Pot-Limit Omaha (PLO)
+      ยูเนียนนี้รวบรวมผู้เล่นจากกลุ่มประเทศ CIS ยุโรป และเอเชีย สนามจึงยังคงอ่อนและทราฟฟิกมีความสม่ำเสมอ</p>
+
+
+      <p>ประเภทเกมหลักคือ NLH และ PLO มีลิมิตให้เลือกหลากหลาย เกมเปิดตลอด 24 ชั่วโมง
+      โดยช่วงพีคของกิจกรรมอยู่ที่เที่ยงคืน (00:00 น. เวลาไทย)</p>
+
+
+      <h3>เงื่อนไข</h3>
+
+
+      <p>เรคแบ็กสูงถึง 50% การเป็นสมาชิกคลับไม่ต้องทำ KYC — ไม่ต้องส่งเอกสาร ทุกเงื่อนไขผ่านการตรวจสอบภายในโดย
+      PokerDealsHub</p>
+
+
+      <p>หากต้องการรับลิงก์สำหรับสมัคร ทักหาผู้จัดการ PDH ได้เลย — เราพร้อมให้บริการตลอด 24/7</p>
+    srcHash: 582a46d45485
