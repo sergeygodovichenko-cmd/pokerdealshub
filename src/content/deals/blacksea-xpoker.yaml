@@ -37,9 +37,8 @@ i18n:
     body: >-
       <h3>Description</h3>
 
-      <p>Poker deal in the PDH BlackSea club (X-poker club id: 2445928), which is part of the large CIS union Black Sea
-      on the X-Poker platform. The club is owned by PokerDealsHub, ensuring your safety and top-tier customer service
-      24/7.</p>
+      <p>Poker deal in the PDH BlackSea club, which is part of the large CIS union Black Sea on the X-Poker platform.
+      The club is owned by PokerDealsHub, ensuring your safety and top-tier customer service 24/7.</p>
 
 
       <h3>About the Union</h3>
@@ -60,7 +59,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 70%</strong> — The rakeback rate depends on your weekly rake volume.</li>
         <li><strong>Fixed rakeback 40%</strong> Start playing with an advantage right after registration. You can later switch to a dynamic rakeback model.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   es:
     name: Oferta en la unión Black Sea en X-Poker
     description: >-
@@ -70,9 +69,9 @@ i18n:
     body: >-
       <h3>Descripción</h3>
 
-      <p>Oferta de póker en el club PDH BlackSea (id del club: 2445928), que forma parte de la gran unión de la CEI
-      Black Sea en la plataforma X-Poker. El club pertenece a PokerDealsHub, lo que garantiza tu seguridad y un servicio
-      al cliente de primer nivel 24/7.</p>
+      <p>Oferta de póker en el club PDH BlackSea, que forma parte de la gran unión de la CEI Black Sea en la plataforma
+      X-Poker. El club pertenece a PokerDealsHub, lo que garantiza tu seguridad y un servicio al cliente de primer nivel
+      24/7.</p>
 
 
       <h3>Sobre la unión</h3>
@@ -94,7 +93,7 @@ i18n:
         <li><strong>Rakeback dinámico hasta 70%</strong> El rakeback depende de tu volumen de rake semanal.</li>
         <li><strong>Rakeback fijo 40%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes pasarte al dinámico.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   uz:
     name: X-Poker’dagi Black Sea ittifoqida bitim
     description: >-
@@ -104,9 +103,9 @@ i18n:
     body: >-
       <h3>Tavsif</h3>
 
-      <p>X-Poker platformasidagi yirik MDH ittifoqi Black Sea tarkibiga kiruvchi PDH BlackSea klubidagi (klub ID:
-      2445928) poker bitimi. Klub PokerDealsHub tasarrufida boʻlib, bu sizning xavfsizligingizni va eng yuqori
-      darajadagi 24/7 mijozlar xizmatini kafolatlaydi.</p>
+      <p>X-Poker platformasidagi yirik MDH ittifoqi Black Sea tarkibiga kiruvchi PDH BlackSea klubidagi poker bitimi.
+      Klub PokerDealsHub tasarrufida boʻlib, bu sizning xavfsizligingizni va eng yuqori darajadagi 24/7 mijozlar
+      xizmatini kafolatlaydi.</p>
 
 
       <h3>Ittifoq haqida</h3>
@@ -128,7 +127,7 @@ i18n:
         <li><strong>70% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
         <li><strong>Qatʼiy reyk-bek 40%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   uk:
     name: Угода в союзі Black Sea на X-Poker
     description: >-
@@ -139,9 +138,8 @@ i18n:
       <h3>Опис</h3>
 
 
-      <p>Покерна угода в клубі PDH BlackSea (id клубу: 2445928), який входить до великого СНД-союзу Black Sea на
-      платформі X-Poker. Клуб належить PokerDealsHub, що гарантує вашу безпеку та клієнтський сервіс найвищого рівня
-      24/7.</p>
+      <p>Покерна угода в клубі PDH BlackSea, який входить до великого СНД-союзу Black Sea на платформі X-Poker. Клуб
+      належить PokerDealsHub, що гарантує вашу безпеку та клієнтський сервіс найвищого рівня 24/7.</p>
 
 
 
@@ -167,7 +165,7 @@ i18n:
         <li><strong>Динамічний рейкбек до 70%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
         <li><strong>Фіксований рейкбек 40%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   it:
     name: Offerta nell'unione Black Sea su X-Poker
     description: >-
@@ -178,9 +176,9 @@ i18n:
       <h3>Descrizione</h3>
 
 
-      <p>Offerta di poker nel club PDH BlackSea (id club: 2445928), che fa parte della grande unione CSI Black Sea sulla
-      piattaforma X-Poker. Il club è di proprietà di PokerDealsHub, il che garantisce la tua sicurezza e un servizio
-      clienti di altissimo livello 24/7.</p>
+      <p>Offerta di poker nel club PDH BlackSea, che fa parte della grande unione CSI Black Sea sulla piattaforma
+      X-Poker. Il club è di proprietà di PokerDealsHub, il che garantisce la tua sicurezza e un servizio clienti di
+      altissimo livello 24/7.</p>
 
 
 
@@ -208,7 +206,7 @@ i18n:
         <li><strong>Rakeback dinamico fino al 70%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
         <li><strong>Rakeback fisso 40%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   de:
     name: Deal in der Union Black Sea auf X-Poker
     description: >-
@@ -219,9 +217,8 @@ i18n:
       <h3>Beschreibung</h3>
 
 
-      <p>Poker-Deal im Club PDH BlackSea (Club-ID: 2445928), der zur großen GUS-Union Black Sea auf der Plattform
-      X-Poker gehört. Der Club gehört PokerDealsHub, was deine Sicherheit und Kundenservice auf höchstem Niveau rund um
-      die Uhr garantiert.</p>
+      <p>Poker-Deal im Club PDH BlackSea, der zur großen GUS-Union Black Sea auf der Plattform X-Poker gehört. Der Club
+      gehört PokerDealsHub, was deine Sicherheit und Kundenservice auf höchstem Niveau rund um die Uhr garantiert.</p>
 
 
 
@@ -247,7 +244,7 @@ i18n:
         <li><strong>Dynamischer Rakeback bis zu 70%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
         <li><strong>Fester Rakeback 40%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   pt:
     name: Oferta na união Black Sea no X-Poker
     description: >-
@@ -257,9 +254,9 @@ i18n:
     body: >-
       <h3>Descrição</h3>
 
-      <p>Oferta de poker no clube PDH BlackSea (id do clube: 2445928), que faz parte da grande união da CEI Black Sea na
-      plataforma X-Poker. O clube pertence à PokerDealsHub, o que garante sua segurança e um atendimento ao cliente de
-      altíssimo nível 24/7.</p>
+      <p>Oferta de poker no clube PDH BlackSea, que faz parte da grande união da CEI Black Sea na plataforma X-Poker. O
+      clube pertence à PokerDealsHub, o que garante sua segurança e um atendimento ao cliente de altíssimo nível
+      24/7.</p>
 
 
       <h3>Sobre a união</h3>
@@ -280,7 +277,7 @@ i18n:
         <li><strong>Rakeback dinâmico até 70%</strong> O rakeback depende do seu volume de rake semanal.</li>
         <li><strong>Rakeback fixo 40%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar para o dinâmico.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   fr:
     name: Offre dans l'union Black Sea sur X-Poker
     description: >-
@@ -290,9 +287,9 @@ i18n:
     body: >-
       <h3>Description</h3>
 
-      <p>Offre de poker dans le club PDH BlackSea (id du club : 2445928), qui fait partie de la grande union CEI Black
-      Sea sur la plateforme X-Poker. Le club appartient à PokerDealsHub, ce qui garantit votre sécurité et un service
-      client haut de gamme 24/7.</p>
+      <p>Offre de poker dans le club PDH BlackSea, qui fait partie de la grande union CEI Black Sea sur la plateforme
+      X-Poker. Le club appartient à PokerDealsHub, ce qui garantit votre sécurité et un service client haut de gamme
+      24/7.</p>
 
 
       <h3>À propos de l'union</h3>
@@ -313,7 +310,7 @@ i18n:
         <li><strong>Rakeback dynamique jusqu'à 70%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
         <li><strong>Rakeback fixe 40%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer au dynamique plus tard.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   tr:
     name: X-Poker'da Black Sea birliğinde anlaşma
     description: >-
@@ -323,9 +320,8 @@ i18n:
     body: >-
       <h3>Açıklama</h3>
 
-      <p>X-Poker platformundaki büyük BDT birliği Black Sea'in parçası olan PDH BlackSea kulübünde (kulüp id: 2445928)
-      poker anlaşması. Kulüp PokerDealsHub'a aittir; bu da güvenliğinizi ve 24/7 üst düzey müşteri hizmetini garanti
-      eder.</p>
+      <p>X-Poker platformundaki büyük BDT birliği Black Sea'in parçası olan PDH BlackSea kulübünde poker anlaşması.
+      Kulüp PokerDealsHub'a aittir; bu da güvenliğinizi ve 24/7 üst düzey müşteri hizmetini garanti eder.</p>
 
 
       <h3>Birlik hakkında</h3>
@@ -346,7 +342,7 @@ i18n:
         <li><strong>%70'e kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
         <li><strong>%40 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   he:
     name: דיל באיחוד Black Sea ב-X-Poker
     description: דיל מבית PDH באיחוד Black Sea ב-X-Poker. פול טוב, זמן נוח לשחקנים מ-CIS, הרכבים יציבים ללא עומס יתר של רגולרים.
@@ -354,8 +350,8 @@ i18n:
     body: >-
       <h3>תיאור</h3>
 
-      <p>דיל פוקר במועדון PDH BlackSea (id מועדון: 2445928), שחבר באיחוד CIS הגדול Black Sea בפלטפורמת X-Poker. המועדון
-      בבעלות PokerDealsHub, מה שמבטיח לך אבטחה ושירות לקוחות ברמה הגבוהה ביותר 24/7.</p>
+      <p>דיל פוקר במועדון PDH BlackSea, שחבר באיחוד CIS הגדול Black Sea בפלטפורמת X-Poker. המועדון בבעלות PokerDealsHub,
+      מה שמבטיח לך אבטחה ושירות לקוחות ברמה הגבוהה ביותר 24/7.</p>
 
 
       <h3>על האיחוד</h3>
@@ -375,7 +371,7 @@ i18n:
           <li><strong>רייקבק דינמי עד 70%</strong> הרייקבק תלוי בנפח הרייק השבועי.</li>
           <li><strong>רייקבק קבוע 40%</strong> קבל אפשרות להתחיל לשחק עם יתרון מיד לאחר ההרשמה. בהמשך אפשר לעבור לדינמי.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   ar:
     name: صفقة في اتحاد Black Sea على X-Poker
     description: >-
@@ -385,8 +381,8 @@ i18n:
     body: >-
       <h3>الوصف</h3>
 
-      <p>صفقة بوكر في نادي PDH BlackSea (معرّف النادي: 2445928)، وهو جزء من اتحاد Black Sea الكبير لرابطة الدول المستقلة
-      على منصة X-Poker. النادي مملوك لـ PokerDealsHub، وهو ما يضمن أمانك وخدمة عملاء من أعلى مستوى على مدار الساعة.</p>
+      <p>صفقة بوكر في نادي PDH BlackSea، وهو جزء من اتحاد Black Sea الكبير لرابطة الدول المستقلة على منصة X-Poker.
+      النادي مملوك لـ PokerDealsHub، وهو ما يضمن أمانك وخدمة عملاء من أعلى مستوى على مدار الساعة.</p>
 
 
       <h3>عن الاتحاد</h3>
@@ -406,7 +402,7 @@ i18n:
           <li><strong>ريكباك ديناميكي حتى 70%</strong> يعتمد الريكباك على حجم الريك الأسبوعي.</li>
           <li><strong>ريكباك ثابت 40%</strong> احصل على فرصة بدء اللعب بأفضلية فور التسجيل. ويمكنك لاحقاً الانتقال إلى الديناميكي.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   id:
     name: Deal di union Black Sea pada X-Poker
     description: >-
@@ -416,9 +412,8 @@ i18n:
     body: >-
       <h3>Deskripsi</h3>
 
-      <p>Deal poker di klub PDH BlackSea (id klub: 2445928), yang merupakan bagian dari union CIS besar Black Sea pada
-      platform X-Poker. Klub ini dimiliki oleh PokerDealsHub, yang menjamin keamanan Anda dan layanan pelanggan kelas
-      atas 24/7.</p>
+      <p>Deal poker di klub PDH BlackSea, yang merupakan bagian dari union CIS besar Black Sea pada platform X-Poker.
+      Klub ini dimiliki oleh PokerDealsHub, yang menjamin keamanan Anda dan layanan pelanggan kelas atas 24/7.</p>
 
 
       <h3>Tentang union</h3>
@@ -439,7 +434,7 @@ i18n:
           <li><strong>Rakeback dinamis hingga 70%</strong> Rakeback bergantung pada volume rake mingguan.</li>
           <li><strong>Rakeback tetap 40%</strong> Dapatkan kesempatan untuk mulai bermain dengan keunggulan segera setelah registrasi. Nantinya Anda bisa beralih ke model dinamis.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   vi:
     name: Kèo tại liên minh Black Sea trên X-Poker
     description: >-
@@ -449,9 +444,9 @@ i18n:
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Kèo poker tại câu lạc bộ PDH BlackSea (id câu lạc bộ: 2445928), thuộc liên minh lớn của khối SNG là Black Sea
-      trên nền tảng X-Poker. Câu lạc bộ do PokerDealsHub sở hữu, đảm bảo an toàn cho bạn cùng dịch vụ chăm sóc khách
-      hàng đẳng cấp hàng đầu 24/7.</p>
+      <p>Kèo poker tại câu lạc bộ PDH BlackSea, thuộc liên minh lớn của khối SNG là Black Sea trên nền tảng X-Poker. Câu
+      lạc bộ do PokerDealsHub sở hữu, đảm bảo an toàn cho bạn cùng dịch vụ chăm sóc khách hàng đẳng cấp hàng đầu
+      24/7.</p>
 
 
       <h3>Về liên minh</h3>
@@ -473,7 +468,7 @@ i18n:
         <li><strong>Rakeback động lên đến 70%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
         <li><strong>Rakeback cố định 40%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   fil:
     name: Deal sa union na Black Sea sa X-Poker
     description: >-
@@ -483,9 +478,9 @@ i18n:
     body: >-
       <h3>Paglalarawan</h3>
 
-      <p>Poker deal sa club na PDH BlackSea (id ng club: 2445928), na bahagi ng malaking CIS union na Black Sea sa
-      platform na X-Poker. Pag-aari ng PokerDealsHub ang club, kaya garantisado ang iyong kaligtasan at top-tier na
-      customer service 24/7.</p>
+      <p>Poker deal sa club na PDH BlackSea, na bahagi ng malaking CIS union na Black Sea sa platform na X-Poker.
+      Pag-aari ng PokerDealsHub ang club, kaya garantisado ang iyong kaligtasan at top-tier na customer service
+      24/7.</p>
 
 
       <h3>Tungkol sa union</h3>
@@ -507,7 +502,7 @@ i18n:
           <li><strong>Dynamic na rakeback hanggang 70%</strong> Nakadepende ang rakeback sa lingguhang volume ng rake.</li>
           <li><strong>Fixed na rakeback 40%</strong> Makakuha ng pagkakataong magsimulang maglaro nang may bentahe kaagad pagkatapos magrehistro. Maaari kang lumipat sa dynamic sa bandang huli.</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
   th:
     name: ดีลในยูเนียน Black Sea บน X-Poker
     description: >-
@@ -518,9 +513,8 @@ i18n:
       <h3>รายละเอียด</h3>
 
 
-      <p>ดีลโป๊กเกอร์ในคลับ PDH BlackSea (id คลับ: 2445928) ซึ่งเป็นส่วนหนึ่งของยูเนียน Black Sea ขนาดใหญ่ของกลุ่มประเทศ
-      CIS บนแพลตฟอร์ม X-Poker คลับนี้เป็นของ PokerDealsHub จึงรับประกันความปลอดภัยของคุณและบริการลูกค้าระดับสูงสุดตลอด
-      24/7</p>
+      <p>ดีลโป๊กเกอร์ในคลับ PDH BlackSea ซึ่งเป็นส่วนหนึ่งของยูเนียน Black Sea ขนาดใหญ่ของกลุ่มประเทศ CIS บนแพลตฟอร์ม
+      X-Poker คลับนี้เป็นของ PokerDealsHub จึงรับประกันความปลอดภัยของคุณและบริการลูกค้าระดับสูงสุดตลอด 24/7</p>
 
 
 
@@ -546,13 +540,12 @@ i18n:
         <li><strong>เรคแบ็กแบบไดนามิกสูงสุด 70%</strong> เรคแบ็กขึ้นอยู่กับปริมาณเรครายสัปดาห์</li>
         <li><strong>เรคแบ็กแบบคงที่ 40%</strong> รับโอกาสเริ่มเล่นด้วยความได้เปรียบทันทีหลังลงทะเบียน ภายหลังสามารถเปลี่ยนไปใช้แบบไดนามิกได้</li>
       </ul>
-    srcHash: 8dad5890e802
+    srcHash: 0add324f5365
 body: >-
   <h3>Описание</h3>
 
-  <p>Покерная сделка в клубе PDH BlackSea (id клуба: 2445928), который состоит в крупном СНГ союзе Black Sea на
-  платформе X-Poker. Клуб принадлежит PokerDealsHub, что гарантирует вашу безопасность и клиентский сервис высшего
-  уровня 24/7.</p>
+  <p>Покерная сделка в клубе PDH BlackSea, который состоит в крупном СНГ союзе Black Sea на платформе X-Poker. Клуб
+  принадлежит PokerDealsHub, что гарантирует вашу безопасность и клиентский сервис высшего уровня 24/7.</p>
 
 
   <h3>О союзе</h3>

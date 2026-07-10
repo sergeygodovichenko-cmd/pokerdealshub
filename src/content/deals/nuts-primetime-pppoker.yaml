@@ -37,8 +37,8 @@ i18n:
     body: >-
       <h3>Description</h3>
 
-      <p>A poker deal in the Illuminator club (PPPoker club id: 4663296), which is part of the well-known NUTS PrimeTime
-      union. The club is managed by PokerDealsHub, ensuring your safety and top-tier customer service 24/7.</p>
+      <p>A poker deal in the Illuminator club, which is part of the well-known NUTS PrimeTime union. The club is managed
+      by PokerDealsHub, ensuring your safety and top-tier customer service 24/7.</p>
 
 
       <h3>About the Union</h3>
@@ -58,7 +58,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 70%</strong> — The rakeback rate depends on your weekly rake volume.</li>
         <li><strong>Fixed rakeback 35%</strong> — Start playing with an advantage right after registration, and switch to the dynamic option later if you prefer.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   es:
     name: Oferta en la unión NUTS PrimeTime en PPPoker
     description: >-
@@ -68,9 +68,8 @@ i18n:
     body: >-
       <h3>Descripción</h3>
 
-      <p>Oferta de póker en el club Illuminator, que forma parte de la conocida unión NUTS PrimeTime. Club id: 4663296.
-      El club está gestionado por PokerDealsHub, lo que garantiza tu seguridad y un servicio al cliente de primer nivel
-      24/7.</p>
+      <p>Oferta de póker en el club Illuminator, que forma parte de la conocida unión NUTS PrimeTime. El club está
+      gestionado por PokerDealsHub, lo que garantiza tu seguridad y un servicio al cliente de primer nivel 24/7.</p>
 
 
       <h3>Sobre la unión</h3>
@@ -90,7 +89,7 @@ i18n:
         <li><strong>Rakeback dinámico hasta 70%</strong> El rakeback depende de tu volumen de rake semanal.</li>
         <li><strong>Rakeback fijo 35%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes pasarte al dinámico.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   uz:
     name: PPPoker’dagi NUTS PrimeTime ittifoqida bitim
     description: >-
@@ -100,8 +99,8 @@ i18n:
     body: >-
       <h3>Tavsif</h3>
 
-      <p>Mashhur NUTS PrimeTime ittifoqi tarkibiga kiruvchi Illuminator klubidagi poker bitimi. Klub ID: 4663296. Klub
-      PokerDealsHub boshqaruvida boʻlib, bu sizning xavfsizligingizni va eng yuqori darajadagi 24/7 mijozlar xizmatini
+      <p>Mashhur NUTS PrimeTime ittifoqi tarkibiga kiruvchi Illuminator klubidagi poker bitimi. Klub PokerDealsHub
+      boshqaruvida boʻlib, bu sizning xavfsizligingizni va eng yuqori darajadagi 24/7 mijozlar xizmatini
       kafolatlaydi.</p>
 
 
@@ -123,7 +122,7 @@ i18n:
         <li><strong>70% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
         <li><strong>Qatʼiy reyk-bek 35%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   uk:
     name: Угода в союзі NUTS PrimeTime на PPPoker
     description: >-
@@ -134,8 +133,8 @@ i18n:
       <h3>Опис</h3>
 
 
-      <p>Покерна угода в клубі Illuminator, який входить до відомого союзу NUTS PrimeTime. Club id: 4663296. Клуб під
-      управлінням PokerDealsHub, що гарантує вашу безпеку та клієнтський сервіс найвищого рівня 24/7.</p>
+      <p>Покерна угода в клубі Illuminator, який входить до відомого союзу NUTS PrimeTime. Клуб під управлінням
+      PokerDealsHub, що гарантує вашу безпеку та клієнтський сервіс найвищого рівня 24/7.</p>
 
 
 
@@ -161,7 +160,7 @@ i18n:
         <li><strong>Динамічний рейкбек до 70%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
         <li><strong>Фіксований рейкбек 35%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   it:
     name: Offerta nell'unione NUTS PrimeTime su PPPoker
     description: >-
@@ -172,9 +171,8 @@ i18n:
       <h3>Descrizione</h3>
 
 
-      <p>Offerta di poker nel club Illuminator, che fa parte della nota unione NUTS PrimeTime. Club id: 4663296. Il club
-      è gestito da PokerDealsHub, il che garantisce la tua sicurezza e un servizio clienti di altissimo livello
-      24/7.</p>
+      <p>Offerta di poker nel club Illuminator, che fa parte della nota unione NUTS PrimeTime. Il club è gestito da
+      PokerDealsHub, il che garantisce la tua sicurezza e un servizio clienti di altissimo livello 24/7.</p>
 
 
 
@@ -200,7 +198,7 @@ i18n:
         <li><strong>Rakeback dinamico fino al 70%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
         <li><strong>Rakeback fisso 35%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   de:
     name: Deal in der Union NUTS PrimeTime auf PPPoker
     description: >-
@@ -211,9 +209,8 @@ i18n:
       <h3>Beschreibung</h3>
 
 
-      <p>Poker-Deal im Club Illuminator, der zur bekannten Union NUTS PrimeTime gehört. Club id: 4663296. Der Club wird
-      von PokerDealsHub verwaltet, was deine Sicherheit und Kundenservice auf höchstem Niveau rund um die Uhr
-      garantiert.</p>
+      <p>Poker-Deal im Club Illuminator, der zur bekannten Union NUTS PrimeTime gehört. Der Club wird von PokerDealsHub
+      verwaltet, was deine Sicherheit und Kundenservice auf höchstem Niveau rund um die Uhr garantiert.</p>
 
 
 
@@ -240,7 +237,7 @@ i18n:
         <li><strong>Dynamischer Rakeback bis zu 70%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
         <li><strong>Fester Rakeback 35%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   pt:
     name: Oferta na união NUTS PrimeTime no PPPoker
     description: >-
@@ -250,9 +247,8 @@ i18n:
     body: >-
       <h3>Descrição</h3>
 
-      <p>Oferta de poker no clube Illuminator, que faz parte da conhecida união NUTS PrimeTime. Club id: 4663296. O
-      clube é administrado pela PokerDealsHub, o que garante sua segurança e um atendimento ao cliente de altíssimo
-      nível 24/7.</p>
+      <p>Oferta de poker no clube Illuminator, que faz parte da conhecida união NUTS PrimeTime. O clube é administrado
+      pela PokerDealsHub, o que garante sua segurança e um atendimento ao cliente de altíssimo nível 24/7.</p>
 
 
       <h3>Sobre a união</h3>
@@ -272,7 +268,7 @@ i18n:
         <li><strong>Rakeback dinâmico até 70%</strong> O rakeback depende do seu volume de rake semanal.</li>
         <li><strong>Rakeback fixo 35%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar para o dinâmico.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   fr:
     name: Offre dans l'union NUTS PrimeTime sur PPPoker
     description: >-
@@ -282,8 +278,8 @@ i18n:
     body: >-
       <h3>Description</h3>
 
-      <p>Offre de poker dans le club Illuminator, qui fait partie de la célèbre union NUTS PrimeTime. Club id : 4663296.
-      Le club est géré par PokerDealsHub, ce qui garantit votre sécurité et un service client haut de gamme 24/7.</p>
+      <p>Offre de poker dans le club Illuminator, qui fait partie de la célèbre union NUTS PrimeTime. Le club est géré
+      par PokerDealsHub, ce qui garantit votre sécurité et un service client haut de gamme 24/7.</p>
 
 
       <h3>À propos de l'union</h3>
@@ -304,7 +300,7 @@ i18n:
         <li><strong>Rakeback dynamique jusqu'à 70%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
         <li><strong>Rakeback fixe 35%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer au dynamique plus tard.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   tr:
     name: PPPoker'da NUTS PrimeTime birliğinde anlaşma
     description: Popüler NUTS PrimeTime birliğinde mükemmel rakeback'li PDH anlaşması. Geniş disiplin ve limit seçeneği, oyun 24/7.
@@ -312,8 +308,8 @@ i18n:
     body: >-
       <h3>Açıklama</h3>
 
-      <p>Ünlü NUTS PrimeTime birliğinin parçası olan Illuminator kulübünde poker anlaşması. Club id: 4663296. Kulüp
-      PokerDealsHub tarafından yönetilir; bu da güvenliğinizi ve 24/7 üst düzey müşteri hizmetini garanti eder.</p>
+      <p>Ünlü NUTS PrimeTime birliğinin parçası olan Illuminator kulübünde poker anlaşması. Kulüp PokerDealsHub
+      tarafından yönetilir; bu da güvenliğinizi ve 24/7 üst düzey müşteri hizmetini garanti eder.</p>
 
 
       <h3>Birlik hakkında</h3>
@@ -333,7 +329,7 @@ i18n:
         <li><strong>%70'e kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
         <li><strong>%35 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   he:
     name: דיל באיחוד NUTS PrimeTime ב-PPPoker
     description: >-
@@ -343,8 +339,8 @@ i18n:
     body: >-
       <h3>תיאור</h3>
 
-      <p>דיל פוקר במועדון Illuminator, החבר באיחוד הידוע NUTS PrimeTime. Club id: 4663296. המועדון מנוהל על ידי
-      PokerDealsHub, מה שמבטיח לכם ביטחון ושירות לקוחות ברמה הגבוהה ביותר 24/7.</p>
+      <p>דיל פוקר במועדון Illuminator, החבר באיחוד הידוע NUTS PrimeTime. המועדון מנוהל על ידי PokerDealsHub, מה שמבטיח
+      לכם ביטחון ושירות לקוחות ברמה הגבוהה ביותר 24/7.</p>
 
 
       <h3>על האיחוד</h3>
@@ -364,7 +360,7 @@ i18n:
           <li><strong>רייקבק דינמי עד 70%</strong> הרייקבק תלוי בנפח הרייק השבועי שלך.</li>
           <li><strong>רייקבק קבוע 35%</strong> התחילו לשחק עם יתרון מיד עם ההרשמה. בהמשך תוכלו לעבור למסלול הדינמי.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   ar:
     name: صفقة في اتحاد NUTS PrimeTime على PPPoker
     description: >-
@@ -374,8 +370,8 @@ i18n:
     body: >-
       <h3>الوصف</h3>
 
-      <p>صفقة بوكر في نادي Illuminator، العضو في اتحاد NUTS PrimeTime المعروف. Club id: 4663296. النادي تحت إدارة
-      PokerDealsHub، ما يضمن أمانك وخدمة عملاء من أعلى مستوى على مدار الساعة.</p>
+      <p>صفقة بوكر في نادي Illuminator، العضو في اتحاد NUTS PrimeTime المعروف. النادي تحت إدارة PokerDealsHub، ما يضمن
+      أمانك وخدمة عملاء من أعلى مستوى على مدار الساعة.</p>
 
 
       <h3>عن الاتحاد</h3>
@@ -395,7 +391,7 @@ i18n:
           <li><strong>ريكباك ديناميكي يصل إلى 70%</strong> يعتمد الريكباك على حجم الريك الأسبوعي لديك.</li>
           <li><strong>ريكباك ثابت 35%</strong> ابدأ اللعب بميزة فور التسجيل. ويمكنك لاحقًا الانتقال إلى الخيار الديناميكي.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   id:
     name: Deal di union NUTS PrimeTime di PPPoker
     description: >-
@@ -405,8 +401,8 @@ i18n:
     body: >-
       <h3>Deskripsi</h3>
 
-      <p>Deal poker di klub Illuminator, yang tergabung dalam union ternama NUTS PrimeTime. Club id: 4663296. Klub ini
-      dikelola oleh PokerDealsHub, yang menjamin keamanan Anda dan layanan pelanggan kelas atas 24/7.</p>
+      <p>Deal poker di klub Illuminator, yang tergabung dalam union ternama NUTS PrimeTime. Klub ini dikelola oleh
+      PokerDealsHub, yang menjamin keamanan Anda dan layanan pelanggan kelas atas 24/7.</p>
 
 
       <h3>Tentang Union</h3>
@@ -426,7 +422,7 @@ i18n:
           <li><strong>Rakeback dinamis hingga 70%</strong> Rakeback bergantung pada volume rake mingguan Anda.</li>
           <li><strong>Rakeback tetap 35%</strong> Mulailah bermain dengan keuntungan langsung setelah mendaftar. Nanti Anda bisa beralih ke opsi dinamis.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   vi:
     name: Kèo tại liên minh NUTS PrimeTime trên PPPoker
     description: >-
@@ -436,9 +432,8 @@ i18n:
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Kèo poker tại câu lạc bộ Illuminator, thuộc liên minh nổi tiếng NUTS PrimeTime. Id câu lạc bộ: 4663296. Câu lạc
-      bộ do PokerDealsHub điều hành, đảm bảo an toàn cho bạn cùng dịch vụ chăm sóc khách hàng đẳng cấp hàng đầu
-      24/7.</p>
+      <p>Kèo poker tại câu lạc bộ Illuminator, thuộc liên minh nổi tiếng NUTS PrimeTime. Câu lạc bộ do PokerDealsHub
+      điều hành, đảm bảo an toàn cho bạn cùng dịch vụ chăm sóc khách hàng đẳng cấp hàng đầu 24/7.</p>
 
 
       <h3>Về liên minh</h3>
@@ -458,7 +453,7 @@ i18n:
         <li><strong>Rakeback động lên đến 70%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
         <li><strong>Rakeback cố định 35%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   fil:
     name: Deal sa union na NUTS PrimeTime sa PPPoker
     description: >-
@@ -468,9 +463,8 @@ i18n:
     body: >-
       <h3>Paglalarawan</h3>
 
-      <p>Poker deal sa club na Illuminator, na bahagi ng kilalang union na NUTS PrimeTime. Club id: 4663296.
-      Pinamamahalaan ang club ng PokerDealsHub, na nagbibigay-garantiya sa iyong seguridad at top-level na customer
-      service 24/7.</p>
+      <p>Poker deal sa club na Illuminator, na bahagi ng kilalang union na NUTS PrimeTime. Pinamamahalaan ang club ng
+      PokerDealsHub, na nagbibigay-garantiya sa iyong seguridad at top-level na customer service 24/7.</p>
 
 
       <h3>Tungkol sa Union</h3>
@@ -490,7 +484,7 @@ i18n:
           <li><strong>Dynamic na rakeback hanggang 70%</strong> Nakadepende ang rakeback sa lingguhang rake volume mo.</li>
           <li><strong>Fixed na rakeback 35%</strong> Magsimulang maglaro nang may bentahe agad pagkatapos mag-register. Maaari kang lumipat sa dynamic na opsyon sa bandang huli.</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
   th:
     name: ดีลในยูเนียน NUTS PrimeTime บน PPPoker
     description: >-
@@ -501,8 +495,8 @@ i18n:
       <h3>รายละเอียด</h3>
 
 
-      <p>ดีลโป๊กเกอร์ในคลับ Illuminator ซึ่งเป็นสมาชิกของยูเนียนชื่อดัง NUTS PrimeTime Club id: 4663296
-      คลับอยู่ภายใต้การบริหารของ PokerDealsHub จึงรับประกันความปลอดภัยของคุณและบริการลูกค้าระดับสูงสุดตลอด 24/7</p>
+      <p>ดีลโป๊กเกอร์ในคลับ Illuminator ซึ่งเป็นสมาชิกของยูเนียนชื่อดัง NUTS PrimeTime คลับอยู่ภายใต้การบริหารของ
+      PokerDealsHub จึงรับประกันความปลอดภัยของคุณและบริการลูกค้าระดับสูงสุดตลอด 24/7</p>
 
 
 
@@ -528,12 +522,12 @@ i18n:
         <li><strong>เรคแบ็กแบบไดนามิกสูงสุด 70%</strong> เรคแบ็กขึ้นอยู่กับปริมาณเรครายสัปดาห์</li>
         <li><strong>เรคแบ็กแบบคงที่ 35%</strong> รับโอกาสเริ่มเล่นแบบได้เปรียบทันทีหลังจากลงทะเบียน ภายหลังสามารถเปลี่ยนไปใช้แบบไดนามิกได้</li>
       </ul>
-    srcHash: 89881dc14ead
+    srcHash: 1e5e51eaafa0
 body: >-
   <h3>Описание</h3>
 
-  <p>Покерная сделка в клубе Illuminator, который состоит в известном союзе NUTS PrimeTime. Club id: 4663296. Клуб под
-  управлением PokerDealsHub, что гарантирует вашу безопасность и клиентский сервис высшего уровня 24/7.</p>
+  <p>Покерная сделка в клубе Illuminator, который состоит в известном союзе NUTS PrimeTime. Клуб под управлением
+  PokerDealsHub, что гарантирует вашу безопасность и клиентский сервис высшего уровня 24/7.</p>
 
 
   <h3>О союзе</h3>

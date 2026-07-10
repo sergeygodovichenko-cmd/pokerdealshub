@@ -40,7 +40,7 @@ i18n:
     body: >-
       <h3>Description</h3>
 
-      <p>Poker deal in the PDH Dorado club (id: 4693054), which is part of the well-known Brazilian union El Dorado.</p>
+      <p>Poker deal in the PDH Dorado club, which is part of the well-known Brazilian union El Dorado.</p>
 
       <p>The club is managed by PokerDealsHub, ensuring transparent and fair conditions as well as top-level customer
       service 24/7.</p>
@@ -67,7 +67,7 @@ i18n:
         <li><strong>Dynamic rakeback up to 70%</strong> — The rakeback rate depends on your weekly rake volume.</li>
         <li><strong>Fixed rakeback 35%</strong> — Get started with a fixed rakeback right away, and switch to the dynamic option later if you prefer.</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   es:
     name: Oferta en la unión El Dorado en PPPoker
     description: >-
@@ -77,8 +77,7 @@ i18n:
     body: >-
       <h3>Descripción</h3>
 
-      <p>Oferta de póker en el club PDH Dorado (id del club: 4693054), que forma parte de la conocida unión brasileña El
-      Dorado.</p>
+      <p>Oferta de póker en el club PDH Dorado, que forma parte de la conocida unión brasileña El Dorado.</p>
 
       <p>El club está gestionado por PokerDealsHub, lo que garantiza condiciones transparentes y justas y un servicio al
       cliente de primer nivel 24/7.</p>
@@ -105,7 +104,7 @@ i18n:
         <li><strong>Rakeback dinámico hasta 70%</strong> El rakeback depende de tu volumen de rake semanal.</li>
         <li><strong>Rakeback fijo 35%</strong> Empieza a jugar con ventaja nada más registrarte. Más adelante puedes pasarte al dinámico.</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   uz:
     name: PPPoker’dagi El Dorado ittifoqida bitim
     description: >-
@@ -115,8 +114,7 @@ i18n:
     body: >-
       <h3>Tavsif</h3>
 
-      <p>Mashhur braziliyalik El Dorado ittifoqi tarkibiga kiruvchi PDH Dorado klubidagi (klub ID: 4693054) poker
-      bitimi.</p>
+      <p>Mashhur braziliyalik El Dorado ittifoqi tarkibiga kiruvchi PDH Dorado klubidagi poker bitimi.</p>
 
       <p>Klub PokerDealsHub boshqaruvida boʻlib, bu shaffof va halol shartlar hamda eng yuqori darajadagi 24/7 mijozlar
       xizmatini kafolatlaydi.</p>
@@ -143,7 +141,7 @@ i18n:
         <li><strong>70% gacha dinamik reyk-bek</strong> — reyk-bek haftalik reyk hajmiga bogʻliq.</li>
         <li><strong>Qatʼiy reyk-bek 35%</strong> — roʻyxatdan oʻtganingizdan soʻng darhol ustunlik bilan oʻynash imkoniyatiga ega boʻling. Keyinchalik dinamik modelga oʻtish mumkin.</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   uk:
     name: Угода в союзі El Dorado на PPPoker
     description: >-
@@ -154,8 +152,7 @@ i18n:
       <h3>Опис</h3>
 
 
-      <p>Покерна угода в клубі PDH Dorado (id клубу: 4693054), який входить до відомого бразильського союзу El
-      Dorado.</p>
+      <p>Покерна угода в клубі PDH Dorado, який входить до відомого бразильського союзу El Dorado.</p>
 
 
       <p>Клуб під управлінням PokerDealsHub, що гарантує прозорі чесні умови та клієнтський сервіс найвищого рівня
@@ -190,7 +187,7 @@ i18n:
         <li><strong>Динамічний рейкбек до 70%</strong> Рейкбек залежить від тижневого обсягу рейку.</li>
         <li><strong>Фіксований рейкбек 35%</strong> Отримайте можливість почати гру з перевагою одразу після реєстрації. Згодом можна перейти на динамічний.</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   it:
     name: Offerta nell'unione El Dorado su PPPoker
     description: >-
@@ -201,8 +198,7 @@ i18n:
       <h3>Descrizione</h3>
 
 
-      <p>Offerta di poker nel club PDH Dorado (id club: 4693054), che fa parte della nota unione brasiliana El
-      Dorado.</p>
+      <p>Offerta di poker nel club PDH Dorado, che fa parte della nota unione brasiliana El Dorado.</p>
 
 
       <p>Il club è gestito da PokerDealsHub, il che garantisce condizioni trasparenti e oneste oltre a un servizio
@@ -237,7 +233,7 @@ i18n:
         <li><strong>Rakeback dinamico fino al 70%</strong> Il rakeback dipende dal volume settimanale di rake.</li>
         <li><strong>Rakeback fisso 35%</strong> Inizia a giocare con un vantaggio subito dopo la registrazione. In seguito puoi passare a quello dinamico.</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   de:
     name: Deal in der Union El Dorado auf PPPoker
     description: >-
@@ -248,7 +244,7 @@ i18n:
       <h3>Beschreibung</h3>
 
 
-      <p>Poker-Deal im Club PDH Dorado (Club-ID: 4693054), der zur bekannten brasilianischen Union El Dorado gehört.</p>
+      <p>Poker-Deal im Club PDH Dorado, der zur bekannten brasilianischen Union El Dorado gehört.</p>
 
 
       <p>Der Club wird von PokerDealsHub verwaltet, was transparente, faire Bedingungen und Kundenservice auf höchstem
@@ -283,7 +279,7 @@ i18n:
         <li><strong>Dynamischer Rakeback bis zu 70%</strong> Der Rakeback hängt vom wöchentlichen Rake-Volumen ab.</li>
         <li><strong>Fester Rakeback 35%</strong> Starte direkt nach der Registrierung mit einem Vorteil ins Spiel. Später kannst du auf das dynamische Modell wechseln.</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   pt:
     name: Oferta na união El Dorado no PPPoker
     description: >-
@@ -293,8 +289,7 @@ i18n:
     body: >-
       <h3>Descrição</h3>
 
-      <p>Oferta de poker no clube PDH Dorado (id do clube: 4693054), que faz parte da conhecida união brasileira El
-      Dorado.</p>
+      <p>Oferta de poker no clube PDH Dorado, que faz parte da conhecida união brasileira El Dorado.</p>
 
       <p>O clube é administrado pela PokerDealsHub, o que garante condições transparentes e justas e um atendimento ao
       cliente de altíssimo nível 24/7.</p>
@@ -321,7 +316,7 @@ i18n:
         <li><strong>Rakeback dinâmico até 70%</strong> O rakeback depende do seu volume de rake semanal.</li>
         <li><strong>Rakeback fixo 35%</strong> Comece a jogar com vantagem logo após o cadastro. Depois você pode migrar para o dinâmico.</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   fr:
     name: Offre dans l'union El Dorado sur PPPoker
     description: >-
@@ -331,8 +326,7 @@ i18n:
     body: >-
       <h3>Description</h3>
 
-      <p>Offre de poker dans le club PDH Dorado (id du club : 4693054), qui fait partie de la célèbre union brésilienne
-      El Dorado.</p>
+      <p>Offre de poker dans le club PDH Dorado, qui fait partie de la célèbre union brésilienne El Dorado.</p>
 
       <p>Le club est géré par PokerDealsHub, ce qui garantit des conditions transparentes et équitables ainsi qu'un
       service client haut de gamme 24/7.</p>
@@ -359,7 +353,7 @@ i18n:
         <li><strong>Rakeback dynamique jusqu'à 70%</strong> Le rakeback dépend de votre volume de rake hebdomadaire.</li>
         <li><strong>Rakeback fixe 35%</strong> Commencez à jouer avec un avantage dès l'inscription. Vous pourrez passer au dynamique plus tard.</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   tr:
     name: PPPoker'da El Dorado birliğinde anlaşma
     description: >-
@@ -369,7 +363,7 @@ i18n:
     body: >-
       <h3>Açıklama</h3>
 
-      <p>Ünlü Brezilya birliği El Dorado'nun parçası olan PDH Dorado kulübünde (kulüp id: 4693054) poker anlaşması.</p>
+      <p>Ünlü Brezilya birliği El Dorado'nun parçası olan PDH Dorado kulübünde poker anlaşması.</p>
 
       <p>Kulüp PokerDealsHub tarafından yönetilir; bu da şeffaf ve adil koşulları ve 24/7 üst düzey müşteri hizmetini
       garanti eder.</p>
@@ -396,7 +390,7 @@ i18n:
         <li><strong>%70'e kadar dinamik rakeback</strong> Rakeback haftalık rake hacminize bağlıdır.</li>
         <li><strong>%35 sabit rakeback</strong> Kaydolur olmaz avantajla oynamaya başlayın. Daha sonra dinamiğe geçebilirsiniz.</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   he:
     name: דיל באיחוד El Dorado ב-PPPoker
     description: >-
@@ -406,7 +400,7 @@ i18n:
     body: >-
       <h3>תיאור</h3>
 
-      <p>דיל פוקר במועדון PDH Dorado (id מועדון: 4693054), החבר באיחוד הברזילאי הידוע El Dorado.</p>
+      <p>דיל פוקר במועדון PDH Dorado, החבר באיחוד הברזילאי הידוע El Dorado.</p>
 
       <p>המועדון מנוהל על ידי PokerDealsHub, מה שמבטיח תנאים שקופים והוגנים ושירות לקוחות ברמה הגבוהה ביותר 24/7.</p>
 
@@ -433,7 +427,7 @@ i18n:
       לדינמי.</li>
 
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   ar:
     name: صفقة في اتحاد El Dorado على PPPoker
     description: >-
@@ -443,7 +437,7 @@ i18n:
     body: >-
       <h3>الوصف</h3>
 
-      <p>صفقة بوكر في نادي PDH Dorado (معرّف النادي: 4693054)، وهو جزء من الاتحاد البرازيلي الشهير El Dorado.</p>
+      <p>صفقة بوكر في نادي PDH Dorado، وهو جزء من الاتحاد البرازيلي الشهير El Dorado.</p>
 
       <p>يُدار النادي من قبل PokerDealsHub، ما يضمن شروطاً شفافة وعادلة وخدمة عملاء على أعلى مستوى على مدار الساعة طوال
       أيام الأسبوع.</p>
@@ -472,7 +466,7 @@ i18n:
       الديناميكي.</li>
 
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   id:
     name: Deal di union El Dorado pada PPPoker
     description: >-
@@ -482,8 +476,7 @@ i18n:
     body: >-
       <h3>Deskripsi</h3>
 
-      <p>Deal poker di club PDH Dorado (id club: 4693054), yang merupakan bagian dari union Brasil ternama El
-      Dorado.</p>
+      <p>Deal poker di club PDH Dorado, yang merupakan bagian dari union Brasil ternama El Dorado.</p>
 
       <p>Club ini dikelola oleh PokerDealsHub, yang menjamin syarat yang transparan dan adil serta layanan pelanggan
       kelas atas 24/7.</p>
@@ -512,7 +505,7 @@ i18n:
       mendaftar. Nantinya Anda bisa beralih ke yang dinamis.</li>
 
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   vi:
     name: Kèo tại liên minh El Dorado trên PPPoker
     description: >-
@@ -522,8 +515,7 @@ i18n:
     body: >-
       <h3>Mô tả</h3>
 
-      <p>Kèo poker tại câu lạc bộ PDH Dorado (id câu lạc bộ: 4693054), thuộc liên minh nổi tiếng của Brazil là El
-      Dorado.</p>
+      <p>Kèo poker tại câu lạc bộ PDH Dorado, thuộc liên minh nổi tiếng của Brazil là El Dorado.</p>
 
       <p>Câu lạc bộ do PokerDealsHub điều hành, đảm bảo điều kiện minh bạch, công bằng và dịch vụ chăm sóc khách hàng
       đẳng cấp hàng đầu 24/7.</p>
@@ -550,7 +542,7 @@ i18n:
         <li><strong>Rakeback động lên đến 70%</strong> Rakeback phụ thuộc vào tổng rake trong tuần.</li>
         <li><strong>Rakeback cố định 35%</strong> Bắt đầu chơi với lợi thế ngay sau khi đăng ký. Về sau bạn có thể chuyển sang phương án động.</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   fil:
     name: Deal sa union na El Dorado sa PPPoker
     description: >-
@@ -560,7 +552,7 @@ i18n:
     body: >-
       <h3>Paglalarawan</h3>
 
-      <p>Poker deal sa club na PDH Dorado (id ng club: 4693054), na bahagi ng kilalang Brazilian union na El Dorado.</p>
+      <p>Poker deal sa club na PDH Dorado, na bahagi ng kilalang Brazilian union na El Dorado.</p>
 
       <p>Pinamamahalaan ang club ng PokerDealsHub, na tumitiyak ng transparent at patas na mga kondisyon pati na ang
       customer service na nasa pinakamataas na antas 24/7.</p>
@@ -589,7 +581,7 @@ i18n:
       kaagad pagkatapos magrehistro. Maaari kang lumipat sa dynamic mamaya.</li>
 
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
   th:
     name: ดีลในยูเนียน El Dorado บน PPPoker
     description: >-
@@ -600,7 +592,7 @@ i18n:
       <h3>รายละเอียด</h3>
 
 
-      <p>ดีลโป๊กเกอร์ในคลับ PDH Dorado (id คลับ: 4693054) ซึ่งอยู่ในยูเนียนบราซิลชื่อดังอย่าง El Dorado</p>
+      <p>ดีลโป๊กเกอร์ในคลับ PDH Dorado ซึ่งอยู่ในยูเนียนบราซิลชื่อดังอย่าง El Dorado</p>
 
 
       <p>คลับบริหารงานโดย PokerDealsHub จึงรับประกันเงื่อนไขที่โปร่งใสยุติธรรมและบริการลูกค้าระดับสูงสุดตลอด 24/7</p>
@@ -634,12 +626,11 @@ i18n:
         <li><strong>เรคแบ็กแบบไดนามิกสูงสุด 70%</strong> เรคแบ็กขึ้นอยู่กับปริมาณเรครายสัปดาห์</li>
         <li><strong>เรคแบ็กแบบคงที่ 35%</strong> รับโอกาสในการเริ่มเล่นด้วยความได้เปรียบทันทีหลังจากลงทะเบียน และภายหลังสามารถเปลี่ยนไปใช้แบบไดนามิกได้</li>
       </ul>
-    srcHash: e05756aa0081
+    srcHash: 4d51e0008cae
 body: >-
   <h3>Описание</h3>
 
-  <p>Покерная сделка в клубе PDH Dorado (id клуба: 4693054), который состоит в известном бразильском союзе El
-  Dorado.</p>
+  <p>Покерная сделка в клубе PDH Dorado, который состоит в известном бразильском союзе El Dorado.</p>
 
   <p>Клуб под управлением PokerDealsHub, что гарантирует прозрачные честные условия и клиентский сервис высшего уровня
   24/7.</p>
