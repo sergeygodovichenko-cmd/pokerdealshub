@@ -53,7 +53,7 @@ body: >-
   <p>Рейкбэк до 40%. Членство в клубе без KYC — отправлять документы не нужно. Все условия проходят внутреннюю проверку
   PokerDealsHub.</p>
 
-  <p>Чтобы получить ID клуба и ссылку для регистрации, напишите менеджеру PDH — мы на связи 24/7.</p>
+  <p>Чтобы получить ID клуба, напишите менеджеру PDH — мы на связи 24/7.</p>
 i18n:
   en:
     name: TMT Union Deal on ClubGG
@@ -84,8 +84,8 @@ i18n:
       <p>Rakeback up to 40%. Club membership is KYC-free — no documents required. All terms undergo internal
       verification by PokerDealsHub.</p>
 
-      <p>To get the club ID and your registration link, message a PDH manager — we're online 24/7.</p>
-    srcHash: aff2fef21921
+      <p>To get the club ID, message the PDH manager — we're online 24/7.</p>
+    srcHash: 328e914a0a94
   uz:
     name: ClubGG'dagi TMT ittifoqi bitimi
     description: >-
@@ -115,8 +115,8 @@ i18n:
       <p>40% gacha rakebek. Klubga a'zolik KYC-siz — hujjat yuborish shart emas. Barcha shartlar PokerDealsHub ichki
       tekshiruvidan o'tadi.</p>
 
-      <p>Klub ID va ro'yxatdan o'tish havolasini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
-    srcHash: aff2fef21921
+      <p>Klub ID sini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
+    srcHash: 328e914a0a94
   uk:
     name: Угода в союзі TMT на ClubGG
     description: >-
@@ -146,8 +146,8 @@ i18n:
       <p>Рейкбек до 40%. Членство в клубі без KYC — надсилати документи не потрібно. Усі умови проходять внутрішню
       перевірку PokerDealsHub.</p>
 
-      <p>Щоб отримати ID клубу та посилання для реєстрації, напишіть менеджеру PDH — ми на зв'язку 24/7.</p>
-    srcHash: aff2fef21921
+      <p>Щоб отримати ID клубу, напишіть менеджеру PDH — ми на зв'язку 24/7.</p>
+    srcHash: 328e914a0a94
   it:
     name: Deal nella union TMT su ClubGG
     description: >-
@@ -177,8 +177,8 @@ i18n:
       <p>Rakeback fino al 40%. L'iscrizione al club è senza KYC — nessun documento richiesto. Tutte le condizioni
       vengono verificate internamente da PokerDealsHub.</p>
 
-      <p>Per ottenere l'ID del club e il tuo link di registrazione, scrivi a un manager PDH — siamo online 24/7.</p>
-    srcHash: aff2fef21921
+      <p>Per ottenere l'ID del club, scrivi al manager PDH — siamo online 24/7.</p>
+    srcHash: 328e914a0a94
   de:
     name: Deal in der TMT-Union auf ClubGG
     description: >-
@@ -208,9 +208,8 @@ i18n:
       <p>Rakeback bis zu 40 %. Die Club-Mitgliedschaft ist KYC-frei — keine Dokumente erforderlich. Alle Konditionen
       werden intern von PokerDealsHub geprüft.</p>
 
-      <p>Um die Club-ID und deinen Registrierungslink zu erhalten, schreibe einem PDH-Manager — wir sind rund um die Uhr
-      erreichbar.</p>
-    srcHash: aff2fef21921
+      <p>Um die Club-ID zu erhalten, schreibe dem PDH-Manager — wir sind 24/7 erreichbar.</p>
+    srcHash: 328e914a0a94
   es:
     name: Oferta en la unión TMT en ClubGG
     description: >-
@@ -240,8 +239,8 @@ i18n:
       <p>Rakeback de hasta el 40%. La membresía del club es sin KYC: no se requieren documentos. Todas las condiciones
       pasan una verificación interna de PokerDealsHub.</p>
 
-      <p>Para obtener el ID del club y tu enlace de registro, escribe a un mánager de PDH: estamos disponibles 24/7.</p>
-    srcHash: aff2fef21921
+      <p>Para obtener el ID del club, escribe al manager de PDH: estamos disponibles 24/7.</p>
+    srcHash: 328e914a0a94
   pt:
     name: Acordo na união TMT no ClubGG
     description: >-
@@ -271,8 +270,8 @@ i18n:
       <p>Rakeback de até 40%. A adesão ao clube é sem KYC — não são necessários documentos. Todas as condições passam
       por verificação interna da PokerDealsHub.</p>
 
-      <p>Para obter o ID do clube e o seu link de registro, fale com um gerente da PDH — estamos online 24/7.</p>
-    srcHash: aff2fef21921
+      <p>Para obter o ID do clube, escreva ao gestor da PDH — estamos disponíveis 24/7.</p>
+    srcHash: 328e914a0a94
   fr:
     name: Deal dans l'union TMT sur ClubGG
     description: >-
@@ -302,9 +301,8 @@ i18n:
       <p>Rakeback jusqu'à 40 %. L'adhésion au club est sans KYC — aucun document requis. Toutes les conditions font
       l'objet d'une vérification interne par PokerDealsHub.</p>
 
-      <p>Pour obtenir l'ID du club et votre lien d'inscription, écrivez à un manager PDH — nous sommes disponibles
-      24/7.</p>
-    srcHash: aff2fef21921
+      <p>Pour obtenir l'ID du club, écrivez au manager PDH — nous sommes disponibles 24/7.</p>
+    srcHash: 328e914a0a94
   tr:
     name: ClubGG'de TMT birliğinde anlaşma
     description: >-
@@ -334,8 +332,8 @@ i18n:
       <p>%40'a varan rakeback. Kulüp üyeliği KYC gerektirmez — belge göndermeye gerek yoktur. Tüm koşullar PokerDealsHub
       tarafından dahili olarak doğrulanır.</p>
 
-      <p>Kulüp ID'sini ve kayıt bağlantınızı almak için bir PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
-    srcHash: aff2fef21921
+      <p>Kulüp ID'sini almak için PDH yöneticisine yazın — 7/24 buradayız.</p>
+    srcHash: 328e914a0a94
   he:
     name: עסקה באיגוד TMT ב-ClubGG
     description: >-
@@ -363,8 +361,8 @@ i18n:
       <p>רייקבק עד 40%. החברות במועדון היא ללא KYC — אין צורך לשלוח מסמכים. כל התנאים עוברים אימות פנימי של
       PokerDealsHub.</p>
 
-      <p>כדי לקבל את מזהה המועדון ואת קישור ההרשמה, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
-    srcHash: aff2fef21921
+      <p>כדי לקבל את מזהה המועדון, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
+    srcHash: 328e914a0a94
   ar:
     name: صفقة في اتحاد TMT على ClubGG
     description: >-
@@ -392,8 +390,8 @@ i18n:
       <p>ريكباك يصل إلى 40%. عضوية النادي بدون KYC — لا حاجة لإرسال مستندات. تخضع جميع الشروط لتحقق داخلي من
       PokerDealsHub.</p>
 
-      <p>للحصول على معرّف النادي ورابط التسجيل، راسل مدير PDH — نحن متواجدون على مدار الساعة طوال الأسبوع.</p>
-    srcHash: aff2fef21921
+      <p>للحصول على معرّف النادي، راسل مدير PDH — نحن متاحون 24/7.</p>
+    srcHash: 328e914a0a94
   id:
     name: Deal di union TMT di ClubGG
     description: >-
@@ -423,8 +421,8 @@ i18n:
       <p>Rakeback hingga 40%. Keanggotaan klub tanpa KYC — tidak perlu mengirim dokumen. Semua ketentuan menjalani
       verifikasi internal oleh PokerDealsHub.</p>
 
-      <p>Untuk mendapatkan ID klub dan tautan pendaftaran Anda, hubungi manajer PDH — kami online 24/7.</p>
-    srcHash: aff2fef21921
+      <p>Untuk mendapatkan ID klub, hubungi manajer PDH — kami online 24/7.</p>
+    srcHash: 328e914a0a94
   vi:
     name: Ưu đãi tại liên minh TMT trên ClubGG
     description: >-
@@ -454,8 +452,8 @@ i18n:
       <p>Rakeback lên đến 40%. Tư cách thành viên câu lạc bộ không cần KYC — không yêu cầu giấy tờ. Mọi điều kiện đều
       được PokerDealsHub xác minh nội bộ.</p>
 
-      <p>Để nhận ID câu lạc bộ và liên kết đăng ký, hãy nhắn cho quản lý PDH — chúng tôi trực tuyến 24/7.</p>
-    srcHash: aff2fef21921
+      <p>Để nhận ID câu lạc bộ, hãy nhắn cho quản lý PDH — chúng tôi trực tuyến 24/7.</p>
+    srcHash: 328e914a0a94
   fil:
     name: Deal sa TMT union sa ClubGG
     description: >-
@@ -485,9 +483,8 @@ i18n:
       <p>Rakeback hanggang 40%. Ang membership sa club ay walang KYC — hindi kailangan ng dokumento. Lahat ng kondisyon
       ay dumadaan sa internal na verification ng PokerDealsHub.</p>
 
-      <p>Upang makuha ang club ID at ang iyong registration link, mag-message sa isang PDH manager — online kami
-      24/7.</p>
-    srcHash: aff2fef21921
+      <p>Para makuha ang club ID, mag-message sa PDH manager — online kami 24/7.</p>
+    srcHash: 328e914a0a94
   th:
     name: ดีลในยูเนียน TMT บน ClubGG
     description: >-
@@ -525,5 +522,5 @@ i18n:
       PokerDealsHub</p>
 
 
-      <p>หากต้องการรับ ID คลับและลิงก์สำหรับสมัคร ทักหาผู้จัดการ PDH ได้เลย — เราพร้อมให้บริการตลอด 24/7</p>
-    srcHash: aff2fef21921
+      <p>หากต้องการรับ ID คลับ ทักหาผู้จัดการ PDH ได้เลย — เราพร้อมให้บริการ 24/7</p>
+    srcHash: 328e914a0a94

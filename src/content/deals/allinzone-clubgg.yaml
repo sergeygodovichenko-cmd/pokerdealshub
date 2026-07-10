@@ -51,7 +51,8 @@ body: >-
   <p>Рейкбэк до 50%. Членство в клубе без KYC — отправлять документы не нужно. Все условия проходят внутреннюю проверку
   PokerDealsHub.</p>
 
-  <p>Чтобы получить ссылку для регистрации, напишите менеджеру PDH — мы на связи 24/7.</p>
+  <p>Вступить в клуб можно по ID 645895 в приложении ClubGG. Чтобы подключить рейкбэк-сделку, напишите менеджеру PDH —
+  мы на связи 24/7.</p>
 i18n:
   en:
     name: Deal in the Allin Zone union on ClubGG
@@ -79,8 +80,9 @@ i18n:
       <p>Rakeback up to 50%. Club membership is KYC-free — no need to send documents. All terms undergo internal
       verification by PokerDealsHub.</p>
 
-      <p>To get a registration link, message a PDH manager — we're available 24/7.</p>
-    srcHash: 582a46d45485
+      <p>You can join the club with ID 645895 in the ClubGG app. To activate the rakeback deal, message the PDH manager
+      — we're available 24/7.</p>
+    srcHash: 5ac632fb2e8a
   uz:
     name: ClubGG'dagi Allin Zone ittifoqida bitim
     description: >-
@@ -108,8 +110,9 @@ i18n:
       <p>50% gacha reykbek. Klub a'zoligi KYC'siz — hujjatlarni yuborish shart emas. Barcha shartlar PokerDealsHub'ning
       ichki tekshiruvidan o'tadi.</p>
 
-      <p>Ro'yxatdan o'tish havolasini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
-    srcHash: 582a46d45485
+      <p>Klubga ClubGG ilovasida 645895 ID orqali qo‘shilishingiz mumkin. Rakebek bitimini faollashtirish uchun PDH
+      menejeriga yozing — biz 24/7 aloqadamiz.</p>
+    srcHash: 5ac632fb2e8a
   uk:
     name: Угода в союзі Allin Zone на ClubGG
     description: >-
@@ -135,8 +138,9 @@ i18n:
       <p>Рейкбек до 50%. Членство в клубі без KYC — надсилати документи не потрібно. Усі умови проходять внутрішню
       перевірку PokerDealsHub.</p>
 
-      <p>Щоб отримати посилання для реєстрації, напишіть менеджеру PDH — ми на зв'язку 24/7.</p>
-    srcHash: 582a46d45485
+      <p>Приєднатися до клубу можна за ID 645895 у застосунку ClubGG. Щоб підключити рейкбек-угоду, напишіть менеджеру
+      PDH — ми на зв’язку 24/7.</p>
+    srcHash: 5ac632fb2e8a
   it:
     name: Deal nell'unione Allin Zone su ClubGG
     description: >-
@@ -163,8 +167,9 @@ i18n:
       <p>Rakeback fino al 50%. Iscrizione al club senza KYC — non è necessario inviare documenti. Tutte le condizioni
       sono soggette a verifica interna di PokerDealsHub.</p>
 
-      <p>Per ricevere il link di registrazione, scrivi al manager PDH — siamo disponibili 24/7.</p>
-    srcHash: 582a46d45485
+      <p>Puoi entrare nel club con l'ID 645895 nell'app ClubGG. Per attivare il deal di rakeback, scrivi al manager PDH:
+      siamo disponibili 24/7.</p>
+    srcHash: 5ac632fb2e8a
   de:
     name: Deal in der Union Allin Zone auf ClubGG
     description: >-
@@ -192,9 +197,9 @@ i18n:
       <p>Rakeback bis zu 50%. Club-Mitgliedschaft ohne KYC — Sie müssen keine Dokumente einsenden. Alle Konditionen
       werden intern von PokerDealsHub geprüft.</p>
 
-      <p>Um den Registrierungslink zu erhalten, schreiben Sie dem PDH-Manager — wir sind rund um die Uhr (24/7) für Sie
-      da.</p>
-    srcHash: 582a46d45485
+      <p>Dem Club kannst du mit der ID 645895 in der ClubGG-App beitreten. Um den Rakeback-Deal zu aktivieren, schreibe
+      dem PDH-Manager — wir sind 24/7 erreichbar.</p>
+    srcHash: 5ac632fb2e8a
   es:
     name: Acuerdo en la unión Allin Zone en ClubGG
     description: >-
@@ -222,8 +227,9 @@ i18n:
       <p>Rakeback de hasta 50%. Membresía en el club sin KYC: no es necesario enviar documentos. Todas las condiciones
       pasan por la verificación interna de PokerDealsHub.</p>
 
-      <p>Para obtener el enlace de registro, escribe al manager de PDH: estamos disponibles 24/7.</p>
-    srcHash: 582a46d45485
+      <p>Puedes unirte al club con el ID 645895 en la app ClubGG. Para activar el deal de rakeback, escribe al manager
+      de PDH: estamos disponibles 24/7.</p>
+    srcHash: 5ac632fb2e8a
   pt:
     name: Acordo na união Allin Zone no ClubGG
     description: >-
@@ -250,8 +256,9 @@ i18n:
       <p>Rakeback até 50%. Adesão ao clube sem KYC — não é necessário enviar documentos. Todas as condições passam pela
       verificação interna da PokerDealsHub.</p>
 
-      <p>Para receber o link de registo, contacte o gestor da PDH — estamos disponíveis 24/7.</p>
-    srcHash: 582a46d45485
+      <p>Podes entrar no clube com o ID 645895 na app ClubGG. Para ativar o deal de rakeback, escreve ao gestor da PDH —
+      estamos disponíveis 24/7.</p>
+    srcHash: 5ac632fb2e8a
   fr:
     name: Deal dans l'union Allin Zone sur ClubGG
     description: >-
@@ -279,8 +286,9 @@ i18n:
       <p>Rakeback jusqu'à 50%. Adhésion au club sans KYC — aucun document à envoyer. Toutes les conditions font l'objet
       d'une vérification interne par PokerDealsHub.</p>
 
-      <p>Pour obtenir le lien d'inscription, écrivez au manager PDH — nous sommes disponibles 24/7.</p>
-    srcHash: 582a46d45485
+      <p>Vous pouvez rejoindre le club avec l'ID 645895 dans l'application ClubGG. Pour activer le deal de rakeback,
+      écrivez au manager PDH — nous sommes disponibles 24/7.</p>
+    srcHash: 5ac632fb2e8a
   tr:
     name: ClubGG üzerindeki Allin Zone birliğinde anlaşma
     description: >-
@@ -308,8 +316,9 @@ i18n:
       <p>%50'ye varan rakeback. Kulüp üyeliği KYC gerektirmez — belge göndermenize gerek yoktur. Tüm koşullar
       PokerDealsHub'ın iç denetiminden geçer.</p>
 
-      <p>Kayıt bağlantısını almak için PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
-    srcHash: 582a46d45485
+      <p>Kulübe ClubGG uygulamasında 645895 ID ile katılabilirsiniz. Rakeback anlaşmasını etkinleştirmek için PDH
+      yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
+    srcHash: 5ac632fb2e8a
   he:
     name: עסקה באיחוד Allin Zone ב-ClubGG
     description: >-
@@ -335,8 +344,9 @@ i18n:
       <p>רייקבק עד 50%. חברות במועדון ללא KYC — אין צורך לשלוח מסמכים. כל התנאים עוברים בדיקה פנימית של
       PokerDealsHub.</p>
 
-      <p>כדי לקבל קישור להרשמה, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
-    srcHash: 582a46d45485
+      <p>אפשר להצטרף למועדון עם ID 645895 באפליקציית ClubGG. כדי להפעיל את עסקת הרייקבק, כתבו למנהל PDH — אנחנו זמינים
+      24/7.</p>
+    srcHash: 5ac632fb2e8a
   ar:
     name: صفقة في اتحاد Allin Zone على ClubGG
     description: >-
@@ -362,8 +372,9 @@ i18n:
       <p>ريكباك حتى 50%. عضوية النادي دون KYC — لا حاجة لإرسال أي مستندات. تخضع جميع الشروط لتدقيق داخلي من
       PokerDealsHub.</p>
 
-      <p>للحصول على رابط التسجيل، راسل مدير PDH — نحن متواجدون على مدار الساعة طوال أيام الأسبوع.</p>
-    srcHash: 582a46d45485
+      <p>يمكنك الانضمام إلى النادي عبر المعرّف 645895 في تطبيق ClubGG. لتفعيل صفقة الريكباك، راسل مدير PDH — نحن
+      متواجدون على مدار الساعة طوال أيام الأسبوع.</p>
+    srcHash: 5ac632fb2e8a
   id:
     name: Deal di Union Allin Zone di ClubGG
     description: >-
@@ -391,8 +402,9 @@ i18n:
       <p>Rakeback hingga 50%. Keanggotaan klub tanpa KYC — tidak perlu mengirim dokumen. Semua ketentuan melewati
       verifikasi internal PokerDealsHub.</p>
 
-      <p>Untuk mendapatkan tautan pendaftaran, hubungi manajer PDH — kami siap membantu 24/7.</p>
-    srcHash: 582a46d45485
+      <p>Kamu bisa bergabung ke klub dengan ID 645895 di aplikasi ClubGG. Untuk mengaktifkan deal rakeback, hubungi
+      manajer PDH — kami siap 24/7.</p>
+    srcHash: 5ac632fb2e8a
   vi:
     name: Ưu đãi trong liên minh Allin Zone trên ClubGG
     description: >-
@@ -419,8 +431,9 @@ i18n:
       <p>Rakeback lên đến 50%. Thành viên câu lạc bộ không cần KYC — bạn không phải gửi giấy tờ. Mọi điều kiện đều được
       PokerDealsHub kiểm tra nội bộ.</p>
 
-      <p>Để nhận liên kết đăng ký, hãy nhắn cho quản lý PDH — chúng tôi luôn trực tuyến 24/7.</p>
-    srcHash: 582a46d45485
+      <p>Bạn có thể tham gia câu lạc bộ bằng ID 645895 trong ứng dụng ClubGG. Để kích hoạt deal rakeback, hãy nhắn cho
+      quản lý PDH — chúng tôi luôn sẵn sàng 24/7.</p>
+    srcHash: 5ac632fb2e8a
   fil:
     name: Deal sa unyon na Allin Zone sa ClubGG
     description: >-
@@ -448,8 +461,9 @@ i18n:
       <p>Rakeback na hanggang 50%. KYC-free ang membership sa club — hindi na kailangang magpadala ng mga dokumento.
       Lahat ng kondisyon ay dumaraan sa panloob na pagsusuri ng PokerDealsHub.</p>
 
-      <p>Upang makuha ang link para sa pagpaparehistro, mag-message sa manager ng PDH — nasa linya kami 24/7.</p>
-    srcHash: 582a46d45485
+      <p>Maaari kang sumali sa club gamit ang ID 645895 sa ClubGG app. Para i-activate ang rakeback deal, mag-message sa
+      PDH manager — available kami 24/7.</p>
+    srcHash: 5ac632fb2e8a
   th:
     name: ดีลในยูเนียน Allin Zone บน ClubGG
     description: >-
@@ -482,5 +496,6 @@ i18n:
       PokerDealsHub</p>
 
 
-      <p>หากต้องการรับลิงก์สำหรับสมัคร ทักหาผู้จัดการ PDH ได้เลย — เราพร้อมให้บริการตลอด 24/7</p>
-    srcHash: 582a46d45485
+      <p>คุณสามารถเข้าร่วมคลับได้ด้วย ID 645895 ในแอป ClubGG หากต้องการเปิดใช้งานดีลเรกแบ็ก โปรดติดต่อผู้จัดการ PDH —
+      เราพร้อมให้บริการตลอด 24 ชั่วโมงทุกวัน</p>
+    srcHash: 5ac632fb2e8a

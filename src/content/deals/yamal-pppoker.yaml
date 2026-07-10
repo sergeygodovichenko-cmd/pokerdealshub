@@ -52,7 +52,7 @@ body: >-
   <p>Рейкбэк до 70% и фиксированный рейкбэк 35%. Членство в клубе без KYC — отправлять документы не нужно. Все условия
   проходят внутреннюю проверку PokerDealsHub.</p>
 
-  <p>Чтобы получить ID клуба и ссылку для регистрации, напишите менеджеру PDH — мы на связи 24/7.</p>
+  <p>Чтобы получить ID клуба, напишите менеджеру PDH — мы на связи 24/7.</p>
 i18n:
   en:
     name: Yamal Union Deal on PPPoker
@@ -82,8 +82,8 @@ i18n:
       <p>Rakeback up to 70% plus a fixed 35% rakeback. Club membership is KYC-free — no documents required. All terms
       undergo internal verification by PokerDealsHub.</p>
 
-      <p>To get the club ID and your registration link, message a PDH manager — we're online 24/7.</p>
-    srcHash: 2e5d086dcc9c
+      <p>To get the club ID, message the PDH manager — we're online 24/7.</p>
+    srcHash: f7783c230bc0
   uz:
     name: PPPokerdagi Yamal ittifoqida bitim
     description: >-
@@ -113,8 +113,8 @@ i18n:
       <p>70% gacha rakebek va 35% qatʼiy rakebek. Klubga aʼzolik KYC-siz — hujjat yuborish shart emas. Barcha shartlar
       PokerDealsHub ichki tekshiruvidan oʻtadi.</p>
 
-      <p>Klub ID va roʻyxatdan oʻtish havolasini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Klub ID sini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
+    srcHash: f7783c230bc0
   uk:
     name: Угода в союзі Yamal на PPPoker
     description: >-
@@ -143,8 +143,8 @@ i18n:
       <p>Рейкбек до 70% і фіксований рейкбек 35%. Членство в клубі без KYC — надсилати документи не потрібно. Усі умови
       проходять внутрішню перевірку PokerDealsHub.</p>
 
-      <p>Щоб отримати ID клубу та посилання для реєстрації, напишіть менеджеру PDH — ми на звʼязку 24/7.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Щоб отримати ID клубу, напишіть менеджеру PDH — ми на зв'язку 24/7.</p>
+    srcHash: f7783c230bc0
   it:
     name: Offerta nell'unione Yamal su PPPoker
     description: >-
@@ -173,8 +173,8 @@ i18n:
       <p>Rakeback fino al 70% più un rakeback fisso del 35%. L'iscrizione al club è senza KYC — nessun documento
       richiesto. Tutte le condizioni vengono verificate internamente da PokerDealsHub.</p>
 
-      <p>Per ottenere l'ID del club e il tuo link di registrazione, scrivi a un manager PDH — siamo online 24/7.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Per ottenere l'ID del club, scrivi al manager PDH — siamo online 24/7.</p>
+    srcHash: f7783c230bc0
   de:
     name: Deal in der Union Yamal auf PPPoker
     description: >-
@@ -204,9 +204,8 @@ i18n:
       <p>Rakeback bis zu 70 % plus 35 % festes Rakeback. Die Club-Mitgliedschaft ist KYC-frei — keine Dokumente
       erforderlich. Alle Konditionen werden intern von PokerDealsHub geprüft.</p>
 
-      <p>Um die Club-ID und deinen Registrierungslink zu erhalten, schreibe einem PDH-Manager — wir sind rund um die Uhr
-      erreichbar.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Um die Club-ID zu erhalten, schreibe dem PDH-Manager — wir sind 24/7 erreichbar.</p>
+    srcHash: f7783c230bc0
   es:
     name: Oferta en la unión Yamal en PPPoker
     description: >-
@@ -236,8 +235,8 @@ i18n:
       <p>Rakeback de hasta el 70% más un rakeback fijo del 35%. La membresía del club es sin KYC: no se requieren
       documentos. Todas las condiciones pasan una verificación interna de PokerDealsHub.</p>
 
-      <p>Para obtener el ID del club y tu enlace de registro, escribe a un mánager de PDH: estamos disponibles 24/7.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Para obtener el ID del club, escribe al manager de PDH: estamos disponibles 24/7.</p>
+    srcHash: f7783c230bc0
   pt:
     name: Oferta na união Yamal no PPPoker
     description: >-
@@ -266,8 +265,8 @@ i18n:
       <p>Rakeback de até 70% mais um rakeback fixo de 35%. A adesão ao clube é sem KYC — não são necessários documentos.
       Todas as condições passam por verificação interna da PokerDealsHub.</p>
 
-      <p>Para obter o ID do clube e o seu link de registro, fale com um gerente da PDH — estamos online 24/7.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Para obter o ID do clube, escreva ao gestor da PDH — estamos disponíveis 24/7.</p>
+    srcHash: f7783c230bc0
   fr:
     name: Offre dans l'union Yamal sur PPPoker
     description: >-
@@ -297,9 +296,8 @@ i18n:
       <p>Rakeback jusqu'à 70 % plus un rakeback fixe de 35 %. L'adhésion au club est sans KYC — aucun document requis.
       Toutes les conditions font l'objet d'une vérification interne par PokerDealsHub.</p>
 
-      <p>Pour obtenir l'ID du club et votre lien d'inscription, écrivez à un manager PDH — nous sommes disponibles
-      24/7.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Pour obtenir l'ID du club, écrivez au manager PDH — nous sommes disponibles 24/7.</p>
+    srcHash: f7783c230bc0
   tr:
     name: PPPoker'da Yamal birliğinde anlaşma
     description: >-
@@ -329,8 +327,8 @@ i18n:
       <p>%70'e varan rakeback artı %35 sabit rakeback. Kulüp üyeliği KYC gerektirmez — belge göndermeye gerek yoktur.
       Tüm koşullar PokerDealsHub tarafından dahili olarak doğrulanır.</p>
 
-      <p>Kulüp ID'sini ve kayıt bağlantınızı almak için bir PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Kulüp ID'sini almak için PDH yöneticisine yazın — 7/24 buradayız.</p>
+    srcHash: f7783c230bc0
   he:
     name: דיל באיחוד Yamal ב-PPPoker
     description: >-
@@ -358,8 +356,8 @@ i18n:
       <p>רייקבק עד 70% בתוספת רייקבק קבוע של 35%. החברות במועדון היא ללא KYC — אין צורך לשלוח מסמכים. כל התנאים עוברים
       אימות פנימי של PokerDealsHub.</p>
 
-      <p>כדי לקבל את מזהה המועדון ואת קישור ההרשמה שלך, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
-    srcHash: 2e5d086dcc9c
+      <p>כדי לקבל את מזהה המועדון, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
+    srcHash: f7783c230bc0
   ar:
     name: صفقة في اتحاد Yamal على PPPoker
     description: >-
@@ -387,9 +385,8 @@ i18n:
       <p>ريكباك يصل إلى 70% بالإضافة إلى ريكباك ثابت بنسبة 35%. عضوية النادي بدون KYC — لا حاجة لإرسال مستندات. تخضع
       جميع الشروط لتحقق داخلي من PokerDealsHub.</p>
 
-      <p>للحصول على معرّف النادي ورابط التسجيل الخاص بك، راسل مدير PDH — نحن متواجدون على مدار الساعة طوال أيام
-      الأسبوع.</p>
-    srcHash: 2e5d086dcc9c
+      <p>للحصول على معرّف النادي، راسل مدير PDH — نحن متاحون 24/7.</p>
+    srcHash: f7783c230bc0
   id:
     name: Deal di union Yamal pada PPPoker
     description: >-
@@ -418,8 +415,8 @@ i18n:
       <p>Rakeback hingga 70% plus rakeback tetap 35%. Keanggotaan klub tanpa KYC — tidak perlu mengirim dokumen. Semua
       ketentuan menjalani verifikasi internal oleh PokerDealsHub.</p>
 
-      <p>Untuk mendapatkan ID klub dan tautan pendaftaran Anda, hubungi manajer PDH — kami online 24/7.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Untuk mendapatkan ID klub, hubungi manajer PDH — kami online 24/7.</p>
+    srcHash: f7783c230bc0
   vi:
     name: Kèo tại liên minh Yamal trên PPPoker
     description: >-
@@ -448,8 +445,8 @@ i18n:
       <p>Rakeback lên đến 70% cộng thêm rakeback cố định 35%. Tư cách thành viên câu lạc bộ không cần KYC — không yêu
       cầu giấy tờ. Mọi điều kiện đều được PokerDealsHub xác minh nội bộ.</p>
 
-      <p>Để nhận ID câu lạc bộ và liên kết đăng ký của bạn, hãy nhắn cho quản lý PDH — chúng tôi trực tuyến 24/7.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Để nhận ID câu lạc bộ, hãy nhắn cho quản lý PDH — chúng tôi trực tuyến 24/7.</p>
+    srcHash: f7783c230bc0
   fil:
     name: Deal sa union na Yamal sa PPPoker
     description: >-
@@ -480,9 +477,8 @@ i18n:
       <p>Rakeback hanggang 70% kasama ang fixed na 35% rakeback. Ang membership sa club ay walang KYC — hindi kailangan
       ng dokumento. Lahat ng kondisyon ay dumadaan sa internal na verification ng PokerDealsHub.</p>
 
-      <p>Upang makuha ang club ID at ang iyong registration link, mag-message sa isang PDH manager — online kami
-      24/7.</p>
-    srcHash: 2e5d086dcc9c
+      <p>Para makuha ang club ID, mag-message sa PDH manager — online kami 24/7.</p>
+    srcHash: f7783c230bc0
   th:
     name: ดีลในยูเนียน Yamal บน PPPoker
     description: >-
@@ -518,5 +514,5 @@ i18n:
       ทุกเงื่อนไขผ่านการตรวจสอบภายในโดย PokerDealsHub</p>
 
 
-      <p>หากต้องการรับ ID คลับและลิงก์สำหรับลงทะเบียน โปรดติดต่อผู้จัดการ PDH — เราพร้อมให้บริการตลอด 24/7</p>
-    srcHash: 2e5d086dcc9c
+      <p>หากต้องการรับ ID คลับ ทักหาผู้จัดการ PDH ได้เลย — เราพร้อมให้บริการ 24/7</p>
+    srcHash: f7783c230bc0
