@@ -1,0 +1,494 @@
+app: ClubGG
+club: Omaha LD F
+union: Prime Poker Union
+logo: clubgg
+logoimage: /clubGG_logo.webp
+logoalt: ClubGG logo
+format: PLO
+type: Decentralized
+rakeback: 60%
+affiliateLink: https://t.me/pdh_support_bot
+featured: true
+order: 9
+badges:
+  - soft
+  - nonStop
+  - verified
+regions:
+  - cis
+ratings:
+  mtt: 3
+  cash: 4
+  plo: 5
+  nlh: 3
+chipPrice:
+  uah: 1
+name: Сделка в союзе Prime Poker Union на ClubGG
+description: >-
+  Сделка в крупнейшем украинском союзе Prime Poker Union на ClubGG: круглосуточная Омаха, мягкое поле и рейкбэк до 60%.
+  Номинал фишки — 1 гривна.
+geo: Украина
+bonus: ""
+body: >-
+  <h3>Описание</h3>
+
+  <p>Покерная сделка в клубе Omaha LD F, который входит в крупнейший украинский союз Prime Poker Union на ClubGG.</p>
+
+  <p>Клубом занимается PokerDealsHub: прозрачные и честные условия сотрудничества и клиентская поддержка высшего класса
+  в любое время суток.</p>
+
+  <h3>О союзе</h3>
+
+  <p>Prime Poker Union — крупнейший украинский союз на ClubGG, специализирующийся на Омахе. Игры идут круглосуточно,
+  поэтому стол можно найти в любое время дня и ночи.</p>
+
+  <p>Основная дисциплина — Пот-лимит Омаха (PLO). Номинал фишки — 1 гривна (UAH). Доступен широкий диапазон лимитов, а
+  мягкое поле собирает много игроков-любителей.</p>
+
+  <h3>Условия</h3>
+
+  <p>Рейкбэк до 60%. Членство в клубе без KYC — отправлять документы не нужно. Все условия проходят внутреннюю проверку
+  PokerDealsHub.</p>
+
+  <p>Чтобы получить ID клуба, напишите менеджеру PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Prime Poker Union deal on ClubGG
+    description: >-
+      A deal in Prime Poker Union, the largest Ukrainian union on ClubGG: 24/7 Omaha, a soft field and rakeback up to
+      60%. Chip value: 1 hryvnia.
+    geo: Ukraine
+    body: >-
+      <h3>Description</h3>
+
+      <p>A poker deal at the Omaha LD F club, part of Prime Poker Union, the largest Ukrainian union on ClubGG.</p>
+
+      <p>The club is managed by PokerDealsHub: transparent and fair terms of cooperation, with top-class customer
+      support around the clock.</p>
+
+      <h3>About the Union</h3>
+
+      <p>Prime Poker Union is the largest Ukrainian union on ClubGG, specializing in Omaha. Games run around the clock,
+      so you can find a table at any time of day or night.</p>
+
+      <p>The main discipline is Pot-Limit Omaha (PLO). Chip value: 1 hryvnia (UAH). A wide range of limits is available,
+      and the soft field attracts plenty of recreational players.</p>
+
+      <h3>Terms</h3>
+
+      <p>Rakeback up to 60%. KYC-free club membership — no documents required. All terms are internally verified by
+      PokerDealsHub.</p>
+
+      <p>To get the club ID, message the PDH manager — we're available 24/7.</p>
+    srcHash: 458bab852493
+  uz:
+    name: ClubGG'da Prime Poker Union ittifoqidagi bitim
+    description: >-
+      ClubGG'dagi eng yirik ukrain ittifoqi Prime Poker Union'dagi bitim: 24/7 Omaha, yumshoq stollar va 60%gacha
+      rakebek. Chip nominali — 1 grivna.
+    geo: Ukraina
+    body: >-
+      <h3>Tavsif</h3>
+
+      <p>Omaha LD F klubidagi poker bitimi — bu klub ClubGG'dagi eng yirik ukrain ittifoqi Prime Poker Union tarkibiga
+      kiradi.</p>
+
+      <p>Klub bilan PokerDealsHub shug'ullanadi: shaffof va halol hamkorlik shartlari hamda kunning istalgan vaqtida
+      oliy darajadagi mijozlarni qo'llab-quvvatlash.</p>
+
+      <h3>Ittifoq haqida</h3>
+
+      <p>Prime Poker Union — ClubGG'dagi eng yirik ukrain ittifoqi bo'lib, Omahaga ixtisoslashgan. O'yinlar kun bo'yi
+      davom etadi, shuning uchun kunduzi ham, kechasi ham istalgan vaqtda stol topish mumkin.</p>
+
+      <p>Asosiy o'yin turi — Pot-limit Omaha (PLO). Chip nominali — 1 grivna (UAH). Keng limitlar diapazoni mavjud,
+      yumshoq stollar esa ko'plab havaskor o'yinchilarni to'playdi.</p>
+
+      <h3>Shartlar</h3>
+
+      <p>60%gacha rakebek. Klubga a'zolik KYC'siz — hujjatlar yuborish shart emas. Barcha shartlar PokerDealsHub ichki
+      tekshiruvidan o'tadi.</p>
+
+      <p>Klub ID'sini olish uchun PDH menejeriga yozing — biz 24/7 aloqadamiz.</p>
+    srcHash: 458bab852493
+  uk:
+    name: Угода в союзі Prime Poker Union на ClubGG
+    description: >-
+      Угода в найбільшому українському союзі Prime Poker Union на ClubGG: цілодобова Омаха, м'яке поле та рейкбек до
+      60%. Номінал фішки — 1 гривня.
+    geo: Україна
+    body: >-
+      <h3>Опис</h3>
+
+      <p>Покерна угода в клубі Omaha LD F, який входить до найбільшого українського союзу Prime Poker Union на
+      ClubGG.</p>
+
+      <p>Клубом опікується PokerDealsHub: прозорі та чесні умови співпраці й клієнтська підтримка найвищого рівня
+      будь-якої пори доби.</p>
+
+      <h3>Про союз</h3>
+
+      <p>Prime Poker Union — найбільший український союз на ClubGG, що спеціалізується на Омасі. Ігри йдуть цілодобово,
+      тож стіл можна знайти будь-якої пори дня та ночі.</p>
+
+      <p>Основна дисципліна — Пот-ліміт Омаха (PLO). Номінал фішки — 1 гривня (UAH). Доступний широкий діапазон лімітів,
+      а м'яке поле збирає багато гравців-любителів.</p>
+
+      <h3>Умови</h3>
+
+      <p>Рейкбек до 60%. Членство в клубі без KYC — надсилати документи не потрібно. Усі умови проходять внутрішню
+      перевірку PokerDealsHub.</p>
+
+      <p>Щоб отримати ID клубу, напишіть менеджеру PDH — ми на зв'язку 24/7.</p>
+    srcHash: 458bab852493
+  it:
+    name: Deal nella union Prime Poker Union su ClubGG
+    description: >-
+      Deal nella più grande union ucraina Prime Poker Union su ClubGG: Omaha 24/7, campo soft e rakeback fino al 60%.
+      Valore della fiche: 1 hryvnia.
+    geo: Ucraina
+    body: >-
+      <h3>Descrizione</h3>
+
+      <p>Deal di poker nel club Omaha LD F, che fa parte della più grande union ucraina Prime Poker Union su ClubGG.</p>
+
+      <p>Il club è gestito da PokerDealsHub: condizioni di collaborazione trasparenti e oneste e un'assistenza clienti
+      di altissimo livello a qualsiasi ora del giorno.</p>
+
+      <h3>Sull'union</h3>
+
+      <p>Prime Poker Union è la più grande union ucraina su ClubGG, specializzata in Omaha. Le partite si svolgono 24
+      ore su 24, quindi puoi trovare un tavolo a qualsiasi ora del giorno e della notte.</p>
+
+      <p>La disciplina principale è il Pot-Limit Omaha (PLO). Valore della fiche: 1 hryvnia (UAH). È disponibile
+      un'ampia gamma di limiti e il campo soft attira molti giocatori amatoriali.</p>
+
+      <h3>Condizioni</h3>
+
+      <p>Rakeback fino al 60%. Iscrizione al club senza KYC — non è necessario inviare documenti. Tutte le condizioni
+      sono verificate internamente da PokerDealsHub.</p>
+
+      <p>Per ottenere l'ID del club, scrivi al manager PDH: siamo disponibili 24/7.</p>
+    srcHash: 458bab852493
+  de:
+    name: Deal in der Union Prime Poker Union auf ClubGG
+    description: >-
+      Deal in der größten ukrainischen Union Prime Poker Union auf ClubGG: 24/7-Omaha, weiches Feld und Rakeback bis zu
+      60%. Chipwert: 1 Hrywnja.
+    geo: Ukraine
+    body: >-
+      <h3>Beschreibung</h3>
+
+      <p>Poker-Deal im Club Omaha LD F, der zur größten ukrainischen Union Prime Poker Union auf ClubGG gehört.</p>
+
+      <p>Der Club wird von PokerDealsHub betreut: transparente und faire Kooperationsbedingungen sowie erstklassiger
+      Kundensupport rund um die Uhr.</p>
+
+      <h3>Über die Union</h3>
+
+      <p>Prime Poker Union ist die größte ukrainische Union auf ClubGG mit Spezialisierung auf Omaha. Die Spiele laufen
+      rund um die Uhr, sodass sich zu jeder Tages- und Nachtzeit ein Tisch finden lässt.</p>
+
+      <p>Hauptdisziplin ist Pot-Limit Omaha (PLO). Chipwert: 1 Hrywnja (UAH). Es steht eine breite Auswahl an Limits zur
+      Verfügung, und das weiche Feld zieht viele Freizeitspieler an.</p>
+
+      <h3>Konditionen</h3>
+
+      <p>Rakeback bis zu 60%. KYC-freie Club-Mitgliedschaft — es müssen keine Dokumente eingereicht werden. Alle
+      Konditionen durchlaufen die interne Prüfung von PokerDealsHub.</p>
+
+      <p>Um die Club-ID zu erhalten, schreiben Sie dem PDH-Manager — wir sind rund um die Uhr (24/7) für Sie
+      erreichbar.</p>
+    srcHash: 458bab852493
+  es:
+    name: Acuerdo de rakeback en la unión Prime Poker Union en ClubGG
+    description: >-
+      Acuerdo en la mayor unión ucraniana Prime Poker Union en ClubGG: Omaha 24/7, mesas blandas y rakeback de hasta
+      60%. Valor de la ficha: 1 grivna.
+    geo: Ucrania
+    body: >-
+      <h3>Descripción</h3>
+
+      <p>Acuerdo de póker en el club Omaha LD F, que forma parte de la mayor unión ucraniana Prime Poker Union en
+      ClubGG.</p>
+
+      <p>El club está gestionado por PokerDealsHub: condiciones de colaboración transparentes y honestas, y atención al
+      cliente de primer nivel a cualquier hora del día.</p>
+
+      <h3>Sobre la unión</h3>
+
+      <p>Prime Poker Union es la mayor unión ucraniana en ClubGG, especializada en Omaha. Las partidas se juegan las 24
+      horas, así que puedes encontrar mesa a cualquier hora del día o de la noche.</p>
+
+      <p>La disciplina principal es el Pot-Limit Omaha (PLO). Valor de la ficha: 1 grivna (UAH). Hay disponible un
+      amplio rango de límites, y las mesas blandas atraen a muchos jugadores aficionados.</p>
+
+      <h3>Condiciones</h3>
+
+      <p>Rakeback de hasta 60%. Membresía del club sin KYC: no es necesario enviar documentos. Todas las condiciones
+      pasan la verificación interna de PokerDealsHub.</p>
+
+      <p>Para obtener el ID del club, escribe al manager de PDH: estamos disponibles 24/7.</p>
+    srcHash: 458bab852493
+  pt:
+    name: Acordo na Prime Poker Union no ClubGG
+    description: >-
+      Acordo na maior união ucraniana Prime Poker Union no ClubGG: Omaha 24/7, campo soft e rakeback até 60%. Valor da
+      ficha: 1 hryvnia (UAH).
+    geo: Ucrânia
+    body: >-
+      <h3>Descrição</h3>
+
+      <p>Acordo de poker no clube Omaha LD F, que faz parte da maior união ucraniana Prime Poker Union no ClubGG.</p>
+
+      <p>O clube é gerido pela PokerDealsHub: condições de colaboração transparentes e honestas e apoio ao cliente de
+      topo a qualquer hora do dia.</p>
+
+      <h3>Sobre a união</h3>
+
+      <p>A Prime Poker Union é a maior união ucraniana no ClubGG, especializada em Omaha. Os jogos decorrem 24/7, por
+      isso é possível encontrar uma mesa a qualquer hora do dia ou da noite.</p>
+
+      <p>A modalidade principal é o Pot-Limit Omaha (PLO). Valor da ficha: 1 hryvnia (UAH). Está disponível uma ampla
+      gama de limites, e o campo soft reúne muitos jogadores amadores.</p>
+
+      <h3>Condições</h3>
+
+      <p>Rakeback até 60%. Adesão ao clube sem KYC — não é necessário enviar documentos. Todas as condições passam por
+      verificação interna da PokerDealsHub.</p>
+
+      <p>Para obter o ID do clube, contacte o gestor da PDH — estamos disponíveis 24/7.</p>
+    srcHash: 458bab852493
+  fr:
+    name: Deal dans l'union Prime Poker Union sur ClubGG
+    description: >-
+      Deal dans Prime Poker Union, la plus grande union ukrainienne sur ClubGG : Omaha 24/7, field tendre et rakeback
+      jusqu'à 60 %. Valeur du jeton : 1 hryvnia.
+    geo: Ukraine
+    body: >-
+      <h3>Description</h3>
+
+      <p>Deal de poker dans le club Omaha LD F, qui fait partie de la plus grande union ukrainienne Prime Poker Union
+      sur ClubGG.</p>
+
+      <p>Le club est géré par PokerDealsHub : des conditions de collaboration transparentes et honnêtes, ainsi qu'un
+      support client de premier ordre à toute heure du jour et de la nuit.</p>
+
+      <h3>À propos de l'union</h3>
+
+      <p>Prime Poker Union est la plus grande union ukrainienne sur ClubGG, spécialisée dans l'Omaha. Les parties se
+      déroulent 24/7, vous pouvez donc trouver une table à toute heure du jour et de la nuit.</p>
+
+      <p>La discipline principale est le Pot-Limit Omaha (PLO). Valeur du jeton : 1 hryvnia (UAH). Une large gamme de
+      limites est disponible, et le field tendre attire de nombreux joueurs amateurs.</p>
+
+      <h3>Conditions</h3>
+
+      <p>Rakeback jusqu'à 60 %. Adhésion au club sans KYC — aucun document à envoyer. Toutes les conditions sont
+      vérifiées en interne par PokerDealsHub.</p>
+
+      <p>Pour obtenir l'ID du club, contactez le manager PDH — nous sommes disponibles 24/7.</p>
+    srcHash: 458bab852493
+  tr:
+    name: ClubGG'deki Prime Poker Union ittifakında anlaşma
+    description: >-
+      ClubGG'deki en büyük Ukrayna ittifakı Prime Poker Union'da anlaşma: 7/24 Omaha, yumuşak saha ve %60'a varan
+      rakeback. Çip değeri: 1 grivna.
+    geo: Ukrayna
+    body: >-
+      <h3>Açıklama</h3>
+
+      <p>ClubGG'deki en büyük Ukrayna ittifakı Prime Poker Union'a bağlı olan Omaha LD F kulübünde poker anlaşması.</p>
+
+      <p>Kulüp PokerDealsHub tarafından yönetiliyor: şeffaf ve dürüst işbirliği koşulları ve günün her saatinde birinci
+      sınıf müşteri desteği.</p>
+
+      <h3>İttifak Hakkında</h3>
+
+      <p>Prime Poker Union, Omaha üzerine uzmanlaşmış, ClubGG'deki en büyük Ukrayna ittifakıdır. Oyunlar 7/24 sürdüğü
+      için günün ve gecenin her saatinde bir masa bulabilirsiniz.</p>
+
+      <p>Ana disiplin Pot-Limit Omaha (PLO). Çip değeri: 1 grivna (UAH). Geniş bir limit aralığı mevcuttur ve yumuşak
+      saha çok sayıda amatör oyuncuyu bir araya getirir.</p>
+
+      <h3>Koşullar</h3>
+
+      <p>%60'a varan rakeback. Kulüp üyeliği KYC'siz — belge göndermenize gerek yok. Tüm koşullar PokerDealsHub'ın iç
+      denetiminden geçer.</p>
+
+      <p>Kulüp ID'sini almak için PDH yöneticisine yazın — 7/24 hizmetinizdeyiz.</p>
+    srcHash: 458bab852493
+  he:
+    name: עסקה באיגוד Prime Poker Union ב-ClubGG
+    description: >-
+      עסקה באיגוד האוקראיני הגדול ביותר Prime Poker Union ב-ClubGG: אומהה מסביב לשעון, שדה רך ורייקבק עד 60%. ערך הצ'יפ
+      — 1 גריבנה.
+    geo: אוקראינה
+    body: >-
+      <h3>תיאור</h3>
+
+      <p>עסקת פוקר במועדון Omaha LD F, החבר באיגוד האוקראיני הגדול ביותר Prime Poker Union ב-ClubGG.</p>
+
+      <p>המועדון מנוהל על ידי PokerDealsHub: תנאי שיתוף פעולה שקופים והוגנים ותמיכת לקוחות ברמה הגבוהה ביותר בכל שעות
+      היממה.</p>
+
+      <h3>על האיגוד</h3>
+
+      <p>Prime Poker Union הוא האיגוד האוקראיני הגדול ביותר ב-ClubGG, המתמחה באומהה. המשחקים מתנהלים מסביב לשעון, כך
+      שאפשר למצוא שולחן בכל שעה ביום ובלילה.</p>
+
+      <p>הדיסציפלינה המרכזית היא פוט-לימיט אומהה (PLO). ערך הצ'יפ — 1 גריבנה (UAH). זמין טווח רחב של לימיטים, והשדה הרך
+      מושך שחקנים חובבים רבים.</p>
+
+      <h3>תנאים</h3>
+
+      <p>רייקבק עד 60%. חברות במועדון ללא KYC — אין צורך לשלוח מסמכים. כל התנאים עוברים בדיקה פנימית של
+      PokerDealsHub.</p>
+
+      <p>כדי לקבל את ID המועדון, כתבו למנהל PDH — אנחנו זמינים 24/7.</p>
+    srcHash: 458bab852493
+  ar:
+    name: صفقة في اتحاد Prime Poker Union على ClubGG
+    description: >-
+      صفقة في أكبر اتحاد أوكراني Prime Poker Union على ClubGG: أوماها على مدار الساعة، حقل سهل وريكباك يصل إلى 60%. قيمة
+      الفيشة — 1 هريفنيا.
+    geo: أوكرانيا
+    body: >-
+      <h3>الوصف</h3>
+
+      <p>صفقة بوكر في نادي Omaha LD F العضو في أكبر اتحاد أوكراني Prime Poker Union على ClubGG.</p>
+
+      <p>تدير النادي PokerDealsHub: شروط تعاون شفافة ونزيهة ودعم عملاء من الطراز الأول في أي وقت من اليوم.</p>
+
+      <h3>عن الاتحاد</h3>
+
+      <p>Prime Poker Union هو أكبر اتحاد أوكراني على ClubGG متخصص في الأوماها. تجري الألعاب على مدار الساعة، لذا يمكنك
+      إيجاد طاولة في أي وقت من ليل أو نهار.</p>
+
+      <p>التخصص الأساسي هو بوت-ليمِت أوماها (PLO). قيمة الفيشة — 1 هريفنيا (UAH). يتوفر نطاق واسع من الحدود، ويجمع الحقل
+      السهل الكثير من اللاعبين الترفيهيين.</p>
+
+      <h3>الشروط</h3>
+
+      <p>ريكباك يصل إلى 60%. عضوية النادي دون KYC — لا حاجة لإرسال أي مستندات. تخضع جميع الشروط لتدقيق داخلي من
+      PokerDealsHub.</p>
+
+      <p>للحصول على معرّف النادي، راسل مدير PDH — نحن متاحون 24/7.</p>
+    srcHash: 458bab852493
+  id:
+    name: Deal di union Prime Poker Union di ClubGG
+    description: >-
+      Deal di union Ukraina terbesar, Prime Poker Union di ClubGG: Omaha 24/7, field lunak, dan rakeback hingga 60%.
+      Nilai chip 1 hryvnia.
+    geo: Ukraina
+    body: >-
+      <h3>Deskripsi</h3>
+
+      <p>Deal poker di klub Omaha LD F, yang tergabung dalam union Ukraina terbesar, Prime Poker Union di ClubGG.</p>
+
+      <p>Klub ini dikelola oleh PokerDealsHub: syarat kerja sama yang transparan dan adil serta dukungan pelanggan kelas
+      atas kapan saja, siang dan malam.</p>
+
+      <h3>Tentang Union</h3>
+
+      <p>Prime Poker Union adalah union Ukraina terbesar di ClubGG yang berfokus pada Omaha. Permainan berlangsung 24/7,
+      jadi Anda bisa menemukan meja kapan pun, siang maupun malam.</p>
+
+      <p>Disiplin utamanya adalah Pot-Limit Omaha (PLO). Nilai chip: 1 hryvnia (UAH). Tersedia rentang limit yang luas,
+      dan field lunak menarik banyak pemain amatir.</p>
+
+      <h3>Ketentuan</h3>
+
+      <p>Rakeback hingga 60%. Keanggotaan klub tanpa KYC — Anda tidak perlu mengirim dokumen. Semua syarat melewati
+      verifikasi internal PokerDealsHub.</p>
+
+      <p>Untuk mendapatkan ID klub, hubungi manajer PDH — kami siap membantu 24/7.</p>
+    srcHash: 458bab852493
+  vi:
+    name: Kèo tại liên minh Prime Poker Union trên ClubGG
+    description: >-
+      Kèo tại liên minh Ukraine lớn nhất Prime Poker Union trên ClubGG: Omaha 24/7, field mềm và rakeback lên đến 60%.
+      Mệnh giá chip: 1 hryvnia.
+    geo: Ukraine
+    body: >-
+      <h3>Mô tả</h3>
+
+      <p>Kèo poker tại câu lạc bộ Omaha LD F, thuộc liên minh Ukraine lớn nhất Prime Poker Union trên ClubGG.</p>
+
+      <p>Câu lạc bộ do PokerDealsHub quản lý: điều kiện hợp tác minh bạch, công bằng cùng dịch vụ hỗ trợ khách hàng đẳng
+      cấp hàng đầu vào mọi thời điểm trong ngày.</p>
+
+      <h3>Về liên minh</h3>
+
+      <p>Prime Poker Union là liên minh Ukraine lớn nhất trên ClubGG, chuyên về Omaha. Các trận đấu diễn ra 24/7, nên
+      bạn có thể tìm được bàn chơi vào bất kỳ lúc nào cả ngày lẫn đêm.</p>
+
+      <p>Bộ môn chính là Pot-Limit Omaha (PLO). Mệnh giá chip: 1 hryvnia (UAH). Có sẵn nhiều mức cược đa dạng, còn field
+      mềm quy tụ đông đảo người chơi nghiệp dư.</p>
+
+      <h3>Điều kiện</h3>
+
+      <p>Rakeback lên đến 60%. Tham gia câu lạc bộ không cần KYC — bạn không phải gửi giấy tờ. Mọi điều kiện đều được
+      PokerDealsHub kiểm duyệt nội bộ.</p>
+
+      <p>Để nhận ID câu lạc bộ, hãy nhắn cho quản lý PDH — chúng tôi trực 24/7.</p>
+    srcHash: 458bab852493
+  fil:
+    name: Deal sa Prime Poker Union sa ClubGG
+    description: >-
+      Deal sa pinakamalaking Ukrainian union na Prime Poker Union sa ClubGG: 24/7 na Omaha, soft field, at rakeback na
+      hanggang 60%. Chip value: 1 hryvnia.
+    geo: Ukraine
+    body: >-
+      <h3>Deskripsyon</h3>
+
+      <p>Poker deal sa club na Omaha LD F, na kabilang sa pinakamalaking Ukrainian union na Prime Poker Union sa
+      ClubGG.</p>
+
+      <p>Pinamamahalaan ang club ng PokerDealsHub: malinaw at patas na mga kondisyon ng kooperasyon at first-class na
+      customer support anumang oras ng araw.</p>
+
+      <h3>Tungkol sa Union</h3>
+
+      <p>Ang Prime Poker Union ay ang pinakamalaking Ukrainian union sa ClubGG na dalubhasa sa Omaha. Tumatakbo ang mga
+      laro nang 24/7, kaya makakahanap ka ng table anumang oras ng araw o gabi.</p>
+
+      <p>Ang pangunahing disiplina ay Pot-Limit Omaha (PLO). Chip value: 1 hryvnia (UAH). May malawak na hanay ng mga
+      limit, at ang soft field ay umaakit ng maraming recreational na manlalaro.</p>
+
+      <h3>Mga Kondisyon</h3>
+
+      <p>Rakeback na hanggang 60%. KYC-free ang membership sa club — hindi na kailangang magpadala ng mga dokumento.
+      Lahat ng kondisyon ay dumaan sa internal na pagsusuri ng PokerDealsHub.</p>
+
+      <p>Para makuha ang club ID, mag-message sa PDH manager — available kami 24/7.</p>
+    srcHash: 458bab852493
+  th:
+    name: ดีลในสหภาพ Prime Poker Union บน ClubGG
+    description: >-
+      ดีลในสหภาพยูเครนที่ใหญ่ที่สุด Prime Poker Union บน ClubGG: โอมาฮาตลอด 24 ชั่วโมง สนามที่นิ่ม และเรกแบ็กสูงสุด 60%
+      มูลค่าชิป 1 ฮริฟเนีย
+    geo: ยูเครน
+    body: >-
+      <h3>รายละเอียด</h3>
+
+      <p>ดีลโป๊กเกอร์ในคลับ Omaha LD F ซึ่งเป็นส่วนหนึ่งของสหภาพยูเครนที่ใหญ่ที่สุด Prime Poker Union บน ClubGG</p>
+
+      <p>คลับนี้ดูแลโดย PokerDealsHub: เงื่อนไขความร่วมมือที่โปร่งใสและเป็นธรรม
+      พร้อมบริการลูกค้าระดับพรีเมียมตลอดทุกช่วงเวลา</p>
+
+      <h3>เกี่ยวกับสหภาพ</h3>
+
+      <p>Prime Poker Union คือสหภาพยูเครนที่ใหญ่ที่สุดบน ClubGG ที่เชี่ยวชาญด้านโอมาฮา เกมเปิดตลอด 24 ชั่วโมง
+      จึงสามารถหาโต๊ะได้ทุกช่วงเวลาทั้งกลางวันและกลางคืน</p>
+
+      <p>เกมหลักคือ Pot-Limit Omaha (PLO) มูลค่าชิป 1 ฮริฟเนีย (UAH) มีลิมิตให้เลือกหลากหลาย
+      และสนามที่นิ่มดึงดูดผู้เล่นสมัครเล่นจำนวนมาก</p>
+
+      <h3>เงื่อนไข</h3>
+
+      <p>เรกแบ็กสูงสุด 60% การเป็นสมาชิกคลับไม่ต้องทำ KYC — ไม่ต้องส่งเอกสาร ทุกเงื่อนไขผ่านการตรวจสอบภายในโดย
+      PokerDealsHub</p>
+
+      <p>หากต้องการรับ ID คลับ กรุณาติดต่อผู้จัดการ PDH — เราพร้อมให้บริการตลอด 24 ชั่วโมงทุกวัน</p>
+    srcHash: 458bab852493

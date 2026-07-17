@@ -60,7 +60,7 @@ const deals = defineCollection({
       ofc: z.number().optional(),
     }),
     chipPrice: z
-      .object({ usd: z.number().optional(), brl: z.number().optional(), rub: z.number().optional() })
+      .object({ usd: z.number().optional(), brl: z.number().optional(), rub: z.number().optional(), uah: z.number().optional() })
       .optional(),
 
     // --- localized SOURCE fields (ru) ---
