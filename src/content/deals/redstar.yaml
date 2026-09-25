@@ -1,0 +1,731 @@
+app: Red Star Poker
+club: "-"
+union: "-"
+logo: redstar_logo
+logoimage: /redstar.webp
+logoalt: Red Star Poker logo
+format: NLH / PLO / MTT
+type: Centralized
+rakeback: ""
+featured: false
+hidden: false
+order: 24
+badges:
+  - centralized
+  - cisPlayers
+  - soft
+  - verified
+regions:
+  - cis
+  - europe
+ratings:
+  mtt: 4
+  cash: 4
+  plo: 3
+  nlh: 4
+name: Сделка в покер руме Red Star Poker
+description: >-
+  Единственный скин сети iPoker, который принимает игроков из стран СНГ: эксклюзивные фрироллы, переводы между игроками
+  и поддержка трекеров. Бонус 200%.
+geo: СНГ, Европа
+bonus: 200%
+body: >
+  <h3>О руме</h3>
+
+
+  <p>Red Star Poker работает с 2005 года в сети iPoker — одной из старейших покерных сетей Европы. Это единственный её
+  скин, который принимает игроков из стран СНГ, поэтому для русскоязычной аудитории рум занимает особое место.</p>
+
+
+  <p>Общий пул сети в пиковые часы — около семи тысяч игроков. Генератор случайных чисел сертифицирован iTech Labs,
+  счета ведутся в евро, минимальный депозит — 10 единиц валюты счёта.</p>
+
+
+  <h3>Игра и форматы</h3>
+
+
+  <p>За столами идут безлимитный холдем, пот-лимитная Омаха и турниры — от дешёвых сателлитов до серий с крупными
+  гарантиями. Для рума можно организовать закрытые фрироллы под конкретную группу игроков.</p>
+
+
+  <p>В отличие от многих современных площадок, здесь разрешены трекеры и HUD, а также доступны прямые переводы средств
+  между игроками (P2P) — это заметно упрощает ввод и вывод в СНГ.</p>
+
+
+  <h3>Бонус и условия</h3>
+
+
+  <ul>
+    <li><strong>Приветственный бонус 200%</strong>.</li>
+    <li><strong>Приём игроков из СНГ</strong> — редкость для сети iPoker.</li>
+    <li><strong>P2P-переводы и эксклюзивные фрироллы</strong>.</li>
+  </ul>
+
+
+  <p>Персональные условия сделки по Red Star Poker уточняйте у менеджера PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in Red Star Poker poker room
+    description: >-
+      The only iPoker skin that accepts players from CIS countries: exclusive freerolls, player-to-player transfers and
+      tracker support. 200% bonus.
+    geo: CIS, Europe
+    bonus: 200%
+    body: >
+      <h3>About the room</h3>
+
+
+      <p>Red Star Poker has been running since 2005 on iPoker, one of the oldest poker networks in Europe. It is the
+      only skin on that network that accepts players from CIS countries, which gives it a special place for the
+      Russian-speaking audience.</p>
+
+
+      <p>At peak hours the network pool sits at around seven thousand players. The random number generator is certified
+      by iTech Labs, accounts are held in euros, and the minimum deposit is 10 units of your account currency.</p>
+
+
+      <h3>Games and formats</h3>
+
+
+      <p>The tables run No-Limit Hold'em, Pot-Limit Omaha and tournaments — from cheap satellites to series with big
+      guarantees. Private freerolls can also be arranged in this room for a specific group of players.</p>
+
+
+      <p>Unlike many modern sites, trackers and HUDs are allowed here, and direct player-to-player transfers (P2P) are
+      available — which makes deposits and withdrawals in the CIS noticeably easier.</p>
+
+
+      <h3>Bonus and terms</h3>
+
+
+      <ul>
+        <li><strong>200% welcome bonus</strong>.</li>
+        <li><strong>Players from the CIS accepted</strong> — a rarity on the iPoker network.</li>
+        <li><strong>P2P transfers and exclusive freerolls</strong>.</li>
+      </ul>
+
+
+      <p>For personal terms on the Red Star Poker deal, get in touch with your PDH manager — we're available 24/7.</p>
+    srcHash: 2e04a55e8b4a
+  uz:
+    name: Red Star Poker xonasidagi bitim
+    description: >-
+      iPoker tarmogʻining MDH mamlakatlari oʻyinchilarini qabul qiladigan yagona skini: eksklyuziv frirollar,
+      oʻyinchilar oʻrtasida pul oʻtkazmalari va trekerlarni qoʻllab-quvvatlash. 200% bonus.
+    geo: MDH, Yevropa
+    bonus: 200%
+    body: >
+      <h3>Xona haqida</h3>
+
+
+      <p>Red Star Poker 2005-yildan beri Yevropaning eng qadimgi poker tarmoqlaridan biri — iPoker tarkibida ishlaydi.
+      Bu tarmoqning MDH mamlakatlari oʻyinchilarini qabul qiladigan yagona skini, shuning uchun rusiyzabon auditoriya
+      uchun xona alohida oʻrin tutadi.</p>
+
+
+      <p>Eng gavjum soatlarda tarmoqning umumiy havzasi taxminan yetti ming oʻyinchini tashkil etadi. Tasodifiy sonlar
+      generatori iTech Labs laboratoriyasida sertifikatlangan, hisoblar yevroda yuritiladi, minimal depozit — hisob
+      valyutasining 10 birligi.</p>
+
+
+      <h3>Oʻyin va formatlar</h3>
+
+
+      <p>Stollar ortida limitsiz xoldem, pot-limitli Omaha va turnirlar — arzon satellitlardan tortib yirik kafolatli
+      seriyalargacha oʻynaladi. Xonada aniq bir oʻyinchilar guruhi uchun yopiq frirollar tashkil qilish mumkin.</p>
+
+
+      <p>Koʻplab zamonaviy platformalardan farqli oʻlaroq, bu yerda trekerlar va HUD ruxsat etilgan, shuningdek
+      oʻyinchilar oʻrtasida toʻgʻridan-toʻgʻri pul oʻtkazmalari (P2P) mavjud — bu MDHda depozit va yechib olishni
+      sezilarli darajada osonlashtiradi.</p>
+
+
+      <h3>Bonus va shartlar</h3>
+
+
+      <ul>
+        <li><strong>200% xush kelibsiz bonusi</strong>.</li>
+        <li><strong>MDH oʻyinchilarini qabul qilish</strong> — iPoker tarmogʻi uchun kamdan-kam holat.</li>
+        <li><strong>P2P-oʻtkazmalar va eksklyuziv frirollar</strong>.</li>
+      </ul>
+
+
+      <p>Red Star Poker boʻyicha bitimning shaxsiy shartlarini PDH menejeridan aniqlashtiring — biz 24/7 aloqadamiz.</p>
+    srcHash: 2e04a55e8b4a
+  uk:
+    name: Угода в покер-румі Red Star Poker
+    description: >-
+      Єдиний скін мережі iPoker, який приймає гравців із країн СНД: ексклюзивні фріроли, перекази між гравцями та
+      підтримка трекерів. Бонус 200%.
+    geo: СНД, Європа
+    bonus: 200%
+    body: >
+      <h3>Про рум</h3>
+
+
+      <p>Red Star Poker працює з 2005 року в мережі iPoker — одній із найстаріших покерних мереж Європи. Це єдиний її
+      скін, який приймає гравців із країн СНД, тому для російськомовної аудиторії рум посідає особливе місце.</p>
+
+
+      <p>Загальний пул мережі в пікові години — близько семи тисяч гравців. Генератор випадкових чисел сертифікований
+      iTech Labs, рахунки ведуться в євро, мінімальний депозит — 10 одиниць валюти рахунку.</p>
+
+
+      <h3>Гра та формати</h3>
+
+
+      <p>За столами доступні безлімітний холдем, пот-лімітна Омаха та турніри — від дешевих сателітів до серій із
+      великими гарантіями. Для руму можна організувати закриті фріроли під конкретну групу гравців.</p>
+
+
+      <p>На відміну від багатьох сучасних майданчиків, тут дозволені трекери та HUD, а також доступні прямі перекази
+      коштів між гравцями (P2P) — це помітно спрощує поповнення та виведення коштів у СНД.</p>
+
+
+      <h3>Бонус та умови</h3>
+
+
+      <ul>
+        <li><strong>Вітальний бонус 200%</strong>.</li>
+        <li><strong>Прийом гравців із СНД</strong> — рідкість для мережі iPoker.</li>
+        <li><strong>P2P-перекази та ексклюзивні фріроли</strong>.</li>
+      </ul>
+
+
+      <p>Персональні умови угоди щодо Red Star Poker уточнюйте в менеджера PDH — ми на зв'язку 24/7.</p>
+    srcHash: 2e04a55e8b4a
+  it:
+    name: Offerta nella poker room Red Star Poker
+    description: >-
+      L'unica skin del network iPoker che accetta giocatori dai paesi della CSI: freeroll esclusivi, trasferimenti tra
+      giocatori e supporto ai tracker. Bonus 200%.
+    geo: CSI, Europa
+    bonus: 200%
+    body: >
+      <h3>Informazioni sulla room</h3>
+
+
+      <p>Red Star Poker è attiva dal 2005 su iPoker, uno dei network di poker più longevi d'Europa. È l'unica skin del
+      network ad accettare giocatori dai paesi della CSI, e per questo occupa un posto speciale per il pubblico di
+      lingua russa.</p>
+
+
+      <p>Nelle ore di punta il pool complessivo del network conta circa settemila giocatori. Il generatore di numeri
+      casuali è certificato da iTech Labs, i conti sono in euro e il deposito minimo è di 10 unità della valuta del
+      conto.</p>
+
+
+      <h3>Gioco e formati</h3>
+
+
+      <p>Ai tavoli sono disponibili No-Limit Hold'em, Pot-Limit Omaha e tornei — dai satelliti economici alle serie con
+      garantiti importanti. In questa room è possibile organizzare freeroll privati per un gruppo specifico di
+      giocatori.</p>
+
+
+      <p>A differenza di molte piattaforme moderne, qui tracker e HUD sono consentiti e sono disponibili i trasferimenti
+      diretti di fondi tra giocatori (P2P) — il che semplifica parecchio depositi e prelievi nella CSI.</p>
+
+
+      <h3>Bonus e condizioni</h3>
+
+
+      <ul>
+        <li><strong>Bonus di benvenuto 200%</strong>.</li>
+        <li><strong>Apertura ai giocatori della CSI</strong> — una rarità sul network iPoker.</li>
+        <li><strong>Trasferimenti P2P e freeroll esclusivi</strong>.</li>
+      </ul>
+
+
+      <p>Per le condizioni personalizzate dell'offerta su Red Star Poker, scrivi al manager PDH — siamo disponibili
+      24/7.</p>
+    srcHash: 2e04a55e8b4a
+  de:
+    name: Deal im Pokerraum Red Star Poker
+    description: >-
+      Der einzige Skin des iPoker-Netzwerks, der Spieler aus den GUS-Staaten annimmt: exklusive Freerolls, Überweisungen
+      zwischen Spielern und Tracker-Unterstützung. Bonus 200%.
+    geo: GUS, Europa
+    bonus: 200%
+    body: >
+      <h3>Über den Pokerraum</h3>
+
+
+      <p>Red Star Poker ist seit 2005 im Netzwerk iPoker aktiv — einem der ältesten Pokernetzwerke Europas. Es ist der
+      einzige Skin des Netzwerks, der Spieler aus den GUS-Staaten zulässt, und hat beim russischsprachigen Publikum
+      deshalb einen besonderen Stellenwert.</p>
+
+
+      <p>Der gesamte Pool des Netzwerks liegt zu Spitzenzeiten bei rund siebentausend Spielern. Der
+      Zufallszahlengenerator ist von iTech Labs zertifiziert, die Konten werden in Euro geführt, die Mindesteinzahlung
+      beträgt 10 Einheiten der Kontowährung.</p>
+
+
+      <h3>Spiel und Formate</h3>
+
+
+      <p>An den Tischen laufen No-Limit Hold'em, Pot-Limit Omaha und Turniere — von günstigen Satellites bis zu Serien
+      mit großen Garantien. Im Raum lassen sich geschlossene Freerolls für eine bestimmte Spielergruppe
+      organisieren.</p>
+
+
+      <p>Anders als auf vielen modernen Plattformen sind hier Tracker und HUD erlaubt, außerdem sind direkte
+      Überweisungen zwischen Spielern (P2P) möglich — das erleichtert Ein- und Auszahlungen in der GUS spürbar.</p>
+
+
+      <h3>Bonus und Konditionen</h3>
+
+
+      <ul>
+        <li><strong>Willkommensbonus 200%</strong>.</li>
+        <li><strong>Annahme von Spielern aus der GUS</strong> — eine Seltenheit im Netzwerk iPoker.</li>
+        <li><strong>P2P-Überweisungen und exklusive Freerolls</strong>.</li>
+      </ul>
+
+
+      <p>Die persönlichen Konditionen des Red Star Poker-Deals erfährst du beim PDH-Manager — wir sind 24/7
+      erreichbar.</p>
+    srcHash: 2e04a55e8b4a
+  es:
+    name: Oferta en la sala de póker Red Star Poker
+    description: >-
+      El único skin de la red iPoker que acepta jugadores de los países de la CEI: freerolls exclusivos, transferencias
+      entre jugadores y soporte para trackers. Bono del 200%.
+    geo: CEI, Europa
+    bonus: 200%
+    body: >
+      <h3>Sobre la sala</h3>
+
+
+      <p>Red Star Poker opera desde 2005 en la red iPoker, una de las redes de póker más veteranas de Europa. Es su
+      único skin que acepta jugadores de los países de la CEI, por lo que ocupa un lugar especial para el público de
+      habla rusa.</p>
+
+
+      <p>El pool total de la red ronda los siete mil jugadores en las horas punta. El generador de números aleatorios
+      está certificado por iTech Labs, las cuentas se llevan en euros y el depósito mínimo es de 10 unidades de la
+      moneda de la cuenta.</p>
+
+
+      <h3>Juego y formatos</h3>
+
+
+      <p>En las mesas se juegan Hold'em sin límite, Omaha pot limit y torneos, desde satélites baratos hasta series con
+      grandes garantizados. En la sala se pueden organizar freerolls cerrados para un grupo concreto de jugadores.</p>
+
+
+      <p>A diferencia de muchas plataformas actuales, aquí se permiten los trackers y el HUD, y además están disponibles
+      las transferencias directas de fondos entre jugadores (P2P), lo que simplifica bastante los ingresos y las
+      retiradas en la CEI.</p>
+
+
+      <h3>Bono y condiciones</h3>
+
+
+      <ul>
+        <li><strong>Bono de bienvenida del 200%</strong>.</li>
+        <li><strong>Admite jugadores de la CEI</strong> — algo poco habitual en la red iPoker.</li>
+        <li><strong>Transferencias P2P y freerolls exclusivos</strong>.</li>
+      </ul>
+
+
+      <p>Consulta las condiciones personalizadas de la oferta de Red Star Poker con el manager de PDH: estamos
+      disponibles 24/7.</p>
+    srcHash: 2e04a55e8b4a
+  pt:
+    name: Oferta na sala de poker Red Star Poker
+    description: >-
+      O único skin da rede iPoker que aceita jogadores dos países da CEI: freerolls exclusivos, transferências entre
+      jogadores e suporte a trackers. Bônus de 200%.
+    geo: CEI, Europa
+    bonus: 200%
+    body: >
+      <h3>Sobre a sala</h3>
+
+
+      <p>A Red Star Poker funciona desde 2005 na rede iPoker — uma das redes de poker mais antigas da Europa. É o único
+      skin dessa rede que aceita jogadores dos países da CEI, por isso ocupa um lugar especial para o público de língua
+      russa.</p>
+
+
+      <p>O pool total da rede nos horários de pico fica em torno de sete mil jogadores. O gerador de números aleatórios
+      é certificado pela iTech Labs, as contas são mantidas em euros e o depósito mínimo é de 10 unidades da moeda da
+      conta.</p>
+
+
+      <h3>Jogo e formatos</h3>
+
+
+      <p>Nas mesas rolam hold'em sem limite, Omaha pot-limit e torneios — de satélites baratos a séries com garantias
+      altas. Na sala dá para organizar freerolls fechados para um grupo específico de jogadores.</p>
+
+
+      <p>Ao contrário de muitas plataformas modernas, aqui trackers e HUD são permitidos, e também estão disponíveis
+      transferências diretas de fundos entre jogadores (P2P) — o que facilita bastante depósitos e saques na CEI.</p>
+
+
+      <h3>Bônus e condições</h3>
+
+
+      <ul>
+        <li><strong>Bônus de boas-vindas de 200%</strong>.</li>
+        <li><strong>Aceita jogadores da CEI</strong> — algo raro na rede iPoker.</li>
+        <li><strong>Transferências P2P e freerolls exclusivos</strong>.</li>
+      </ul>
+
+
+      <p>Para as condições personalizadas da oferta na Red Star Poker, fale com o gerente da PDH — estamos disponíveis
+      24/7.</p>
+    srcHash: 2e04a55e8b4a
+  fr:
+    name: Offre sur la salle de poker Red Star Poker
+    description: >-
+      Le seul skin du réseau iPoker à accepter les joueurs des pays de la CEI : freerolls exclusifs, transferts entre
+      joueurs et trackers autorisés. Bonus 200%.
+    geo: CEI, Europe
+    bonus: 200%
+    body: >
+      <h3>À propos de la salle</h3>
+
+
+      <p>Red Star Poker opère depuis 2005 au sein du réseau iPoker, l'un des plus anciens réseaux de poker d'Europe.
+      C'est le seul skin du réseau à accepter les joueurs des pays de la CEI, ce qui lui donne une place à part auprès
+      du public russophone.</p>
+
+
+      <p>Le pool commun du réseau atteint environ sept mille joueurs aux heures de pointe. Le générateur de nombres
+      aléatoires est certifié par iTech Labs, les comptes sont tenus en euros et le dépôt minimum est de 10 unités de la
+      devise du compte.</p>
+
+
+      <h3>Jeu et formats</h3>
+
+
+      <p>Au programme : le hold'em no-limit, l'Omaha pot-limit et des tournois — des satellites bon marché jusqu'aux
+      séries à gros garantis. Il est aussi possible d'organiser sur la salle des freerolls privés réservés à un groupe
+      de joueurs précis.</p>
+
+
+      <p>Contrairement à beaucoup de plateformes actuelles, les trackers et le HUD sont ici autorisés, et les transferts
+      directs de fonds entre joueurs (P2P) sont disponibles — de quoi simplifier nettement les dépôts et les retraits
+      dans la CEI.</p>
+
+
+      <h3>Bonus et conditions</h3>
+
+
+      <ul>
+        <li><strong>Bonus de bienvenue 200%</strong>.</li>
+        <li><strong>Accepte les joueurs de la CEI</strong> — une rareté sur le réseau iPoker.</li>
+        <li><strong>Transferts P2P et freerolls exclusifs</strong>.</li>
+      </ul>
+
+
+      <p>Pour les conditions personnalisées de l'offre Red Star Poker, contactez le manager PDH — nous sommes
+      disponibles 24/7.</p>
+    srcHash: 2e04a55e8b4a
+  tr:
+    name: Red Star Poker poker odasında anlaşma
+    description: >-
+      iPoker ağının BDT ülkelerinden oyuncu kabul eden tek skini: özel freeroll'lar, oyuncular arası transferler ve
+      tracker desteği. %200 bonus.
+    geo: BDT, Avrupa
+    bonus: "%200"
+    body: >
+      <h3>Oda Hakkında</h3>
+
+
+      <p>Red Star Poker, 2005 yılından bu yana Avrupa'nın en köklü poker ağlarından biri olan iPoker bünyesinde faaliyet
+      gösteriyor. Ağın BDT ülkelerinden oyuncu kabul eden tek skini olduğu için Rusça konuşan kitle nezdinde özel bir
+      yere sahip.</p>
+
+
+      <p>Ağın yoğun saatlerdeki toplam havuzu yaklaşık yedi bin oyuncu. Rastgele sayı üreteci iTech Labs tarafından
+      sertifikalandırılmıştır, hesaplar euro cinsinden tutulur ve minimum depozito hesap para biriminden 10
+      birimdir.</p>
+
+
+      <h3>Oyun ve Formatlar</h3>
+
+
+      <p>Masalarda No Limit Hold'em, Pot Limit Omaha ve turnuvalar oynanıyor — ucuz uydu turnuvalarından büyük garantili
+      serilere kadar. Oda için belirli bir oyuncu grubuna özel kapalı freeroll'lar düzenlenebilir.</p>
+
+
+      <p>Günümüzdeki birçok platformun aksine burada tracker ve HUD kullanımı serbest; ayrıca oyuncular arasında
+      doğrudan para transferi (P2P) mümkün — bu da BDT'de para yatırma ve çekme işlemlerini belirgin şekilde
+      kolaylaştırıyor.</p>
+
+
+      <h3>Bonus ve Koşullar</h3>
+
+
+      <ul>
+        <li><strong>%200 hoş geldin bonusu</strong>.</li>
+        <li><strong>BDT oyuncularının kabul edilmesi</strong> — iPoker ağı için nadir bir durum.</li>
+        <li><strong>P2P transferler ve özel freeroll'lar</strong>.</li>
+      </ul>
+
+
+      <p>Red Star Poker anlaşmasının kişisel koşullarını PDH yöneticisinden öğrenebilirsiniz — 7/24 buradayız.</p>
+    srcHash: 2e04a55e8b4a
+  he:
+    name: דיל בחדר הפוקר Red Star Poker
+    description: >-
+      הסקין היחיד ברשת iPoker שמקבל שחקנים ממדינות חבר העמים: פרירולים בלעדיים, העברות בין שחקנים ותמיכה בטראקרים. בונוס
+      200%.
+    geo: חבר העמים, אירופה
+    bonus: 200%
+    body: >
+      <h3>על החדר</h3>
+
+
+      <p>Red Star Poker פועל מאז 2005 ברשת iPoker — אחת מרשתות הפוקר הוותיקות באירופה. זהו הסקין היחיד שלה שמקבל שחקנים
+      ממדינות חבר העמים, ולכן עבור הקהל דובר הרוסית החדר תופס מקום מיוחד.</p>
+
+
+      <p>פול השחקנים הכולל של הרשת בשעות השיא הוא כשבעת אלפים שחקנים. מחולל המספרים האקראיים מאושר על ידי iTech Labs,
+      החשבונות מנוהלים ביורו, וההפקדה המינימלית היא 10 יחידות ממטבע החשבון.</p>
+
+
+      <h3>משחק ופורמטים</h3>
+
+
+      <p>בשולחנות רצים הולדם ללא הגבלה, אומהה פוט-לימיט וטורנירים — מסאטלייטים זולים ועד סדרות עם ערבויות גדולות. בחדר
+      אפשר לארגן פרירולים סגורים עבור קבוצת שחקנים מסוימת.</p>
+
+
+      <p>בניגוד לפלטפורמות מודרניות רבות, כאן מותר להשתמש בטראקרים וב-HUD, וגם זמינות העברות כספים ישירות בין שחקנים
+      (P2P) — מה שמפשט משמעותית הפקדות ומשיכות בחבר העמים.</p>
+
+
+      <h3>בונוס ותנאים</h3>
+
+
+      <ul>
+        <li><strong>בונוס הצטרפות 200%</strong>.</li>
+        <li><strong>קבלת שחקנים מחבר העמים</strong> — נדיר ברשת iPoker.</li>
+        <li><strong>העברות P2P ופרירולים בלעדיים</strong>.</li>
+      </ul>
+
+
+      <p>את התנאים האישיים של הדיל ב-Red Star Poker תוכלו לברר מול המנהל של PDH — אנחנו זמינים 24/7.</p>
+    srcHash: 2e04a55e8b4a
+  ar:
+    name: صفقة في غرفة البوكر Red Star Poker
+    description: >-
+      الغرفة الوحيدة في شبكة iPoker التي تقبل اللاعبين من دول رابطة الدول المستقلة: فريرولات حصرية، وتحويلات مباشرة بين
+      اللاعبين، ودعم برامج التتبع. بونص 200%.
+    geo: رابطة الدول المستقلة، أوروبا
+    bonus: 200%
+    body: >
+      <h3>عن الغرفة</h3>
+
+
+      <p>يعمل Red Star Poker منذ عام 2005 ضمن شبكة iPoker — إحدى أقدم شبكات البوكر في أوروبا. وهو الغرفة الوحيدة في هذه
+      الشبكة التي تقبل اللاعبين من دول رابطة الدول المستقلة، ولذلك يحتل مكانة خاصة لدى الجمهور الناطق بالروسية.</p>
+
+
+      <p>تجمع الشبكة في ساعات الذروة نحو سبعة آلاف لاعب. مولّد الأرقام العشوائية معتمد من iTech Labs، وتُدار الحسابات
+      باليورو، والحد الأدنى للإيداع 10 وحدات من عملة الحساب.</p>
+
+
+      <h3>اللعب والصيغ</h3>
+
+
+      <p>تدور على الطاولات لعبة الهولدم بلا حدود والأوماها بحد القِدر، إضافة إلى البطولات — من السواتل الرخيصة إلى
+      السلاسل ذات الضمانات الكبيرة. ويمكن تنظيم فريرولات مغلقة داخل الغرفة لمجموعة محددة من اللاعبين.</p>
+
+
+      <p>وعلى عكس الكثير من المنصات الحديثة، يُسمح هنا باستخدام برامج التتبع وأدوات HUD، كما تتوفر التحويلات المالية
+      المباشرة بين اللاعبين (P2P) — وهو ما يسهّل الإيداع والسحب بشكل ملحوظ في دول رابطة الدول المستقلة.</p>
+
+
+      <h3>البونص والشروط</h3>
+
+
+      <ul>
+        <li><strong>بونص ترحيبي 200%</strong>.</li>
+        <li><strong>قبول اللاعبين من دول رابطة الدول المستقلة</strong> — أمر نادر في شبكة iPoker.</li>
+        <li><strong>تحويلات P2P وفريرولات حصرية</strong>.</li>
+      </ul>
+
+
+      <p>لمعرفة الشروط الشخصية لصفقة Red Star Poker تواصل مع مدير PDH — نحن على تواصل 24/7.</p>
+    srcHash: 2e04a55e8b4a
+  id:
+    name: Deal di poker room Red Star Poker
+    description: >-
+      Satu-satunya skin jaringan iPoker yang menerima pemain dari negara-negara CIS: freeroll eksklusif, transfer
+      antarpemain, dan dukungan tracker. Bonus 200%.
+    geo: CIS, Eropa
+    bonus: 200%
+    body: >
+      <h3>Tentang Room</h3>
+
+
+      <p>Red Star Poker beroperasi sejak 2005 di jaringan iPoker — salah satu jaringan poker tertua di Eropa. Ini
+      satu-satunya skin jaringan tersebut yang menerima pemain dari negara-negara CIS, sehingga room ini menempati
+      posisi khusus bagi audiens berbahasa Rusia.</p>
+
+
+      <p>Total pool jaringan pada jam sibuk mencapai sekitar tujuh ribu pemain. Random number generator-nya
+      tersertifikasi oleh iTech Labs, akun dikelola dalam euro, dan deposit minimum adalah 10 unit mata uang akun.</p>
+
+
+      <h3>Permainan dan Format</h3>
+
+
+      <p>Di meja tersedia no-limit hold'em, pot-limit Omaha, dan turnamen — mulai dari satelit murah hingga seri dengan
+      garansi besar. Di room ini juga bisa diadakan freeroll tertutup untuk kelompok pemain tertentu.</p>
+
+
+      <p>Berbeda dengan banyak platform modern, di sini tracker dan HUD diizinkan, dan tersedia pula transfer dana
+      langsung antarpemain (P2P) — ini sangat memudahkan deposit dan penarikan di wilayah CIS.</p>
+
+
+      <h3>Bonus dan Ketentuan</h3>
+
+
+      <ul>
+        <li><strong>Bonus selamat datang 200%</strong>.</li>
+        <li><strong>Menerima pemain dari CIS</strong> — hal yang langka di jaringan iPoker.</li>
+        <li><strong>Transfer P2P dan freeroll eksklusif</strong>.</li>
+      </ul>
+
+
+      <p>Untuk ketentuan deal Red Star Poker yang dipersonalisasi, hubungi manajer PDH — kami siap 24/7.</p>
+    srcHash: 2e04a55e8b4a
+  vi:
+    name: Kèo tại phòng poker Red Star Poker
+    description: >-
+      Skin duy nhất của mạng iPoker nhận người chơi từ các nước SNG: freeroll độc quyền, chuyển tiền trực tiếp giữa
+      người chơi và hỗ trợ tracker. Thưởng 200%.
+    geo: SNG, Châu Âu
+    bonus: 200%
+    body: >
+      <h3>Về phòng chơi</h3>
+
+
+      <p>Red Star Poker hoạt động từ năm 2005 trong mạng iPoker — một trong những mạng poker lâu đời nhất Châu Âu. Đây
+      là skin duy nhất của mạng này nhận người chơi từ các nước SNG, vì vậy phòng có vị trí đặc biệt với cộng đồng nói
+      tiếng Nga.</p>
+
+
+      <p>Tổng lượng người chơi của mạng vào giờ cao điểm đạt khoảng bảy nghìn. Bộ tạo số ngẫu nhiên được iTech Labs
+      chứng nhận, tài khoản tính bằng euro, mức nạp tối thiểu là 10 đơn vị tiền tệ của tài khoản.</p>
+
+
+      <h3>Trò chơi và thể thức</h3>
+
+
+      <p>Trên bàn có No-Limit Hold'em, Pot-Limit Omaha và giải đấu — từ những satellite giá rẻ đến các series với tiền
+      thưởng đảm bảo lớn. Phòng cũng có thể tổ chức freeroll kín dành riêng cho một nhóm người chơi cụ thể.</p>
+
+
+      <p>Khác với nhiều nền tảng hiện đại, ở đây tracker và HUD được cho phép, đồng thời người chơi có thể chuyển tiền
+      trực tiếp cho nhau (P2P) — điều này giúp việc nạp và rút tiền ở khu vực SNG dễ dàng hơn hẳn.</p>
+
+
+      <h3>Thưởng và điều kiện</h3>
+
+
+      <ul>
+        <li><strong>Thưởng chào mừng 200%</strong>.</li>
+        <li><strong>Nhận người chơi từ các nước SNG</strong> — điều hiếm thấy trong mạng iPoker.</li>
+        <li><strong>Chuyển tiền P2P và freeroll độc quyền</strong>.</li>
+      </ul>
+
+
+      <p>Hãy liên hệ quản lý PDH để biết điều kiện kèo riêng cho Red Star Poker — chúng tôi trực 24/7.</p>
+    srcHash: 2e04a55e8b4a
+  fil:
+    name: Deal sa poker room na Red Star Poker
+    description: >-
+      Ang tanging skin ng iPoker network na tumatanggap ng mga manlalaro mula sa mga bansang CIS: mga eksklusibong
+      freeroll, transfer sa pagitan ng mga manlalaro, at suporta sa mga tracker. Bonus na 200%.
+    geo: CIS, Europa
+    bonus: 200%
+    body: >
+      <h3>Tungkol sa room</h3>
+
+
+      <p>Tumatakbo ang Red Star Poker mula pa noong 2005 sa iPoker network — isa sa pinakamatandang poker network sa
+      Europa. Ito ang tanging skin nito na tumatanggap ng mga manlalaro mula sa mga bansang CIS, kaya may espesyal na
+      puwang ang room na ito para sa audience na nagsasalita ng Ruso.</p>
+
+
+      <p>Umaabot sa halos pitong libong manlalaro ang kabuuang pool ng network tuwing peak hours. Sertipikado ng iTech
+      Labs ang random number generator, euro ang currency ng mga account, at 10 unit nito ang minimum na deposito.</p>
+
+
+      <h3>Laro at mga format</h3>
+
+
+      <p>Nilalaro sa mga mesa ang no-limit hold'em, pot-limit Omaha at mga torneo — mula sa mga murang satellite
+      hanggang sa mga series na may malalaking garantiya. Para sa room, maaaring mag-organisa ng mga saradong freeroll
+      na nakalaan sa isang partikular na grupo ng mga manlalaro.</p>
+
+
+      <p>Hindi tulad ng maraming modernong plataporma, pinapayagan dito ang mga tracker at HUD, at available din ang
+      direktang transfer ng pondo sa pagitan ng mga manlalaro (P2P) — lubos nitong pinapadali ang deposito at withdrawal
+      sa CIS.</p>
+
+
+      <h3>Bonus at mga kondisyon</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus na 200%</strong>.</li>
+        <li><strong>Tumatanggap ng mga manlalaro mula sa CIS</strong> — bihira ito sa iPoker network.</li>
+        <li><strong>P2P transfer at eksklusibong freeroll</strong>.</li>
+      </ul>
+
+
+      <p>Para sa personal na kondisyon ng deal sa Red Star Poker, kumonsulta sa manager ng PDH — nandito kami 24/7.</p>
+    srcHash: 2e04a55e8b4a
+  th:
+    name: ดีลในห้องโป๊กเกอร์ Red Star Poker
+    description: >-
+      สกินเดียวของเครือข่าย iPoker ที่รับผู้เล่นจากกลุ่มประเทศ CIS มีฟรีโรลสุดพิเศษ การโอนเงินระหว่างผู้เล่น
+      และรองรับแทร็กเกอร์ โบนัส 200%
+    geo: กลุ่มประเทศ CIS, ยุโรป
+    bonus: 200%
+    body: >
+      <h3>เกี่ยวกับรูม</h3>
+
+
+      <p>Red Star Poker เปิดให้บริการมาตั้งแต่ปี 2005 บนเครือข่าย iPoker
+      ซึ่งเป็นหนึ่งในเครือข่ายโป๊กเกอร์ที่เก่าแก่ที่สุดในยุโรป
+      และเป็นสกินเดียวของเครือข่ายนี้ที่รับผู้เล่นจากกลุ่มประเทศ CIS
+      รูมนี้จึงมีความสำคัญเป็นพิเศษสำหรับผู้เล่นที่พูดภาษารัสเซีย</p>
+
+
+      <p>ในช่วงเวลาพีค พูลผู้เล่นรวมของเครือข่ายอยู่ที่ประมาณเจ็ดพันคน เครื่องสุ่มตัวเลขได้รับการรับรองจาก iTech Labs
+      บัญชีคิดยอดเป็นยูโร และเงินฝากขั้นต่ำอยู่ที่ 10 หน่วยของสกุลเงินในบัญชี</p>
+
+
+      <h3>เกมและรูปแบบการเล่น</h3>
+
+
+      <p>บนโต๊ะมีทั้งโฮลเด็มแบบไม่จำกัดเงินเดิมพัน โอมาฮาแบบพ็อตลิมิต และทัวร์นาเมนต์
+      ตั้งแต่แซทเทลไลต์ราคาถูกไปจนถึงซีรีส์ที่การันตีเงินรางวัลก้อนใหญ่
+      อีกทั้งรูมนี้ยังจัดฟรีโรลแบบปิดสำหรับผู้เล่นกลุ่มที่กำหนดไว้โดยเฉพาะได้ด้วย</p>
+
+
+      <p>ต่างจากแพลตฟอร์มยุคใหม่หลายแห่ง ที่นี่อนุญาตให้ใช้แทร็กเกอร์และ HUD ทั้งยังรองรับการโอนเงินโดยตรงระหว่างผู้เล่น
+      (P2P) ซึ่งช่วยให้การฝากและถอนเงินในกลุ่มประเทศ CIS ง่ายขึ้นอย่างเห็นได้ชัด</p>
+
+
+      <h3>โบนัสและเงื่อนไข</h3>
+
+
+      <ul>
+        <li><strong>โบนัสต้อนรับ 200%</strong></li>
+        <li><strong>รับผู้เล่นจากกลุ่มประเทศ CIS</strong> — หาได้ยากในเครือข่าย iPoker</li>
+        <li><strong>การโอนเงินแบบ P2P และฟรีโรลสุดพิเศษ</strong></li>
+      </ul>
+
+
+      <p>สอบถามเงื่อนไขดีล Red Star Poker แบบเฉพาะบุคคลได้ที่ผู้จัดการของ PDH — เราพร้อมให้บริการตลอด 24/7</p>
+    srcHash: 2e04a55e8b4a

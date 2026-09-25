@@ -1,0 +1,711 @@
+app: Betsson
+club: "-"
+union: "-"
+logo: betsson_logo
+logoimage: /betsson.webp
+logoalt: Betsson Poker logo
+format: NLH / PLO / MTT
+type: Centralized
+rakeback: ""
+featured: false
+hidden: false
+order: 26
+badges:
+  - centralized
+  - international
+  - soft
+  - verified
+regions:
+  - europe
+  - latam
+ratings:
+  mtt: 4
+  cash: 4
+  plo: 3
+  nlh: 4
+name: Сделка в покер руме Betsson
+description: >-
+  Лицензированный рум из топ-10 покерных сетей с базой более 700 000 активных клиентов, мягким полем и поддержкой
+  трекеров. Бонус 300% до $3000.
+geo: Европа, Скандинавия, Латинская Америка
+bonus: 300% до $3000
+body: >
+  <h3>О руме</h3>
+
+
+  <p>Betsson Poker — часть крупного европейского игорного холдинга, работающего с 2005 года. Рум входит в десятку
+  покерных сетей по трафику: в пиковые часы за столами около семи тысяч игроков, а общая база активных клиентов бренда
+  превышает 700 тысяч человек.</p>
+
+
+  <p>Площадка полностью лицензирована, генератор случайных чисел сертифицирован iTech Labs. Счета ведутся в евро,
+  минимальный депозит — 10 единиц валюты счёта.</p>
+
+
+  <h3>Игра и форматы</h3>
+
+
+  <p>Доступны безлимитный холдем, пот-лимитная Омаха и турнирная сетка с регулярными акциями. Основной приток игроков
+  идёт из казино и беттинга того же бренда, поэтому за кэш-столами много любителей.</p>
+
+
+  <p>Софт дружелюбен к трекерам: HUD и программы для анализа раздач разрешены.</p>
+
+
+  <h3>Бонус и условия</h3>
+
+
+  <ul>
+    <li><strong>Приветственный бонус 300% до $3000</strong>.</li>
+    <li><strong>Более 700 000 активных клиентов</strong> бренда — стабильный приток любителей.</li>
+    <li><strong>Полная лицензия</strong> и поддержка трекеров.</li>
+  </ul>
+
+
+  <p>Персональные условия сделки по Betsson уточняйте у менеджера PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in Betsson poker room
+    description: >-
+      A licensed room ranked among the top 10 poker networks, with a base of over 700,000 active customers, a soft field
+      and tracker support. 300% bonus up to $3000.
+    geo: Europe, Scandinavia, Latin America
+    bonus: 300% up to $3000
+    body: >
+      <h3>About the room</h3>
+
+
+      <p>Betsson Poker is part of a major European gambling group that has been operating since 2005. The room is among
+      the top ten poker networks by traffic: at peak hours there are around seven thousand players at the tables, and
+      the brand's total base of active customers exceeds 700,000 people.</p>
+
+
+      <p>The platform is fully licensed, and its random number generator is certified by iTech Labs. Accounts are kept
+      in euros, and the minimum deposit is 10 units of the account currency.</p>
+
+
+      <h3>Games and formats</h3>
+
+
+      <p>No-Limit Hold'em, Pot-Limit Omaha and a tournament schedule with regular promotions are all available. Most of
+      the player flow comes from the same brand's casino and sportsbook, so there are plenty of recreational players at
+      the cash tables.</p>
+
+
+      <p>The software is tracker-friendly: HUDs and hand analysis programs are allowed.</p>
+
+
+      <h3>Bonus and terms</h3>
+
+
+      <ul>
+        <li><strong>300% welcome bonus up to $3000</strong>.</li>
+        <li><strong>Over 700,000 active customers</strong> across the brand — a steady flow of recreational players.</li>
+        <li><strong>Full license</strong> and tracker support.</li>
+      </ul>
+
+
+      <p>For your personal terms on the Betsson deal, get in touch with the PDH manager — we're available 24/7.</p>
+    srcHash: c869603ed57d
+  uz:
+    name: Betsson xonasidagi bitim
+    description: >-
+      Top-10 poker tarmoqlari qatoriga kiruvchi litsenziyalangan xona: 700 000 dan ortiq faol mijoz bazasi, yumshoq
+      maydon va trekerlarni qoʻllab-quvvatlash. $3000 gacha 300% bonus.
+    geo: Yevropa, Skandinaviya, Lotin Amerikasi
+    bonus: $3000 gacha 300%
+    body: >
+      <h3>Xona haqida</h3>
+
+
+      <p>Betsson Poker — 2005-yildan beri faoliyat yuritayotgan yirik Yevropa qimor holdingining bir qismi. Xona trafik
+      boʻyicha poker tarmoqlari oʻntaligiga kiradi: eng gavjum soatlarda stollar ortida yetti mingga yaqin oʻyinchi
+      boʻladi, brendning umumiy faol mijozlar bazasi esa 700 mingdan ortiq kishini tashkil etadi.</p>
+
+
+      <p>Platforma toʻliq litsenziyalangan, tasodifiy sonlar generatori esa iTech Labs tomonidan sertifikatlangan.
+      Hisoblar yevroda yuritiladi, minimal depozit — hisob valyutasining 10 birligi.</p>
+
+
+      <h3>Oʻyin va formatlar</h3>
+
+
+      <p>Limitsiz holdem, pot-limit Omaha va muntazam aksiyalarga ega turnir jadvali mavjud. Oʻyinchilarning asosiy
+      oqimi shu brendning kazino va betting boʻlimlaridan keladi, shuning uchun kesh-stollarda havaskorlar koʻp.</p>
+
+
+      <p>Soft trekerlarga doʻstona: HUD va qoʻllarni tahlil qilish dasturlariga ruxsat berilgan.</p>
+
+
+      <h3>Bonus va shartlar</h3>
+
+
+      <ul>
+        <li><strong>$3000 gacha 300% xush kelibsiz bonusi</strong>.</li>
+        <li>Brendning <strong>700 000 dan ortiq faol mijozi</strong> — havaskorlarning barqaror oqimi.</li>
+        <li><strong>Toʻliq litsenziya</strong> va trekerlarni qoʻllab-quvvatlash.</li>
+      </ul>
+
+
+      <p>Betsson boʻyicha bitimning shaxsiy shartlarini PDH menejeridan aniqlashtiring — biz 24/7 aloqadamiz.</p>
+    srcHash: c869603ed57d
+  uk:
+    name: Угода в покер-румі Betsson
+    description: >-
+      Ліцензований рум із топ-10 покерних мереж з базою понад 700 000 активних клієнтів, м'яким полем і підтримкою
+      трекерів. Бонус 300% до $3000.
+    geo: Європа, Скандинавія, Латинська Америка
+    bonus: 300% до $3000
+    body: >
+      <h3>Про рум</h3>
+
+
+      <p>Betsson Poker — частина великого європейського грального холдингу, що працює з 2005 року. Рум входить у десятку
+      покерних мереж за трафіком: у пікові години за столами близько семи тисяч гравців, а загальна база активних
+      клієнтів бренду перевищує 700 тисяч осіб.</p>
+
+
+      <p>Майданчик повністю ліцензований, генератор випадкових чисел сертифікований iTech Labs. Рахунки ведуться в євро,
+      мінімальний депозит — 10 одиниць валюти рахунку.</p>
+
+
+      <h3>Гра та формати</h3>
+
+
+      <p>Доступні безлімітний холдем, пот-лімітна Омаха та турнірна сітка з регулярними акціями. Основний приплив
+      гравців — із казино та беттінгу того самого бренду, тому за кеш-столами багато аматорів.</p>
+
+
+      <p>Софт дружній до трекерів: HUD і програми для аналізу роздач дозволені.</p>
+
+
+      <h3>Бонус та умови</h3>
+
+
+      <ul>
+        <li><strong>Вітальний бонус 300% до $3000</strong>.</li>
+        <li><strong>Понад 700 000 активних клієнтів</strong> бренду — стабільний приплив аматорів.</li>
+        <li><strong>Повна ліцензія</strong> та підтримка трекерів.</li>
+      </ul>
+
+
+      <p>Персональні умови угоди щодо Betsson уточнюйте в менеджера PDH — ми на зв'язку 24/7.</p>
+    srcHash: c869603ed57d
+  it:
+    name: Offerta nella poker room Betsson
+    description: >-
+      Room con licenza tra le prime 10 reti di poker, con una base di oltre 700.000 clienti attivi, campo soft e
+      supporto ai tracker. Bonus 300% fino a $3000.
+    geo: Europa, Scandinavia, America Latina
+    bonus: 300% fino a $3000
+    body: >
+      <h3>Informazioni sulla room</h3>
+
+
+      <p>Betsson Poker fa parte di una grande holding europea del gioco d'azzardo, attiva dal 2005. La room rientra tra
+      le prime dieci reti di poker per traffico: nelle ore di punta ci sono circa settemila giocatori ai tavoli, e la
+      base complessiva di clienti attivi del brand supera le 700.000 persone.</p>
+
+
+      <p>La piattaforma opera con licenza completa e il generatore di numeri casuali è certificato da iTech Labs. I
+      conti sono in euro e il deposito minimo è di 10 unità della valuta del conto.</p>
+
+
+      <h3>Gioco e formati</h3>
+
+
+      <p>Sono disponibili No-Limit Hold'em, Pot-Limit Omaha e un palinsesto di tornei con promozioni regolari. Il flusso
+      principale di giocatori arriva dal casinò e dalle scommesse dello stesso brand, perciò ai tavoli cash ci sono
+      molti amatori.</p>
+
+
+      <p>Il software è tracker-friendly: HUD e programmi per l'analisi delle mani sono consentiti.</p>
+
+
+      <h3>Bonus e condizioni</h3>
+
+
+      <ul>
+        <li><strong>Bonus di benvenuto 300% fino a $3000</strong>.</li>
+        <li><strong>Oltre 700.000 clienti attivi</strong> del brand — un flusso costante di giocatori ricreativi.</li>
+        <li><strong>Licenza completa</strong> e supporto ai tracker.</li>
+      </ul>
+
+
+      <p>Per le condizioni personalizzate dell'offerta Betsson contatta il manager PDH — siamo disponibili 24/7.</p>
+    srcHash: c869603ed57d
+  de:
+    name: Deal im Pokerraum Betsson
+    description: >-
+      Lizenzierter Pokerraum aus den Top 10 der Netzwerke, mit über 700.000 aktiven Kunden, softem Feld und
+      Tracker-Unterstützung. Bonus 300% bis zu $3000.
+    geo: Europa, Skandinavien, Lateinamerika
+    bonus: 300% bis zu $3000
+    body: >
+      <h3>Über den Pokerraum</h3>
+
+
+      <p>Betsson Poker ist Teil eines großen europäischen Glücksspielkonzerns, der seit 2005 am Markt ist. Beim Traffic
+      gehört der Raum zu den zehn größten Pokernetzwerken: zu Spitzenzeiten sitzen rund siebentausend Spieler an den
+      Tischen, und insgesamt kommt die Marke auf über 700.000 aktive Kunden.</p>
+
+
+      <p>Die Plattform ist vollständig lizenziert, der Zufallszahlengenerator ist von iTech Labs zertifiziert. Die
+      Konten werden in Euro geführt, die Mindesteinzahlung beträgt 10 Einheiten der Kontowährung.</p>
+
+
+      <h3>Spiel und Formate</h3>
+
+
+      <p>Verfügbar sind No-Limit Hold'em, Pot-Limit Omaha und ein Turnierprogramm mit regelmäßigen Aktionen. Der
+      Großteil des Spielerzustroms kommt aus dem Casino- und Sportwettenbereich derselben Marke, deshalb sitzen an den
+      Cash-Tischen viele Amateure.</p>
+
+
+      <p>Die Software ist tracker-freundlich: HUD und Programme zur Handanalyse sind erlaubt.</p>
+
+
+      <h3>Bonus und Konditionen</h3>
+
+
+      <ul>
+        <li><strong>Willkommensbonus 300% bis zu $3000</strong>.</li>
+        <li><strong>Über 700.000 aktive Kunden</strong> der Marke — ein stetiger Zustrom von Recreational-Spielern.</li>
+        <li><strong>Volle Lizenz</strong> und Tracker-Unterstützung.</li>
+      </ul>
+
+
+      <p>Deine persönlichen Konditionen für den Betsson-Deal erfährst du beim PDH-Manager — wir sind 24/7
+      erreichbar.</p>
+    srcHash: c869603ed57d
+  es:
+    name: Oferta en la sala de póker Betsson
+    description: >-
+      Sala con licencia del top 10 de redes de póker, con una base de más de 700 000 clientes activos, campo blando y
+      soporte para trackers. Bono del 300% hasta $3000.
+    geo: Europa, Escandinavia, Latinoamérica
+    bonus: 300% hasta $3000
+    body: >
+      <h3>Sobre la sala</h3>
+
+
+      <p>Betsson Poker forma parte de un gran grupo europeo del juego que opera desde 2005. La sala está entre las diez
+      primeras redes de póker por tráfico: en horas punta hay unos siete mil jugadores en las mesas, y la base total de
+      clientes activos de la marca supera los 700 000.</p>
+
+
+      <p>La plataforma está totalmente licenciada y su generador de números aleatorios cuenta con la certificación de
+      iTech Labs. Las cuentas se llevan en euros y el depósito mínimo es de 10 unidades de la moneda de la cuenta.</p>
+
+
+      <h3>Juego y formatos</h3>
+
+
+      <p>Están disponibles el Hold'em sin límite, el Omaha pot limit y un calendario de torneos con promociones
+      regulares. El grueso del flujo de jugadores llega desde el casino y las apuestas deportivas de la misma marca, así
+      que en las mesas de cash hay mucho aficionado.</p>
+
+
+      <p>El software es amigable con los trackers: se permiten el HUD y los programas de análisis de manos.</p>
+
+
+      <h3>Bono y condiciones</h3>
+
+
+      <ul>
+        <li><strong>Bono de bienvenida del 300% hasta $3000</strong>.</li>
+        <li><strong>Más de 700 000 clientes activos</strong> en la marca — un flujo constante de jugadores recreativos.</li>
+        <li><strong>Licencia completa</strong> y soporte para trackers.</li>
+      </ul>
+
+
+      <p>Consulta las condiciones personalizadas de la oferta de Betsson con el manager de PDH: estamos disponibles
+      24/7.</p>
+    srcHash: c869603ed57d
+  pt:
+    name: Oferta na sala de poker Betsson
+    description: >-
+      Sala licenciada do top-10 das redes de poker, com mais de 700.000 clientes ativos, campo soft e suporte a
+      trackers. Bônus de 300% até $3000.
+    geo: Europa, Escandinávia, América Latina
+    bonus: 300% até $3000
+    body: >
+      <h3>Sobre a sala</h3>
+
+
+      <p>A Betsson Poker faz parte de um grande grupo europeu de jogos de azar que opera desde 2005. A sala está entre
+      as dez maiores redes de poker em tráfego: nos horários de pico há cerca de sete mil jogadores nas mesas, e a base
+      total de clientes ativos da marca passa de 700 mil pessoas.</p>
+
+
+      <p>A plataforma é totalmente licenciada e o gerador de números aleatórios é certificado pela iTech Labs. As contas
+      são mantidas em euros e o depósito mínimo é de 10 unidades da moeda da conta.</p>
+
+
+      <h3>Jogo e formatos</h3>
+
+
+      <p>Estão disponíveis no-limit hold'em, pot-limit Omaha e uma grade de torneios com promoções regulares. O
+      principal fluxo de jogadores vem do cassino e das apostas esportivas da mesma marca, por isso há muitos
+      recreativos nas mesas de cash.</p>
+
+
+      <p>O software é amigável aos trackers: HUD e programas de análise de mãos são liberados.</p>
+
+
+      <h3>Bônus e condições</h3>
+
+
+      <ul>
+        <li><strong>Bônus de boas-vindas de 300% até $3000</strong>.</li>
+        <li><strong>Mais de 700.000 clientes ativos</strong> da marca — um fluxo constante de recreativos.</li>
+        <li><strong>Licença completa</strong> e suporte a trackers.</li>
+      </ul>
+
+
+      <p>Para as condições personalizadas da oferta na Betsson, fale com o gerente da PDH — estamos disponíveis
+      24/7.</p>
+    srcHash: c869603ed57d
+  fr:
+    name: Offre sur la salle de poker Betsson
+    description: >-
+      Salle sous licence, classée dans le top 10 des réseaux de poker, avec une base de plus de 700 000 clients actifs,
+      un champ soft et les trackers autorisés. Bonus 300% jusqu'à $3000.
+    geo: Europe, Scandinavie, Amérique latine
+    bonus: 300% jusqu'à $3000
+    body: >
+      <h3>À propos de la salle</h3>
+
+
+      <p>Betsson Poker fait partie d'un grand groupe européen de jeux d'argent, actif depuis 2005. La salle figure dans
+      le top dix des réseaux de poker en termes de trafic : aux heures de pointe, on compte environ sept mille joueurs
+      aux tables, et la base totale de clients actifs de la marque dépasse les 700 000 personnes.</p>
+
+
+      <p>La plateforme est entièrement sous licence et son générateur de nombres aléatoires est certifié par iTech Labs.
+      Les comptes sont tenus en euros et le dépôt minimum est de 10 unités de la devise du compte.</p>
+
+
+      <h3>Jeu et formats</h3>
+
+
+      <p>Au programme : le Hold'em no-limit, l'Omaha pot-limit et un calendrier de tournois avec des promotions
+      régulières. L'essentiel du flux de joueurs vient du casino et des paris sportifs de la même marque, si bien que
+      les tables de cash game regorgent d'amateurs.</p>
+
+
+      <p>Le logiciel est ouvert aux trackers : les HUD et les programmes d'analyse de mains sont autorisés.</p>
+
+
+      <h3>Bonus et conditions</h3>
+
+
+      <ul>
+        <li><strong>Bonus de bienvenue 300% jusqu'à $3000</strong>.</li>
+        <li><strong>Plus de 700 000 clients actifs</strong> sur l'ensemble de la marque — un flux régulier de joueurs récréatifs.</li>
+        <li><strong>Licence complète</strong> et prise en charge des trackers.</li>
+      </ul>
+
+
+      <p>Pour connaître vos conditions personnelles sur l'offre Betsson, contactez le manager PDH — nous sommes
+      disponibles 24/7.</p>
+    srcHash: c869603ed57d
+  tr:
+    name: Betsson poker odasında anlaşma
+    description: >-
+      En büyük 10 poker ağından birinde yer alan lisanslı bir oda: 700.000'den fazla aktif müşteri, soft saha ve tracker
+      desteği. $3000'a kadar %300 bonus.
+    geo: Avrupa, İskandinavya, Latin Amerika
+    bonus: $3000'a kadar %300
+    body: >
+      <h3>Oda Hakkında</h3>
+
+
+      <p>Betsson Poker, 2005'ten beri faaliyet gösteren büyük bir Avrupa oyun holdingine aittir. Oda, trafik bakımından
+      en büyük on poker ağı arasında yer alır: yoğun saatlerde masalarda yaklaşık yedi bin oyuncu bulunur, markanın
+      toplam aktif müşteri tabanı ise 700 bin kişiyi aşar.</p>
+
+
+      <p>Platform tamamen lisanslıdır, rastgele sayı üreteci iTech Labs tarafından sertifikalandırılmıştır. Hesaplar
+      euro cinsinden tutulur, minimum depozito hesap para biriminden 10 birimdir.</p>
+
+
+      <h3>Oyun ve Formatlar</h3>
+
+
+      <p>No Limit Hold'em, Pot Limit Omaha ve düzenli promosyonlarla desteklenen bir turnuva programı mevcut.
+      Oyuncuların büyük bölümü aynı markanın casino ve bahis bölümünden geldiği için cash masalarında bol miktarda
+      rekreasyonel oyuncu var.</p>
+
+
+      <p>Yazılım tracker dostu: HUD ve el analizi programlarına izin veriliyor.</p>
+
+
+      <h3>Bonus ve Koşullar</h3>
+
+
+      <ul>
+        <li><strong>$3000'a kadar %300 hoş geldin bonusu</strong>.</li>
+        <li><strong>700.000'den fazla aktif müşteri</strong> — markadan istikrarlı bir rekreasyonel oyuncu akışı.</li>
+        <li><strong>Tam lisans</strong> ve tracker desteği.</li>
+      </ul>
+
+
+      <p>Betsson anlaşmasının kişisel koşullarını PDH yöneticisinden öğrenebilirsiniz — 7/24 buradayız.</p>
+    srcHash: c869603ed57d
+  he:
+    name: דיל בחדר הפוקר Betsson
+    description: >-
+      חדר מורשה מבין 10 רשתות הפוקר המובילות, עם בסיס של יותר מ-700,000 לקוחות פעילים, שדה רך ותמיכה בטראקרים. בונוס
+      300% עד $3000.
+    geo: אירופה, סקנדינביה, אמריקה הלטינית
+    bonus: 300% עד $3000
+    body: >
+      <h3>על החדר</h3>
+
+
+      <p>Betsson Poker הוא חלק מקבוצת הימורים אירופית גדולה שפועלת מאז 2005. החדר נמנה עם עשר רשתות הפוקר המובילות
+      מבחינת תנועת שחקנים: בשעות השיא יושבים בשולחנות כשבעת אלפים שחקנים, ובסיס הלקוחות הפעילים של המותג כולו עולה על
+      700 אלף איש.</p>
+
+
+      <p>הפלטפורמה מורשית במלואה, ומחולל המספרים האקראיים מוסמך על ידי iTech Labs. החשבונות מנוהלים ביורו, וההפקדה
+      המינימלית היא 10 יחידות ממטבע החשבון.</p>
+
+
+      <h3>משחק ופורמטים</h3>
+
+
+      <p>זמינים הולדם ללא הגבלה, אומהה פוט-לימיט ולוח טורנירים עם מבצעים קבועים. עיקר זרימת השחקנים מגיעה מהקזינו
+      ומההימורים על ספורט של אותו מותג, ולכן בשולחנות הקאש יש הרבה חובבים.</p>
+
+
+      <p>התוכנה ידידותית לטראקרים: HUD ותוכנות לניתוח ידיים מותרים לשימוש.</p>
+
+
+      <h3>בונוס ותנאים</h3>
+
+
+      <ul>
+        <li><strong>בונוס הצטרפות 300% עד $3000</strong>.</li>
+        <li><strong>יותר מ-700,000 לקוחות פעילים</strong> של המותג — זרימה יציבה של חובבים.</li>
+        <li><strong>רישיון מלא</strong> ותמיכה בטראקרים.</li>
+      </ul>
+
+
+      <p>את התנאים האישיים של הדיל ב-Betsson תוכלו לברר מול מנהל PDH — אנחנו זמינים 24/7.</p>
+    srcHash: c869603ed57d
+  ar:
+    name: صفقة في غرفة البوكر Betsson
+    description: >-
+      غرفة مرخّصة ضمن أفضل 10 شبكات بوكر، بقاعدة تتجاوز 700 000 عميل نشط، وطاولات سهلة ودعم لبرامج التتبع. بونص 300% حتى
+      $3000.
+    geo: أوروبا، الدول الإسكندنافية، أمريكا اللاتينية
+    bonus: 300% حتى $3000
+    body: >
+      <h3>عن الغرفة</h3>
+
+
+      <p>Betsson Poker جزء من مجموعة مقامرة أوروبية كبيرة تعمل منذ عام 2005. تدخل الغرفة ضمن أفضل عشر شبكات بوكر من حيث
+      حركة اللاعبين: في ساعات الذروة يجلس على الطاولات نحو سبعة آلاف لاعب، بينما تتجاوز قاعدة العملاء النشطين للعلامة
+      700 ألف شخص.</p>
+
+
+      <p>المنصة مرخّصة بالكامل، ومولّد الأرقام العشوائية معتمَد من iTech Labs. تُدار الحسابات باليورو، والحد الأدنى
+      للإيداع 10 وحدات من عملة الحساب.</p>
+
+
+      <h3>اللعب والصيغ</h3>
+
+
+      <p>المتاح: هولدم بلا حدود، وأوماها بحد القِدر، وجدول بطولات مع عروض منتظمة. التدفّق الأساسي للاعبين يأتي من
+      الكازينو وقسم المراهنات التابعين للعلامة نفسها، لذلك تضم طاولات الكاش الكثير من الهواة.</p>
+
+
+      <p>البرنامج متوافق مع برامج التتبع: الـ HUD وأدوات تحليل الأيدي مسموح بها.</p>
+
+
+      <h3>البونص والشروط</h3>
+
+
+      <ul>
+        <li><strong>بونص ترحيبي 300% حتى $3000</strong>.</li>
+        <li><strong>أكثر من 700 000 عميل نشط</strong> للعلامة — تدفّق مستقر من الهواة.</li>
+        <li><strong>ترخيص كامل</strong> ودعم لبرامج التتبع.</li>
+      </ul>
+
+
+      <p>لمعرفة الشروط الشخصية لصفقة Betsson تواصل مع مدير PDH — نحن على اتصال 24/7.</p>
+    srcHash: c869603ed57d
+  id:
+    name: Deal di poker room Betsson
+    description: >-
+      Poker room berlisensi dari salah satu jaringan poker 10 besar dengan basis lebih dari 700.000 klien aktif, field
+      yang soft, dan dukungan tracker. Bonus 300% hingga $3000.
+    geo: Eropa, Skandinavia, Amerika Latin
+    bonus: 300% hingga $3000
+    body: >
+      <h3>Tentang Room</h3>
+
+
+      <p>Betsson Poker adalah bagian dari grup judi besar asal Eropa yang beroperasi sejak 2005. Room ini masuk sepuluh
+      besar jaringan poker berdasarkan trafik: pada jam sibuk ada sekitar tujuh ribu pemain di meja, sedangkan total
+      basis klien aktif brand ini melebihi 700 ribu orang.</p>
+
+
+      <p>Platform ini sepenuhnya berlisensi, dan random number generator-nya tersertifikasi oleh iTech Labs. Akun
+      dikelola dalam euro, dengan deposit minimum 10 unit mata uang akun.</p>
+
+
+      <h3>Permainan dan Format</h3>
+
+
+      <p>Tersedia no-limit hold'em, pot-limit Omaha, serta jadwal turnamen dengan promo rutin. Aliran pemain utamanya
+      datang dari kasino dan betting milik brand yang sama, jadi di meja cash banyak pemain rekreasional.</p>
+
+
+      <p>Software-nya ramah terhadap tracker: HUD dan program untuk menganalisis hand diizinkan.</p>
+
+
+      <h3>Bonus dan Ketentuan</h3>
+
+
+      <ul>
+        <li><strong>Bonus selamat datang 300% hingga $3000</strong>.</li>
+        <li><strong>Lebih dari 700.000 klien aktif</strong> brand ini — aliran pemain rekreasional yang stabil.</li>
+        <li><strong>Lisensi penuh</strong> dan dukungan tracker.</li>
+      </ul>
+
+
+      <p>Ketentuan personal untuk deal Betsson bisa Anda tanyakan ke manajer PDH — kami siap 24/7.</p>
+    srcHash: c869603ed57d
+  vi:
+    name: Kèo tại phòng poker Betsson
+    description: >-
+      Phòng poker có giấy phép, nằm trong top 10 mạng poker, với hơn 700.000 khách hàng đang hoạt động, sân chơi mềm và
+      hỗ trợ tracker. Thưởng 300% lên đến $3000.
+    geo: Châu Âu, Scandinavia, Mỹ Latinh
+    bonus: 300% lên đến $3000
+    body: >
+      <h3>Về phòng chơi</h3>
+
+
+      <p>Betsson Poker thuộc một tập đoàn cờ bạc lớn của châu Âu, hoạt động từ năm 2005. Phòng nằm trong top mười mạng
+      poker về lưu lượng: vào giờ cao điểm có khoảng bảy nghìn người chơi ngồi tại bàn, còn tổng số khách hàng đang hoạt
+      động của thương hiệu vượt quá 700 nghìn người.</p>
+
+
+      <p>Nền tảng có giấy phép đầy đủ, bộ tạo số ngẫu nhiên được iTech Labs chứng nhận. Tài khoản được tính bằng euro,
+      mức nạp tối thiểu là 10 đơn vị tiền tệ của tài khoản.</p>
+
+
+      <h3>Trò chơi và thể thức</h3>
+
+
+      <p>Có No-Limit Hold'em, Pot-Limit Omaha và lịch giải đấu với các chương trình khuyến mãi thường xuyên. Lượng người
+      chơi chủ yếu đổ về từ mảng casino và cá cược của cùng thương hiệu, nên tại các bàn cash có rất nhiều người chơi
+      giải trí.</p>
+
+
+      <p>Phần mềm thân thiện với tracker: HUD và các chương trình phân tích ván bài đều được cho phép.</p>
+
+
+      <h3>Thưởng và điều kiện</h3>
+
+
+      <ul>
+        <li><strong>Thưởng chào mừng 300% lên đến $3000</strong>.</li>
+        <li><strong>Hơn 700.000 khách hàng đang hoạt động</strong> của thương hiệu — nguồn người chơi giải trí ổn định.</li>
+        <li><strong>Giấy phép đầy đủ</strong> và hỗ trợ tracker.</li>
+      </ul>
+
+
+      <p>Hãy hỏi quản lý PDH về các điều kiện cá nhân của kèo Betsson — chúng tôi trực 24/7.</p>
+    srcHash: c869603ed57d
+  fil:
+    name: Deal sa poker room na Betsson
+    description: >-
+      Lisensyadong room na kabilang sa top 10 poker networks: mahigit 700,000 aktibong kliyente, soft na field, at
+      suporta sa mga tracker. Bonus na 300% hanggang $3000.
+    geo: Europa, Scandinavia, Latin America
+    bonus: 300% hanggang $3000
+    body: >
+      <h3>Tungkol sa room</h3>
+
+
+      <p>Bahagi ang Betsson Poker ng isang malaking European gambling group na tumatakbo mula pa noong 2005. Kabilang
+      ang room sa nangungunang sampung poker network pagdating sa traffic: sa peak hours ay umaabot sa humigit-kumulang
+      pitong libong manlalaro ang nasa mga mesa, at ang kabuuang base ng aktibong kliyente ng brand ay lumalampas sa
+      700,000 katao.</p>
+
+
+      <p>Ganap na lisensyado ang plataporma, at sertipikado ng iTech Labs ang random number generator. Sa euro nakabase
+      ang mga account, at ang minimum na deposito ay 10 unit ng currency ng account.</p>
+
+
+      <h3>Laro at mga format</h3>
+
+
+      <p>Makukuha rito ang no-limit hold'em, pot-limit Omaha, at tournament schedule na may regular na mga promo.
+      Pangunahing nanggagaling ang dagsa ng mga manlalaro sa casino at betting ng parehong brand, kaya maraming amateur
+      sa mga cash table.</p>
+
+
+      <p>Tracker-friendly ang software: pinapayagan ang HUD at ang mga programa para sa pagsusuri ng mga hand.</p>
+
+
+      <h3>Bonus at mga kondisyon</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus na 300% hanggang $3000</strong>.</li>
+        <li><strong>Mahigit 700,000 aktibong kliyente</strong> ng brand — matatag na dagsa ng mga recreational player.</li>
+        <li><strong>Buong lisensya</strong> at suporta sa mga tracker.</li>
+      </ul>
+
+
+      <p>Para sa mga personal na kondisyon ng deal sa Betsson, makipag-ugnayan sa manager ng PDH — nandito kami
+      24/7.</p>
+    srcHash: c869603ed57d
+  th:
+    name: ดีลในห้องโป๊กเกอร์ Betsson
+    description: >-
+      รูมที่มีใบอนุญาตและติดท็อป 10 เครือข่ายโป๊กเกอร์ มีฐานลูกค้าที่ใช้งานจริงกว่า 700,000 ราย สนามเกมซอฟต์
+      และรองรับโปรแกรมแทร็กเกอร์ โบนัส 300% สูงสุด $3000
+    geo: ยุโรป, สแกนดิเนเวีย, ละตินอเมริกา
+    bonus: 300% สูงสุด $3000
+    body: >
+      <h3>เกี่ยวกับรูม</h3>
+
+
+      <p>Betsson Poker เป็นส่วนหนึ่งของกลุ่มธุรกิจเกมขนาดใหญ่ในยุโรปที่ดำเนินงานมาตั้งแต่ปี 2005
+      รูมนี้ติดท็อปสิบเครือข่ายโป๊กเกอร์ที่มีทราฟฟิกสูงสุด ในชั่วโมงเร่งด่วนมีผู้เล่นอยู่ที่โต๊ะราวเจ็ดพันคน
+      ส่วนฐานลูกค้าที่ใช้งานจริงของแบรนด์โดยรวมมีมากกว่า 700,000 คน</p>
+
+
+      <p>แพลตฟอร์มได้รับใบอนุญาตอย่างสมบูรณ์ และเครื่องสุ่มตัวเลข (RNG) ผ่านการรับรองจาก iTech Labs
+      บัญชีคิดเป็นสกุลเงินยูโร เงินฝากขั้นต่ำคือ 10 หน่วยของสกุลเงินบัญชี</p>
+
+
+      <h3>เกมและรูปแบบการเล่น</h3>
+
+
+      <p>มีทั้งโนลิมิตโฮลเด็ม พอตลิมิตโอมาฮา และตารางทัวร์นาเมนต์พร้อมโปรโมชันสม่ำเสมอ
+      ผู้เล่นส่วนใหญ่ไหลเข้ามาจากคาสิโนและการเดิมพันของแบรนด์เดียวกัน โต๊ะแคชจึงมีผู้เล่นสมัครเล่นจำนวนมาก</p>
+
+
+      <p>ซอฟต์แวร์เป็นมิตรกับแทร็กเกอร์: อนุญาตให้ใช้ HUD และโปรแกรมวิเคราะห์มือไพ่ได้</p>
+
+
+      <h3>โบนัสและเงื่อนไข</h3>
+
+
+      <ul>
+        <li><strong>โบนัสต้อนรับ 300% สูงสุด $3000</strong></li>
+        <li><strong>ลูกค้าที่ใช้งานจริงกว่า 700,000 ราย</strong> ของแบรนด์ — ผู้เล่นสมัครเล่นไหลเข้ามาอย่างสม่ำเสมอ</li>
+        <li><strong>ใบอนุญาตเต็มรูปแบบ</strong> และรองรับโปรแกรมแทร็กเกอร์</li>
+      </ul>
+
+
+      <p>สอบถามเงื่อนไขดีลเฉพาะบุคคลสำหรับ Betsson ได้ที่ผู้จัดการ PDH — เราพร้อมให้บริการ 24/7</p>
+    srcHash: c869603ed57d

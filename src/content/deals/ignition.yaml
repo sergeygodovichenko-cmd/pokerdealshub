@@ -1,0 +1,740 @@
+app: Ignition Poker
+club: "-"
+union: "-"
+logo: ignition_logo
+logoimage: /ignition.webp
+logoalt: Ignition Poker logo
+format: NLH / PLO
+type: Centralized
+rakeback: ""
+featured: false
+hidden: false
+order: 21
+badges:
+  - centralized
+  - usaPlayers
+  - australia
+  - soft
+  - verified
+regions:
+  - america
+  - australia
+ratings:
+  mtt: 4
+  cash: 5
+  plo: 3
+  nlh: 5
+name: Сделка в покер руме Ignition Poker
+description: >-
+  Рум сети Paiwangluo для игроков из США и Австралии: полностью анонимные столы, быстрый формат Zone Poker и одно из
+  самых мягких полей в онлайне. Бонус 150% до $1500.
+geo: США, Австралия
+bonus: 150% до $1500
+body: >
+  <h3>О руме</h3>
+
+
+  <p>Ignition Poker работает с 2016 года в сети Paiwangluo и ориентирован на игроков из США и Австралии. В пиковые часы
+  за столами собирается около двенадцати тысяч человек, поэтому кэш-игра и турниры идут без простоев.</p>
+
+
+  <p>Главная особенность рума — полностью анонимные столы. Ники скрыты, вести заметки на оппонентов и целенаправленно
+  отбирать слабых соперников невозможно. Из-за этого поле остаётся заметно мягче, чем в румах с открытыми никами.</p>
+
+
+  <h3>Игра и форматы</h3>
+
+
+  <p>Доступны безлимитный холдем и пот-лимитная Омаха на всех лимитах, турниры, Sit&amp;Go с джекпотом и быстрый формат
+  Zone Poker: после сброса карт игрок мгновенно пересаживается за новый стол, а количество рук в час вырастает в
+  разы.</p>
+
+
+  <p>Касса принимает биткоин и другие криптовалюты, минимальный депозит — 10 долларов. Клиент работает на десктопе и в
+  браузере, отдельная установка не обязательна.</p>
+
+
+  <h3>Бонус и условия</h3>
+
+
+  <ul>
+    <li><strong>Приветственный бонус 150% до $1500</strong>.</li>
+    <li><strong>Анонимные столы</strong> — никакого бамхантинга и селекта со стороны регуляров.</li>
+    <li><strong>Криптовалютная касса</strong> — быстрые вводы и выводы средств.</li>
+  </ul>
+
+
+  <p>Персональные условия сделки по Ignition Poker уточняйте у менеджера PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in Ignition Poker poker room
+    description: >-
+      A Paiwangluo network room for players from the USA and Australia: fully anonymous tables, the fast Zone Poker
+      format and one of the softest fields online. Bonus of 150% up to $1500.
+    geo: USA, Australia
+    bonus: 150% up to $1500
+    body: >
+      <h3>About the room</h3>
+
+
+      <p>Ignition Poker has been running since 2016 on the Paiwangluo network and is aimed at players from the USA and
+      Australia. At peak hours around twelve thousand people are seated at the tables, so cash games and tournaments run
+      without any downtime.</p>
+
+
+      <p>The room's main feature is fully anonymous tables. Screen names are hidden, so taking notes on opponents or
+      deliberately seeking out the weakest players is impossible. As a result the field stays noticeably softer than in
+      rooms where screen names are visible.</p>
+
+
+      <h3>Games and formats</h3>
+
+
+      <p>You get no-limit hold'em and pot-limit Omaha at every stake, tournaments, jackpot Sit&amp;Go and the fast Zone
+      Poker format: fold your cards and you are seated at a new table instantly, multiplying the number of hands you
+      play per hour.</p>
+
+
+      <p>The cashier accepts bitcoin and other cryptocurrencies, and the minimum deposit is 10 dollars. The client runs
+      on desktop and in the browser, so a separate installation is not required.</p>
+
+
+      <h3>Bonus and terms</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus of 150% up to $1500</strong>.</li>
+        <li><strong>Anonymous tables</strong> — no bumhunting and no table selection by regulars.</li>
+        <li><strong>Crypto cashier</strong> — fast deposits and withdrawals.</li>
+      </ul>
+
+
+      <p>For the personal terms of the Ignition Poker deal, check with the PDH manager — we are available 24/7.</p>
+    srcHash: 4ccb030fe71a
+  uz:
+    name: Ignition Poker xonasidagi bitim
+    description: >-
+      AQSh va Avstraliya oʻyinchilari uchun moʻljallangan Paiwangluo tarmogʻidagi xona: toʻliq anonim stollar, tezkor
+      Zone Poker formati va onlayndagi eng yumshoq maydonlardan biri. Bonus: $1500 gacha 150%.
+    geo: AQSh, Avstraliya
+    bonus: $1500 gacha 150%
+    body: >
+      <h3>Xona haqida</h3>
+
+
+      <p>Ignition Poker 2016-yildan beri Paiwangluo tarmogʻida ishlaydi va AQSh hamda Avstraliya oʻyinchilariga
+      moʻljallangan. Eng gavjum soatlarda stollar ortida taxminan oʻn ikki ming kishi toʻplanadi, shuning uchun
+      kesh-oʻyin ham, turnirlar ham toʻxtovsiz davom etadi.</p>
+
+
+      <p>Xonaning asosiy xususiyati — toʻliq anonim stollar. Niklar yashirilgan, raqiblar haqida qaydlar yuritish va
+      zaif oʻyinchilarni maxsus tanlab olish imkoni yoʻq. Shu sababli niklar ochiq xonalardagiga qaraganda bu yerdagi
+      maydon sezilarli darajada yumshoqroq boʻlib qolmoqda.</p>
+
+
+      <h3>Oʻyin va formatlar</h3>
+
+
+      <p>Barcha limitlarda limitsiz xoldem va pot-limitli Omaha, turnirlar, jekpotli Sit&amp;Go hamda tezkor Zone Poker
+      formati mavjud: kartalarni tashlagandan soʻng oʻyinchi bir zumda yangi stolga oʻtadi va soatiga oʻynaladigan
+      qoʻllar soni bir necha barobar ortadi.</p>
+
+
+      <p>Kassa bitkoin va boshqa kriptovalyutalarni qabul qiladi, minimal depozit — 10 dollar. Klient desktopda ham,
+      brauzerda ham ishlaydi, alohida oʻrnatish shart emas.</p>
+
+
+      <h3>Bonus va shartlar</h3>
+
+
+      <ul>
+        <li><strong>$1500 gacha 150% xush kelibsiz bonusi</strong>.</li>
+        <li><strong>Anonim stollar</strong> — regulyarlar tomonidan bumhunting ham, oʻyinchi tanlash ham yoʻq.</li>
+        <li><strong>Kriptovalyuta kassasi</strong> — tez depozit va yechib olish.</li>
+      </ul>
+
+
+      <p>Ignition Poker boʻyicha bitimning shaxsiy shartlarini PDH menejeridan aniqlashtiring — biz 24/7 aloqadamiz.</p>
+    srcHash: 4ccb030fe71a
+  uk:
+    name: Угода в покер-румі Ignition Poker
+    description: >-
+      Рум мережі Paiwangluo для гравців зі США та Австралії: повністю анонімні столи, швидкий формат Zone Poker і одне з
+      найм'якших полів в онлайні. Бонус 150% до $1500.
+    geo: США, Австралія
+    bonus: 150% до $1500
+    body: >
+      <h3>Про рум</h3>
+
+
+      <p>Ignition Poker працює з 2016 року в мережі Paiwangluo й орієнтований на гравців зі США та Австралії. У пікові
+      години за столами збирається близько дванадцяти тисяч людей, тому кеш-гра і турніри йдуть без простоїв.</p>
+
+
+      <p>Головна особливість руму — повністю анонімні столи. Ніки приховані, вести нотатки на опонентів і цілеспрямовано
+      відбирати слабких суперників неможливо. Через це поле лишається помітно м'якшим, ніж у румах з відкритими
+      ніками.</p>
+
+
+      <h3>Гра та формати</h3>
+
+
+      <p>Доступні безлімітний холдем і пот-лімітна Омаха на всіх лімітах, турніри, Sit&amp;Go з джекпотом і швидкий
+      формат Zone Poker: після скидання карт гравець миттєво пересідає за новий стіл, а кількість рук за годину зростає
+      в рази.</p>
+
+
+      <p>Каса приймає біткоїн та інші криптовалюти, мінімальний депозит — 10 доларів. Клієнт працює на десктопі та в
+      браузері, окреме встановлення не обов'язкове.</p>
+
+
+      <h3>Бонус та умови</h3>
+
+
+      <ul>
+        <li><strong>Вітальний бонус 150% до $1500</strong>.</li>
+        <li><strong>Анонімні столи</strong> — жодного бамхантингу та селекту з боку регулярів.</li>
+        <li><strong>Криптовалютна каса</strong> — швидкі поповнення та виведення коштів.</li>
+      </ul>
+
+
+      <p>Персональні умови угоди щодо Ignition Poker уточнюйте в менеджера PDH — ми на зв'язку 24/7.</p>
+    srcHash: 4ccb030fe71a
+  it:
+    name: Offerta nella poker room Ignition Poker
+    description: >-
+      Room del network Paiwangluo per i giocatori di Stati Uniti e Australia: tavoli completamente anonimi, il formato
+      veloce Zone Poker e uno dei campi più soft dell'online. Bonus 150% fino a $1500.
+    geo: Stati Uniti, Australia
+    bonus: 150% fino a $1500
+    body: >
+      <h3>Informazioni sulla room</h3>
+
+
+      <p>Ignition Poker è attiva dal 2016 nel network Paiwangluo ed è rivolta ai giocatori di Stati Uniti e Australia.
+      Nelle ore di punta ai tavoli si radunano circa dodicimila persone, quindi cash game e tornei girano senza tempi
+      morti.</p>
+
+
+      <p>La caratteristica principale della room sono i tavoli completamente anonimi. I nickname sono nascosti: non è
+      possibile prendere note sugli avversari né selezionare di proposito i giocatori più deboli. Per questo il campo
+      resta nettamente più soft rispetto alle room con i nickname in chiaro.</p>
+
+
+      <h3>Gioco e formati</h3>
+
+
+      <p>Sono disponibili No-Limit Hold'em e Pot-Limit Omaha a tutti i limiti, tornei, Sit&amp;Go con jackpot e il
+      formato veloce Zone Poker: dopo aver foldato il giocatore passa subito a un nuovo tavolo e il numero di mani
+      all'ora si moltiplica.</p>
+
+
+      <p>La cassa accetta bitcoin e altre criptovalute, il deposito minimo è di 10 dollari. Il client funziona su
+      desktop e da browser, non è obbligatorio installare nulla.</p>
+
+
+      <h3>Bonus e condizioni</h3>
+
+
+      <ul>
+        <li><strong>Bonus di benvenuto 150% fino a $1500</strong>.</li>
+        <li><strong>Tavoli anonimi</strong> — niente bumhunting né table selection da parte dei regular.</li>
+        <li><strong>Cassa in criptovalute</strong> — depositi e prelievi rapidi.</li>
+      </ul>
+
+
+      <p>Per le condizioni personalizzate dell'offerta su Ignition Poker rivolgiti al manager PDH: siamo disponibili
+      24/7.</p>
+    srcHash: 4ccb030fe71a
+  de:
+    name: Deal im Pokerraum Ignition Poker
+    description: >-
+      Raum im Paiwangluo-Netzwerk für Spieler aus den USA und Australien: komplett anonyme Tische, das schnelle Format
+      Zone Poker und eines der softesten Felder im Online-Poker. Bonus 150% bis zu $1500.
+    geo: USA, Australien
+    bonus: 150% bis zu $1500
+    body: >
+      <h3>Über den Pokerraum</h3>
+
+
+      <p>Ignition Poker ist seit 2016 im Netzwerk Paiwangluo aktiv und richtet sich an Spieler aus den USA und
+      Australien. Zu Spitzenzeiten sitzen rund zwölftausend Spieler an den Tischen, Cash-Game und Turniere laufen
+      deshalb ohne Wartezeiten.</p>
+
+
+      <p>Das Hauptmerkmal des Raums sind die komplett anonymen Tische. Die Nicknames sind verborgen, Notizen zu den
+      Gegnern und das gezielte Aussuchen schwacher Spieler sind nicht möglich. Dadurch bleibt das Feld deutlich softer
+      als in Räumen mit offenen Nicknames.</p>
+
+
+      <h3>Spiel und Formate</h3>
+
+
+      <p>Verfügbar sind No-Limit Hold'em und Pot-Limit Omaha auf allen Limits, Turniere, Sit&amp;Go mit Jackpot und das
+      schnelle Format Zone Poker: Nach dem Folden wirst du sofort an einen neuen Tisch gesetzt, und die Zahl der Hände
+      pro Stunde steigt um ein Vielfaches.</p>
+
+
+      <p>Die Kasse akzeptiert Bitcoin und andere Kryptowährungen, die Mindesteinzahlung liegt bei 10 Dollar. Der Client
+      läuft auf dem Desktop und im Browser, eine separate Installation ist nicht nötig.</p>
+
+
+      <h3>Bonus und Konditionen</h3>
+
+
+      <ul>
+        <li><strong>Willkommensbonus 150% bis zu $1500</strong>.</li>
+        <li><strong>Anonyme Tische</strong> – kein Bumhunting und keine Gegnerauswahl durch Regulars.</li>
+        <li><strong>Krypto-Kasse</strong> – schnelle Ein- und Auszahlungen.</li>
+      </ul>
+
+
+      <p>Die persönlichen Konditionen des Ignition-Poker-Deals erfährst du beim PDH-Manager – wir sind 24/7
+      erreichbar.</p>
+    srcHash: 4ccb030fe71a
+  es:
+    name: Oferta en la sala de póker Ignition Poker
+    description: >-
+      Sala de la red Paiwangluo para jugadores de EE. UU. y Australia: mesas totalmente anónimas, el formato rápido Zone
+      Poker y uno de los campos más blandos del póker online. Bono del 150% hasta $1500.
+    geo: EE. UU., Australia
+    bonus: 150% hasta $1500
+    body: >
+      <h3>Sobre la sala</h3>
+
+
+      <p>Ignition Poker opera desde 2016 en la red Paiwangluo y está orientada a los jugadores de EE. UU. y Australia.
+      En las horas punta hay unas doce mil personas sentadas a las mesas, así que siempre hay acción tanto en el cash
+      como en los torneos.</p>
+
+
+      <p>La gran particularidad de la sala son las mesas totalmente anónimas. Los nicks están ocultos: no se pueden
+      tomar notas sobre los rivales ni seleccionar a propósito a los más flojos. Por eso el campo se mantiene bastante
+      más blando que en las salas con nicks visibles.</p>
+
+
+      <h3>Juego y formatos</h3>
+
+
+      <p>Hay hold'em sin límite y Omaha pot limit en todos los límites, torneos, Sit&amp;Go con jackpot y el formato
+      rápido Zone Poker: al tirar las cartas pasas al instante a una mesa nueva y el número de manos por hora se
+      multiplica.</p>
+
+
+      <p>El cajero admite bitcoin y otras criptomonedas, y el depósito mínimo es de 10 dólares. El cliente funciona en
+      escritorio y en el navegador: no hace falta instalar nada aparte.</p>
+
+
+      <h3>Bono y condiciones</h3>
+
+
+      <ul>
+        <li><strong>Bono de bienvenida del 150% hasta $1500</strong>.</li>
+        <li><strong>Mesas anónimas</strong> — sin bumhunting ni selección de rivales por parte de los regulares.</li>
+        <li><strong>Cajero en cripto</strong> — depósitos y retiros rápidos.</li>
+      </ul>
+
+
+      <p>Consulta las condiciones personalizadas de la oferta de Ignition Poker con el manager de PDH: estamos
+      disponibles 24/7.</p>
+    srcHash: 4ccb030fe71a
+  pt:
+    name: Oferta na sala de poker Ignition Poker
+    description: >-
+      Sala da rede Paiwangluo para jogadores dos EUA e da Austrália: mesas totalmente anônimas, o formato rápido Zone
+      Poker e um dos campos mais soft do poker online. Bônus de 150% até $1500.
+    geo: EUA, Austrália
+    bonus: 150% até $1500
+    body: >
+      <h3>Sobre a sala</h3>
+
+
+      <p>A Ignition Poker funciona desde 2016 na rede Paiwangluo e é voltada para jogadores dos EUA e da Austrália. Nos
+      horários de pico, cerca de doze mil pessoas se sentam às mesas, por isso o cash game e os torneios rodam sem
+      paradas.</p>
+
+
+      <p>O grande diferencial da sala são as mesas totalmente anônimas. Os nicks ficam ocultos e não dá para fazer
+      anotações sobre os oponentes nem garimpar os adversários mais fracos de propósito. Por causa disso, o campo
+      continua bem mais soft do que nas salas com nicks abertos.</p>
+
+
+      <h3>Jogos e formatos</h3>
+
+
+      <p>Há no-limit hold'em e pot-limit Omaha em todos os limites, torneios, Sit&amp;Go com jackpot e o formato rápido
+      Zone Poker: depois do fold, o jogador é realocado na hora para uma nova mesa, e o número de mãos por hora se
+      multiplica.</p>
+
+
+      <p>O caixa aceita bitcoin e outras criptomoedas, e o depósito mínimo é de 10 dólares. O cliente roda no desktop e
+      no navegador, sem necessidade de instalar nada à parte.</p>
+
+
+      <h3>Bônus e condições</h3>
+
+
+      <ul>
+        <li><strong>Bônus de boas-vindas de 150% até $1500</strong>.</li>
+        <li><strong>Mesas anônimas</strong> — nada de bumhunting nem de seleção de adversários por parte dos regulares.</li>
+        <li><strong>Caixa em cripto</strong> — depósitos e saques rápidos.</li>
+      </ul>
+
+
+      <p>Para as condições personalizadas da oferta na Ignition Poker, fale com o gerente da PDH — estamos disponíveis
+      24/7.</p>
+    srcHash: 4ccb030fe71a
+  fr:
+    name: Offre sur la salle de poker Ignition Poker
+    description: >-
+      Salle du réseau Paiwangluo destinée aux joueurs des États-Unis et d'Australie : tables entièrement anonymes,
+      format rapide Zone Poker et l'un des champs les plus soft du poker en ligne. Bonus 150% jusqu'à $1500.
+    geo: États-Unis, Australie
+    bonus: 150% jusqu'à $1500
+    body: >
+      <h3>À propos de la salle</h3>
+
+
+      <p>Ignition Poker opère depuis 2016 au sein du réseau Paiwangluo et s'adresse aux joueurs des États-Unis et
+      d'Australie. Aux heures de pointe, près de douze mille personnes sont attablées, si bien que le cash game et les
+      tournois tournent sans temps mort.</p>
+
+
+      <p>La grande particularité de la salle, ce sont ses tables entièrement anonymes. Les pseudos sont masqués :
+      impossible de prendre des notes sur ses adversaires ou de sélectionner délibérément les joueurs faibles. Le champ
+      reste donc nettement plus soft que dans les salles où les pseudos sont visibles.</p>
+
+
+      <h3>Jeu et formats</h3>
+
+
+      <p>Au programme : hold'em no limit et Omaha pot limit sur toutes les limites, tournois, Sit&amp;Go à jackpot et le
+      format rapide Zone Poker — dès que vous jetez vos cartes, vous êtes instantanément transféré à une nouvelle table,
+      ce qui fait grimper le nombre de mains jouées à l'heure.</p>
+
+
+      <p>La caisse accepte le bitcoin et d'autres cryptomonnaies, avec un dépôt minimum de 10 dollars. Le client
+      fonctionne sur desktop comme dans le navigateur, aucune installation séparée n'est obligatoire.</p>
+
+
+      <h3>Bonus et conditions</h3>
+
+
+      <ul>
+        <li><strong>Bonus de bienvenue 150% jusqu'à $1500</strong>.</li>
+        <li><strong>Tables anonymes</strong> — pas de bumhunting ni de sélection des adversaires par les réguliers.</li>
+        <li><strong>Caisse en crypto</strong> — dépôts et retraits rapides.</li>
+      </ul>
+
+
+      <p>Pour les conditions personnalisées de l'offre Ignition Poker, contactez le manager PDH — nous sommes joignables
+      24/7.</p>
+    srcHash: 4ccb030fe71a
+  tr:
+    name: Ignition Poker poker odasında anlaşma
+    description: >-
+      ABD ve Avustralya'daki oyunculara yönelik Paiwangluo ağı odası: tamamen anonim masalar, hızlı Zone Poker formatı
+      ve online pokerdeki en soft sahalardan biri. $1500'a kadar %150 bonus.
+    geo: ABD, Avustralya
+    bonus: $1500'a kadar %150
+    body: >
+      <h3>Oda Hakkında</h3>
+
+
+      <p>Ignition Poker, 2016 yılından beri Paiwangluo ağında faaliyet gösteriyor ve ABD ile Avustralya'daki oyunculara
+      hitap ediyor. Yoğun saatlerde masalarda yaklaşık on iki bin kişi toplanıyor, bu yüzden cash oyunlar ve turnuvalar
+      duraksamadan sürüyor.</p>
+
+
+      <p>Odanın en büyük özelliği tamamen anonim masalar. Takma adlar gizli olduğu için rakipler hakkında not tutmak ya
+      da bilerek zayıf oyuncuları seçmek mümkün değil. Bu yüzden saha, takma adların açık olduğu odalara kıyasla
+      belirgin biçimde daha soft kalıyor.</p>
+
+
+      <h3>Oyun ve Formatlar</h3>
+
+
+      <p>Tüm limitlerde No Limit Hold'em ve Pot Limit Omaha, turnuvalar, jackpotlu Sit&amp;Go ve hızlı format Zone Poker
+      mevcut: elinizi fold ettiğiniz anda yeni bir masaya oturuyorsunuz, saatlik el sayınız kat kat artıyor.</p>
+
+
+      <p>Kasa bitcoin ve diğer kripto paraları kabul ediyor, minimum depozito 10 dolar. Oyun istemcisi hem masaüstünde
+      hem de tarayıcıda çalışıyor, ayrı bir kurulum gerekmiyor.</p>
+
+
+      <h3>Bonus ve Koşullar</h3>
+
+
+      <ul>
+        <li><strong>$1500'a kadar %150 hoş geldin bonusu</strong>.</li>
+        <li><strong>Anonim masalar</strong> — regülerlerin bumhunting ve masa seçimi yapması mümkün değil.</li>
+        <li><strong>Kripto kasa</strong> — hızlı para yatırma ve çekme işlemleri.</li>
+      </ul>
+
+
+      <p>Ignition Poker anlaşmasının kişisel koşullarını PDH yöneticisinden öğrenebilirsiniz — 7/24 buradayız.</p>
+    srcHash: 4ccb030fe71a
+  he:
+    name: דיל בחדר הפוקר Ignition Poker
+    description: >-
+      חדר ברשת Paiwangluo לשחקנים מארה"ב ומאוסטרליה: שולחנות אנונימיים לחלוטין, הפורמט המהיר Zone Poker ואחד השדות הרכים
+      ביותר באונליין. בונוס 150% עד $1500.
+    geo: ארה"ב, אוסטרליה
+    bonus: 150% עד $1500
+    body: >
+      <h3>על החדר</h3>
+
+
+      <p>Ignition Poker פועל מאז 2016 ברשת Paiwangluo ומכוון לשחקנים מארה"ב ומאוסטרליה. בשעות השיא מתיישבים בשולחנות
+      כשנים-עשר אלף שחקנים, ולכן משחקי הקאש והטורנירים רצים ברצף.</p>
+
+
+      <p>הייחוד המרכזי של החדר הוא שולחנות אנונימיים לחלוטין. הכינויים מוסתרים, ואי אפשר לרשום הערות על יריבים או לבחור
+      במכוון יריבים חלשים. לכן השדה נשאר רך משמעותית יותר מאשר בחדרים עם כינויים גלויים.</p>
+
+
+      <h3>משחק ופורמטים</h3>
+
+
+      <p>זמינים הולדם ללא הגבלה ואומהה פוט-לימיט בכל הלימיטים, טורנירים, Sit&amp;Go עם ג'קפוט והפורמט המהיר Zone Poker:
+      מיד אחרי זריקת הקלפים השחקן עובר לשולחן חדש, וכמות הידיים בשעה גדלה פי כמה.</p>
+
+
+      <p>הקופה מקבלת ביטקוין ומטבעות קריפטו נוספים, וההפקדה המינימלית היא 10 דולר. הקליינט עובד בדסקטופ ובדפדפן, כך
+      שהתקנה נפרדת אינה חובה.</p>
+
+
+      <h3>בונוס ותנאים</h3>
+
+
+      <ul>
+        <li><strong>בונוס הצטרפות 150% עד $1500</strong>.</li>
+        <li><strong>שולחנות אנונימיים</strong> — בלי באם-האנטינג ובלי סלקציה מצד הרגולרים.</li>
+        <li><strong>קופת קריפטו</strong> — הפקדות ומשיכות מהירות.</li>
+      </ul>
+
+
+      <p>את התנאים האישיים של הדיל ב-Ignition Poker תוכלו לברר מול המנהל של PDH — אנחנו זמינים 24/7.</p>
+    srcHash: 4ccb030fe71a
+  ar:
+    name: صفقة في غرفة البوكر Ignition Poker
+    description: >-
+      غرفة من شبكة Paiwangluo للاعبين من الولايات المتحدة وأستراليا: طاولات مجهولة بالكامل، وصيغة Zone Poker السريعة،
+      وواحد من أضعف مستويات المنافسة في البوكر أونلاين. بونص 150% حتى $1500.
+    geo: الولايات المتحدة، أستراليا
+    bonus: 150% حتى $1500
+    body: >
+      <h3>عن الغرفة</h3>
+
+
+      <p>تعمل Ignition Poker منذ عام 2016 ضمن شبكة Paiwangluo وتستهدف اللاعبين من الولايات المتحدة وأستراليا. في ساعات
+      الذروة يجلس على الطاولات نحو اثني عشر ألف لاعب، لذلك تسير ألعاب الكاش والبطولات دون أي توقف.</p>
+
+
+      <p>الميزة الأساسية في الغرفة هي الطاولات المجهولة بالكامل. الأسماء مخفية، فلا يمكن تدوين ملاحظات على الخصوم ولا
+      انتقاء اللاعبين الضعفاء عمداً. ولهذا يبقى مستوى المنافسة أسهل بوضوح مقارنة بالغرف التي تُعرض فيها أسماء
+      اللاعبين.</p>
+
+
+      <h3>الألعاب والصيغ</h3>
+
+
+      <p>تتوفر لعبة الهولدم بلا حدود وأوماها بحد القِدر على جميع الحدود، إضافة إلى البطولات وSit&amp;Go بجائزة جاكبوت
+      وصيغة Zone Poker السريعة: فور انسحابك من اليد تنتقل مباشرة إلى طاولة جديدة، فيتضاعف عدد الأيدي التي تلعبها في
+      الساعة عدة مرات.</p>
+
+
+      <p>يقبل الصندوق البيتكوين وعملات رقمية أخرى، والحد الأدنى للإيداع 10 دولارات. يعمل التطبيق على سطح المكتب وفي
+      المتصفح، لذلك لا يلزم تثبيت منفصل.</p>
+
+
+      <h3>البونص والشروط</h3>
+
+
+      <ul>
+        <li><strong>بونص ترحيبي 150% حتى $1500</strong>.</li>
+        <li><strong>طاولات مجهولة</strong> — لا مطاردة للاعبين الضعفاء ولا انتقاء للطاولات من جانب الريغولار.</li>
+        <li><strong>صندوق بالعملات الرقمية</strong> — إيداعات وسحوبات سريعة.</li>
+      </ul>
+
+
+      <p>لمعرفة الشروط الشخصية لصفقة Ignition Poker تواصل مع مدير PDH — نحن على تواصل 24/7.</p>
+    srcHash: 4ccb030fe71a
+  id:
+    name: Deal di poker room Ignition Poker
+    description: >-
+      Room jaringan Paiwangluo untuk pemain dari Amerika Serikat dan Australia: meja yang sepenuhnya anonim, format
+      cepat Zone Poker, dan salah satu field paling soft di poker online. Bonus 150% hingga $1500.
+    geo: Amerika Serikat, Australia
+    bonus: 150% hingga $1500
+    body: >
+      <h3>Tentang Room</h3>
+
+
+      <p>Ignition Poker beroperasi sejak 2016 di jaringan Paiwangluo dan menyasar pemain dari Amerika Serikat dan
+      Australia. Pada jam sibuk, sekitar dua belas ribu orang duduk di meja, sehingga cash game dan turnamen berjalan
+      tanpa jeda.</p>
+
+
+      <p>Fitur utama room ini adalah meja yang sepenuhnya anonim. Nickname disembunyikan, sehingga mencatat kebiasaan
+      lawan maupun sengaja memilih lawan yang lemah menjadi mustahil. Karena itu field-nya tetap terasa jauh lebih soft
+      dibandingkan room dengan nickname terbuka.</p>
+
+
+      <h3>Permainan dan Format</h3>
+
+
+      <p>Tersedia No Limit Hold'em dan Pot Limit Omaha di semua limit, turnamen, Sit&amp;Go dengan jackpot, serta format
+      cepat Zone Poker: begitu kartu di-fold, pemain langsung dipindahkan ke meja baru dan jumlah hand per jam naik
+      berlipat ganda.</p>
+
+
+      <p>Cashier menerima bitcoin dan kripto lainnya, dengan deposit minimum 10 dolar. Client berjalan di desktop maupun
+      di browser, jadi instalasi terpisah tidak wajib.</p>
+
+
+      <h3>Bonus dan Ketentuan</h3>
+
+
+      <ul>
+        <li><strong>Bonus selamat datang 150% hingga $1500</strong>.</li>
+        <li><strong>Meja anonim</strong> — tanpa bumhunting dan seleksi lawan dari para regular.</li>
+        <li><strong>Cashier kripto</strong> — deposit dan penarikan dana yang cepat.</li>
+      </ul>
+
+
+      <p>Untuk ketentuan deal Ignition Poker yang dipersonalisasi, hubungi manajer PDH — kami siap 24/7.</p>
+    srcHash: 4ccb030fe71a
+  vi:
+    name: Kèo tại phòng poker Ignition Poker
+    description: >-
+      Phòng thuộc mạng Paiwangluo dành cho người chơi từ Mỹ và Úc: bàn hoàn toàn ẩn danh, thể thức nhanh Zone Poker và
+      một trong những sân chơi mềm nhất trên mạng. Thưởng 150% lên đến $1500.
+    geo: Mỹ, Úc
+    bonus: 150% lên đến $1500
+    body: >
+      <h3>Về phòng chơi</h3>
+
+
+      <p>Ignition Poker hoạt động từ năm 2016 trong mạng Paiwangluo và hướng đến người chơi từ Mỹ và Úc. Vào giờ cao
+      điểm có khoảng mười hai nghìn người ngồi bàn, nên cash game và giải đấu luôn chạy liên tục, không bị gián
+      đoạn.</p>
+
+
+      <p>Đặc điểm chính của phòng là các bàn hoàn toàn ẩn danh. Nickname được ẩn đi, nên không thể ghi chú về đối thủ
+      hay cố ý chọn lọc những người chơi yếu. Nhờ vậy sân chơi ở đây mềm hơn hẳn so với các phòng hiển thị nickname.</p>
+
+
+      <h3>Trò chơi và thể thức</h3>
+
+
+      <p>Có no-limit hold'em và pot-limit Omaha ở mọi mức cược, giải đấu, Sit&amp;Go có jackpot và thể thức nhanh Zone
+      Poker: vừa bỏ bài là bạn được chuyển ngay sang bàn mới, nhờ đó số ván mỗi giờ tăng lên gấp nhiều lần.</p>
+
+
+      <p>Quầy giao dịch nhận bitcoin và các loại tiền mã hóa khác, mức nạp tối thiểu là 10 đô la. Client chạy trên
+      desktop và ngay trên trình duyệt, không bắt buộc phải cài đặt riêng.</p>
+
+
+      <h3>Thưởng và điều kiện</h3>
+
+
+      <ul>
+        <li><strong>Thưởng chào mừng 150% lên đến $1500</strong>.</li>
+        <li><strong>Bàn ẩn danh</strong> — không có bum-hunting, regular cũng không thể chọn lọc đối thủ.</li>
+        <li><strong>Quầy giao dịch tiền mã hóa</strong> — nạp và rút tiền nhanh chóng.</li>
+      </ul>
+
+
+      <p>Về điều kiện riêng của kèo Ignition Poker, hãy hỏi quản lý PDH — chúng tôi trực 24/7.</p>
+    srcHash: 4ccb030fe71a
+  fil:
+    name: Deal sa poker room na Ignition Poker
+    description: >-
+      Room ng Paiwangluo network para sa mga manlalaro mula sa USA at Australia: ganap na anonymous na mga mesa, ang
+      mabilis na format na Zone Poker, at isa sa pinaka-soft na field sa online poker. Bonus na 150% hanggang $1500.
+    geo: USA, Australia
+    bonus: 150% hanggang $1500
+    body: >
+      <h3>Tungkol sa room</h3>
+
+
+      <p>Gumagana ang Ignition Poker mula noong 2016 sa Paiwangluo network at nakatuon sa mga manlalaro mula sa USA at
+      Australia. Sa mga peak hours ay umaabot sa humigit-kumulang labindalawang libong tao ang nasa mga mesa, kaya
+      tuloy-tuloy ang cash game at mga torneo.</p>
+
+
+      <p>Ang pangunahing katangian ng room ay ang ganap na anonymous na mga mesa. Nakatago ang mga nickname, kaya hindi
+      posibleng gumawa ng notes sa mga kalaban o sadyang piliin ang mahihinang katunggali. Dahil dito, nananatiling
+      kapansin-pansing mas soft ang field kaysa sa mga room na bukas ang mga nickname.</p>
+
+
+      <h3>Laro at mga format</h3>
+
+
+      <p>Makukuha ang no-limit hold'em at pot-limit Omaha sa lahat ng limit, mga torneo, Sit&amp;Go na may jackpot, at
+      ang mabilis na format na Zone Poker: pagkatapos i-fold ang mga baraha ay agad na inililipat ang manlalaro sa
+      bagong mesa, kaya ilang ulit na tumataas ang bilang ng hands kada oras.</p>
+
+
+      <p>Tumatanggap ang cashier ng bitcoin at iba pang cryptocurrency, at 10 dolyar ang minimum na deposito. Gumagana
+      ang client sa desktop at sa browser — hindi kailangan ng hiwalay na pag-install.</p>
+
+
+      <h3>Bonus at mga kondisyon</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus na 150% hanggang $1500</strong>.</li>
+        <li><strong>Anonymous na mga mesa</strong> — walang bum-hunting at walang pagpili ng kalaban mula sa mga regular.</li>
+        <li><strong>Cryptocurrency cashier</strong> — mabilis na deposito at withdrawal.</li>
+      </ul>
+
+
+      <p>Para sa personal na kondisyon ng deal sa Ignition Poker, kumontak sa manager ng PDH — available kami 24/7.</p>
+    srcHash: 4ccb030fe71a
+  th:
+    name: ดีลในห้องโป๊กเกอร์ Ignition Poker
+    description: >-
+      โป๊กเกอร์รูมในเครือข่าย Paiwangluo สำหรับผู้เล่นจากสหรัฐอเมริกาและออสเตรเลีย: โต๊ะนิรนามเต็มรูปแบบ รูปแบบเกมเร็ว
+      Zone Poker และสนามเกมที่ซอฟต์ที่สุดแห่งหนึ่งในโลกออนไลน์ โบนัส 150% สูงสุด $1500
+    geo: สหรัฐอเมริกา, ออสเตรเลีย
+    bonus: 150% สูงสุด $1500
+    body: >
+      <h3>เกี่ยวกับรูม</h3>
+
+
+      <p>Ignition Poker เปิดให้บริการมาตั้งแต่ปี 2016 ในเครือข่าย Paiwangluo และเน้นผู้เล่นจากสหรัฐอเมริกาและออสเตรเลีย
+      ในช่วงเวลาพีคมีผู้เล่นนั่งโต๊ะพร้อมกันราวหนึ่งหมื่นสองพันคน
+      เกมแคชและทัวร์นาเมนต์จึงเดินต่อเนื่องโดยไม่มีช่วงว่าง</p>
+
+
+      <p>จุดเด่นหลักของรูมนี้คือโต๊ะนิรนามเต็มรูปแบบ ชื่อผู้เล่นถูกซ่อนไว้ทั้งหมด
+      จึงจดโน้ตคู่แข่งหรือไล่เลือกเล่นกับผู้เล่นที่อ่อนกว่าไม่ได้
+      ด้วยเหตุนี้สนามเกมจึงยังซอฟต์กว่ารูมที่เปิดเผยชื่อผู้เล่นอย่างเห็นได้ชัด</p>
+
+
+      <h3>เกมและรูปแบบการเล่น</h3>
+
+
+      <p>มีทั้งโฮลเด็มแบบไม่จำกัดเงินเดิมพันและโอมาฮาแบบพ็อตลิมิตครบทุกลิมิต ทัวร์นาเมนต์, Sit&amp;Go แบบมีแจ็กพอต
+      และรูปแบบเกมเร็ว Zone Poker ที่พอหมอบไพ่แล้วผู้เล่นจะถูกย้ายไปโต๊ะใหม่ทันที
+      ทำให้จำนวนไม้ต่อชั่วโมงเพิ่มขึ้นหลายเท่า</p>
+
+
+      <p>ระบบแคชเชียร์รองรับบิตคอยน์และคริปโตเคอร์เรนซีสกุลอื่น ๆ เงินฝากขั้นต่ำอยู่ที่ 10 ดอลลาร์
+      ไคลเอนต์ใช้งานได้ทั้งบนเดสก์ท็อปและผ่านเบราว์เซอร์ ไม่จำเป็นต้องติดตั้งโปรแกรมแยกต่างหาก</p>
+
+
+      <h3>โบนัสและเงื่อนไข</h3>
+
+
+      <ul>
+        <li><strong>โบนัสต้อนรับ 150% สูงสุด $1500</strong></li>
+        <li><strong>โต๊ะนิรนาม</strong> — ไม่มีการล่าผู้เล่นอ่อนและไม่มีการเลือกโต๊ะเลือกคู่แข่งจากฝั่งเรกกูลาร์</li>
+        <li><strong>แคชเชียร์คริปโตเคอร์เรนซี</strong> — ฝากและถอนเงินได้รวดเร็ว</li>
+      </ul>
+
+
+      <p>สอบถามเงื่อนไขดีล Ignition Poker แบบเฉพาะบุคคลได้ที่ผู้จัดการของ PDH — เราพร้อมให้บริการตลอด 24/7</p>
+    srcHash: 4ccb030fe71a

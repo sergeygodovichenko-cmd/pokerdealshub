@@ -1,0 +1,729 @@
+app: Natural8
+club: "-"
+union: "-"
+logo: natural8_logo
+logoimage: /natural8.webp
+logoalt: Natural8 logo
+format: NLH / PLO / MTT
+type: Centralized
+rakeback: ""
+featured: false
+hidden: false
+order: 22
+badges:
+  - centralized
+  - asia
+  - international
+  - soft
+  - verified
+regions:
+  - asia
+  - europe
+ratings:
+  mtt: 5
+  cash: 4
+  plo: 4
+  nlh: 5
+name: Сделка в покер руме Natural8
+description: >-
+  Флагманский рум крупнейшей покерной сети GGNetwork с сильным азиатским трафиком: сотни кэш-столов, акции на $8 млн
+  ежемесячно и бонус 200% до $1000.
+geo: Азия, Глобал
+bonus: 200% до $1000
+body: >
+  <h3>О руме</h3>
+
+
+  <p>Natural8 — один из главных скинов GGNetwork, крупнейшей покерной сети мира. Рум запущен в 2016 году и традиционно
+  собирает много игроков из Азии: в пиковые часы за столами около десяти тысяч человек.</p>
+
+
+  <p>Генератор случайных чисел сертифицирован лабораторией bmmTestLabs, минимальный депозит — 10 долларов. Касса
+  работает в том числе с биткоином, счета ведутся в долларах США.</p>
+
+
+  <h3>Игра и форматы</h3>
+
+
+  <p>В клиенте открыты сотни кэш-столов по холдему и Омахе, спины, короткая колода и полноценная турнирная сетка вплоть
+  до хайроллер-ивентов и онлайн-серий WSOP. Общий призовой фонд промо-акций сети превышает восемь миллионов долларов в
+  месяц.</p>
+
+
+  <p>Сторонние трекеры и HUD не поддерживаются: анализировать игру можно только по встроенной статистике. Для
+  игроков-любителей это плюс — регуляры лишены привычного информационного перевеса.</p>
+
+
+  <h3>Бонус и условия</h3>
+
+
+  <ul>
+    <li><strong>Приветственный бонус 200% до $1000</strong>.</li>
+    <li><strong>Азиатский трафик</strong> — много рекреационных игроков за столами.</li>
+    <li><strong>Ежемесячные акции сети</strong> на сумму более $8 млн.</li>
+  </ul>
+
+
+  <p>Персональные условия сделки по Natural8 уточняйте у менеджера PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in Natural8 poker room
+    description: >-
+      The flagship room of GGNetwork, the largest poker network, with strong Asian traffic: hundreds of cash tables, $8
+      million in promotions every month and a 200% bonus up to $1000.
+    geo: Asia, Global
+    bonus: 200% up to $1000
+    body: >
+      <h3>About the room</h3>
+
+
+      <p>Natural8 is one of the main skins on GGNetwork, the biggest poker network in the world. The room launched in
+      2016 and has always pulled a large Asian crowd: at peak hours there are around ten thousand players at the
+      tables.</p>
+
+
+      <p>Its random number generator is certified by the bmmTestLabs testing lab and the minimum deposit is 10 dollars.
+      The cashier works with bitcoin among other methods, and accounts are held in US dollars.</p>
+
+
+      <h3>Games and formats</h3>
+
+
+      <p>The client runs hundreds of cash tables in hold'em and Omaha, plus SPINS, short deck and a full tournament
+      schedule that goes all the way up to high roller events and WSOP online series. The total prize pool of the
+      network's promotions tops eight million dollars a month.</p>
+
+
+      <p>Third-party trackers and HUDs are not supported: you can only review your play through the built-in stats. For
+      recreational players that is a plus — regulars lose the information edge they are used to.</p>
+
+
+      <h3>Bonus and terms</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus of 200% up to $1000</strong>.</li>
+        <li><strong>Asian traffic</strong> — plenty of recreational players at the tables.</li>
+        <li><strong>Monthly network promotions</strong> worth more than $8 million.</li>
+      </ul>
+
+
+      <p>For the personal terms of the Natural8 deal, check with the PDH manager — we are available 24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  uz:
+    name: Natural8 xonasidagi bitim
+    description: >-
+      Dunyodagi eng yirik poker tarmogʻi GGNetwork'ning kuchli Osiyo trafigiga ega flagman xonasi: yuzlab kesh-stollar,
+      oyiga $8 mln'lik aksiyalar va $1000 gacha 200% bonus.
+    geo: Osiyo, Global
+    bonus: $1000 gacha 200%
+    body: >
+      <h3>Xona haqida</h3>
+
+
+      <p>Natural8 — dunyodagi eng yirik poker tarmogʻi GGNetwork'ning asosiy skinlaridan biri. Xona 2016-yilda ishga
+      tushgan va azaldan koʻplab osiyolik oʻyinchilarni jamlaydi: eng gavjum soatlarda stollar ortida taxminan oʻn ming
+      kishi oʻtiradi.</p>
+
+
+      <p>Tasodifiy sonlar generatori bmmTestLabs laboratoriyasida sertifikatlangan, eng kam depozit — 10 dollar. Kassa
+      bitkoin bilan ham ishlaydi, hisoblar AQSh dollarida yuritiladi.</p>
+
+
+      <h3>Oʻyin va formatlar</h3>
+
+
+      <p>Klientda xoldem va Omaha boʻyicha yuzlab kesh-stollar, spinlar, qisqa koloda hamda hayroller turnirlari va WSOP
+      onlayn seriyalarigacha yetadigan toʻliq turnir jadvali mavjud. Tarmoq aksiyalarining umumiy sovrin jamgʻarmasi
+      oyiga sakkiz million dollardan oshadi.</p>
+
+
+      <p>Uchinchi tomon trekerlari va HUD qoʻllab-quvvatlanmaydi: oʻyinni faqat ichki statistika orqali tahlil qilish
+      mumkin. Havaskor oʻyinchilar uchun bu afzallik — regulyarlar odatdagi axborot ustunligidan mahrum boʻladi.</p>
+
+
+      <h3>Bonus va shartlar</h3>
+
+
+      <ul>
+        <li><strong>$1000 gacha 200% xush kelibsiz bonusi</strong>.</li>
+        <li><strong>Osiyo trafigi</strong> — stollar ortida koʻplab rekreatsion oʻyinchilar.</li>
+        <li><strong>Tarmoqning oylik aksiyalari</strong> — umumiy summasi $8 mln'dan ortiq.</li>
+      </ul>
+
+
+      <p>Natural8 boʻyicha shaxsiy bitim shartlarini PDH menejeridan bilib oling — biz 24/7 aloqadamiz.</p>
+    srcHash: c5dbd4cb8e9c
+  uk:
+    name: Угода в покер-румі Natural8
+    description: >-
+      Флагманський рум найбільшої покерної мережі GGNetwork із потужним азійським трафіком: сотні кеш-столів, акції на
+      $8 млн щомісяця та бонус 200% до $1000.
+    geo: Азія, Глобал
+    bonus: 200% до $1000
+    body: >
+      <h3>Про рум</h3>
+
+
+      <p>Natural8 — один із головних скінів GGNetwork, найбільшої покерної мережі світу. Рум запущено у 2016 році, і він
+      традиційно збирає багато гравців з Азії: у пікові години за столами близько десяти тисяч осіб.</p>
+
+
+      <p>Генератор випадкових чисел сертифіковано лабораторією bmmTestLabs, мінімальний депозит — 10 доларів. Каса
+      працює і з біткоїном, рахунки ведуться в доларах США.</p>
+
+
+      <h3>Гра та формати</h3>
+
+
+      <p>У клієнті відкриті сотні кеш-столів з холдему та Омахи, спіни, коротка колода і повноцінна турнірна сітка аж до
+      хайролер-івентів та онлайн-серій WSOP. Загальний призовий фонд промо-акцій мережі перевищує вісім мільйонів
+      доларів на місяць.</p>
+
+
+      <p>Сторонні трекери та HUD не підтримуються: аналізувати гру можна лише за вбудованою статистикою. Для
+      гравців-аматорів це плюс — регуляри позбавлені звичної інформаційної переваги.</p>
+
+
+      <h3>Бонус та умови</h3>
+
+
+      <ul>
+        <li><strong>Вітальний бонус 200% до $1000</strong>.</li>
+        <li><strong>Азійський трафік</strong> — багато рекреаційних гравців за столами.</li>
+        <li><strong>Щомісячні акції мережі</strong> на суму понад $8 млн.</li>
+      </ul>
+
+
+      <p>Персональні умови угоди щодо Natural8 уточнюйте в менеджера PDH — ми на зв'язку 24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  it:
+    name: Offerta nella poker room Natural8
+    description: >-
+      La room di punta di GGNetwork, la più grande rete di poker, con un forte traffico asiatico: centinaia di tavoli
+      cash, promozioni da $8 milioni al mese e un bonus del 200% fino a $1000.
+    geo: Asia, Globale
+    bonus: 200% fino a $1000
+    body: >
+      <h3>Informazioni sulla room</h3>
+
+
+      <p>Natural8 è una delle principali skin di GGNetwork, la più grande rete di poker al mondo. La room è stata
+      lanciata nel 2016 e raduna da sempre molti giocatori asiatici: nelle ore di punta ai tavoli ci sono circa
+      diecimila persone.</p>
+
+
+      <p>Il generatore di numeri casuali è certificato dal laboratorio bmmTestLabs e il deposito minimo è di 10 dollari.
+      La cassa lavora anche con bitcoin e i conti sono gestiti in dollari USA.</p>
+
+
+      <h3>Gioco e formati</h3>
+
+
+      <p>Nel client trovi centinaia di tavoli cash di hold'em e Omaha, SPINS, Short Deck e un palinsesto completo di
+      tornei, fino agli eventi high roller e alle serie online WSOP. Il montepremi complessivo delle promozioni della
+      rete supera gli otto milioni di dollari al mese.</p>
+
+
+      <p>Tracker e HUD di terze parti non sono supportati: puoi analizzare il tuo gioco solo con le statistiche
+      integrate. Per i giocatori amatoriali è un vantaggio: i regular perdono il consueto margine informativo.</p>
+
+
+      <h3>Bonus e condizioni</h3>
+
+
+      <ul>
+        <li><strong>Bonus di benvenuto 200% fino a $1000</strong>.</li>
+        <li><strong>Traffico asiatico</strong> — tanti giocatori ricreativi ai tavoli.</li>
+        <li><strong>Promozioni mensili della rete</strong> per oltre $8 milioni.</li>
+      </ul>
+
+
+      <p>Per le condizioni personalizzate dell'offerta su Natural8 rivolgiti al manager PDH: siamo disponibili 24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  de:
+    name: Deal im Pokerraum Natural8
+    description: >-
+      Der Flaggschiff-Raum des größten Pokernetzwerks GGNetwork mit starkem asiatischem Traffic: Hunderte Cash-Tische,
+      Aktionen im Wert von $8 Mio. pro Monat und ein Bonus von 200% bis zu $1000.
+    geo: Asien, Global
+    bonus: 200% bis zu $1000
+    body: >
+      <h3>Über den Pokerraum</h3>
+
+
+      <p>Natural8 ist einer der wichtigsten Skins von GGNetwork, dem größten Pokernetzwerk der Welt. Der Raum ging 2016
+      an den Start und zieht traditionell viele Spieler aus Asien an: zu Stoßzeiten sitzen rund zehntausend Spieler an
+      den Tischen.</p>
+
+
+      <p>Der Zufallszahlengenerator ist vom Labor bmmTestLabs zertifiziert, die Mindesteinzahlung liegt bei 10 Dollar.
+      Die Kasse akzeptiert unter anderem Bitcoin, die Konten werden in US-Dollar geführt.</p>
+
+
+      <h3>Spiel und Formate</h3>
+
+
+      <p>Im Client laufen Hunderte Cash-Tische in Hold'em und Omaha, dazu SPINS, Short Deck und ein vollwertiger
+      Turnierplan bis hin zu High-Roller-Events und den WSOP-Online-Serien. Der gesamte Preispool der Netzwerk-Aktionen
+      liegt bei über acht Millionen Dollar im Monat.</p>
+
+
+      <p>Tracker und HUDs von Drittanbietern werden nicht unterstützt: Das eigene Spiel lässt sich nur über die
+      integrierte Statistik auswerten. Für Freizeitspieler ist das ein Plus — den Regulars fehlt der gewohnte
+      Informationsvorsprung.</p>
+
+
+      <h3>Bonus und Konditionen</h3>
+
+
+      <ul>
+        <li><strong>Willkommensbonus 200% bis zu $1000</strong>.</li>
+        <li><strong>Asiatischer Traffic</strong> — viele Recreational-Spieler an den Tischen.</li>
+        <li><strong>Monatliche Netzwerk-Aktionen</strong> im Wert von über $8 Mio.</li>
+      </ul>
+
+
+      <p>Die persönlichen Konditionen des Natural8-Deals erfragst du beim PDH-Manager — wir sind 24/7 erreichbar.</p>
+    srcHash: c5dbd4cb8e9c
+  es:
+    name: Oferta en la sala de póker Natural8
+    description: >-
+      La sala insignia de GGNetwork, la mayor red de póker del mundo, con un fuerte tráfico asiático: cientos de mesas
+      de cash, promociones por valor de $8 millones al mes y un bono del 200% hasta $1000.
+    geo: Asia, Global
+    bonus: 200% hasta $1000
+    body: >
+      <h3>Sobre la sala</h3>
+
+
+      <p>Natural8 es uno de los principales skins de GGNetwork, la mayor red de póker del mundo. La sala se lanzó en
+      2016 y tradicionalmente reúne a muchos jugadores de Asia: en las horas punta hay unas diez mil personas sentadas a
+      las mesas.</p>
+
+
+      <p>El generador de números aleatorios está certificado por el laboratorio bmmTestLabs y el depósito mínimo es de
+      10 dólares. El cajero admite también bitcoin, y las cuentas se llevan en dólares estadounidenses.</p>
+
+
+      <h3>Juego y formatos</h3>
+
+
+      <p>En el cliente hay cientos de mesas de cash de hold'em y Omaha, spins, baraja corta y una parrilla de torneos
+      completa que llega hasta los eventos high roller y las series online de la WSOP. El fondo total de premios de las
+      promociones de la red supera los ocho millones de dólares al mes.</p>
+
+
+      <p>No se admiten trackers externos ni HUD: el juego solo se puede analizar con las estadísticas integradas. Para
+      los jugadores aficionados es un punto a favor: los regulares se quedan sin su habitual ventaja informativa.</p>
+
+
+      <h3>Bono y condiciones</h3>
+
+
+      <ul>
+        <li><strong>Bono de bienvenida del 200% hasta $1000</strong>.</li>
+        <li><strong>Tráfico asiático</strong> — mucho jugador recreativo en las mesas.</li>
+        <li><strong>Promociones mensuales de la red</strong> por más de $8 millones.</li>
+      </ul>
+
+
+      <p>Consulta las condiciones personalizadas de la oferta de Natural8 con el manager de PDH: estamos disponibles
+      24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  pt:
+    name: Oferta na sala de poker Natural8
+    description: >-
+      A sala carro-chefe da GGNetwork, a maior rede de poker, com forte tráfego asiático: centenas de mesas de cash,
+      promoções que somam $8 milhões por mês e bônus de 200% até $1000.
+    geo: Ásia, Global
+    bonus: 200% até $1000
+    body: >
+      <h3>Sobre a sala</h3>
+
+
+      <p>A Natural8 é um dos principais skins da GGNetwork, a maior rede de poker do mundo. A sala foi lançada em 2016 e
+      tradicionalmente reúne muitos jogadores da Ásia: nos horários de pico, cerca de dez mil pessoas se sentam às
+      mesas.</p>
+
+
+      <p>O gerador de números aleatórios é certificado pelo laboratório bmmTestLabs e o depósito mínimo é de 10 dólares.
+      O caixa também aceita bitcoin e as contas são mantidas em dólares americanos.</p>
+
+
+      <h3>Jogo e formatos</h3>
+
+
+      <p>No cliente há centenas de mesas de cash de hold'em e Omaha, além de SPINS, Short Deck e uma grade de torneios
+      completa, que vai até os eventos high roller e as séries online da WSOP. A premiação total das promoções da rede
+      passa de oito milhões de dólares por mês.</p>
+
+
+      <p>Trackers e HUD de terceiros não são suportados: dá para analisar o jogo apenas pelas estatísticas do próprio
+      cliente. Para os jogadores amadores isso é um ponto positivo: os regulares ficam sem a vantagem de informação a
+      que estão acostumados.</p>
+
+
+      <h3>Bônus e condições</h3>
+
+
+      <ul>
+        <li><strong>Bônus de boas-vindas de 200% até $1000</strong>.</li>
+        <li><strong>Tráfego asiático</strong> — muitos jogadores recreativos nas mesas.</li>
+        <li><strong>Promoções mensais da rede</strong> que somam mais de $8 milhões.</li>
+      </ul>
+
+
+      <p>Para as condições personalizadas da oferta na Natural8, fale com o gerente da PDH — estamos disponíveis
+      24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  fr:
+    name: Offre sur la salle de poker Natural8
+    description: >-
+      La salle phare de GGNetwork, le plus grand réseau de poker au monde, portée par un fort trafic asiatique : des
+      centaines de tables de cash game, $8 millions de promotions chaque mois et un bonus de 200% jusqu'à $1000.
+    geo: Asie, Global
+    bonus: 200% jusqu'à $1000
+    body: >
+      <h3>À propos de la salle</h3>
+
+
+      <p>Natural8 est l'un des principaux skins de GGNetwork, le plus grand réseau de poker au monde. La salle a été
+      lancée en 2016 et rassemble traditionnellement beaucoup de joueurs asiatiques : aux heures de pointe, on compte
+      environ dix mille personnes aux tables.</p>
+
+
+      <p>Le générateur de nombres aléatoires est certifié par le laboratoire bmmTestLabs et le dépôt minimum est de 10
+      dollars. La caisse accepte notamment le bitcoin, et les comptes sont tenus en dollars américains.</p>
+
+
+      <h3>Jeu et formats</h3>
+
+
+      <p>Le client propose des centaines de tables de cash game en hold'em et en Omaha, des SPINS, du Short Deck et un
+      calendrier de tournois complet, jusqu'aux événements high roller et aux séries en ligne WSOP. La dotation totale
+      des promotions du réseau dépasse huit millions de dollars par mois.</p>
+
+
+      <p>Les trackers tiers et les HUD ne sont pas pris en charge : l'analyse de vos parties passe uniquement par les
+      statistiques intégrées. Pour les joueurs amateurs, c'est un avantage — les réguliers perdent l'avantage
+      informationnel dont ils ont l'habitude.</p>
+
+
+      <h3>Bonus et conditions</h3>
+
+
+      <ul>
+        <li><strong>Bonus de bienvenue 200% jusqu'à $1000</strong>.</li>
+        <li><strong>Trafic asiatique</strong> — beaucoup de joueurs récréatifs aux tables.</li>
+        <li><strong>Promotions mensuelles du réseau</strong> pour un montant de plus de $8 millions.</li>
+      </ul>
+
+
+      <p>Pour les conditions personnalisées de l'offre sur Natural8, adressez-vous au manager PDH : nous sommes
+      disponibles 24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  tr:
+    name: Natural8 poker odasında anlaşma
+    description: >-
+      Dünyanın en büyük poker ağı GGNetwork'ün amiral gemisi odası; güçlü Asya trafiği, yüzlerce cash masası, ayda $8
+      milyonluk promosyonlar ve $1000'a kadar %200 bonus.
+    geo: Asya, Global
+    bonus: $1000'a kadar %200
+    body: >
+      <h3>Oda Hakkında</h3>
+
+
+      <p>Natural8, dünyanın en büyük poker ağı GGNetwork'ün başlıca skinlerinden biridir. Oda 2016 yılında açıldı ve
+      geleneksel olarak Asya'dan çok sayıda oyuncu topluyor: yoğun saatlerde masalarda yaklaşık on bin kişi
+      oturuyor.</p>
+
+
+      <p>Rastgele sayı üreteci bmmTestLabs laboratuvarı tarafından sertifikalandırılmıştır, minimum depozito ise 10
+      dolar. Kasa bitcoin ile de çalışıyor, hesaplar ABD doları üzerinden tutuluyor.</p>
+
+
+      <h3>Oyun ve Formatlar</h3>
+
+
+      <p>İstemcide holdem ve Omaha'da yüzlerce cash masası, spinler, kısa deste ve high roller etkinlikleri ile WSOP
+      online serilerine varan eksiksiz bir turnuva takvimi yer alıyor. Ağın promosyonlarının toplam ödül havuzu ayda
+      sekiz milyon doları aşıyor.</p>
+
+
+      <p>Üçüncü taraf trackerlar ve HUD desteklenmiyor: oyununuzu yalnızca yerleşik istatistiklerle analiz
+      edebilirsiniz. Amatör oyuncular için bu bir artı — regüler oyuncular alıştıkları bilgi üstünlüğünden mahrum
+      kalıyor.</p>
+
+
+      <h3>Bonus ve Koşullar</h3>
+
+
+      <ul>
+        <li><strong>$1000'a kadar %200 hoş geldin bonusu</strong>.</li>
+        <li><strong>Asya trafiği</strong> — masalarda bol rekreasyonel oyuncu.</li>
+        <li><strong>Ağın aylık promosyonları</strong> toplamda $8 milyondan fazla.</li>
+      </ul>
+
+
+      <p>Natural8 anlaşmasının kişisel koşullarını PDH yöneticisinden öğrenebilirsiniz — 7/24 buradayız.</p>
+    srcHash: c5dbd4cb8e9c
+  he:
+    name: דיל בחדר הפוקר Natural8
+    description: >-
+      חדר הדגל של GGNetwork, רשת הפוקר הגדולה ביותר, עם טראפיק אסייתי חזק: מאות שולחנות קאש, מבצעים של $8 מיליון בחודש
+      ובונוס 200% עד $1000.
+    geo: אסיה, גלובלי
+    bonus: 200% עד $1000
+    body: >
+      <h3>על החדר</h3>
+
+
+      <p>Natural8 הוא אחד הסקינים המרכזיים של GGNetwork, רשת הפוקר הגדולה בעולם. החדר הושק ב-2016 ומאז מושך אליו הרבה
+      שחקנים מאסיה: בשעות השיא יושבים סביב השולחנות כעשרת אלפים איש.</p>
+
+
+      <p>מחולל המספרים האקראיים מוסמך על ידי מעבדת bmmTestLabs, וההפקדה המינימלית היא 10 דולר. הקופה תומכת גם בביטקוין,
+      והחשבונות מתנהלים בדולר אמריקאי.</p>
+
+
+      <h3>משחק ופורמטים</h3>
+
+
+      <p>בקליינט פתוחים מאות שולחנות קאש בהולדם ובאומהה, ספינים, חפיסה קצרה ולוח טורנירים מלא — עד לאירועי היי-רולרס
+      ולסדרות ה-WSOP אונליין. קרן הפרסים הכוללת של מבצעי הרשת עולה על שמונה מיליון דולר בחודש.</p>
+
+
+      <p>טראקרים חיצוניים ו-HUD אינם נתמכים: אפשר לנתח את המשחק רק לפי הסטטיסטיקה המובנית. עבור שחקנים חובבים זה יתרון —
+      הרגולרים מאבדים את יתרון המידע הרגיל שלהם.</p>
+
+
+      <h3>בונוס ותנאים</h3>
+
+
+      <ul>
+        <li><strong>בונוס הצטרפות 200% עד $1000</strong>.</li>
+        <li><strong>טראפיק אסייתי</strong> — הרבה שחקנים חובבים סביב השולחנות.</li>
+        <li><strong>מבצעים חודשיים של הרשת</strong> בסכום של יותר מ-$8 מיליון.</li>
+      </ul>
+
+
+      <p>לפרטים על התנאים האישיים של הדיל ב-Natural8 פנו למנהל PDH — אנחנו זמינים 24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  ar:
+    name: صفقة في غرفة البوكر Natural8
+    description: >-
+      الغرفة الرائدة في GGNetwork، أكبر شبكة بوكر في العالم، مع حركة لاعبين آسيوية قوية: مئات طاولات الكاش، وعروض بقيمة
+      $8 مليون شهرياً، وبونص 200% حتى $1000.
+    geo: آسيا، عالمي
+    bonus: 200% حتى $1000
+    body: >
+      <h3>عن الغرفة</h3>
+
+
+      <p>Natural8 من أبرز الغرف العاملة على شبكة GGNetwork، أكبر شبكة بوكر في العالم. انطلقت الغرفة عام 2016 وتجمع
+      تقليدياً الكثير من اللاعبين من آسيا: في ساعات الذروة يجلس على الطاولات نحو عشرة آلاف لاعب.</p>
+
+
+      <p>مولّد الأرقام العشوائية معتمد من مختبر bmmTestLabs، والحد الأدنى للإيداع 10 دولارات. ويدعم الكاشير البيتكوين
+      ضمن وسائل أخرى، وتُدار الحسابات بالدولار الأمريكي.</p>
+
+
+      <h3>اللعب والصيغ</h3>
+
+
+      <p>يوفّر البرنامج مئات طاولات الكاش في الهولدم والأوماها، وSPINS، والشورت ديك، وجدول بطولات كامل يمتد حتى بطولات
+      الهاي رولر وسلاسل WSOP أونلاين. يتجاوز إجمالي جوائز عروض الشبكة ثمانية ملايين دولار شهرياً.</p>
+
+
+      <p>لا تدعم الغرفة برامج التتبّع الخارجية ولا الـ HUD: لا يمكن تحليل اللعب إلا عبر الإحصاءات المدمجة. وهذه ميزة
+      للاعبين الهواة — إذ يفقد الريغولار تفوّقه المعلوماتي المعتاد.</p>
+
+
+      <h3>البونص والشروط</h3>
+
+
+      <ul>
+        <li><strong>بونص ترحيبي 200% حتى $1000</strong>.</li>
+        <li><strong>حركة لاعبين آسيوية</strong> — الكثير من اللاعبين الترفيهيين على الطاولات.</li>
+        <li><strong>عروض شهرية من الشبكة</strong> بقيمة تتجاوز $8 مليون.</li>
+      </ul>
+
+
+      <p>لمعرفة الشروط الشخصية لصفقة Natural8، راسل مدير PDH — نحن متاحون 24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  id:
+    name: Deal di poker room Natural8
+    description: >-
+      Room andalan GGNetwork, jaringan poker terbesar di dunia, dengan trafik Asia yang kuat: ratusan meja cash, promosi
+      senilai $8 juta setiap bulan, dan bonus 200% hingga $1000.
+    geo: Asia, Global
+    bonus: 200% hingga $1000
+    body: >
+      <h3>Tentang Room</h3>
+
+
+      <p>Natural8 adalah salah satu skin utama GGNetwork, jaringan poker terbesar di dunia. Room ini diluncurkan pada
+      2016 dan secara tradisional mengumpulkan banyak pemain dari Asia: pada jam sibuk sekitar sepuluh ribu pemain duduk
+      di meja.</p>
+
+
+      <p>Random number generator-nya tersertifikasi oleh laboratorium bmmTestLabs, dan deposit minimum adalah 10 dolar.
+      Cashier-nya juga menerima bitcoin, sementara akun dikelola dalam dolar AS.</p>
+
+
+      <h3>Permainan dan Format</h3>
+
+
+      <p>Di klien tersedia ratusan meja cash Hold'em dan Omaha, SPINS, short deck, serta jadwal turnamen lengkap hingga
+      event high roller dan seri online WSOP. Total hadiah promosi jaringan ini melebihi delapan juta dolar per
+      bulan.</p>
+
+
+      <p>Tracker pihak ketiga dan HUD tidak didukung: permainan hanya bisa dianalisis lewat statistik bawaan. Bagi
+      pemain amatir ini justru keuntungan — pemain reguler kehilangan keunggulan informasi yang biasa mereka miliki.</p>
+
+
+      <h3>Bonus dan Ketentuan</h3>
+
+
+      <ul>
+        <li><strong>Bonus selamat datang 200% hingga $1000</strong>.</li>
+        <li><strong>Trafik Asia</strong> — banyak pemain rekreasional di meja.</li>
+        <li><strong>Promosi bulanan jaringan</strong> senilai lebih dari $8 juta.</li>
+      </ul>
+
+
+      <p>Untuk syarat deal Natural8 yang personal, hubungi manajer PDH — kami siap 24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  vi:
+    name: Kèo tại phòng poker Natural8
+    description: >-
+      Phòng chủ lực của GGNetwork — mạng poker lớn nhất — với lưu lượng người chơi Châu Á mạnh mẽ: hàng trăm bàn cash,
+      các chương trình khuyến mãi trị giá $8 triệu mỗi tháng và thưởng 200% lên đến $1000.
+    geo: Châu Á, Toàn cầu
+    bonus: 200% lên đến $1000
+    body: >
+      <h3>Về phòng chơi</h3>
+
+
+      <p>Natural8 là một trong những skin chủ lực của GGNetwork — mạng poker lớn nhất thế giới. Phòng ra mắt năm 2016 và
+      theo truyền thống thu hút đông người chơi từ Châu Á: vào giờ cao điểm có khoảng mười nghìn người ngồi bàn.</p>
+
+
+      <p>Bộ tạo số ngẫu nhiên đã được phòng thí nghiệm bmmTestLabs chứng nhận, mức nạp tối thiểu là 10 đô la. Quầy giao
+      dịch hỗ trợ cả bitcoin, còn tài khoản được tính bằng đô la Mỹ.</p>
+
+
+      <h3>Trò chơi và thể thức</h3>
+
+
+      <p>Trong client luôn có hàng trăm bàn cash hold'em và Omaha, SPINS, short deck cùng một lịch giải đấu đầy đủ, cho
+      tới cả các sự kiện high roller và các series WSOP trực tuyến. Tổng giải thưởng của các chương trình khuyến mãi
+      trên toàn mạng vượt quá tám triệu đô la mỗi tháng.</p>
+
+
+      <p>Tracker và HUD của bên thứ ba không được hỗ trợ: bạn chỉ có thể phân tích lối chơi bằng thống kê tích hợp sẵn.
+      Với người chơi giải trí, đây là một điểm cộng — regular không còn lợi thế thông tin quen thuộc.</p>
+
+
+      <h3>Thưởng và điều kiện</h3>
+
+
+      <ul>
+        <li><strong>Thưởng chào mừng 200% lên đến $1000</strong>.</li>
+        <li><strong>Lưu lượng người chơi Châu Á</strong> — đông người chơi giải trí ngồi bàn.</li>
+        <li><strong>Khuyến mãi hằng tháng của mạng</strong> với tổng giá trị hơn $8 triệu.</li>
+      </ul>
+
+
+      <p>Về điều kiện riêng của kèo Natural8, hãy hỏi quản lý PDH — chúng tôi trực 24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  fil:
+    name: Deal sa poker room na Natural8
+    description: >-
+      Flagship room ng GGNetwork, ang pinakamalaking poker network sa mundo, na may malakas na trapiko mula sa Asya:
+      daan-daang cash table, mga promo na nagkakahalaga ng $8 milyon kada buwan, at bonus na 200% hanggang $1000.
+    geo: Asya, Global
+    bonus: 200% hanggang $1000
+    body: >
+      <h3>Tungkol sa room</h3>
+
+
+      <p>Ang Natural8 ay isa sa mga pangunahing skin ng GGNetwork, ang pinakamalaking poker network sa mundo. Inilunsad
+      ang room noong 2016 at matagal nang nakakaakit ng maraming manlalaro mula sa Asya: umaabot sa mga sampung libong
+      tao ang nasa mga mesa tuwing peak hours.</p>
+
+
+      <p>Sertipikado ng laboratoryong bmmTestLabs ang random number generator, at 10 dolyar ang minimum na deposito.
+      Tumatanggap din ng bitcoin ang cashier, at sa US dollars nakabase ang mga account.</p>
+
+
+      <h3>Laro at mga format</h3>
+
+
+      <p>Bukas sa client ang daan-daang cash table ng Hold'em at Omaha, spins, short deck, at kumpletong tournament
+      schedule hanggang sa mga high roller event at online series ng WSOP. Higit sa walong milyong dolyar kada buwan ang
+      kabuuang prize pool ng mga promo ng network.</p>
+
+
+      <p>Hindi suportado ang mga third-party tracker at HUD: sa built-in na estadistika lang maaaring suriin ang laro.
+      Para sa mga amateur na manlalaro, bentahe ito — nawawala sa mga regular ang nakasanayan nilang kalamangan sa
+      impormasyon.</p>
+
+
+      <h3>Bonus at mga kondisyon</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus na 200% hanggang $1000</strong>.</li>
+        <li><strong>Trapiko mula sa Asya</strong> — maraming recreational players sa mga mesa.</li>
+        <li><strong>Buwanang promo ng network</strong> na nagkakahalaga ng mahigit $8 milyon.</li>
+      </ul>
+
+
+      <p>Para sa personal na kondisyon ng deal sa Natural8, kumonsulta sa manager ng PDH — nasa linya kami 24/7.</p>
+    srcHash: c5dbd4cb8e9c
+  th:
+    name: ดีลในห้องโป๊กเกอร์ Natural8
+    description: >-
+      โป๊กเกอร์รูมเรือธงของ GGNetwork เครือข่ายโป๊กเกอร์ที่ใหญ่ที่สุด พร้อมทราฟฟิกจากเอเชียที่แข็งแกร่ง:
+      โต๊ะแคชหลายร้อยโต๊ะ โปรโมชันมูลค่า $8 ล้านต่อเดือน และโบนัส 200% สูงสุด $1000
+    geo: เอเชีย, ทั่วโลก
+    bonus: 200% สูงสุด $1000
+    body: >
+      <h3>เกี่ยวกับรูม</h3>
+
+
+      <p>Natural8 คือหนึ่งในสกินหลักของ GGNetwork เครือข่ายโป๊กเกอร์ที่ใหญ่ที่สุดในโลก รูมเปิดตัวในปี 2016
+      และดึงผู้เล่นจากเอเชียได้จำนวนมากมาโดยตลอด: ในช่วงเวลาพีคมีผู้เล่นนั่งโต๊ะราวหนึ่งหมื่นคน</p>
+
+
+      <p>เครื่องสุ่มตัวเลขได้รับการรับรองจากห้องปฏิบัติการ bmmTestLabs และเงินฝากขั้นต่ำอยู่ที่ 10 ดอลลาร์
+      ระบบแคชเชียร์รองรับบิตคอยน์ด้วย ส่วนบัญชีคิดยอดเป็นดอลลาร์สหรัฐ</p>
+
+
+      <h3>เกมและรูปแบบการเล่น</h3>
+
+
+      <p>ในไคลเอนต์มีโต๊ะแคชโฮลเด็มและโอมาฮาเปิดอยู่หลายร้อยโต๊ะ พร้อมทั้ง SPINS ชอร์ตเด็ค
+      และตารางทัวร์นาเมนต์เต็มรูปแบบที่ไล่ขึ้นไปจนถึงอีเวนต์ไฮโรลเลอร์และซีรีส์ออนไลน์ WSOP
+      เงินรางวัลรวมของโปรโมชันทั้งเครือข่ายสูงกว่าแปดล้านดอลลาร์ต่อเดือน</p>
+
+
+      <p>ที่นี่ไม่รองรับแทร็กเกอร์จากภายนอกและ HUD คุณรีวิวเกมได้จากสถิติในตัวเท่านั้น สำหรับผู้เล่นสมัครเล่นนี่คือข้อดี
+      เพราะเรกกูลาร์จะไม่มีความได้เปรียบด้านข้อมูลอย่างที่เคยมี</p>
+
+
+      <h3>โบนัสและเงื่อนไข</h3>
+
+
+      <ul>
+        <li><strong>โบนัสต้อนรับ 200% สูงสุด $1000</strong></li>
+        <li><strong>ทราฟฟิกจากเอเชีย</strong> — มีผู้เล่นสายพักผ่อนจำนวนมากอยู่ที่โต๊ะ</li>
+        <li><strong>โปรโมชันรายเดือนของเครือข่าย</strong> มูลค่ารวมกว่า $8 ล้าน</li>
+      </ul>
+
+
+      <p>สอบถามเงื่อนไขดีล Natural8 แบบเฉพาะบุคคลได้ที่ผู้จัดการของ PDH — เราพร้อมให้บริการตลอด 24/7</p>
+    srcHash: c5dbd4cb8e9c

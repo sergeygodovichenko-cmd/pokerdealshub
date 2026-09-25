@@ -1,0 +1,710 @@
+app: bet365
+club: "-"
+union: "-"
+logo: bet365_logo
+logoimage: /bet365.webp
+logoalt: bet365 poker logo
+format: NLH / PLO / 6+
+type: Centralized
+rakeback: ""
+featured: false
+hidden: false
+order: 25
+badges:
+  - centralized
+  - international
+  - allLimits
+  - verified
+regions:
+  - europe
+  - latam
+ratings:
+  mtt: 4
+  cash: 4
+  plo: 3
+  nlh: 4
+name: Сделка в покер руме bet365
+description: >-
+  Покерный рум одного из самых узнаваемых игорных брендов мира: отдельный пул игроков, короткая колода 6+ Hold'em и
+  быстрые выплаты. Бонус €365.
+geo: Европа, Латинская Америка
+bonus: €365
+body: >
+  <h3>О руме</h3>
+
+
+  <p>Покерная комната bet365 открыта в 2005 году и работает на платформе сети iPoker с собственным, отделённым от
+  основной сети пулом игроков. Бренд bet365 известен прежде всего по ставкам на спорт, и в покер сюда приходит много его
+  клиентов из других вертикалей.</p>
+
+
+  <p>Рум полностью лицензирован, генератор случайных чисел сертифицирован iTech Labs. Минимальный депозит — 10 единиц
+  валюты счёта, выплаты обрабатываются быстро.</p>
+
+
+  <h3>Игра и форматы</h3>
+
+
+  <p>Доступны безлимитный холдем на всех лимитах, пот-лимитная Омаха, турниры и короткая колода 6+ Hold'em. Отдельный
+  пул означает, что состав соперников отличается от остальных скинов iPoker.</p>
+
+
+  <p>Трекеры и HUD в руме разрешены, поэтому привычный рабочий сетап переносится сюда без ограничений.</p>
+
+
+  <h3>Бонус и условия</h3>
+
+
+  <ul>
+    <li><strong>Приветственный бонус €365</strong>.</li>
+    <li><strong>Отдельный пул игроков</strong> и приток аудитории из беттинга.</li>
+    <li><strong>Поддержка трекеров и HUD</strong>.</li>
+  </ul>
+
+
+  <p>Персональные условия сделки по bet365 уточняйте у менеджера PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in bet365 poker room
+    description: >-
+      The poker room of one of the world's most recognizable gambling brands: its own separate player pool, 6+ Hold'em
+      short deck and fast payouts. €365 bonus.
+    geo: Europe, Latin America
+    bonus: €365
+    body: >
+      <h3>About the room</h3>
+
+
+      <p>The bet365 poker room launched in 2005 and runs on the iPoker network platform with its own player pool, kept
+      separate from the rest of the network. The bet365 brand is best known for sports betting, and a lot of its
+      customers from other verticals come over to play poker here.</p>
+
+
+      <p>The room is fully licensed and its random number generator is certified by iTech Labs. The minimum deposit is
+      10 units of your account currency, and payouts are processed quickly.</p>
+
+
+      <h3>Games and formats</h3>
+
+
+      <p>You get No-Limit Hold'em at all stakes, Pot-Limit Omaha, tournaments and 6+ Hold'em short deck. The separate
+      pool means the line-up of opponents differs from the other iPoker skins.</p>
+
+
+      <p>Trackers and HUDs are allowed in the room, so your usual working setup carries over here with no
+      restrictions.</p>
+
+
+      <h3>Bonus and terms</h3>
+
+
+      <ul>
+        <li><strong>€365 welcome bonus</strong>.</li>
+        <li><strong>Separate player pool</strong> and an influx of players from the betting side.</li>
+        <li><strong>Tracker and HUD support</strong>.</li>
+      </ul>
+
+
+      <p>For personal terms on the bet365 deal, check with the PDH manager — we're available 24/7.</p>
+    srcHash: c8289e7b61fa
+  uz:
+    name: bet365 xonasidagi bitim
+    description: >-
+      Dunyodagi eng tanilgan qimor brendlaridan birining poker xonasi: alohida oʻyinchilar havzasi, qisqa koloda 6+
+      Hold'em va tez toʻlovlar. €365 bonus.
+    geo: Yevropa, Lotin Amerikasi
+    bonus: €365
+    body: >
+      <h3>Xona haqida</h3>
+
+
+      <p>bet365 poker xonasi 2005-yilda ochilgan va iPoker tarmogʻi platformasida ishlaydi, biroq uning oʻyinchilar
+      havzasi asosiy tarmoqdan ajratilgan. bet365 brendi avvalo sport tikishlari bilan tanilgan va uning boshqa
+      yoʻnalishlardagi mijozlari pokerga ham koʻplab kelib turadi.</p>
+
+
+      <p>Xona toʻliq litsenziyalangan, tasodifiy sonlar generatori esa iTech Labs tomonidan sertifikatlangan. Minimal
+      depozit — hisob valyutasida 10 birlik, toʻlovlar tez qayta ishlanadi.</p>
+
+
+      <h3>Oʻyin va formatlar</h3>
+
+
+      <p>Barcha limitlarda limitsiz xoldem, pot-limitli Omaha, turnirlar va qisqa koloda 6+ Hold'em mavjud. Alohida
+      havza shuni anglatadiki, bu yerdagi raqiblar tarkibi boshqa iPoker skinlaridagidan farq qiladi.</p>
+
+
+      <p>Xonada trekerlar va HUDga ruxsat etilgan, shuning uchun odatiy ish setapingizni bu yerga hech qanday cheklovsiz
+      koʻchirishingiz mumkin.</p>
+
+
+      <h3>Bonus va shartlar</h3>
+
+
+      <ul>
+        <li><strong>€365 xush kelibsiz bonusi</strong>.</li>
+        <li><strong>Alohida oʻyinchilar havzasi</strong> va betting yoʻnalishidan kelayotgan auditoriya oqimi.</li>
+        <li><strong>Trekerlar va HUD qoʻllab-quvvatlanadi</strong>.</li>
+      </ul>
+
+
+      <p>bet365 boʻyicha shaxsiy bitim shartlarini PDH menejeridan aniqlashtiring — biz 24/7 aloqadamiz.</p>
+    srcHash: c8289e7b61fa
+  uk:
+    name: Угода в покер-румі bet365
+    description: >-
+      Покер-рум одного з найвпізнаваніших гральних брендів світу: окремий пул гравців, коротка колода 6+ Hold'em і
+      швидкі виплати. Бонус €365.
+    geo: Європа, Латинська Америка
+    bonus: €365
+    body: >
+      <h3>Про рум</h3>
+
+
+      <p>Покерна кімната bet365 відкрилася 2005 року й працює на платформі мережі iPoker із власним, відокремленим від
+      основної мережі пулом гравців. Бренд bet365 відомий передусім ставками на спорт, і в покер сюди приходить чимало
+      його клієнтів з інших вертикалей.</p>
+
+
+      <p>Рум повністю ліцензований, генератор випадкових чисел сертифікований iTech Labs. Мінімальний депозит — 10
+      одиниць валюти рахунку, виплати обробляються швидко.</p>
+
+
+      <h3>Гра та формати</h3>
+
+
+      <p>Доступні безлімітний холдем на всіх лімітах, пот-лімітна Омаха, турніри та коротка колода 6+ Hold'em. Окремий
+      пул означає, що склад суперників відрізняється від решти скінів iPoker.</p>
+
+
+      <p>Трекери та HUD у румі дозволені, тож звичний робочий сетап переноситься сюди без обмежень.</p>
+
+
+      <h3>Бонус та умови</h3>
+
+
+      <ul>
+        <li><strong>Вітальний бонус €365</strong>.</li>
+        <li><strong>Окремий пул гравців</strong> і приплив аудиторії з беттингу.</li>
+        <li><strong>Підтримка трекерів і HUD</strong>.</li>
+      </ul>
+
+
+      <p>Персональні умови угоди щодо bet365 уточнюйте в менеджера PDH — ми на зв'язку 24/7.</p>
+    srcHash: c8289e7b61fa
+  it:
+    name: Offerta nella poker room bet365
+    description: >-
+      La poker room di uno dei marchi di gioco più riconoscibili al mondo: pool di giocatori separato, short deck 6+
+      Hold'em e prelievi rapidi. Bonus €365.
+    geo: Europa, America Latina
+    bonus: €365
+    body: >
+      <h3>Informazioni sulla room</h3>
+
+
+      <p>La poker room di bet365 ha aperto nel 2005 e gira sulla piattaforma del network iPoker, con un pool di
+      giocatori proprio, separato dal resto del network. Il marchio bet365 è conosciuto soprattutto per le scommesse
+      sportive, e al poker arrivano molti dei suoi clienti dalle altre verticali.</p>
+
+
+      <p>La room opera con regolare licenza e il suo generatore di numeri casuali è certificato da iTech Labs. Il
+      deposito minimo è di 10 unità nella valuta del conto e i prelievi vengono elaborati rapidamente.</p>
+
+
+      <h3>Gioco e formati</h3>
+
+
+      <p>Sono disponibili No-Limit Hold'em a tutti i limiti, Pot-Limit Omaha, i tornei e lo short deck 6+ Hold'em. Il
+      pool separato significa che il parterre di avversari è diverso da quello delle altre skin iPoker.</p>
+
+
+      <p>Nella room sono ammessi tracker e HUD, quindi puoi portare qui il tuo setup di lavoro abituale senza alcuna
+      limitazione.</p>
+
+
+      <h3>Bonus e condizioni</h3>
+
+
+      <ul>
+        <li><strong>Bonus di benvenuto €365</strong>.</li>
+        <li><strong>Pool di giocatori separato</strong> e afflusso di pubblico dal betting.</li>
+        <li><strong>Supporto per tracker e HUD</strong>.</li>
+      </ul>
+
+
+      <p>Per le condizioni personalizzate dell'offerta bet365 scrivi al manager PDH: siamo disponibili 24/7.</p>
+    srcHash: c8289e7b61fa
+  de:
+    name: Deal im Pokerraum bet365
+    description: >-
+      Der Pokerraum einer der bekanntesten Glücksspielmarken der Welt: ein eigener Spielerpool, Short Deck 6+ Hold'em
+      und schnelle Auszahlungen. Bonus €365.
+    geo: Europa, Lateinamerika
+    bonus: €365
+    body: >
+      <h3>Über den Pokerraum</h3>
+
+
+      <p>Der Pokerraum von bet365 ist 2005 an den Start gegangen und läuft auf der Plattform des iPoker-Netzwerks – mit
+      einem eigenen Spielerpool, der vom Rest des Netzwerks getrennt ist. Bekannt ist die Marke bet365 vor allem durch
+      Sportwetten, und viele ihrer Kunden aus anderen Bereichen finden von dort den Weg an die Pokertische.</p>
+
+
+      <p>Der Raum ist vollständig lizenziert, der Zufallszahlengenerator ist von iTech Labs zertifiziert. Die
+      Mindesteinzahlung liegt bei 10 Einheiten der Kontowährung, Auszahlungen werden schnell bearbeitet.</p>
+
+
+      <h3>Spiel und Formate</h3>
+
+
+      <p>Verfügbar sind No-Limit Hold'em auf allen Limits, Pot-Limit Omaha, Turniere und Short Deck 6+ Hold'em. Der
+      eigene Pool bedeutet, dass sich die Gegner von denen der übrigen iPoker-Skins unterscheiden.</p>
+
+
+      <p>Tracker und HUD sind im Raum erlaubt – dein gewohntes Arbeits-Setup lässt sich also ohne Einschränkungen
+      mitnehmen.</p>
+
+
+      <h3>Bonus und Konditionen</h3>
+
+
+      <ul>
+        <li><strong>Willkommensbonus €365</strong>.</li>
+        <li><strong>Eigener Spielerpool</strong> und Zulauf aus dem Wettbereich.</li>
+        <li><strong>Unterstützung von Trackern und HUD</strong>.</li>
+      </ul>
+
+
+      <p>Die persönlichen Konditionen des bet365-Deals erfährst du beim PDH-Manager – wir sind 24/7 erreichbar.</p>
+    srcHash: c8289e7b61fa
+  es:
+    name: Oferta en la sala de póker bet365
+    description: >-
+      La sala de póker de una de las marcas de juego más reconocibles del mundo: pool de jugadores propio, baraja corta
+      6+ Hold'em y pagos rápidos. Bono de €365.
+    geo: Europa, Latinoamérica
+    bonus: €365
+    body: >
+      <h3>Sobre la sala</h3>
+
+
+      <p>La sala de póker de bet365 abrió en 2005 y funciona sobre la plataforma de la red iPoker con un pool de
+      jugadores propio, separado del resto de la red. La marca bet365 es conocida sobre todo por las apuestas
+      deportivas, y al póker llegan muchos de sus clientes procedentes de otras verticales.</p>
+
+
+      <p>La sala está totalmente licenciada y su generador de números aleatorios está certificado por iTech Labs. El
+      depósito mínimo es de 10 unidades de la moneda de tu cuenta y los pagos se procesan con rapidez.</p>
+
+
+      <h3>Juego y formatos</h3>
+
+
+      <p>Tienes Hold'em sin límite en todos los límites, Omaha pot limit, torneos y la baraja corta 6+ Hold'em. Al ser
+      un pool separado, los rivales que te encuentras no son los mismos que en el resto de skins de iPoker.</p>
+
+
+      <p>La sala permite trackers y HUD, así que tu setup de trabajo habitual se traslada aquí sin restricciones.</p>
+
+
+      <h3>Bono y condiciones</h3>
+
+
+      <ul>
+        <li><strong>Bono de bienvenida de €365</strong>.</li>
+        <li><strong>Pool de jugadores propio</strong> y entrada constante de público desde las apuestas.</li>
+        <li><strong>Compatible con trackers y HUD</strong>.</li>
+      </ul>
+
+
+      <p>Consulta las condiciones personalizadas de la oferta de bet365 con el manager de PDH: estamos disponibles
+      24/7.</p>
+    srcHash: c8289e7b61fa
+  pt:
+    name: Oferta na sala de poker bet365
+    description: >-
+      A sala de poker de uma das marcas de apostas mais conhecidas do mundo: pool de jogadores próprio, short deck 6+
+      Hold'em e saques rápidos. Bônus de €365.
+    geo: Europa, América Latina
+    bonus: €365
+    body: >
+      <h3>Sobre a sala</h3>
+
+
+      <p>A sala de poker da bet365 abriu em 2005 e roda na plataforma da rede iPoker, com um pool de jogadores próprio,
+      separado do restante da rede. A marca bet365 é conhecida sobretudo pelas apostas esportivas, e muitos clientes das
+      outras verticais acabam chegando ao poker por aqui.</p>
+
+
+      <p>A sala é totalmente licenciada e o gerador de números aleatórios é certificado pela iTech Labs. O depósito
+      mínimo é de 10 unidades da moeda da conta e os saques são processados rapidamente.</p>
+
+
+      <h3>Jogos e formatos</h3>
+
+
+      <p>Estão disponíveis no-limit hold'em em todos os limites, pot-limit Omaha, torneios e short deck 6+ Hold'em. Como
+      o pool é separado, o campo de adversários é diferente do que se encontra nas demais skins do iPoker.</p>
+
+
+      <p>Trackers e HUD são permitidos na sala, então dá para trazer o seu setup de trabalho habitual sem nenhuma
+      restrição.</p>
+
+
+      <h3>Bônus e condições</h3>
+
+
+      <ul>
+        <li><strong>Bônus de boas-vindas de €365</strong>.</li>
+        <li><strong>Pool de jogadores próprio</strong> e público vindo das apostas esportivas.</li>
+        <li><strong>Suporte a trackers e HUD</strong>.</li>
+      </ul>
+
+
+      <p>Para as condições personalizadas da oferta na bet365, fale com o gerente da PDH — estamos disponíveis 24/7.</p>
+    srcHash: c8289e7b61fa
+  fr:
+    name: Offre sur la salle de poker bet365
+    description: >-
+      La salle de poker de l'une des marques de jeux d'argent les plus connues au monde : pool de joueurs séparé, short
+      deck 6+ Hold'em et retraits rapides. Bonus de €365.
+    geo: Europe, Amérique latine
+    bonus: €365
+    body: >
+      <h3>À propos de la salle</h3>
+
+
+      <p>La salle de poker bet365 a ouvert en 2005 et tourne sur la plateforme du réseau iPoker, avec son propre pool de
+      joueurs, séparé du reste du réseau. La marque bet365 est surtout connue pour les paris sportifs, et beaucoup de
+      ses clients venus d'autres verticales se retrouvent ici au poker.</p>
+
+
+      <p>La salle est entièrement sous licence et son générateur de nombres aléatoires est certifié par iTech Labs. Le
+      dépôt minimum est de 10 unités dans la devise du compte, et les retraits sont traités rapidement.</p>
+
+
+      <h3>Jeu et formats</h3>
+
+
+      <p>Vous y trouverez du Hold'em no-limit sur toutes les limites, de l'Omaha pot-limit, des tournois et du short
+      deck 6+ Hold'em. Le pool séparé signifie que les adversaires ne sont pas les mêmes que sur les autres skins
+      iPoker.</p>
+
+
+      <p>Les trackers et le HUD sont ici autorisés : vous transposez donc votre setup de travail habituel sans aucune
+      restriction.</p>
+
+
+      <h3>Bonus et conditions</h3>
+
+
+      <ul>
+        <li><strong>Bonus de bienvenue €365</strong>.</li>
+        <li><strong>Pool de joueurs séparé</strong> et afflux d'un public venu des paris sportifs.</li>
+        <li><strong>Prise en charge des trackers et du HUD</strong>.</li>
+      </ul>
+
+
+      <p>Pour connaître les conditions personnalisées de l'offre bet365, contactez le manager PDH — nous sommes
+      disponibles 24/7.</p>
+    srcHash: c8289e7b61fa
+  tr:
+    name: bet365 poker odasında anlaşma
+    description: >-
+      Dünyanın en tanınmış bahis ve oyun markalarından birinin poker odası: ayrı oyuncu havuzu, kısa deste 6+ Hold'em ve
+      hızlı ödemeler. €365 bonus.
+    geo: Avrupa, Latin Amerika
+    bonus: €365
+    body: >
+      <h3>Oda Hakkında</h3>
+
+
+      <p>bet365 poker odası 2005 yılında açıldı ve iPoker ağının platformunda, ana ağdan ayrılmış kendi oyuncu havuzuyla
+      çalışıyor. bet365 markası her şeyden önce spor bahisleriyle tanınıyor; odaya markanın diğer ürünlerinden gelen çok
+      sayıda müşteri akıyor.</p>
+
+
+      <p>Oda tamamen lisanslı, rastgele sayı üreteci iTech Labs tarafından sertifikalanmıştır. Minimum depozito hesap
+      para biriminden 10 birimdir, ödemeler hızlı işleniyor.</p>
+
+
+      <h3>Oyun ve Formatlar</h3>
+
+
+      <p>Tüm limitlerde No Limit Hold'em, Pot Limit Omaha, turnuvalar ve kısa deste 6+ Hold'em mevcut. Ayrı havuz, rakip
+      profilinin diğer iPoker skinlerinden farklı olması anlamına gelir.</p>
+
+
+      <p>Odada tracker ve HUD kullanımı serbest, bu yüzden alışık olduğunuz çalışma düzenini buraya hiçbir kısıtlama
+      olmadan taşıyabilirsiniz.</p>
+
+
+      <h3>Bonus ve Koşullar</h3>
+
+
+      <ul>
+        <li><strong>€365 hoş geldin bonusu</strong>.</li>
+        <li><strong>Ayrı oyuncu havuzu</strong> ve bahis tarafından gelen oyuncu akışı.</li>
+        <li><strong>Tracker ve HUD desteği</strong>.</li>
+      </ul>
+
+
+      <p>bet365 anlaşmasının kişisel koşullarını PDH yöneticisinden öğrenebilirsiniz — 7/24 buradayız.</p>
+    srcHash: c8289e7b61fa
+  he:
+    name: דיל בחדר הפוקר bet365
+    description: >-
+      חדר הפוקר של אחד ממותגי ההימורים המוכרים ביותר בעולם: פול שחקנים נפרד, חפיסה קצרה 6+ Hold'em ומשיכות מהירות. בונוס
+      €365.
+    geo: אירופה, אמריקה הלטינית
+    bonus: €365
+    body: >
+      <h3>על החדר</h3>
+
+
+      <p>חדר הפוקר של bet365 נפתח ב-2005 ופועל על הפלטפורמה של רשת iPoker, עם פול שחקנים משלו שמופרד מהרשת הראשית. המותג
+      bet365 מוכר קודם כול מהימורי ספורט, ולפוקר מגיעים לכאן הרבה מהלקוחות שלו משאר תחומי הפעילות.</p>
+
+
+      <p>החדר מורשה במלואו, ומחולל המספרים האקראיים מאושר על ידי iTech Labs. ההפקדה המינימלית היא 10 יחידות במטבע
+      החשבון, והמשיכות מעובדות במהירות.</p>
+
+
+      <h3>משחק ופורמטים</h3>
+
+
+      <p>זמינים הולדם ללא הגבלה בכל הלימיטים, אומהה פוט-לימיט, טורנירים וחפיסה קצרה 6+ Hold'em. הפול הנפרד אומר שהרכב
+      היריבים כאן שונה משאר הסקינים של iPoker.</p>
+
+
+      <p>טראקרים ו-HUD מותרים בחדר, ולכן סט הכלים הרגיל שלכם עובר לכאן בלי מגבלות.</p>
+
+
+      <h3>בונוס ותנאים</h3>
+
+
+      <ul>
+        <li><strong>בונוס הצטרפות €365</strong>.</li>
+        <li><strong>פול שחקנים נפרד</strong> וזרימת קהל מההימורים על ספורט.</li>
+        <li><strong>תמיכה בטראקרים וב-HUD</strong>.</li>
+      </ul>
+
+
+      <p>את התנאים האישיים של הדיל ב-bet365 תוכלו לברר מול המנהל של PDH — אנחנו זמינים 24/7.</p>
+    srcHash: c8289e7b61fa
+  ar:
+    name: صفقة في غرفة البوكر bet365
+    description: >-
+      غرفة بوكر تابعة لواحدة من أشهر علامات المقامرة في العالم: حوض لاعبين منفصل، ومجموعة قصيرة 6+ Hold'em، وسحوبات
+      سريعة. بونص €365.
+    geo: أوروبا، أمريكا اللاتينية
+    bonus: €365
+    body: >
+      <h3>عن الغرفة</h3>
+
+
+      <p>انطلقت غرفة بوكر bet365 عام 2005 وتعمل على منصة شبكة iPoker بحوض لاعبين خاص بها، منفصل عن الشبكة الأساسية.
+      تشتهر علامة bet365 في المقام الأول بالمراهنات الرياضية، ويأتي إلى طاولات البوكر هنا عدد كبير من عملائها القادمين
+      من أقسامها الأخرى.</p>
+
+
+      <p>الغرفة مرخّصة بالكامل، ومولّد الأرقام العشوائية معتمد من iTech Labs. الحد الأدنى للإيداع 10 وحدات من عملة
+      الحساب، وتُعالَج السحوبات بسرعة.</p>
+
+
+      <h3>اللعب والصيغ</h3>
+
+
+      <p>يتوفر هولدم بلا حدود على جميع الحدود، وأوماها بحد القدر، والبطولات، والمجموعة القصيرة 6+ Hold'em. ووجود حوض
+      لاعبين منفصل يعني أن تركيبة الخصوم تختلف عن باقي غرف شبكة iPoker.</p>
+
+
+      <p>يُسمح في الغرفة باستخدام برامج التتبع وأدوات HUD، لذا يمكنك نقل إعداداتك المعتادة في اللعب إلى هنا دون أي
+      قيود.</p>
+
+
+      <h3>البونص والشروط</h3>
+
+
+      <ul>
+        <li><strong>بونص ترحيبي €365</strong>.</li>
+        <li><strong>حوض لاعبين منفصل</strong> مع تدفّق جمهور قادم من المراهنات.</li>
+        <li><strong>دعم برامج التتبع وأدوات HUD</strong>.</li>
+      </ul>
+
+
+      <p>لمعرفة الشروط الشخصية لصفقة bet365، راسل مدير PDH — نحن متاحون 24/7.</p>
+    srcHash: c8289e7b61fa
+  id:
+    name: Deal di poker room bet365
+    description: >-
+      Poker room dari salah satu brand judi paling dikenal di dunia: pool pemain tersendiri, short deck 6+ Hold'em, dan
+      pembayaran cepat. Bonus €365.
+    geo: Eropa, Amerika Latin
+    bonus: €365
+    body: >
+      <h3>Tentang Room</h3>
+
+
+      <p>Poker room bet365 dibuka pada 2005 dan berjalan di platform jaringan iPoker dengan pool pemainnya sendiri, yang
+      terpisah dari jaringan utama. Brand bet365 paling dikenal lewat taruhan olahraga, dan banyak pelanggannya dari
+      produk lain yang kemudian ikut bermain poker di sini.</p>
+
+
+      <p>Room ini sepenuhnya berlisensi, dan random number generator-nya tersertifikasi oleh iTech Labs. Deposit minimum
+      adalah 10 unit mata uang akun Anda, dan pembayaran diproses dengan cepat.</p>
+
+
+      <h3>Permainan dan Format</h3>
+
+
+      <p>Tersedia No-Limit Hold'em di semua limit, Pot-Limit Omaha, turnamen, dan short deck 6+ Hold'em. Pool yang
+      terpisah berarti komposisi lawan di sini berbeda dari skin iPoker lainnya.</p>
+
+
+      <p>Tracker dan HUD diizinkan di room ini, jadi setup kerja yang biasa Anda pakai bisa langsung dibawa ke sini
+      tanpa batasan.</p>
+
+
+      <h3>Bonus dan Ketentuan</h3>
+
+
+      <ul>
+        <li><strong>Bonus selamat datang €365</strong>.</li>
+        <li><strong>Pool pemain tersendiri</strong> dan arus pemain yang datang dari sisi betting.</li>
+        <li><strong>Dukungan tracker dan HUD</strong>.</li>
+      </ul>
+
+
+      <p>Ketentuan personal untuk deal bet365 bisa Anda tanyakan ke manajer PDH — kami siap 24/7.</p>
+    srcHash: c8289e7b61fa
+  vi:
+    name: Kèo tại phòng poker bet365
+    description: >-
+      Phòng poker của một trong những thương hiệu cờ bạc nổi tiếng nhất thế giới: pool người chơi riêng, short deck 6+
+      Hold'em và rút tiền nhanh. Thưởng €365.
+    geo: Châu Âu, Mỹ Latinh
+    bonus: €365
+    body: >
+      <h3>Về phòng chơi</h3>
+
+
+      <p>Phòng poker bet365 ra mắt năm 2005 và vận hành trên nền tảng mạng iPoker với pool người chơi riêng, tách biệt
+      khỏi mạng chính. Thương hiệu bet365 được biết đến trước hết nhờ mảng cá cược thể thao, nên rất nhiều khách hàng từ
+      các mảng khác của họ cũng tìm đến bàn poker ở đây.</p>
+
+
+      <p>Phòng được cấp phép đầy đủ, bộ tạo số ngẫu nhiên đã được iTech Labs chứng nhận. Mức nạp tối thiểu là 10 đơn vị
+      tiền tệ của tài khoản, còn lệnh rút được xử lý nhanh.</p>
+
+
+      <h3>Trò chơi và thể thức</h3>
+
+
+      <p>Phòng có no-limit hold'em ở mọi mức cược, pot-limit Omaha, giải đấu và short deck 6+ Hold'em. Pool riêng đồng
+      nghĩa với việc dàn đối thủ ở đây khác hẳn các skin iPoker còn lại.</p>
+
+
+      <p>Phòng cho phép dùng tracker và HUD, nên bạn có thể mang nguyên bộ setup quen thuộc của mình sang đây mà không
+      bị giới hạn.</p>
+
+
+      <h3>Thưởng và điều kiện</h3>
+
+
+      <ul>
+        <li><strong>Thưởng chào mừng €365</strong>.</li>
+        <li><strong>Pool người chơi riêng</strong> cùng lượng khách đổ sang từ mảng cá cược.</li>
+        <li><strong>Hỗ trợ tracker và HUD</strong>.</li>
+      </ul>
+
+
+      <p>Về điều kiện riêng của kèo bet365, hãy hỏi quản lý PDH — chúng tôi trực 24/7.</p>
+    srcHash: c8289e7b61fa
+  fil:
+    name: Deal sa poker room na bet365
+    description: >-
+      Poker room ng isa sa pinakakilalang gambling brand sa mundo: hiwalay na pool ng mga manlalaro, short deck na 6+
+      Hold'em, at mabilis na payout. Bonus na €365.
+    geo: Europa, Latin America
+    bonus: €365
+    body: >
+      <h3>Tungkol sa room</h3>
+
+
+      <p>Binuksan ang poker room ng bet365 noong 2005 at tumatakbo ito sa plataporma ng iPoker network, ngunit may
+      sarili itong pool ng mga manlalaro na hiwalay sa pangunahing network. Kilala ang brand na bet365 lalo na sa sports
+      betting, kaya maraming kliyente nito mula sa ibang vertical ang napupunta rin dito sa poker.</p>
+
+
+      <p>Ganap na lisensyado ang room, at sertipikado ng iTech Labs ang random number generator. Ang minimum na deposito
+      ay 10 unit ng currency ng account, at mabilis na napoproseso ang mga payout.</p>
+
+
+      <h3>Laro at mga format</h3>
+
+
+      <p>Makukuha rito ang no-limit hold'em sa lahat ng limit, pot-limit Omaha, mga torneo, at ang short deck na 6+
+      Hold'em. Dahil hiwalay ang pool, iba ang komposisyon ng mga kalaban kumpara sa ibang skin ng iPoker.</p>
+
+
+      <p>Pinapayagan sa room ang mga tracker at HUD, kaya walang problemang madala rito ang nakasanayan mong working
+      setup.</p>
+
+
+      <h3>Bonus at mga kondisyon</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus na €365</strong>.</li>
+        <li><strong>Hiwalay na pool ng mga manlalaro</strong> at dagsa ng audience mula sa betting.</li>
+        <li><strong>Suporta sa mga tracker at HUD</strong>.</li>
+      </ul>
+
+
+      <p>Para sa mga personal na kondisyon ng deal sa bet365, makipag-ugnayan sa manager ng PDH — nandito kami 24/7.</p>
+    srcHash: c8289e7b61fa
+  th:
+    name: ดีลในห้องโป๊กเกอร์ bet365
+    description: >-
+      ห้องโป๊กเกอร์จากหนึ่งในแบรนด์พนันที่คนรู้จักมากที่สุดในโลก มีพูลผู้เล่นแยกเป็นของตัวเอง เกมสำรับสั้น 6+ Hold'em
+      และการจ่ายเงินที่รวดเร็ว โบนัส €365
+    geo: ยุโรป, ละตินอเมริกา
+    bonus: €365
+    body: >
+      <h3>เกี่ยวกับห้องนี้</h3>
+
+
+      <p>ห้องโป๊กเกอร์ bet365 เปิดให้บริการตั้งแต่ปี 2005 และทำงานบนแพลตฟอร์มของเครือข่าย iPoker
+      โดยมีพูลผู้เล่นของตัวเองที่แยกออกจากพูลหลักของเครือข่าย แบรนด์ bet365 เป็นที่รู้จักมากที่สุดจากการเดิมพันกีฬา
+      และลูกค้าจากสายอื่น ๆ ของแบรนด์ก็เข้ามาเล่นโป๊กเกอร์ที่นี่เป็นจำนวนมาก</p>
+
+
+      <p>ห้องนี้ได้รับใบอนุญาตอย่างครบถ้วน และเครื่องสุ่มตัวเลขได้รับการรับรองจาก iTech Labs เงินฝากขั้นต่ำอยู่ที่ 10
+      หน่วยของสกุลเงินในบัญชี ส่วนการจ่ายเงินดำเนินการได้อย่างรวดเร็ว</p>
+
+
+      <h3>เกมและรูปแบบการเล่น</h3>
+
+
+      <p>มีให้เล่นทั้งโนลิมิตโฮลเด็มครบทุกลิมิต พอตลิมิตโอมาฮา ทัวร์นาเมนต์ และสำรับสั้น 6+ Hold'em
+      การมีพูลแยกเป็นเอกเทศหมายความว่าคู่แข่งที่คุณเจอจะต่างจากสกินอื่น ๆ ของ iPoker</p>
+
+
+      <p>ห้องนี้อนุญาตให้ใช้โปรแกรมแทร็กเกอร์และ HUD
+      คุณจึงย้ายชุดเครื่องมือทำงานที่คุ้นเคยมาใช้ที่นี่ได้โดยไม่มีข้อจำกัด</p>
+
+
+      <h3>โบนัสและเงื่อนไข</h3>
+
+
+      <ul>
+        <li><strong>โบนัสต้อนรับ €365</strong></li>
+        <li><strong>พูลผู้เล่นแยกเป็นของตัวเอง</strong> พร้อมผู้เล่นที่ไหลเข้ามาจากฝั่งเดิมพัน</li>
+        <li><strong>รองรับโปรแกรมแทร็กเกอร์และ HUD</strong></li>
+      </ul>
+
+
+      <p>สอบถามเงื่อนไขดีลเฉพาะบุคคลสำหรับ bet365 ได้ที่ผู้จัดการของ PDH — เราพร้อมให้บริการตลอด 24/7</p>
+    srcHash: c8289e7b61fa

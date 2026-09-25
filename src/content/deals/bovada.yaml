@@ -1,0 +1,707 @@
+app: Bovada
+club: "-"
+union: "-"
+logo: bovada_logo
+logoimage: /bovada.webp
+logoalt: Bovada logo
+format: NLH / PLO
+type: Centralized
+rakeback: ""
+featured: false
+hidden: false
+order: 23
+badges:
+  - centralized
+  - usaPlayers
+  - soft
+  - verified
+regions:
+  - america
+ratings:
+  mtt: 4
+  cash: 5
+  plo: 3
+  nlh: 5
+name: Сделка в покер руме Bovada
+description: >-
+  Один из самых мягких румов для игроков из США: анонимные столы, быстрый формат Zone Poker и приём биткоина.
+  Приветственный бонус 100% до $1000.
+geo: США
+bonus: 100% до $1000
+body: >
+  <h3>О руме</h3>
+
+
+  <p>Bovada работает с 2011 года и остаётся одной из самых узнаваемых площадок на американском рынке. Рум входит в сеть
+  Paiwangluo и в пиковые часы собирает около семи тысяч игроков.</p>
+
+
+  <p>Поле здесь считается одним из самых мягких в онлайне: подавляющее большинство за столами — любители, которые пришли
+  в покер из спортивных ставок и казино того же бренда.</p>
+
+
+  <h3>Игра и форматы</h3>
+
+
+  <p>Доступны безлимитный холдем и пот-лимитная Омаха, турниры, Sit&amp;Go и быстрый формат Zone Poker. Столы анонимные
+  — ники скрыты, поэтому отбирать соперников и вести на них статистику невозможно.</p>
+
+
+  <p>Касса принимает биткоин и другие криптовалюты, минимальный депозит — 10 долларов. Клиент доступен на десктопе и в
+  мобильном браузере без установки.</p>
+
+
+  <h3>Бонус и условия</h3>
+
+
+  <ul>
+    <li><strong>Приветственный бонус 100% до $1000</strong>.</li>
+    <li><strong>Мягкое поле</strong> — высокая доля рекреационных игроков.</li>
+    <li><strong>Депозиты в биткоине</strong> и быстрые выплаты.</li>
+  </ul>
+
+
+  <p>Персональные условия сделки по Bovada уточняйте у менеджера PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in Bovada poker room
+    description: >-
+      One of the softest rooms for players from the USA: anonymous tables, the fast Zone Poker format and a bitcoin
+      cashier. Welcome bonus 100% up to $1000.
+    geo: USA
+    bonus: 100% up to $1000
+    body: >
+      <h3>About the room</h3>
+
+
+      <p>Bovada has been running since 2011 and remains one of the most recognizable sites on the American market. The
+      room is part of the Paiwangluo network and gathers around seven thousand players at peak hours.</p>
+
+
+      <p>The field here is considered one of the softest online: the overwhelming majority at the tables are amateurs
+      who came to poker from the sportsbook and casino under the same brand.</p>
+
+
+      <h3>Games and formats</h3>
+
+
+      <p>No-limit hold'em and pot-limit Omaha are available, along with tournaments, Sit&amp;Go and the fast Zone Poker
+      format. Tables are anonymous — screen names are hidden, so you cannot pick your opponents or keep stats on
+      them.</p>
+
+
+      <p>The cashier accepts bitcoin and other cryptocurrencies, and the minimum deposit is 10 dollars. The client works
+      on desktop and in a mobile browser with no installation.</p>
+
+
+      <h3>Bonus and terms</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus 100% up to $1000</strong>.</li>
+        <li><strong>Soft field</strong> — a high share of recreational players.</li>
+        <li><strong>Bitcoin deposits</strong> and fast payouts.</li>
+      </ul>
+
+
+      <p>For the personal terms of the Bovada deal, check with the PDH manager — we are available 24/7.</p>
+    srcHash: 2462e585bc9f
+  uz:
+    name: Bovada xonasidagi bitim
+    description: >-
+      AQSh oʻyinchilari uchun eng yumshoq xonalardan biri: anonim stollar, tezkor Zone Poker formati va bitkoin qabul
+      qilinishi. Xush kelibsiz bonusi 100%, $1000 gacha.
+    geo: AQSh
+    bonus: $1000 gacha 100%
+    body: >
+      <h3>Xona haqida</h3>
+
+
+      <p>Bovada 2011-yildan beri ishlaydi va Amerika bozoridagi eng tanilgan maydonchalardan biri boʻlib qolmoqda. Xona
+      Paiwangluo tarmogʻiga kiradi va eng gavjum soatlarda qariyb yetti ming oʻyinchini yigʻadi.</p>
+
+
+      <p>Bu yerdagi stollar onlayndagi eng yumshoqlaridan biri hisoblanadi: oʻyinchilarning katta aksariyati — xuddi shu
+      brendning sport tikishlari va kazinosidan pokerga kelgan havaskorlar.</p>
+
+
+      <h3>Oʻyin va formatlar</h3>
+
+
+      <p>Limitsiz xoldem va pot-limitli Omaha, turnirlar, Sit&amp;Go hamda tezkor Zone Poker formati mavjud. Stollar
+      anonim — niklar yashirilgan, shuning uchun raqiblarni tanlab olish va ular boʻyicha statistika yuritish
+      imkonsiz.</p>
+
+
+      <p>Kassa bitkoin va boshqa kriptovalyutalarni qabul qiladi, minimal depozit — 10 dollar. Klient desktopda va
+      oʻrnatishsiz mobil brauzerda ishlaydi.</p>
+
+
+      <h3>Bonus va shartlar</h3>
+
+
+      <ul>
+        <li><strong>Xush kelibsiz bonusi 100%, $1000 gacha</strong>.</li>
+        <li><strong>Yumshoq stollar</strong> — rekreatsion oʻyinchilar ulushi yuqori.</li>
+        <li><strong>Bitkoinda depozitlar</strong> va tezkor toʻlovlar.</li>
+      </ul>
+
+
+      <p>Bovada boʻyicha bitimning shaxsiy shartlarini PDH menejeridan aniqlashtiring — biz 24/7 aloqadamiz.</p>
+    srcHash: 2462e585bc9f
+  uk:
+    name: Угода в покер-румі Bovada
+    description: >-
+      Один із найм'якших румів для гравців зі США: анонімні столи, швидкий формат Zone Poker і прийом біткоїна.
+      Вітальний бонус 100% до $1000.
+    geo: США
+    bonus: 100% до $1000
+    body: >
+      <h3>Про рум</h3>
+
+
+      <p>Bovada працює з 2011 року і залишається одним із найвпізнаваніших майданчиків на американському ринку. Рум
+      входить до мережі Paiwangluo і в пікові години збирає близько семи тисяч гравців.</p>
+
+
+      <p>Поле тут вважається одним із найм'якших в онлайні: переважна більшість за столами — аматори, які прийшли в
+      покер зі ставок на спорт і казино того ж бренду.</p>
+
+
+      <h3>Гра та формати</h3>
+
+
+      <p>Доступні безлімітний холдем і пот-лімітна Омаха, турніри, Sit&amp;Go та швидкий формат Zone Poker. Столи
+      анонімні — ніки приховані, тому відбирати суперників і вести на них статистику неможливо.</p>
+
+
+      <p>Каса приймає біткоїн та інші криптовалюти, мінімальний депозит — 10 доларів. Клієнт доступний на десктопі та в
+      мобільному браузері без встановлення.</p>
+
+
+      <h3>Бонус та умови</h3>
+
+
+      <ul>
+        <li><strong>Вітальний бонус 100% до $1000</strong>.</li>
+        <li><strong>М'яке поле</strong> — висока частка рекреаційних гравців.</li>
+        <li><strong>Депозити в біткоїні</strong> та швидкі виплати.</li>
+      </ul>
+
+
+      <p>Персональні умови угоди щодо Bovada уточнюйте в менеджера PDH — ми на зв'язку 24/7.</p>
+    srcHash: 2462e585bc9f
+  it:
+    name: Offerta nella poker room Bovada
+    description: >-
+      Una delle room più soft per i giocatori statunitensi: tavoli anonimi, il formato veloce Zone Poker e depositi in
+      bitcoin. Bonus di benvenuto 100% fino a $1000.
+    geo: USA
+    bonus: 100% fino a $1000
+    body: >
+      <h3>Informazioni sulla room</h3>
+
+
+      <p>Bovada è attiva dal 2011 e resta una delle piattaforme più riconoscibili del mercato americano. La room fa
+      parte del network Paiwangluo e nelle ore di punta raduna circa settemila giocatori.</p>
+
+
+      <p>Il campo qui è considerato uno dei più soft dell'online: la stragrande maggioranza dei giocatori seduti ai
+      tavoli è composta da amatori arrivati al poker dalle scommesse sportive e dal casinò dello stesso brand.</p>
+
+
+      <h3>Gioco e formati</h3>
+
+
+      <p>Sono disponibili hold'em no limit e Omaha pot limit, tornei, Sit&amp;Go e il formato veloce Zone Poker. I
+      tavoli sono anonimi: i nickname restano nascosti, quindi non è possibile selezionare gli avversari né tenere
+      statistiche su di loro.</p>
+
+
+      <p>La cassa accetta bitcoin e altre criptovalute, il deposito minimo è di 10 dollari. Il client è disponibile su
+      desktop e da browser mobile, senza installazione.</p>
+
+
+      <h3>Bonus e condizioni</h3>
+
+
+      <ul>
+        <li><strong>Bonus di benvenuto 100% fino a $1000</strong>.</li>
+        <li><strong>Campo soft</strong> — alta percentuale di giocatori ricreativi.</li>
+        <li><strong>Depositi in bitcoin</strong> e pagamenti rapidi.</li>
+      </ul>
+
+
+      <p>Per le condizioni personalizzate dell'offerta su Bovada rivolgiti al manager PDH: siamo disponibili 24/7.</p>
+    srcHash: 2462e585bc9f
+  de:
+    name: Deal im Pokerraum Bovada
+    description: >-
+      Einer der softesten Räume für Spieler aus den USA: anonyme Tische, das schnelle Format Zone Poker und
+      Bitcoin-Zahlungen. Willkommensbonus 100% bis zu $1000.
+    geo: USA
+    bonus: 100% bis zu $1000
+    body: >
+      <h3>Über den Pokerraum</h3>
+
+
+      <p>Bovada ist seit 2011 am Markt und gehört nach wie vor zu den bekanntesten Plattformen in den USA. Der Raum ist
+      Teil des Paiwangluo-Netzwerks und bringt zu Stoßzeiten rund siebentausend Spieler an die Tische.</p>
+
+
+      <p>Das Feld gilt als eines der softesten im Online-Poker: Die große Mehrheit an den Tischen sind Freizeitspieler,
+      die über Sportwetten und das Casino derselben Marke zum Poker gekommen sind.</p>
+
+
+      <h3>Spiel und Formate</h3>
+
+
+      <p>Verfügbar sind No-Limit Hold'em und Pot-Limit Omaha, Turniere, Sit&amp;Go und das schnelle Format Zone Poker.
+      Die Tische sind anonym – Nicknames bleiben verborgen, deshalb lassen sich Gegner weder gezielt auswählen noch
+      statistisch erfassen.</p>
+
+
+      <p>Die Kasse akzeptiert Bitcoin und andere Kryptowährungen, die Mindesteinzahlung liegt bei 10 Dollar. Der Client
+      läuft auf dem Desktop und im mobilen Browser ganz ohne Installation.</p>
+
+
+      <h3>Bonus und Konditionen</h3>
+
+
+      <ul>
+        <li><strong>Willkommensbonus 100% bis zu $1000</strong>.</li>
+        <li><strong>Softes Feld</strong> – hoher Anteil an Recreational-Spielern.</li>
+        <li><strong>Einzahlungen in Bitcoin</strong> und schnelle Auszahlungen.</li>
+      </ul>
+
+
+      <p>Die persönlichen Konditionen des Bovada-Deals erfährst du beim PDH-Manager – wir sind 24/7 erreichbar.</p>
+    srcHash: 2462e585bc9f
+  es:
+    name: Oferta en la sala de póker Bovada
+    description: >-
+      Una de las salas más blandas para los jugadores de EE. UU.: mesas anónimas, el formato rápido Zone Poker y
+      depósitos en bitcoin. Bono de bienvenida del 100% hasta $1000.
+    geo: EE. UU.
+    bonus: 100% hasta $1000
+    body: >
+      <h3>Sobre la sala</h3>
+
+
+      <p>Bovada opera desde 2011 y sigue siendo una de las plataformas más reconocidas del mercado estadounidense. La
+      sala forma parte de la red Paiwangluo y en horas punta reúne a unos siete mil jugadores.</p>
+
+
+      <p>El campo está considerado uno de los más blandos del póker online: la inmensa mayoría de los que se sientan a
+      las mesas son aficionados que llegaron al póker desde las apuestas deportivas y el casino de la misma marca.</p>
+
+
+      <h3>Juego y formatos</h3>
+
+
+      <p>Hay hold'em sin límite y Omaha pot limit, torneos, Sit&amp;Go y el formato rápido Zone Poker. Las mesas son
+      anónimas —los nicks están ocultos—, así que no se puede seleccionar a los rivales ni llevar estadísticas sobre
+      ellos.</p>
+
+
+      <p>El cajero admite bitcoin y otras criptomonedas, con un depósito mínimo de 10 dólares. El cliente está
+      disponible en escritorio y en el navegador móvil, sin necesidad de instalar nada.</p>
+
+
+      <h3>Bono y condiciones</h3>
+
+
+      <ul>
+        <li><strong>Bono de bienvenida del 100% hasta $1000</strong>.</li>
+        <li><strong>Campo blando</strong> — alta proporción de jugadores recreativos.</li>
+        <li><strong>Depósitos en bitcoin</strong> y pagos rápidos.</li>
+      </ul>
+
+
+      <p>Consulta las condiciones personalizadas de la oferta de Bovada con el manager de PDH: estamos disponibles
+      24/7.</p>
+    srcHash: 2462e585bc9f
+  pt:
+    name: Oferta na sala de poker Bovada
+    description: >-
+      Uma das salas mais soft para jogadores dos EUA: mesas anônimas, o formato rápido Zone Poker e depósitos em
+      bitcoin. Bônus de boas-vindas de 100% até $1000.
+    geo: EUA
+    bonus: 100% até $1000
+    body: >
+      <h3>Sobre a sala</h3>
+
+
+      <p>A Bovada está no ar desde 2011 e segue como uma das plataformas mais conhecidas do mercado americano. A sala
+      faz parte da rede Paiwangluo e, nos horários de pico, reúne cerca de sete mil jogadores.</p>
+
+
+      <p>O campo aqui é considerado um dos mais soft do poker online: a grande maioria nas mesas são amadores que
+      chegaram ao poker vindos das apostas esportivas e do cassino da mesma marca.</p>
+
+
+      <h3>Jogo e formatos</h3>
+
+
+      <p>Estão disponíveis hold'em no-limit e Omaha pot-limit, torneios, Sit&amp;Go e o formato rápido Zone Poker. As
+      mesas são anônimas — os nicks ficam ocultos, então não dá para selecionar adversários nem manter estatísticas
+      sobre eles.</p>
+
+
+      <p>O caixa aceita bitcoin e outras criptomoedas, e o depósito mínimo é de 10 dólares. O cliente está disponível no
+      desktop e no navegador do celular, sem instalação.</p>
+
+
+      <h3>Bônus e condições</h3>
+
+
+      <ul>
+        <li><strong>Bônus de boas-vindas de 100% até $1000</strong>.</li>
+        <li><strong>Campo soft</strong> — alta proporção de jogadores recreativos.</li>
+        <li><strong>Depósitos em bitcoin</strong> e saques rápidos.</li>
+      </ul>
+
+
+      <p>Para as condições personalizadas da oferta na Bovada, fale com o gerente da PDH — estamos disponíveis 24/7.</p>
+    srcHash: 2462e585bc9f
+  fr:
+    name: Offre sur la salle de poker Bovada
+    description: >-
+      L'une des salles les plus soft pour les joueurs des États-Unis : tables anonymes, format rapide Zone Poker et
+      dépôts en bitcoin. Bonus de bienvenue 100% jusqu'à $1000.
+    geo: États-Unis
+    bonus: 100% jusqu'à $1000
+    body: >
+      <h3>À propos de la salle</h3>
+
+
+      <p>Bovada opère depuis 2011 et reste l'une des plateformes les plus connues du marché américain. La salle fait
+      partie du réseau Paiwangluo et réunit environ sept mille joueurs aux heures de pointe.</p>
+
+
+      <p>Le champ y est considéré comme l'un des plus soft du poker en ligne : l'immense majorité des joueurs aux tables
+      sont des amateurs arrivés au poker via les paris sportifs et le casino de la même marque.</p>
+
+
+      <h3>Jeu et formats</h3>
+
+
+      <p>Au programme : Hold'em no limit et Omaha pot limit, tournois, Sit&amp;Go et le format rapide Zone Poker. Les
+      tables sont anonymes — les pseudos sont masqués, impossible donc de sélectionner ses adversaires ou de tenir des
+      statistiques sur eux.</p>
+
+
+      <p>La caisse accepte le bitcoin et d'autres cryptomonnaies, avec un dépôt minimum de 10 dollars. Le client est
+      disponible sur desktop et dans le navigateur mobile, sans installation.</p>
+
+
+      <h3>Bonus et conditions</h3>
+
+
+      <ul>
+        <li><strong>Bonus de bienvenue 100% jusqu'à $1000</strong>.</li>
+        <li><strong>Champ soft</strong> — forte proportion de joueurs récréatifs.</li>
+        <li><strong>Dépôts en bitcoin</strong> et retraits rapides.</li>
+      </ul>
+
+
+      <p>Pour les conditions personnalisées de l'offre Bovada, contactez le manager PDH — nous sommes disponibles
+      24/7.</p>
+    srcHash: 2462e585bc9f
+  tr:
+    name: Bovada poker odasında anlaşma
+    description: >-
+      ABD'li oyuncular için en soft odalardan biri: anonim masalar, hızlı Zone Poker formatı ve bitcoin ile para
+      yatırma. $1000'a kadar %100 hoş geldin bonusu.
+    geo: ABD
+    bonus: $1000'a kadar %100
+    body: >
+      <h3>Oda Hakkında</h3>
+
+
+      <p>Bovada 2011 yılından beri faaliyette ve ABD pazarının en tanınan platformlarından biri olmayı sürdürüyor. Oda
+      Paiwangluo ağına dahil ve yoğun saatlerde yaklaşık yedi bin oyuncu topluyor.</p>
+
+
+      <p>Buradaki oyuncu havuzu online'daki en soft havuzlardan biri olarak kabul ediliyor: masalardaki oyuncuların
+      büyük çoğunluğu, pokere aynı markanın spor bahisleri ve casino bölümünden gelen amatörler.</p>
+
+
+      <h3>Oyun ve Formatlar</h3>
+
+
+      <p>No Limit Hold'em ve Pot Limit Omaha, turnuvalar, Sit&amp;Go ve hızlı Zone Poker formatı mevcut. Masalar anonim
+      — takma adlar gizli, bu yüzden rakipleri seçmek ve haklarında istatistik tutmak mümkün değil.</p>
+
+
+      <p>Kasa bitcoin ve diğer kripto paraları kabul ediyor, minimum para yatırma tutarı 10 dolar. Oyun istemcisi
+      masaüstünde ve kurulum gerektirmeden mobil tarayıcıda çalışıyor.</p>
+
+
+      <h3>Bonus ve Koşullar</h3>
+
+
+      <ul>
+        <li><strong>$1000'a kadar %100 hoş geldin bonusu</strong>.</li>
+        <li><strong>Soft oyuncu havuzu</strong> — rekreasyonel oyuncu oranı yüksek.</li>
+        <li><strong>Bitcoin ile para yatırma</strong> ve hızlı ödemeler.</li>
+      </ul>
+
+
+      <p>Bovada anlaşmasının kişisel koşullarını PDH yöneticisinden öğrenebilirsiniz — 7/24 buradayız.</p>
+    srcHash: 2462e585bc9f
+  he:
+    name: דיל בחדר הפוקר Bovada
+    description: >-
+      אחד החדרים הרכים ביותר לשחקנים מארה"ב: שולחנות אנונימיים, הפורמט המהיר Zone Poker ותמיכה בביטקוין. בונוס הצטרפות
+      100% עד $1000.
+    geo: ארה"ב
+    bonus: 100% עד $1000
+    body: >
+      <h3>על החדר</h3>
+
+
+      <p>Bovada פועל מאז 2011 ונשאר אחד השמות המוכרים ביותר בשוק האמריקאי. החדר משתייך לרשת Paiwangluo ובשעות השיא
+      מתאספים בו כשבעת אלפים שחקנים.</p>
+
+
+      <p>השדה כאן נחשב לאחד הרכים ביותר באונליין: הרוב המוחלט של היושבים בשולחנות הם חובבים שהגיעו לפוקר מהימורי הספורט
+      ומהקזינו של אותו מותג.</p>
+
+
+      <h3>משחק ופורמטים</h3>
+
+
+      <p>זמינים הולדם ללא הגבלה ואומהה פוט-לימיט, טורנירים, Sit&amp;Go והפורמט המהיר Zone Poker. השולחנות אנונימיים —
+      הכינויים מוסתרים, ולכן אי אפשר לבחור יריבים ולנהל עליהם סטטיסטיקה.</p>
+
+
+      <p>הקופה מקבלת ביטקוין ומטבעות קריפטו נוספים, וההפקדה המינימלית היא 10 דולר. הקליינט זמין בדסקטופ ובדפדפן הנייד
+      ללא התקנה.</p>
+
+
+      <h3>בונוס ותנאים</h3>
+
+
+      <ul>
+        <li><strong>בונוס הצטרפות 100% עד $1000</strong>.</li>
+        <li><strong>שדה רך</strong> — שיעור גבוה של שחקנים חובבים.</li>
+        <li><strong>הפקדות בביטקוין</strong> ותשלומים מהירים.</li>
+      </ul>
+
+
+      <p>את התנאים האישיים של הדיל ב-Bovada תוכלו לברר מול המנהל של PDH — אנחנו זמינים 24/7.</p>
+    srcHash: 2462e585bc9f
+  ar:
+    name: صفقة في غرفة البوكر Bovada
+    description: >-
+      واحدة من أسهل الغرف للاعبين من الولايات المتحدة: طاولات مجهولة، وصيغة Zone Poker السريعة، وقبول البيتكوين. بونص
+      ترحيبي 100% حتى $1000.
+    geo: الولايات المتحدة
+    bonus: 100% حتى $1000
+    body: >
+      <h3>عن الغرفة</h3>
+
+
+      <p>تعمل Bovada منذ عام 2011 وتبقى واحدة من أكثر المنصات شهرة في السوق الأمريكية. الغرفة جزء من شبكة Paiwangluo
+      وتجمع في ساعات الذروة نحو سبعة آلاف لاعب.</p>
+
+
+      <p>تُعتبر الطاولات هنا من الأسهل في البوكر أونلاين: الغالبية العظمى من الجالسين عليها هواة جاؤوا إلى البوكر من قسم
+      المراهنات الرياضية والكازينو التابعين للعلامة نفسها.</p>
+
+
+      <h3>اللعب والصيغ</h3>
+
+
+      <p>تتوفر الهولدم بلا حدود والأوماها بحد القدر، إضافة إلى البطولات وSit&amp;Go وصيغة Zone Poker السريعة. الطاولات
+      مجهولة — الأسماء مخفية، لذا لا يمكن انتقاء الخصوم ولا جمع إحصاءات عنهم.</p>
+
+
+      <p>يقبل الكاشير البيتكوين وعملات رقمية أخرى، والحد الأدنى للإيداع 10 دولارات. ويعمل برنامج الغرفة على سطح المكتب
+      وفي متصفح الهاتف من دون الحاجة إلى تثبيت.</p>
+
+
+      <h3>البونص والشروط</h3>
+
+
+      <ul>
+        <li><strong>بونص ترحيبي 100% حتى $1000</strong>.</li>
+        <li><strong>طاولات سهلة</strong> — نسبة عالية من اللاعبين الترفيهيين.</li>
+        <li><strong>إيداعات بالبيتكوين</strong> وسحوبات سريعة.</li>
+      </ul>
+
+
+      <p>لمعرفة الشروط الشخصية لصفقة Bovada تواصل مع مدير PDH — نحن على تواصل 24/7.</p>
+    srcHash: 2462e585bc9f
+  id:
+    name: Deal di poker room Bovada
+    description: >-
+      Salah satu room paling soft untuk pemain dari Amerika Serikat: meja anonim, format cepat Zone Poker, dan deposit
+      lewat bitcoin. Bonus selamat datang 100% hingga $1000.
+    geo: Amerika Serikat
+    bonus: 100% hingga $1000
+    body: >
+      <h3>Tentang Room</h3>
+
+
+      <p>Bovada beroperasi sejak 2011 dan tetap menjadi salah satu platform paling dikenal di pasar Amerika. Room ini
+      tergabung dalam jaringan Paiwangluo dan pada jam sibuk ada sekitar tujuh ribu pemain di mejanya.</p>
+
+
+      <p>Field di sini dianggap salah satu yang paling soft di poker online: sebagian besar pemain di meja adalah amatir
+      yang datang ke poker dari taruhan olahraga dan kasino milik brand yang sama.</p>
+
+
+      <h3>Permainan dan Format</h3>
+
+
+      <p>Tersedia No-Limit Hold'em dan Pot-Limit Omaha, turnamen, Sit&amp;Go, serta format cepat Zone Poker. Mejanya
+      anonim — nickname disembunyikan, sehingga menyeleksi lawan maupun mengumpulkan statistik atas mereka menjadi
+      mustahil.</p>
+
+
+      <p>Cashier menerima bitcoin dan kripto lainnya, dengan deposit minimum 10 dolar. Client tersedia di desktop dan di
+      browser mobile tanpa perlu instalasi.</p>
+
+
+      <h3>Bonus dan Ketentuan</h3>
+
+
+      <ul>
+        <li><strong>Bonus selamat datang 100% hingga $1000</strong>.</li>
+        <li><strong>Field yang soft</strong> — porsi pemain rekreasional sangat tinggi.</li>
+        <li><strong>Deposit dengan bitcoin</strong> dan penarikan dana yang cepat.</li>
+      </ul>
+
+
+      <p>Untuk ketentuan deal Bovada yang dipersonalisasi, hubungi manajer PDH — kami siap 24/7.</p>
+    srcHash: 2462e585bc9f
+  vi:
+    name: Kèo tại phòng poker Bovada
+    description: >-
+      Một trong những phòng mềm nhất dành cho người chơi Mỹ: bàn ẩn danh, thể thức nhanh Zone Poker và nhận nạp bitcoin.
+      Thưởng chào mừng 100% lên đến $1000.
+    geo: Mỹ
+    bonus: 100% lên đến $1000
+    body: >
+      <h3>Về phòng chơi</h3>
+
+
+      <p>Bovada hoạt động từ năm 2011 và vẫn là một trong những sân chơi có tên tuổi nhất trên thị trường Mỹ. Phòng
+      thuộc mạng Paiwangluo và vào giờ cao điểm quy tụ khoảng bảy nghìn người chơi.</p>
+
+
+      <p>Sân chơi ở đây được xem là một trong những sân mềm nhất trong poker trực tuyến: đại đa số người ngồi bàn là tay
+      chơi nghiệp dư đến với poker từ mảng cá cược thể thao và casino của cùng thương hiệu.</p>
+
+
+      <h3>Trò chơi và thể thức</h3>
+
+
+      <p>Có no-limit hold'em và pot-limit Omaha, giải đấu, Sit&amp;Go cùng thể thức nhanh Zone Poker. Bàn chơi ẩn danh —
+      nick được giấu đi, nên bạn không thể chọn lọc đối thủ hay lưu thống kê về họ.</p>
+
+
+      <p>Quầy giao dịch nhận bitcoin và các loại tiền mã hóa khác, mức nạp tối thiểu là 10 đô la. Client có mặt trên
+      desktop và trên trình duyệt di động, không cần cài đặt.</p>
+
+
+      <h3>Thưởng và điều kiện</h3>
+
+
+      <ul>
+        <li><strong>Thưởng chào mừng 100% lên đến $1000</strong>.</li>
+        <li><strong>Sân chơi mềm</strong> — tỷ lệ người chơi giải trí cao.</li>
+        <li><strong>Nạp tiền bằng bitcoin</strong> và rút tiền nhanh.</li>
+      </ul>
+
+
+      <p>Về điều kiện riêng của kèo Bovada, hãy hỏi quản lý PDH — chúng tôi trực 24/7.</p>
+    srcHash: 2462e585bc9f
+  fil:
+    name: Deal sa poker room na Bovada
+    description: >-
+      Isa sa pinaka-soft na poker room para sa mga manlalaro mula sa USA: anonymous na mga mesa, mabilis na format na
+      Zone Poker, at tinatanggap ang bitcoin. Welcome bonus na 100% hanggang $1000.
+    geo: USA
+    bonus: 100% hanggang $1000
+    body: >
+      <h3>Tungkol sa room</h3>
+
+
+      <p>Nag-ooperate ang Bovada mula pa noong 2011 at nananatiling isa sa pinakakilalang plataporma sa merkado ng
+      Amerika. Bahagi ang room ng network na Paiwangluo at sa peak hours ay umaabot sa humigit-kumulang pitong libong
+      manlalaro.</p>
+
+
+      <p>Itinuturing na isa sa pinaka-soft sa online poker ang field dito: halos lahat ng nasa mga mesa ay mga amateur
+      na pumasok sa poker mula sa sports betting at casino ng parehong brand.</p>
+
+
+      <h3>Laro at mga format</h3>
+
+
+      <p>Available ang no-limit hold'em at pot-limit Omaha, mga torneo, Sit&amp;Go at ang mabilis na format na Zone
+      Poker. Anonymous ang mga mesa — nakatago ang mga nickname, kaya hindi posibleng pumili ng kalaban o magtala ng
+      stats sa kanila.</p>
+
+
+      <p>Tumatanggap ang cashier ng bitcoin at iba pang cryptocurrency, at 10 dolyar ang minimum na deposito. Available
+      ang client sa desktop at sa mobile browser nang hindi na kailangang mag-install.</p>
+
+
+      <h3>Bonus at mga kondisyon</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus na 100% hanggang $1000</strong>.</li>
+        <li><strong>Soft na field</strong> — mataas ang bahagdan ng mga recreational player.</li>
+        <li><strong>Mga deposito sa bitcoin</strong> at mabibilis na payout.</li>
+      </ul>
+
+
+      <p>Para sa personal na kondisyon ng deal sa Bovada, kumonsulta sa manager ng PDH — nasa linya kami 24/7.</p>
+    srcHash: 2462e585bc9f
+  th:
+    name: ดีลในห้องโป๊กเกอร์ Bovada
+    description: >-
+      หนึ่งในรูมที่ซอฟต์ที่สุดสำหรับผู้เล่นจากสหรัฐอเมริกา: โต๊ะแบบนิรนาม รูปแบบเกมเร็ว Zone Poker และรองรับบิตคอยน์
+      โบนัสต้อนรับ 100% สูงสุด $1000
+    geo: สหรัฐอเมริกา
+    bonus: 100% สูงสุด $1000
+    body: >
+      <h3>เกี่ยวกับรูม</h3>
+
+
+      <p>Bovada เปิดให้บริการมาตั้งแต่ปี 2011 และยังคงเป็นหนึ่งในแพลตฟอร์มที่ผู้เล่นในตลาดอเมริกาคุ้นเคยมากที่สุด
+      รูมนี้อยู่ในเครือข่าย Paiwangluo และในช่วงเวลาพีคมีผู้เล่นราวเจ็ดพันคน</p>
+
+
+      <p>สนามเกมที่นี่ถือว่าซอฟต์ที่สุดแห่งหนึ่งในวงการออนไลน์
+      ผู้เล่นส่วนใหญ่บนโต๊ะเป็นมือสมัครเล่นที่เข้าสู่โป๊กเกอร์มาจากการพนันกีฬาและคาสิโนของแบรนด์เดียวกัน</p>
+
+
+      <h3>เกมและรูปแบบการเล่น</h3>
+
+
+      <p>มีทั้งโฮลเด็มแบบไม่จำกัดเงินเดิมพันและโอมาฮาแบบพ็อตลิมิต ทัวร์นาเมนต์, Sit&amp;Go และรูปแบบเกมเร็ว Zone Poker
+      โต๊ะทั้งหมดเป็นแบบนิรนาม — ชื่อผู้เล่นถูกซ่อนไว้ จึงไม่สามารถเลือกคู่แข่งหรือเก็บสถิติของพวกเขาได้</p>
+
+
+      <p>ระบบแคชเชียร์รองรับบิตคอยน์และคริปโตเคอร์เรนซีอื่น ๆ เงินฝากขั้นต่ำอยู่ที่ 10 ดอลลาร์
+      ไคลเอนต์ใช้งานได้ทั้งบนเดสก์ท็อปและผ่านเบราว์เซอร์บนมือถือโดยไม่ต้องติดตั้ง</p>
+
+
+      <h3>โบนัสและเงื่อนไข</h3>
+
+
+      <ul>
+        <li><strong>โบนัสต้อนรับ 100% สูงสุด $1000</strong></li>
+        <li><strong>สนามเกมซอฟต์</strong> — มีสัดส่วนผู้เล่นสายพักผ่อนสูง</li>
+        <li><strong>ฝากเงินด้วยบิตคอยน์</strong> และจ่ายเงินรวดเร็ว</li>
+      </ul>
+
+
+      <p>สอบถามเงื่อนไขดีล Bovada แบบเฉพาะบุคคลได้ที่ผู้จัดการของ PDH — เราพร้อมให้บริการตลอด 24/7</p>
+    srcHash: 2462e585bc9f

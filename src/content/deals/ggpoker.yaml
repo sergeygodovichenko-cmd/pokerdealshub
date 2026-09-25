@@ -1,0 +1,753 @@
+app: GGPoker
+club: "-"
+union: "-"
+logo: ggpoker_logo
+logoimage: /ggpoker.webp
+logoalt: GGPoker logo
+format: NLH / PLO / MTT
+type: Centralized
+rakeback: ""
+featured: false
+hidden: false
+order: 20
+badges:
+  - centralized
+  - international
+  - allLimits
+  - nonStop
+  - verified
+regions:
+  - europe
+  - asia
+  - latam
+ratings:
+  mtt: 5
+  cash: 5
+  plo: 4
+  nlh: 5
+name: Сделка в покер руме GGPoker
+description: >-
+  Крупнейший онлайн-рум в мире: рекордный трафик на всех лимитах, официальное партнёрство с WSOP и одна из самых плотных
+  турнирных сеток. Приветственный бонус 100% до $600.
+geo: Глобал, Европа, Азия, Латинская Америка
+bonus: 100% до $600
+body: >
+  <h3>О руме</h3>
+
+
+  <p>GGPoker — самый крупный онлайн-рум в мире по объёму трафика. Сеть GGNetwork запущена в 2016 году и в пиковые часы
+  собирает за столами до ста тысяч игроков одновременно, поэтому игра идёт круглосуточно и на микролимитах, и на высоких
+  ставках.</p>
+
+
+  <p>Рум — официальный партнёр World Series of Poker и проводит онлайн-серии WSOP с розыгрышем браслетов. Генератор
+  случайных чисел сертифицирован лабораторией GamingLabs, минимальный депозит — 10 долларов, счета ведутся в долларах
+  США.</p>
+
+
+  <h3>Игра и форматы</h3>
+
+
+  <p>В клиенте доступны безлимитный холдем, пот-лимитная Омаха, короткая колода, спины и большая турнирная сетка с
+  ежемесячными акциями на миллионные гарантии. Поддержки сторонних трекеров и HUD нет — это уравнивает регуляров и
+  любителей и держит поле мягче, чем в классических румах.</p>
+
+
+  <p>Софт работает на десктопе и в мобильном приложении. Для разбора собственной игры есть встроенная статистика и
+  сервис PokerCraft, так что отказ от внешних трекеров не оставляет игрока без аналитики.</p>
+
+
+  <h3>Бонус и условия</h3>
+
+
+  <ul>
+    <li><strong>Приветственный бонус 100% до $600</strong> — начисляется частями по мере набора рейка.</li>
+    <li><strong>Круглосуточный трафик</strong> — стол нужного лимита есть в любое время суток.</li>
+    <li><strong>Серии WSOP Online</strong> — доступ к браслетным турнирам прямо из клиента.</li>
+  </ul>
+
+
+  <p>Персональные условия сделки по GGPoker уточняйте у менеджера PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in GGPoker poker room
+    description: >-
+      The world's largest online poker room: record traffic across all stakes, an official WSOP partnership and one of
+      the busiest tournament schedules anywhere. Welcome bonus 100% up to $600.
+    geo: Global, Europe, Asia, Latin America
+    bonus: 100% up to $600
+    body: >
+      <h3>About the room</h3>
+
+
+      <p>GGPoker is the biggest online poker room in the world by traffic volume. GGNetwork launched in 2016 and at peak
+      hours seats up to a hundred thousand players at once, so the action runs around the clock at both micro stakes and
+      high stakes.</p>
+
+
+      <p>The room is an official partner of the World Series of Poker and hosts WSOP online series with bracelets on the
+      line. Its random number generator is certified by GamingLabs, the minimum deposit is 10 dollars, and accounts are
+      held in US dollars.</p>
+
+
+      <h3>Games and formats</h3>
+
+
+      <p>The client offers no-limit hold'em, pot-limit Omaha, short deck, SPINS and a large tournament schedule with
+      monthly promotions running million-dollar guarantees. Third-party trackers and HUDs are not supported — that puts
+      regulars and recreational players on equal footing and keeps the field softer than at classic rooms.</p>
+
+
+      <p>The software runs on desktop and in the mobile app. For reviewing your own play there are built-in stats and
+      the PokerCraft service, so going without external trackers does not leave you short of analytics.</p>
+
+
+      <h3>Bonus and terms</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus 100% up to $600</strong> — released in installments as you generate rake.</li>
+        <li><strong>Round-the-clock traffic</strong> — a table at the stake you want is available at any hour.</li>
+        <li><strong>WSOP Online series</strong> — bracelet events straight from the client.</li>
+      </ul>
+
+
+      <p>For the personal terms of the GGPoker deal, check with the PDH manager — we are available 24/7.</p>
+    srcHash: c15466016a30
+  uz:
+    name: GGPoker xonasidagi bitim
+    description: >-
+      Dunyodagi eng yirik onlayn poker xonasi: barcha limitlarda rekord trafik, WSOP bilan rasmiy hamkorlik va eng zich
+      turnir jadvallaridan biri. Xush kelibsiz bonusi 100%, $600 gacha.
+    geo: Global, Yevropa, Osiyo, Lotin Amerikasi
+    bonus: 100%, $600 gacha
+    body: >
+      <h3>Xona haqida</h3>
+
+
+      <p>GGPoker — trafik hajmi boʻyicha dunyodagi eng yirik onlayn poker xonasi. GGNetwork tarmogʻi 2016-yilda ishga
+      tushirilgan va eng gavjum soatlarda stollar ortiga bir vaqtning oʻzida yuz mingtagacha oʻyinchini yigʻadi, shu
+      sababli oʻyin ham mikrolimitlarda, ham yuqori limitlarda kechayu kunduz davom etadi.</p>
+
+
+      <p>Xona — World Series of Pokerʼning rasmiy hamkori va bilaguzuklar oʻynaladigan WSOP onlayn seriyalarini
+      oʻtkazadi. Tasodifiy sonlar generatori GamingLabs laboratoriyasida sertifikatlangan, minimal depozit — 10 dollar,
+      hisoblar AQSh dollarida yuritiladi.</p>
+
+
+      <h3>Oʻyin va formatlar</h3>
+
+
+      <p>Klientda limitsiz xoldem, pot-limit Omaha, qisqa koloda, SPINS va millionlik kafolatlarga ega oylik aksiyalar
+      bilan toʻldirilgan katta turnir jadvali mavjud. Tashqi trekerlar va HUD qoʻllab-quvvatlanmaydi — bu regulyarlar
+      bilan havaskorlarni tenglashtiradi va oʻyinchilar havzasini klassik xonalardagidan yumshoqroq saqlaydi.</p>
+
+
+      <p>Dastur desktopda ham, mobil ilovada ham ishlaydi. Oʻz oʻyiningizni tahlil qilish uchun ichki statistika va
+      PokerCraft xizmati bor, shuning uchun tashqi trekerlardan voz kechish oʻyinchini analitikasiz qoldirmaydi.</p>
+
+
+      <h3>Bonus va shartlar</h3>
+
+
+      <ul>
+        <li><strong>Xush kelibsiz bonusi 100%, $600 gacha</strong> — reyk yigʻilgan sari qismlarga boʻlib beriladi.</li>
+        <li><strong>Toʻxtovsiz trafik</strong> — kerakli limitdagi stol kunning istalgan vaqtida topiladi.</li>
+        <li><strong>WSOP Online seriyalari</strong> — bilaguzuk turnirlariga toʻgʻridan-toʻgʻri klientdan kirish.</li>
+      </ul>
+
+
+      <p>GGPoker boʻyicha bitimning shaxsiy shartlarini PDH menejeridan aniqlashtiring — biz 24/7 aloqadamiz.</p>
+    srcHash: c15466016a30
+  uk:
+    name: Угода в покер-румі GGPoker
+    description: >-
+      Найбільший онлайн-рум у світі: рекордний трафік на всіх лімітах, офіційне партнерство з WSOP і одна з найщільніших
+      турнірних сіток. Вітальний бонус 100% до $600.
+    geo: Глобал, Європа, Азія, Латинська Америка
+    bonus: 100% до $600
+    body: >
+      <h3>Про рум</h3>
+
+
+      <p>GGPoker — найбільший онлайн-рум у світі за обсягом трафіку. Мережа GGNetwork запрацювала 2016 року й у пікові
+      години збирає за столами до ста тисяч гравців одночасно, тож гра триває цілодобово і на мікролімітах, і на високих
+      ставках.</p>
+
+
+      <p>Рум — офіційний партнер World Series of Poker і проводить онлайн-серії WSOP з розіграшем браслетів. Генератор
+      випадкових чисел сертифіковано лабораторією GamingLabs, мінімальний депозит — 10 доларів, рахунки ведуться в
+      доларах США.</p>
+
+
+      <h3>Гра та формати</h3>
+
+
+      <p>У клієнті доступні безлімітний холдем, пот-лімітна Омаха, коротка колода, спіни та велика турнірна сітка зі
+      щомісячними акціями на мільйонні гарантії. Підтримки сторонніх трекерів і HUD немає — це зрівнює регулярів і
+      любителів та тримає поле м'якшим, ніж у класичних румах.</p>
+
+
+      <p>Софт працює на десктопі та в мобільному застосунку. Для розбору власної гри є вбудована статистика й сервіс
+      PokerCraft, тож відмова від зовнішніх трекерів не залишає гравця без аналітики.</p>
+
+
+      <h3>Бонус та умови</h3>
+
+
+      <ul>
+        <li><strong>Вітальний бонус 100% до $600</strong> — нараховується частинами в міру набору рейку.</li>
+        <li><strong>Цілодобовий трафік</strong> — стіл потрібного ліміту є будь-якої пори доби.</li>
+        <li><strong>Серії WSOP Online</strong> — доступ до браслетних турнірів просто з клієнта.</li>
+      </ul>
+
+
+      <p>Персональні умови угоди щодо GGPoker уточнюйте в менеджера PDH — ми на зв'язку 24/7.</p>
+    srcHash: c15466016a30
+  it:
+    name: Offerta nella poker room GGPoker
+    description: >-
+      La poker room online più grande al mondo: traffico record a tutti i limiti, partnership ufficiale con le WSOP e
+      uno dei palinsesti di tornei più fitti in assoluto. Bonus di benvenuto 100% fino a $600.
+    geo: Globale, Europa, Asia, America Latina
+    bonus: 100% fino a $600
+    body: >
+      <h3>Informazioni sulla room</h3>
+
+
+      <p>GGPoker è la poker room online più grande al mondo per volume di traffico. La rete GGNetwork è stata lanciata
+      nel 2016 e nelle ore di punta raduna ai tavoli fino a centomila giocatori in contemporanea: per questo si gioca 24
+      ore su 24, sia ai microlimiti sia alle poste alte.</p>
+
+
+      <p>La room è partner ufficiale della World Series of Poker e ospita le serie online WSOP con i braccialetti in
+      palio. Il generatore di numeri casuali è certificato dal laboratorio GamingLabs, il deposito minimo è di 10
+      dollari e i conti sono gestiti in dollari USA.</p>
+
+
+      <h3>Gioco e formati</h3>
+
+
+      <p>Nel client trovi hold'em no limit, Omaha pot limit, Short Deck, SPINS e un ampio palinsesto di tornei con
+      promozioni mensili dai garantiti milionari. Non è previsto il supporto per tracker e HUD di terze parti: questo
+      mette regular e amatori sullo stesso piano e mantiene il campo più soft rispetto alle room classiche.</p>
+
+
+      <p>Il software funziona su desktop e tramite app mobile. Per analizzare il proprio gioco ci sono le statistiche
+      integrate e il servizio PokerCraft, quindi rinunciare ai tracker esterni non lascia il giocatore senza
+      analisi.</p>
+
+
+      <h3>Bonus e condizioni</h3>
+
+
+      <ul>
+        <li><strong>Bonus di benvenuto 100% fino a $600</strong> — viene accreditato a rate man mano che generi rake.</li>
+        <li><strong>Traffico 24 ore su 24</strong> — trovi il tavolo del limite che ti serve a qualsiasi ora del giorno e della notte.</li>
+        <li><strong>Serie WSOP Online</strong> — accesso ai tornei con braccialetto direttamente dal client.</li>
+      </ul>
+
+
+      <p>Per le condizioni personalizzate dell'offerta su GGPoker rivolgiti al manager PDH: siamo disponibili 24/7.</p>
+    srcHash: c15466016a30
+  de:
+    name: Deal im Pokerraum GGPoker
+    description: >-
+      Der größte Online-Pokerraum der Welt: Rekord-Traffic auf allen Limits, offizielle Partnerschaft mit der WSOP und
+      einer der dichtesten Turnierkalender. Willkommensbonus 100% bis zu $600.
+    geo: Global, Europa, Asien, Lateinamerika
+    bonus: 100% bis zu $600
+    body: >
+      <h3>Über den Pokerraum</h3>
+
+
+      <p>GGPoker ist gemessen am Traffic der größte Online-Raum der Welt. Das GGNetwork ging 2016 an den Start und
+      bringt zu Spitzenzeiten bis zu hunderttausend Spieler gleichzeitig an die Tische – gespielt wird deshalb rund um
+      die Uhr, an den Mikrolimits ebenso wie an den hohen Limits.</p>
+
+
+      <p>Der Raum ist offizieller Partner der World Series of Poker und veranstaltet die WSOP-Online-Serien, in denen
+      Bracelets vergeben werden. Der Zufallszahlengenerator ist vom Labor GamingLabs zertifiziert, die Mindesteinzahlung
+      liegt bei 10 Dollar, und die Konten werden in US-Dollar geführt.</p>
+
+
+      <h3>Spiel und Formate</h3>
+
+
+      <p>Im Client gibt es No-Limit Hold'em, Pot-Limit Omaha, Short Deck, Spins und einen großen Turnierkalender mit
+      monatlichen Aktionen und Millionengarantien. Tracker und HUDs von Drittanbietern werden nicht unterstützt – das
+      stellt Regulars und Freizeitspieler auf eine Stufe und sorgt für ein weicheres Feld als in klassischen Räumen.</p>
+
+
+      <p>Die Software läuft auf dem Desktop und in der mobilen App. Für die Analyse des eigenen Spiels gibt es eine
+      integrierte Statistik und den Dienst PokerCraft – der Verzicht auf externe Tracker lässt dich also nicht ohne
+      Auswertung dastehen.</p>
+
+
+      <h3>Bonus und Konditionen</h3>
+
+
+      <ul>
+        <li><strong>Willkommensbonus 100% bis zu $600</strong> – wird in Teilbeträgen freigespielt, während du Rake generierst.</li>
+        <li><strong>Traffic rund um die Uhr</strong> – einen Tisch am gewünschten Limit findest du zu jeder Tages- und Nachtzeit.</li>
+        <li><strong>WSOP-Online-Serien</strong> – Zugang zu den Bracelet-Turnieren direkt aus dem Client.</li>
+      </ul>
+
+
+      <p>Die persönlichen Konditionen des GGPoker-Deals erfährst du beim PDH-Manager – wir sind 24/7 erreichbar.</p>
+    srcHash: c15466016a30
+  es:
+    name: Oferta en la sala de póker GGPoker
+    description: >-
+      La mayor sala online del mundo: tráfico récord en todos los límites, acuerdo oficial con la WSOP y una de las
+      agendas de torneos más cargadas que existen. Bono de bienvenida del 100% hasta $600.
+    geo: Global, Europa, Asia, Latinoamérica
+    bonus: 100% hasta $600
+    body: >
+      <h3>Sobre la sala</h3>
+
+
+      <p>GGPoker es la sala online más grande del mundo por volumen de tráfico. La red GGNetwork arrancó en 2016 y en
+      las horas punta llega a reunir hasta cien mil jugadores sentados a la vez, así que hay partida a cualquier hora,
+      tanto en los microlímites como en las apuestas altas.</p>
+
+
+      <p>La sala es socio oficial de las World Series of Poker y organiza las series online de la WSOP con brazaletes en
+      juego. Su generador de números aleatorios está certificado por el laboratorio GamingLabs, el depósito mínimo es de
+      10 dólares y las cuentas se llevan en dólares estadounidenses.</p>
+
+
+      <h3>Juego y formatos</h3>
+
+
+      <p>En el cliente tienes Hold'em sin límite, Omaha pot limit, baraja corta, SPINS y una amplia agenda de torneos
+      con promociones mensuales de garantías millonarias. No se admiten trackers externos ni HUD: eso iguala a regulares
+      y aficionados y mantiene el campo más blando que en las salas clásicas.</p>
+
+
+      <p>El software funciona en escritorio y en la app móvil. Para repasar tu propio juego tienes estadísticas
+      integradas y el servicio PokerCraft, así que renunciar a los trackers externos no te deja sin análisis.</p>
+
+
+      <h3>Bono y condiciones</h3>
+
+
+      <ul>
+        <li><strong>Bono de bienvenida del 100% hasta $600</strong> — se libera por partes a medida que generas rake.</li>
+        <li><strong>Tráfico las 24 horas</strong> — siempre hay mesa de tu límite, sea la hora que sea.</li>
+        <li><strong>Series WSOP Online</strong> — acceso a los torneos con brazalete desde el propio cliente.</li>
+      </ul>
+
+
+      <p>Consulta las condiciones personalizadas de la oferta de GGPoker con el manager de PDH: estamos disponibles
+      24/7.</p>
+    srcHash: c15466016a30
+  pt:
+    name: Oferta na sala de poker GGPoker
+    description: >-
+      A maior sala de poker online do mundo: tráfego recorde em todos os limites, parceria oficial com a WSOP e uma das
+      grades de torneios mais completas do mercado. Bônus de boas-vindas de 100% até $600.
+    geo: Global, Europa, Ásia, América Latina
+    bonus: 100% até $600
+    body: >
+      <h3>Sobre a sala</h3>
+
+
+      <p>A GGPoker é a maior sala de poker online do mundo em volume de tráfego. A rede GGNetwork foi lançada em 2016 e,
+      nos horários de pico, reúne até cem mil jogadores sentados ao mesmo tempo, por isso a ação roda 24 horas por dia
+      tanto nos microlimites quanto nos limites altos.</p>
+
+
+      <p>A sala é parceira oficial da World Series of Poker e realiza as séries online da WSOP com braceletes em jogo. O
+      gerador de números aleatórios é certificado pelo laboratório GamingLabs, o depósito mínimo é de 10 dólares e as
+      contas são mantidas em dólares americanos.</p>
+
+
+      <h3>Jogos e formatos</h3>
+
+
+      <p>No cliente você encontra no-limit hold'em, pot-limit Omaha, short deck, SPINS e uma grade de torneios enorme,
+      com promoções mensais de garantias milionárias. Não há suporte a trackers de terceiros nem a HUD, o que equilibra
+      regulares e recreativos e mantém o campo mais soft do que nas salas clássicas.</p>
+
+
+      <p>O software roda no desktop e no aplicativo móvel. Para analisar o próprio jogo há estatísticas integradas e o
+      serviço PokerCraft, então abrir mão dos trackers externos não deixa o jogador sem análise.</p>
+
+
+      <h3>Bônus e condições</h3>
+
+
+      <ul>
+        <li><strong>Bônus de boas-vindas de 100% até $600</strong> — liberado em parcelas conforme você gera rake.</li>
+        <li><strong>Tráfego 24 horas</strong> — há mesa no limite que você quer a qualquer hora do dia.</li>
+        <li><strong>Séries WSOP Online</strong> — torneios de bracelete direto do cliente.</li>
+      </ul>
+
+
+      <p>Para as condições personalizadas da oferta na GGPoker, fale com o gerente da PDH — estamos disponíveis
+      24/7.</p>
+    srcHash: c15466016a30
+  fr:
+    name: Offre sur la salle de poker GGPoker
+    description: >-
+      La plus grande salle en ligne au monde : un trafic record sur toutes les limites, un partenariat officiel avec la
+      WSOP et l'un des calendriers de tournois les plus fournis. Bonus de bienvenue 100% jusqu'à $600.
+    geo: Global, Europe, Asie, Amérique latine
+    bonus: 100% jusqu'à $600
+    body: >
+      <h3>À propos de la salle</h3>
+
+
+      <p>GGPoker est la plus grande salle en ligne au monde en volume de trafic. Le réseau GGNetwork a été lancé en 2016
+      et réunit aux heures de pointe jusqu'à cent mille joueurs simultanément aux tables : le jeu tourne donc 24h/24,
+      aussi bien aux microlimites qu'aux limites élevées.</p>
+
+
+      <p>La salle est partenaire officiel des World Series of Poker et organise les séries en ligne WSOP avec des
+      bracelets à la clé. Son générateur de nombres aléatoires est certifié par le laboratoire GamingLabs, le dépôt
+      minimum est de 10 dollars et les comptes sont tenus en dollars américains.</p>
+
+
+      <h3>Jeu et formats</h3>
+
+
+      <p>Le client propose le hold'em no limit, l'Omaha pot limit, le short deck, les spins et un large calendrier de
+      tournois, avec chaque mois des séries aux garanties de plusieurs millions. Les trackers tiers et les HUD ne sont
+      pas pris en charge : cela met les réguliers et les joueurs récréatifs sur un pied d'égalité et garde un champ plus
+      soft que dans les salles classiques.</p>
+
+
+      <p>Le logiciel tourne sur ordinateur comme sur l'appli mobile. Pour analyser son propre jeu, on dispose des
+      statistiques intégrées et du service PokerCraft : renoncer aux trackers externes ne laisse donc pas le joueur sans
+      outils d'analyse.</p>
+
+
+      <h3>Bonus et conditions</h3>
+
+
+      <ul>
+        <li><strong>Bonus de bienvenue 100% jusqu'à $600</strong> — versé par tranches au fur et à mesure du rake généré.</li>
+        <li><strong>Trafic 24h/24</strong> — une table à la limite voulue est disponible à toute heure.</li>
+        <li><strong>Séries WSOP Online</strong> — accès aux tournois à bracelet directement depuis le client.</li>
+      </ul>
+
+
+      <p>Pour les conditions personnalisées de l'offre GGPoker, contactez le manager PDH — nous sommes joignables
+      24/7.</p>
+    srcHash: c15466016a30
+  tr:
+    name: GGPoker poker odasında anlaşma
+    description: >-
+      Dünyanın en büyük online poker odası: tüm limitlerde rekor trafik, WSOP ile resmî ortaklık ve en yoğun turnuva
+      takvimlerinden biri. $600'a kadar %100 hoş geldin bonusu.
+    geo: Global, Avrupa, Asya, Latin Amerika
+    bonus: $600'a kadar %100
+    body: >
+      <h3>Oda Hakkında</h3>
+
+
+      <p>GGPoker, trafik hacmi bakımından dünyanın en büyük online poker odasıdır. GGNetwork ağı 2016 yılında kuruldu;
+      yoğun saatlerde masalarda aynı anda yüz bine kadar oyuncu toplanır, bu yüzden hem mikro limitlerde hem de yüksek
+      limitlerde oyun gece gündüz sürer.</p>
+
+
+      <p>Oda, World Series of Poker'ın resmî ortağıdır ve bileklik dağıtılan WSOP online serilerini düzenler. Rastgele
+      sayı üreteci GamingLabs laboratuvarı tarafından sertifikalandırılmıştır; minimum depozito 10 dolardır ve hesaplar
+      ABD doları üzerinden tutulur.</p>
+
+
+      <h3>Oyun ve Formatlar</h3>
+
+
+      <p>Oda yazılımında no limit hold'em, pot limit Omaha, kısa deste, spin turnuvaları ve milyonluk garantili aylık
+      kampanyalarla dolu geniş bir turnuva takvimi bulunur. Üçüncü taraf tracker ve HUD desteği yoktur — bu da
+      regülerlerle amatörleri aynı seviyeye getirir ve sahayı klasik odalara kıyasla daha soft tutar.</p>
+
+
+      <p>Yazılım hem masaüstünde hem de mobil uygulamada çalışır. Kendi oyununuzu analiz etmek için dahili istatistikler
+      ve PokerCraft servisi vardır; yani harici trackerlardan vazgeçmek sizi analizsiz bırakmaz.</p>
+
+
+      <h3>Bonus ve Koşullar</h3>
+
+
+      <ul>
+        <li><strong>$600'a kadar %100 hoş geldin bonusu</strong> — rake topladıkça parçalar hâlinde açılır.</li>
+        <li><strong>Kesintisiz trafik</strong> — istediğiniz limitteki masayı günün her saatinde bulursunuz.</li>
+        <li><strong>WSOP Online serileri</strong> — bileklik turnuvalarına doğrudan oda yazılımından erişim.</li>
+      </ul>
+
+
+      <p>GGPoker anlaşmasının kişisel koşullarını PDH yöneticisinden öğrenebilirsiniz — 7/24 buradayız.</p>
+    srcHash: c15466016a30
+  he:
+    name: דיל בחדר הפוקר GGPoker
+    description: >-
+      חדר הפוקר האונליין הגדול בעולם: טראפיק שיא בכל הלימיטים, שותפות רשמית עם WSOP ואחד מלוחות הטורנירים העמוסים ביותר
+      בענף. בונוס הצטרפות 100% עד $600.
+    geo: גלובלי, אירופה, אסיה, אמריקה הלטינית
+    bonus: 100% עד $600
+    body: >
+      <h3>על החדר</h3>
+
+
+      <p>GGPoker הוא חדר הפוקר האונליין הגדול בעולם מבחינת היקף הטראפיק. רשת GGNetwork הושקה ב-2016 ובשעות השיא מתיישבים
+      בשולחנות עד מאה אלף שחקנים במקביל, ולכן המשחק רץ מסביב לשעון גם במיקרו-לימיטים וגם בלימיטים הגבוהים.</p>
+
+
+      <p>החדר הוא שותף רשמי של World Series of Poker ומארח סדרות WSOP אונליין שבהן מחולקים צמידים. מחולל המספרים
+      האקראיים מוסמך על ידי מעבדת GamingLabs, ההפקדה המינימלית היא 10 דולר, והחשבונות מנוהלים בדולר אמריקאי.</p>
+
+
+      <h3>משחק ופורמטים</h3>
+
+
+      <p>בקליינט זמינים נו-לימיט הולדם, פוט-לימיט אומהה, שורט דק, SPINS ולוח טורנירים גדול עם מבצעים חודשיים ופרסים
+      מובטחים במיליונים. אין תמיכה בטראקרים חיצוניים וב-HUD — זה משווה בין הרגולרים לחובבים ושומר על שדה רך יותר מאשר
+      בחדרים הקלאסיים.</p>
+
+
+      <p>התוכנה עובדת בדסקטופ ובאפליקציה הניידת. לניתוח המשחק שלכם יש סטטיסטיקה מובנית ושירות PokerCraft, כך שהוויתור על
+      טראקרים חיצוניים לא משאיר את השחקן בלי אנליטיקה.</p>
+
+
+      <h3>בונוס ותנאים</h3>
+
+
+      <ul>
+        <li><strong>בונוס הצטרפות 100% עד $600</strong> — משוחרר בחלקים ככל שאתם צוברים רייק.</li>
+        <li><strong>טראפיק מסביב לשעון</strong> — שולחן בלימיט שאתם מחפשים זמין בכל שעה ביממה.</li>
+        <li><strong>סדרות WSOP Online</strong> — גישה לטורנירי הצמידים ישירות מהקליינט.</li>
+      </ul>
+
+
+      <p>את התנאים האישיים של הדיל ב-GGPoker תוכלו לברר מול מנהל PDH — אנחנו זמינים 24/7.</p>
+    srcHash: c15466016a30
+  ar:
+    name: صفقة في غرفة البوكر GGPoker
+    description: >-
+      أكبر غرفة بوكر أونلاين في العالم: حركة لاعبين قياسية على جميع الحدود، شراكة رسمية مع WSOP وواحد من أكثف جداول
+      البطولات. بونص ترحيبي 100% حتى $600.
+    geo: عالمي، أوروبا، آسيا، أمريكا اللاتينية
+    bonus: 100% حتى $600
+    body: >
+      <h3>عن الغرفة</h3>
+
+
+      <p>GGPoker هي أكبر غرفة بوكر أونلاين في العالم من حيث حجم حركة اللاعبين. انطلقت شبكة GGNetwork عام 2016، وفي ساعات
+      الذروة تجمع على الطاولات ما يصل إلى مئة ألف لاعب في وقت واحد، لذلك يستمر اللعب على مدار الساعة على الحدود الصغيرة
+      وعلى الرهانات العالية معاً.</p>
+
+
+      <p>الغرفة شريك رسمي لـ World Series of Poker وتنظّم سلاسل WSOP أونلاين يُتنافس فيها على الأساور. مولّد الأرقام
+      العشوائية معتمد من مختبر GamingLabs، والحد الأدنى للإيداع 10 دولارات، وتُدار الحسابات بالدولار الأمريكي.</p>
+
+
+      <h3>اللعب والصيغ</h3>
+
+
+      <p>يوفّر برنامج الغرفة هولدم بلا حدود، وأوماها بحد القدر، والمجموعة القصيرة، وSPINS، وجدول بطولات كبير مع عروض
+      شهرية بضمانات بالملايين. لا يوجد دعم لبرامج التتبع الخارجية ولا لـ HUD — وهذا يساوي بين الريغولار والهواة ويُبقي
+      الطاولات أسهل مما هي عليه في الغرف الكلاسيكية.</p>
+
+
+      <p>يعمل البرنامج على سطح المكتب وعبر تطبيق الهاتف. ولمراجعة لعبك الخاص هناك إحصاءات مدمجة وخدمة PokerCraft، لذا
+      فإن الاستغناء عن برامج التتبع الخارجية لا يترك اللاعب بلا تحليل.</p>
+
+
+      <h3>البونص والشروط</h3>
+
+
+      <ul>
+        <li><strong>بونص ترحيبي 100% حتى $600</strong> — يُمنح على دفعات مع تجميعك للريك.</li>
+        <li><strong>حركة لاعبين على مدار الساعة</strong> — تجد طاولة على الحد الذي تريده في أي وقت من اليوم.</li>
+        <li><strong>سلاسل WSOP Online</strong> — وصول إلى بطولات الأساور مباشرة من داخل البرنامج.</li>
+      </ul>
+
+
+      <p>لمعرفة الشروط الشخصية لصفقة GGPoker، راسل مدير PDH — نحن متاحون 24/7.</p>
+    srcHash: c15466016a30
+  id:
+    name: Deal di poker room GGPoker
+    description: >-
+      Poker room online terbesar di dunia: trafik rekor di semua limit, kemitraan resmi dengan WSOP, dan salah satu
+      jadwal turnamen terpadat. Bonus selamat datang 100% hingga $600.
+    geo: Global, Eropa, Asia, Amerika Latin
+    bonus: 100% hingga $600
+    body: >
+      <h3>Tentang Room Ini</h3>
+
+
+      <p>GGPoker adalah poker room online terbesar di dunia dari sisi volume trafik. Jaringan GGNetwork diluncurkan pada
+      2016 dan pada jam sibuk menghadirkan hingga seratus ribu pemain di meja secara bersamaan, sehingga permainan
+      berjalan sepanjang waktu, baik di microlimit maupun di stake tinggi.</p>
+
+
+      <p>Room ini adalah mitra resmi World Series of Poker dan menyelenggarakan seri online WSOP dengan perebutan
+      gelang. Random number generator-nya tersertifikasi oleh laboratorium GamingLabs, minimum deposit 10 dolar, dan
+      seluruh akun dikelola dalam dolar AS.</p>
+
+
+      <h3>Permainan dan Format</h3>
+
+
+      <p>Di klien tersedia no-limit hold'em, pot-limit Omaha, short deck, SPINS, dan jadwal turnamen besar dengan promo
+      bulanan bergaransi jutaan. Tracker pihak ketiga dan HUD tidak didukung — ini menyetarakan pemain reguler dengan
+      pemain rekreasional dan menjaga field tetap lebih soft dibanding room klasik.</p>
+
+
+      <p>Software-nya berjalan di desktop maupun di aplikasi mobile. Untuk menganalisis permainan sendiri, tersedia
+      statistik bawaan dan layanan PokerCraft, jadi tanpa tracker eksternal pun pemain tetap punya alat analitik.</p>
+
+
+      <h3>Bonus dan Ketentuan</h3>
+
+
+      <ul>
+        <li><strong>Bonus selamat datang 100% hingga $600</strong> — dicairkan bertahap seiring rake yang Anda kumpulkan.</li>
+        <li><strong>Trafik sepanjang waktu</strong> — meja di limit yang Anda cari selalu ada kapan pun.</li>
+        <li><strong>Seri WSOP Online</strong> — akses ke turnamen gelang langsung dari klien.</li>
+      </ul>
+
+
+      <p>Untuk syarat deal GGPoker yang personal, hubungi manajer PDH — kami siap 24/7.</p>
+    srcHash: c15466016a30
+  vi:
+    name: Kèo tại phòng poker GGPoker
+    description: >-
+      Phòng poker trực tuyến lớn nhất thế giới: lưu lượng người chơi kỷ lục ở mọi mức cược, quan hệ đối tác chính thức
+      với WSOP và một trong những lịch giải đấu dày đặc nhất. Thưởng chào mừng 100% lên đến $600.
+    geo: Toàn cầu, Châu Âu, Châu Á, Mỹ Latinh
+    bonus: 100% lên đến $600
+    body: >
+      <h3>Về phòng chơi</h3>
+
+
+      <p>GGPoker là phòng poker trực tuyến lớn nhất thế giới xét về lưu lượng người chơi. Mạng GGNetwork ra mắt năm 2016
+      và vào giờ cao điểm có tới một trăm nghìn người chơi ngồi bàn cùng lúc, nên game luôn chạy suốt ngày đêm ở cả mức
+      cược micro lẫn mức cược cao.</p>
+
+
+      <p>Phòng là đối tác chính thức của World Series of Poker và tổ chức các series WSOP trực tuyến tranh vòng tay vô
+      địch. Bộ tạo số ngẫu nhiên đã được phòng thí nghiệm GamingLabs chứng nhận, mức nạp tối thiểu là 10 đô la, còn tài
+      khoản được tính bằng đô la Mỹ.</p>
+
+
+      <h3>Trò chơi và thể thức</h3>
+
+
+      <p>Trong client có no-limit hold'em, pot-limit Omaha, short deck, SPINS và một lịch giải đấu đồ sộ với các chương
+      trình hằng tháng có mức đảm bảo hàng triệu đô. Không hỗ trợ tracker và HUD của bên thứ ba — điều này đặt regular
+      và người chơi giải trí lên cùng vạch xuất phát, giữ cho sân chơi mềm hơn so với các phòng poker truyền thống.</p>
+
+
+      <p>Phần mềm chạy trên desktop và trên ứng dụng di động. Để xem lại lối chơi của mình, bạn có thống kê tích hợp sẵn
+      và dịch vụ PokerCraft, nên việc không dùng tracker ngoài cũng không khiến bạn thiếu công cụ phân tích.</p>
+
+
+      <h3>Thưởng và điều kiện</h3>
+
+
+      <ul>
+        <li><strong>Thưởng chào mừng 100% lên đến $600</strong> — được trả dần theo từng phần khi bạn tích lũy rake.</li>
+        <li><strong>Lưu lượng người chơi suốt ngày đêm</strong> — luôn có bàn ở mức cược bạn cần vào bất kỳ giờ nào.</li>
+        <li><strong>Series WSOP Online</strong> — tham gia các giải tranh vòng tay ngay trong client.</li>
+      </ul>
+
+
+      <p>Về điều kiện riêng của kèo GGPoker, hãy hỏi quản lý PDH — chúng tôi trực 24/7.</p>
+    srcHash: c15466016a30
+  fil:
+    name: Deal sa poker room na GGPoker
+    description: >-
+      Ang pinakamalaking online poker room sa mundo: record na traffic sa lahat ng limit, opisyal na partnership sa
+      WSOP, at isa sa pinakasiksik na iskedyul ng torneo. Welcome bonus na 100% hanggang $600.
+    geo: Global, Europa, Asya, Latin America
+    bonus: 100% hanggang $600
+    body: >
+      <h3>Tungkol sa room</h3>
+
+
+      <p>Ang GGPoker ang pinakamalaking online poker room sa mundo pagdating sa dami ng traffic. Inilunsad ang GGNetwork
+      noong 2016 at sa mga peak hours ay umaabot sa isang daang libong manlalaro ang sabay-sabay na nasa mga mesa, kaya
+      tuloy-tuloy ang laro maghapon at magdamag — sa microstakes man o sa matataas na stakes.</p>
+
+
+      <p>Opisyal na partner ng World Series of Poker ang room at nagho-host ito ng mga online series ng WSOP kung saan
+      pinaglalabanan ang mga bracelet. Sertipikado ng laboratoryong GamingLabs ang random number generator, 10 dolyar
+      ang minimum na deposito, at sa US dollars nakabase ang mga account.</p>
+
+
+      <h3>Laro at mga format</h3>
+
+
+      <p>Sa client ay makukuha ang no-limit hold'em, pot-limit Omaha, short deck, SPINS, at malawak na iskedyul ng
+      torneo na may buwanang promo na milyon-milyon ang garantiya. Walang suporta para sa mga third-party na tracker at
+      HUD — pinapantay nito ang mga regular at recreational player at pinapanatiling mas soft ang field kaysa sa mga
+      klasikong room.</p>
+
+
+      <p>Gumagana ang software sa desktop at sa mobile app. Para sa pagsusuri ng sariling laro, may built-in na
+      estadistika at ang serbisyong PokerCraft, kaya hindi naiiwang walang analytics ang manlalaro kahit walang panlabas
+      na tracker.</p>
+
+
+      <h3>Bonus at mga kondisyon</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus na 100% hanggang $600</strong> — unti-unting ibinibigay habang nakakaipon ka ng rake.</li>
+        <li><strong>Tuloy-tuloy na traffic</strong> — may mesa sa limit na kailangan mo anumang oras ng araw.</li>
+        <li><strong>WSOP Online series</strong> — access sa mga bracelet event nang diretso mula sa client.</li>
+      </ul>
+
+
+      <p>Para sa personal na kondisyon ng deal sa GGPoker, makipag-ugnayan sa manager ng PDH — nakahanda kami 24/7.</p>
+    srcHash: c15466016a30
+  th:
+    name: ดีลในห้องโป๊กเกอร์ GGPoker
+    description: >-
+      โป๊กเกอร์รูมออนไลน์ที่ใหญ่ที่สุดในโลก: ทราฟฟิกสูงเป็นประวัติการณ์ในทุกลิมิต เป็นพาร์ทเนอร์อย่างเป็นทางการของ WSOP
+      และมีตารางทัวร์นาเมนต์ที่อัดแน่นที่สุดแห่งหนึ่ง โบนัสต้อนรับ 100% สูงสุด $600
+    geo: ทั่วโลก, ยุโรป, เอเชีย, ละตินอเมริกา
+    bonus: 100% สูงสุด $600
+    body: >
+      <h3>เกี่ยวกับรูม</h3>
+
+
+      <p>GGPoker คือโป๊กเกอร์รูมออนไลน์ที่ใหญ่ที่สุดในโลกเมื่อวัดจากปริมาณทราฟฟิก เครือข่าย GGNetwork เปิดตัวในปี 2016
+      และในช่วงเวลาพีคมีผู้เล่นนั่งโต๊ะพร้อมกันสูงถึงหนึ่งแสนคน เกมจึงเดินตลอดทั้งวันทั้งคืน
+      ทั้งที่ไมโครลิมิตและที่สเตกสูง</p>
+
+
+      <p>รูมนี้เป็นพาร์ทเนอร์อย่างเป็นทางการของ World Series of Poker และจัดซีรีส์ออนไลน์ WSOP ที่ชิงสร้อยข้อมือกันจริง
+      ๆ เครื่องสุ่มตัวเลขได้รับการรับรองจากห้องปฏิบัติการ GamingLabs เงินฝากขั้นต่ำอยู่ที่ 10 ดอลลาร์
+      และบัญชีคิดยอดเป็นดอลลาร์สหรัฐ</p>
+
+
+      <h3>เกมและรูปแบบการเล่น</h3>
+
+
+      <p>ในไคลเอนต์มีทั้งโฮลเด็มแบบไม่จำกัดเงินเดิมพัน โอมาฮาแบบพ็อตลิมิต ชอร์ตเด็ค SPINS
+      และตารางทัวร์นาเมนต์ขนาดใหญ่พร้อมโปรโมชันรายเดือนที่การันตีเงินรางวัลระดับหลายล้าน
+      ที่นี่ไม่รองรับแทร็กเกอร์จากภายนอกและ HUD ซึ่งช่วยลดช่องว่างระหว่างเรกกูลาร์กับผู้เล่นสมัครเล่น
+      และทำให้สนามเกมซอฟต์กว่ารูมแบบคลาสสิก</p>
+
+
+      <p>ซอฟต์แวร์ใช้งานได้ทั้งบนเดสก์ท็อปและแอปมือถือ สำหรับการรีวิวเกมของตัวเองมีสถิติในตัวและบริการ PokerCraft
+      ดังนั้นการไม่มีแทร็กเกอร์ภายนอกจึงไม่ได้ทำให้ผู้เล่นขาดเครื่องมือวิเคราะห์</p>
+
+
+      <h3>โบนัสและเงื่อนไข</h3>
+
+
+      <ul>
+        <li><strong>โบนัสต้อนรับ 100% สูงสุด $600</strong> — ทยอยปล่อยเป็นงวดตามปริมาณเรคที่คุณทำได้</li>
+        <li><strong>ทราฟฟิกตลอด 24 ชั่วโมง</strong> — หาโต๊ะในลิมิตที่ต้องการได้ทุกช่วงเวลาของวัน</li>
+        <li><strong>ซีรีส์ WSOP Online</strong> — เข้าร่วมทัวร์นาเมนต์ชิงสร้อยข้อมือได้จากในไคลเอนต์โดยตรง</li>
+      </ul>
+
+
+      <p>สอบถามเงื่อนไขดีล GGPoker แบบเฉพาะบุคคลได้ที่ผู้จัดการของ PDH — เราพร้อมให้บริการตลอด 24/7</p>
+    srcHash: c15466016a30

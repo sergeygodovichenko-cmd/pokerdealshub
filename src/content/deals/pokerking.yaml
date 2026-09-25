@@ -1,0 +1,695 @@
+app: PokerKing
+club: "-"
+union: "-"
+logo: pokerking_logo
+logoimage: /pokerking.webp
+logoalt: PokerKing logo
+format: NLH / PLO / MTT
+type: Centralized
+rakeback: ""
+featured: false
+hidden: false
+order: 28
+badges:
+  - centralized
+  - usaPlayers
+  - soft
+  - verified
+regions:
+  - america
+  - latam
+ratings:
+  mtt: 4
+  cash: 4
+  plo: 4
+  nlh: 5
+name: Сделка в покер руме PokerKing
+description: >-
+  Рум Winning Poker Network с большой долей американских любителей, игрой на всех лимитах и полной поддержкой трекеров.
+  Бонус 100% до $2000.
+geo: США, Латинская Америка
+bonus: 100% до $2000
+body: >
+  <h3>О руме</h3>
+
+
+  <p>PokerKing работает с 2011 года и делит игровой пул с Winning Poker Network. Рум традиционно собирает много
+  американских рекреационных игроков, за счёт чего поле остаётся комфортным даже на средних лимитах.</p>
+
+
+  <p>Генератор случайных чисел сертифицирован iTech Labs. Минимальный депозит — всего 5 долларов, что делает рум удобной
+  точкой входа для игроков с небольшим банкроллом.</p>
+
+
+  <h3>Игра и форматы</h3>
+
+
+  <p>Доступны безлимитный холдем, пот-лимитная Омаха и турниры на всех лимитах — от микро до высоких ставок. Общая сетка
+  совпадает с сетевой, поэтому гарантии турниров крупные.</p>
+
+
+  <p>Рум полностью дружелюбен к софту: поддерживаются Holdem Manager, PokerTracker и HUD.</p>
+
+
+  <h3>Бонус и условия</h3>
+
+
+  <ul>
+    <li><strong>Приветственный бонус 100% до $2000</strong>.</li>
+    <li><strong>Минимальный депозит от $5</strong>.</li>
+    <li><strong>Поддержка HM, PT и HUD</strong>.</li>
+  </ul>
+
+
+  <p>Персональные условия сделки по PokerKing уточняйте у менеджера PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in PokerKing poker room
+    description: >-
+      A Winning Poker Network room with a large share of American recreational players, action at every stake level and
+      full tracker support. 100% bonus up to $2000.
+    geo: USA, Latin America
+    bonus: 100% up to $2000
+    body: >
+      <h3>About the room</h3>
+
+
+      <p>PokerKing has been running since 2011 and shares its player pool with Winning Poker Network. The room has
+      always pulled in plenty of American recreational players, which keeps the field comfortable even at mid
+      stakes.</p>
+
+
+      <p>The random number generator is certified by iTech Labs. The minimum deposit is only 5 dollars, which makes the
+      room an easy entry point for players with a small bankroll.</p>
+
+
+      <h3>Games and formats</h3>
+
+
+      <p>You get no-limit hold'em, pot-limit Omaha and tournaments at every stake level — from micro to high stakes. The
+      tournament schedule is the shared network one, so guarantees run big.</p>
+
+
+      <p>The room is completely software-friendly: Holdem Manager, PokerTracker and HUD are all supported.</p>
+
+
+      <h3>Bonus and terms</h3>
+
+
+      <ul>
+        <li><strong>100% welcome bonus up to $2000</strong>.</li>
+        <li><strong>Minimum deposit from $5</strong>.</li>
+        <li><strong>Support for HM, PT and HUD</strong>.</li>
+      </ul>
+
+
+      <p>For the personal terms of the PokerKing deal, check with your PDH manager — we're available 24/7.</p>
+    srcHash: 5654bbe9d156
+  uz:
+    name: PokerKing xonasidagi bitim
+    description: >-
+      Winning Poker Network xonasi: amerikalik havaskorlarning katta ulushi, barcha limitlarda oʻyin va trekerlarni
+      toʻliq qoʻllab-quvvatlash. Bonus 100%, $2000 gacha.
+    geo: AQSh, Lotin Amerikasi
+    bonus: $2000 gacha 100%
+    body: >
+      <h3>Xona haqida</h3>
+
+
+      <p>PokerKing 2011-yildan beri ishlaydi va oʻyin havzasini Winning Poker Network bilan baham koʻradi. Xona
+      anʼanaviy ravishda koʻplab amerikalik rekreatsion oʻyinchilarni yigʻadi, shu sababli maydon oʻrta limitlarda ham
+      qulay boʻlib qolaveradi.</p>
+
+
+      <p>Tasodifiy sonlar generatori iTech Labs tomonidan sertifikatlangan. Minimal depozit — bor-yoʻgʻi 5 dollar, bu
+      esa xonani kichik bankrollga ega oʻyinchilar uchun qulay kirish nuqtasiga aylantiradi.</p>
+
+
+      <h3>Oʻyin va formatlar</h3>
+
+
+      <p>Limitsiz xoldem, pot-limit Omaha va turnirlar barcha limitlarda — mikrolimitlardan yuqori stavkalargacha
+      mavjud. Turnir jadvali tarmoq bilan umumiy, shuning uchun kafolatlar yirik.</p>
+
+
+      <p>Xona softga toʻliq doʻstona: Holdem Manager, PokerTracker va HUD qoʻllab-quvvatlanadi.</p>
+
+
+      <h3>Bonus va shartlar</h3>
+
+
+      <ul>
+        <li><strong>Xush kelibsiz bonusi 100%, $2000 gacha</strong>.</li>
+        <li><strong>Minimal depozit $5 dan</strong>.</li>
+        <li><strong>HM, PT va HUD qoʻllab-quvvatlanadi</strong>.</li>
+      </ul>
+
+
+      <p>PokerKing boʻyicha bitimning shaxsiy shartlarini PDH menejeridan aniqlashtiring — biz 24/7 aloqadamiz.</p>
+    srcHash: 5654bbe9d156
+  uk:
+    name: Угода в покер-румі PokerKing
+    description: >-
+      Рум Winning Poker Network із великою часткою американських любителів, грою на всіх лімітах і повною підтримкою
+      трекерів. Бонус 100% до $2000.
+    geo: США, Латинська Америка
+    bonus: 100% до $2000
+    body: >
+      <h3>Про рум</h3>
+
+
+      <p>PokerKing працює з 2011 року й ділить ігровий пул із Winning Poker Network. Рум традиційно збирає багато
+      американських рекреаційних гравців, завдяки чому поле залишається комфортним навіть на середніх лімітах.</p>
+
+
+      <p>Генератор випадкових чисел сертифіковано лабораторією iTech Labs. Мінімальний депозит — лише 5 доларів, тож рум
+      стає зручною точкою входу для гравців із невеликим банкролом.</p>
+
+
+      <h3>Гра та формати</h3>
+
+
+      <p>Доступні безлімітний холдем, пот-лімітна Омаха і турніри на всіх лімітах — від мікро до високих ставок.
+      Загальна сітка збігається з мережевою, тому гарантії турнірів великі.</p>
+
+
+      <p>Рум повністю дружній до софту: підтримуються Holdem Manager, PokerTracker і HUD.</p>
+
+
+      <h3>Бонус та умови</h3>
+
+
+      <ul>
+        <li><strong>Вітальний бонус 100% до $2000</strong>.</li>
+        <li><strong>Мінімальний депозит від $5</strong>.</li>
+        <li><strong>Підтримка HM, PT і HUD</strong>.</li>
+      </ul>
+
+
+      <p>Персональні умови угоди щодо PokerKing уточнюйте в менеджера PDH — ми на зв'язку 24/7.</p>
+    srcHash: 5654bbe9d156
+  it:
+    name: Offerta nella poker room PokerKing
+    description: >-
+      Una room della Winning Poker Network con una forte presenza di amatori americani, gioco a tutti i limiti e pieno
+      supporto ai tracker. Bonus 100% fino a $2000.
+    geo: USA, America Latina
+    bonus: 100% fino a $2000
+    body: >
+      <h3>Informazioni sulla room</h3>
+
+
+      <p>PokerKing è attiva dal 2011 e condivide il pool di gioco con la Winning Poker Network. La room raduna da sempre
+      molti giocatori ricreativi americani, e per questo il campo resta soft anche ai limiti medi.</p>
+
+
+      <p>Il generatore di numeri casuali è certificato da iTech Labs. Il deposito minimo è di soli 5 dollari, il che
+      rende la room un comodo punto di ingresso per chi ha un bankroll contenuto.</p>
+
+
+      <h3>Gioco e formati</h3>
+
+
+      <p>Sono disponibili hold'em no limit, Omaha pot limit e tornei a tutti i limiti, dai micro alle poste alte. Il
+      palinsesto coincide con quello dell'intera rete, quindi i garantiti dei tornei sono importanti.</p>
+
+
+      <p>La room è totalmente software-friendly: sono supportati Holdem Manager, PokerTracker e HUD.</p>
+
+
+      <h3>Bonus e condizioni</h3>
+
+
+      <ul>
+        <li><strong>Bonus di benvenuto 100% fino a $2000</strong>.</li>
+        <li><strong>Deposito minimo da $5</strong>.</li>
+        <li><strong>Supporto per HM, PT e HUD</strong>.</li>
+      </ul>
+
+
+      <p>Per le condizioni personalizzate dell'offerta su PokerKing rivolgiti al manager PDH: siamo disponibili
+      24/7.</p>
+    srcHash: 5654bbe9d156
+  de:
+    name: Deal im Pokerraum PokerKing
+    description: >-
+      Ein Pokerraum im Winning Poker Network mit einem hohen Anteil amerikanischer Recreational-Spieler, Action auf
+      allen Limits und voller Tracker-Unterstützung. Bonus 100% bis zu $2000.
+    geo: USA, Lateinamerika
+    bonus: 100% bis zu $2000
+    body: >
+      <h3>Über den Pokerraum</h3>
+
+
+      <p>PokerKing ist seit 2011 am Start und teilt sich den Spielerpool mit dem Winning Poker Network. Der Raum zieht
+      traditionell viele amerikanische Recreational-Spieler an, wodurch das Feld selbst auf den mittleren Limits
+      angenehm bleibt.</p>
+
+
+      <p>Der Zufallszahlengenerator ist von iTech Labs zertifiziert. Die Mindesteinzahlung liegt bei gerade einmal 5
+      Dollar – das macht den Raum zu einem bequemen Einstieg für Spieler mit kleiner Bankroll.</p>
+
+
+      <h3>Spiel und Formate</h3>
+
+
+      <p>Verfügbar sind No-Limit Hold'em, Pot-Limit Omaha und Turniere auf allen Limits – von den Mikros bis zu den High
+      Stakes. Der Turnierplan deckt sich mit dem des Netzwerks, entsprechend groß sind die Garantien.</p>
+
+
+      <p>Der Raum ist komplett softwarefreundlich: Holdem Manager, PokerTracker und HUD werden unterstützt.</p>
+
+
+      <h3>Bonus und Konditionen</h3>
+
+
+      <ul>
+        <li><strong>Willkommensbonus 100% bis zu $2000</strong>.</li>
+        <li><strong>Mindesteinzahlung ab $5</strong>.</li>
+        <li><strong>Unterstützung für HM, PT und HUD</strong>.</li>
+      </ul>
+
+
+      <p>Die persönlichen Konditionen des PokerKing-Deals erfährst du beim PDH-Manager – wir sind 24/7 erreichbar.</p>
+    srcHash: 5654bbe9d156
+  es:
+    name: Oferta en la sala de póker PokerKing
+    description: >-
+      Sala de Winning Poker Network con una gran proporción de aficionados estadounidenses, juego en todos los límites y
+      compatibilidad total con trackers. Bono del 100% hasta $2000.
+    geo: EE. UU., Latinoamérica
+    bonus: 100% hasta $2000
+    body: >
+      <h3>Sobre la sala</h3>
+
+
+      <p>PokerKing opera desde 2011 y comparte el pool de jugadores con Winning Poker Network. La sala reúne
+      tradicionalmente a muchos jugadores recreativos estadounidenses, y por eso el campo sigue siendo cómodo incluso en
+      los límites medios.</p>
+
+
+      <p>El generador de números aleatorios está certificado por iTech Labs. El depósito mínimo es de solo 5 dólares, lo
+      que convierte a la sala en un punto de entrada cómodo para quienes juegan con un bankroll pequeño.</p>
+
+
+      <h3>Juego y formatos</h3>
+
+
+      <p>Están disponibles el Hold'em sin límite, el Omaha pot limit y los torneos en todos los límites, desde los
+      micros hasta las apuestas altas. El calendario coincide con el de la red, así que los garantizados de los torneos
+      son altos.</p>
+
+
+      <p>La sala es totalmente permisiva con el software auxiliar: se admiten Holdem Manager, PokerTracker y HUD.</p>
+
+
+      <h3>Bono y condiciones</h3>
+
+
+      <ul>
+        <li><strong>Bono de bienvenida del 100% hasta $2000</strong>.</li>
+        <li><strong>Depósito mínimo desde $5</strong>.</li>
+        <li><strong>Compatibilidad con HM, PT y HUD</strong>.</li>
+      </ul>
+
+
+      <p>Consulta las condiciones personalizadas de la oferta de PokerKing con el manager de PDH: estamos disponibles
+      24/7.</p>
+    srcHash: 5654bbe9d156
+  pt:
+    name: Oferta na sala de poker PokerKing
+    description: >-
+      Sala da Winning Poker Network com grande presença de amadores americanos, jogo em todos os limites e suporte total
+      a trackers. Bônus de 100% até $2000.
+    geo: EUA, América Latina
+    bonus: 100% até $2000
+    body: >
+      <h3>Sobre a sala</h3>
+
+
+      <p>A PokerKing está no ar desde 2011 e divide o pool de jogadores com a Winning Poker Network. A sala sempre
+      reuniu muitos jogadores recreativos americanos, e por isso o campo continua confortável mesmo nos limites
+      médios.</p>
+
+
+      <p>O gerador de números aleatórios é certificado pela iTech Labs. O depósito mínimo é de apenas 5 dólares, o que
+      faz da sala uma porta de entrada prática para quem tem uma banca pequena.</p>
+
+
+      <h3>Jogo e formatos</h3>
+
+
+      <p>Estão disponíveis hold'em no-limit, Omaha pot-limit e torneios em todos os limites — dos microlimites aos
+      limites altos. A grade de torneios é a mesma da rede, então os garantidos são altos.</p>
+
+
+      <p>A sala libera o uso de softwares: Holdem Manager, PokerTracker e HUD são suportados.</p>
+
+
+      <h3>Bônus e condições</h3>
+
+
+      <ul>
+        <li><strong>Bônus de boas-vindas de 100% até $2000</strong>.</li>
+        <li><strong>Depósito mínimo a partir de $5</strong>.</li>
+        <li><strong>Suporte a HM, PT e HUD</strong>.</li>
+      </ul>
+
+
+      <p>Para as condições personalizadas da oferta na PokerKing, fale com o gerente da PDH — estamos disponíveis
+      24/7.</p>
+    srcHash: 5654bbe9d156
+  fr:
+    name: Offre sur la salle de poker PokerKing
+    description: >-
+      Salle du réseau Winning Poker Network avec une forte proportion d'amateurs américains, du jeu à toutes les limites
+      et une prise en charge complète des trackers. Bonus 100% jusqu'à $2000.
+    geo: États-Unis, Amérique latine
+    bonus: 100% jusqu'à $2000
+    body: >
+      <h3>À propos de la salle</h3>
+
+
+      <p>PokerKing opère depuis 2011 et partage son pool de joueurs avec Winning Poker Network. La salle rassemble
+      traditionnellement beaucoup de joueurs récréatifs américains, ce qui garde le champ confortable même aux limites
+      moyennes.</p>
+
+
+      <p>Le générateur de nombres aléatoires est certifié par iTech Labs. Le dépôt minimum n'est que de 5 dollars, ce
+      qui fait de la salle un point d'entrée pratique pour les joueurs à petit bankroll.</p>
+
+
+      <h3>Jeu et formats</h3>
+
+
+      <p>Vous y trouverez du hold'em no-limit, de l'Omaha pot-limit et des tournois à toutes les limites — des
+      microlimites aux limites élevées. Le calendrier des tournois est celui du réseau, d'où des garanties élevées.</p>
+
+
+      <p>La salle est entièrement ouverte aux logiciels : Holdem Manager, PokerTracker et les HUD sont pris en
+      charge.</p>
+
+
+      <h3>Bonus et conditions</h3>
+
+
+      <ul>
+        <li><strong>Bonus de bienvenue 100% jusqu'à $2000</strong>.</li>
+        <li><strong>Dépôt minimum à partir de $5</strong>.</li>
+        <li><strong>Prise en charge de HM, PT et des HUD</strong>.</li>
+      </ul>
+
+
+      <p>Pour connaître les conditions personnalisées de l'offre PokerKing, contactez le manager PDH — nous sommes
+      disponibles 24/7.</p>
+    srcHash: 5654bbe9d156
+  tr:
+    name: PokerKing poker odasında anlaşma
+    description: >-
+      Winning Poker Network odası: Amerikalı amatörlerin payı yüksek, tüm limitlerde oyun var ve trackerlar tamamen
+      serbest. $2000'a kadar %100 bonus.
+    geo: ABD, Latin Amerika
+    bonus: $2000'a kadar %100
+    body: >
+      <h3>Oda Hakkında</h3>
+
+
+      <p>PokerKing 2011 yılından beri faaliyette ve oyuncu havuzunu Winning Poker Network ile paylaşıyor. Oda geleneksel
+      olarak çok sayıda Amerikalı rekreasyonel oyuncu topluyor; bu sayede saha orta limitlerde bile yumuşak kalıyor.</p>
+
+
+      <p>Rastgele sayı üreteci iTech Labs tarafından sertifikalandırılmıştır. Minimum depozito ise sadece 5 dolar; bu da
+      odayı küçük bankroll'la başlayan oyuncular için rahat bir giriş noktası yapıyor.</p>
+
+
+      <h3>Oyun ve Formatlar</h3>
+
+
+      <p>No limit hold'em, pot limit Omaha ve turnuvalar tüm limitlerde mevcut — mikrodan yüksek limitlere kadar.
+      Turnuva takvimi ağ geneliyle ortak olduğu için garantiler büyük.</p>
+
+
+      <p>Oda yardımcı yazılımlara tamamen açık: Holdem Manager, PokerTracker ve HUD desteklenir.</p>
+
+
+      <h3>Bonus ve Koşullar</h3>
+
+
+      <ul>
+        <li><strong>$2000'a kadar %100 hoş geldin bonusu</strong>.</li>
+        <li><strong>Minimum depozito $5'dan başlıyor</strong>.</li>
+        <li><strong>HM, PT ve HUD desteği</strong>.</li>
+      </ul>
+
+
+      <p>PokerKing anlaşmasının kişisel koşullarını PDH yöneticisinden öğrenebilirsiniz — 7/24 buradayız.</p>
+    srcHash: 5654bbe9d156
+  he:
+    name: דיל בחדר הפוקר PokerKing
+    description: >-
+      חדר ברשת Winning Poker Network עם שיעור גבוה של חובבים אמריקאים, משחק בכל הלימיטים ותמיכה מלאה בטראקרים. בונוס
+      100% עד $2000.
+    geo: ארה"ב, אמריקה הלטינית
+    bonus: 100% עד $2000
+    body: >
+      <h3>על החדר</h3>
+
+
+      <p>PokerKing פועל מאז 2011 וחולק את פול השחקנים עם Winning Poker Network. החדר אוסף באופן מסורתי הרבה שחקנים
+      אמריקאים חובבים, ובזכות זה השדה נשאר נוח גם בלימיטים הבינוניים.</p>
+
+
+      <p>מחולל המספרים האקראיים מוסמך על ידי iTech Labs. ההפקדה המינימלית היא 5 דולר בלבד, מה שהופך את החדר לנקודת כניסה
+      נוחה לשחקנים עם בנקרול קטן.</p>
+
+
+      <h3>משחק ופורמטים</h3>
+
+
+      <p>זמינים הולדם ללא הגבלה, אומהה פוט-לימיט וטורנירים בכל הלימיטים — ממיקרו-לימיטים ועד ללימיטים הגבוהים. לוח
+      המשחקים זהה לזה של כל הרשת, ולכן ערבויות הטורנירים גדולות.</p>
+
+
+      <p>החדר ידידותי לחלוטין לתוכנות עזר: יש תמיכה ב-Holdem Manager, ב-PokerTracker וב-HUD.</p>
+
+
+      <h3>בונוס ותנאים</h3>
+
+
+      <ul>
+        <li><strong>בונוס הצטרפות 100% עד $2000</strong>.</li>
+        <li><strong>הפקדה מינימלית מ-$5</strong>.</li>
+        <li><strong>תמיכה ב-HM, ב-PT וב-HUD</strong>.</li>
+      </ul>
+
+
+      <p>את התנאים האישיים של הדיל ב-PokerKing תוכלו לברר מול המנהל של PDH — אנחנו זמינים 24/7.</p>
+    srcHash: 5654bbe9d156
+  ar:
+    name: صفقة في غرفة البوكر PokerKing
+    description: >-
+      غرفة من شبكة Winning Poker Network مع نسبة كبيرة من الهواة الأمريكيين، ولعب على جميع الحدود ودعم كامل لبرامج
+      التتبّع. بونص 100% حتى $2000.
+    geo: الولايات المتحدة، أمريكا اللاتينية
+    bonus: 100% حتى $2000
+    body: >
+      <h3>عن الغرفة</h3>
+
+
+      <p>تعمل PokerKing منذ عام 2011 وتتشارك حوض اللاعبين مع Winning Poker Network. وتجمع الغرفة تقليدياً الكثير من
+      اللاعبين الترفيهيين الأمريكيين، ما يبقي الطاولات مريحة حتى على الحدود المتوسطة.</p>
+
+
+      <p>مولّد الأرقام العشوائية معتمد من iTech Labs. والحد الأدنى للإيداع 5 دولارات فقط، ما يجعل الغرفة نقطة دخول مريحة
+      للاعبين أصحاب البنكرول الصغير.</p>
+
+
+      <h3>الألعاب والصيغ</h3>
+
+
+      <p>تتوفر لعبة الهولدم بلا حدود وأوماها بحد القِدر والبطولات على جميع الحدود — من الميكرو إلى الرهانات العالية.
+      وجدول البطولات مطابق لجدول الشبكة، لذا فإن الضمانات كبيرة.</p>
+
+
+      <p>الغرفة متوافقة تماماً مع البرامج المساعدة: Holdem Manager وPokerTracker وأدوات HUD مدعومة بالكامل.</p>
+
+
+      <h3>البونص والشروط</h3>
+
+
+      <ul>
+        <li><strong>بونص ترحيبي 100% حتى $2000</strong>.</li>
+        <li><strong>حد أدنى للإيداع يبدأ من $5</strong>.</li>
+        <li><strong>دعم HM وPT وHUD</strong>.</li>
+      </ul>
+
+
+      <p>لمعرفة الشروط الشخصية لصفقة PokerKing تواصل مع مدير PDH — نحن على تواصل 24/7.</p>
+    srcHash: 5654bbe9d156
+  id:
+    name: Deal di poker room PokerKing
+    description: >-
+      Room Winning Poker Network dengan porsi besar pemain rekreasional Amerika, permainan di semua limit, dan dukungan
+      penuh untuk tracker. Bonus 100% hingga $2000.
+    geo: Amerika Serikat, Amerika Latin
+    bonus: 100% hingga $2000
+    body: >
+      <h3>Tentang Room</h3>
+
+
+      <p>PokerKing beroperasi sejak 2011 dan berbagi player pool dengan Winning Poker Network. Room ini secara
+      tradisional mengumpulkan banyak pemain rekreasional Amerika, sehingga field-nya tetap nyaman bahkan di limit
+      menengah.</p>
+
+
+      <p>Random number generator-nya tersertifikasi oleh iTech Labs. Minimum deposit hanya 5 dolar, yang menjadikan room
+      ini titik masuk yang praktis bagi pemain dengan bankroll kecil.</p>
+
+
+      <h3>Permainan dan Format</h3>
+
+
+      <p>Tersedia no-limit hold'em, pot-limit Omaha, dan turnamen di semua limit — dari mikro hingga stake tinggi.
+      Jadwalnya sama dengan jadwal jaringan, jadi garansi turnamennya besar.</p>
+
+
+      <p>Room ini sepenuhnya ramah terhadap software: Holdem Manager, PokerTracker, dan HUD semuanya didukung.</p>
+
+
+      <h3>Bonus dan Ketentuan</h3>
+
+
+      <ul>
+        <li><strong>Bonus selamat datang 100% hingga $2000</strong>.</li>
+        <li><strong>Minimum deposit mulai $5</strong>.</li>
+        <li><strong>Dukungan untuk HM, PT, dan HUD</strong>.</li>
+      </ul>
+
+
+      <p>Untuk syarat deal PokerKing yang personal, hubungi manajer PDH — kami siap 24/7.</p>
+    srcHash: 5654bbe9d156
+  vi:
+    name: Kèo tại phòng poker PokerKing
+    description: >-
+      Phòng thuộc Winning Poker Network với lượng lớn người chơi giải trí Mỹ, có bàn ở mọi mức cược và hỗ trợ đầy đủ
+      phần mềm tracker. Thưởng 100% lên đến $2000.
+    geo: Mỹ, Mỹ Latinh
+    bonus: 100% lên đến $2000
+    body: >
+      <h3>Về phòng chơi</h3>
+
+
+      <p>PokerKing hoạt động từ năm 2011 và dùng chung pool người chơi với Winning Poker Network. Phòng này từ trước đến
+      nay luôn quy tụ rất nhiều người chơi giải trí đến từ Mỹ, nhờ đó sân chơi vẫn dễ thở ngay cả ở các mức cược
+      trung.</p>
+
+
+      <p>Bộ tạo số ngẫu nhiên được iTech Labs chứng nhận. Mức nạp tối thiểu chỉ 5 đô la, khiến đây trở thành điểm khởi
+      đầu thuận tiện cho người chơi có bankroll khiêm tốn.</p>
+
+
+      <h3>Trò chơi và thể thức</h3>
+
+
+      <p>Có đủ no-limit hold'em, pot-limit Omaha và các giải đấu ở mọi mức cược — từ micro đến cược cao. Lịch giải trùng
+      với lịch chung của mạng, nên mức bảo đảm giải thưởng rất lớn.</p>
+
+
+      <p>Phòng hoàn toàn thân thiện với phần mềm hỗ trợ: Holdem Manager, PokerTracker và HUD đều được cho phép.</p>
+
+
+      <h3>Thưởng và điều kiện</h3>
+
+
+      <ul>
+        <li><strong>Thưởng chào mừng 100% lên đến $2000</strong>.</li>
+        <li><strong>Nạp tối thiểu từ $5</strong>.</li>
+        <li><strong>Hỗ trợ HM, PT và HUD</strong>.</li>
+      </ul>
+
+
+      <p>Về điều kiện riêng của kèo PokerKing, hãy hỏi quản lý PDH — chúng tôi trực 24/7.</p>
+    srcHash: 5654bbe9d156
+  fil:
+    name: Deal sa poker room na PokerKing
+    description: >-
+      Room sa Winning Poker Network na maraming Amerikanong recreational player, may aksyon sa lahat ng stakes at buong
+      suporta sa mga tracker. Bonus na 100% hanggang $2000.
+    geo: USA, Latin America
+    bonus: 100% hanggang $2000
+    body: >
+      <h3>Tungkol sa room</h3>
+
+
+      <p>Tumatakbo ang PokerKing mula pa noong 2011 at pinagsasaluhan nito ang player pool ng Winning Poker Network.
+      Matagal nang maraming Amerikanong recreational player ang naglalaro rito, kaya nananatiling komportable ang field
+      kahit sa medium stakes.</p>
+
+
+      <p>Sertipikado ng iTech Labs ang random number generator. Ang minimum na deposito ay 5 dolyar lang, kaya madaling
+      pasukin ang room para sa mga manlalarong maliit ang bankroll.</p>
+
+
+      <h3>Laro at mga format</h3>
+
+
+      <p>Available ang no-limit hold'em, pot-limit Omaha at mga tournament sa lahat ng stakes — mula micro hanggang high
+      stakes. Kapareho ng buong network ang tournament schedule, kaya malalaki ang mga guarantee.</p>
+
+
+      <p>Ganap na software-friendly ang room: suportado ang Holdem Manager, PokerTracker at HUD.</p>
+
+
+      <h3>Bonus at mga kondisyon</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus na 100% hanggang $2000</strong>.</li>
+        <li><strong>Minimum na deposito mula $5</strong>.</li>
+        <li><strong>Suporta sa HM, PT at HUD</strong>.</li>
+      </ul>
+
+
+      <p>Para sa personalisadong kondisyon ng deal sa PokerKing, kausapin ang manager ng PDH — available kami 24/7.</p>
+    srcHash: 5654bbe9d156
+  th:
+    name: ดีลในห้องโป๊กเกอร์ PokerKing
+    description: >-
+      รูมในเครือ Winning Poker Network ที่มีผู้เล่นสมัครเล่นชาวอเมริกันเป็นสัดส่วนสูง
+      มีเกมครบทุกลิมิตและรองรับแทร็กเกอร์อย่างเต็มรูปแบบ โบนัส 100% สูงสุด $2000
+    geo: สหรัฐอเมริกา, ละตินอเมริกา
+    bonus: 100% สูงสุด $2000
+    body: >
+      <h3>เกี่ยวกับรูม</h3>
+
+
+      <p>PokerKing เปิดให้บริการมาตั้งแต่ปี 2011 และใช้พูลผู้เล่นร่วมกับ Winning Poker Network
+      รูมนี้ดึงดูดผู้เล่นสายพักผ่อนชาวอเมริกันจำนวนมากมาโดยตลอด สนามเกมจึงยังคงสบายแม้ในลิมิตกลาง</p>
+
+
+      <p>เครื่องสุ่มตัวเลข (RNG) ได้รับการรับรองจาก iTech Labs เงินฝากขั้นต่ำอยู่ที่เพียง 5 ดอลลาร์
+      ทำให้รูมนี้เป็นจุดเริ่มต้นที่สะดวกสำหรับผู้เล่นที่มีแบงก์โรลไม่มาก</p>
+
+
+      <h3>เกมและรูปแบบการเล่น</h3>
+
+
+      <p>มีทั้งโนลิมิตโฮลเด็ม พ็อตลิมิตโอมาฮ่า และทัวร์นาเมนต์ครบทุกลิมิต ตั้งแต่ไมโครไปจนถึงสเตกสูง
+      ตารางเกมโดยรวมตรงกับของทั้งเครือข่าย เงินรางวัลการันตีของทัวร์นาเมนต์จึงสูง</p>
+
+
+      <p>รูมเป็นมิตรกับซอฟต์แวร์อย่างเต็มที่ รองรับ Holdem Manager, PokerTracker และ HUD</p>
+
+
+      <h3>โบนัสและเงื่อนไข</h3>
+
+
+      <ul>
+        <li><strong>โบนัสต้อนรับ 100% สูงสุด $2000</strong></li>
+        <li><strong>เงินฝากขั้นต่ำเริ่มต้นที่ $5</strong></li>
+        <li><strong>รองรับ HM, PT และ HUD</strong></li>
+      </ul>
+
+
+      <p>สอบถามเงื่อนไขดีล PokerKing แบบเฉพาะบุคคลได้ที่ผู้จัดการของ PDH — เราพร้อมให้บริการตลอด 24/7</p>
+    srcHash: 5654bbe9d156

@@ -1,0 +1,729 @@
+app: partypoker
+club: "-"
+union: "-"
+logo: partypoker_logo
+logoimage: /partypoker.webp
+logoalt: partypoker logo
+format: NLH / PLO / MTT
+type: Centralized
+rakeback: ""
+featured: false
+hidden: false
+order: 29
+badges:
+  - centralized
+  - international
+  - soft
+  - allLimits
+  - verified
+regions:
+  - europe
+  - latam
+ratings:
+  mtt: 4
+  cash: 5
+  plo: 4
+  nlh: 4
+name: Сделка в покер руме partypoker
+description: >-
+  Один из старейших покерных брендов, работающий с 2001 года: стабильный кэш-трафик, форматы Fast Forward и SPINS,
+  эксклюзивные турниры. Бонус 100% до $600.
+geo: Европа, Латинская Америка, Канада
+bonus: 100% до $600
+body: >
+  <h3>О руме</h3>
+
+
+  <p>partypoker основан в 2001 году и входит в число самых узнаваемых покерных брендов в мире. Рум работает на платформе
+  GVC и в пиковые часы собирает до трёх тысяч игроков, что стабильно держит его в топ-10 площадок.</p>
+
+
+  <p>Генератор случайных чисел сертифицирован iTech Labs, минимальный депозит — 10 единиц валюты счёта. За двадцать с
+  лишним лет работы у рума сложилась репутация надёжного оператора с предсказуемыми выплатами.</p>
+
+
+  <h3>Игра и форматы</h3>
+
+
+  <p>Сильная сторона partypoker — кэш-игра: столы по холдему и Омахе работают от микролимитов до высоких ставок. Кроме
+  классических столов есть быстрый формат Fast Forward и лотерейные турниры SPINS.</p>
+
+
+  <p>Сторонние трекеры и HUD не поддерживаются — рум целенаправленно выравнивает условия для любителей. Для
+  мультитейблинга доступен бесплатный лэйаут.</p>
+
+
+  <h3>Бонус и условия</h3>
+
+
+  <ul>
+    <li><strong>Приветственный бонус 100% до $600</strong>.</li>
+    <li><strong>Стабильный кэш-трафик</strong> и эксклюзивные турниры.</li>
+    <li><strong>Форматы Fast Forward и SPINS</strong>.</li>
+  </ul>
+
+
+  <p>Персональные условия сделки по partypoker уточняйте у менеджера PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in partypoker poker room
+    description: >-
+      One of the oldest poker brands, running since 2001: steady cash traffic, the Fast Forward and SPINS formats,
+      exclusive tournaments. Bonus of 100% up to $600.
+    geo: Europe, Latin America, Canada
+    bonus: 100% up to $600
+    body: >
+      <h3>About the room</h3>
+
+
+      <p>partypoker launched in 2001 and is one of the most recognizable poker brands in the world. The room runs on the
+      GVC platform and at peak hours gathers up to three thousand players, which keeps it firmly inside the top 10
+      rooms.</p>
+
+
+      <p>Its random number generator is certified by iTech Labs and the minimum deposit is 10 units of your account
+      currency. Over twenty-plus years the room has built a reputation as a reliable operator with predictable
+      payouts.</p>
+
+
+      <h3>Games and formats</h3>
+
+
+      <p>Cash games are partypoker's strong suit: hold'em and Omaha tables run from the micros all the way up to high
+      stakes. On top of the classic tables you get Fast Forward, the room's fast format, and SPINS lottery
+      tournaments.</p>
+
+
+      <p>Third-party trackers and HUDs are not supported — the room deliberately levels the playing field for
+      recreational players. A free layout is available for multi-tabling.</p>
+
+
+      <h3>Bonus and terms</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus of 100% up to $600</strong>.</li>
+        <li><strong>Steady cash traffic</strong> and exclusive tournaments.</li>
+        <li><strong>Fast Forward and SPINS formats</strong>.</li>
+      </ul>
+
+
+      <p>For the personal terms of the partypoker deal, check with the PDH manager — we are available 24/7.</p>
+    srcHash: 75c91f41e64d
+  uz:
+    name: partypoker xonasidagi bitim
+    description: >-
+      2001-yildan beri ishlab kelayotgan eng qadimgi poker brendlaridan biri: barqaror kesh-trafik, Fast Forward va
+      SPINS formatlari, eksklyuziv turnirlar. Bonus 100%, $600 gacha.
+    geo: Yevropa, Lotin Amerikasi, Kanada
+    bonus: $600 gacha 100%
+    body: >
+      <h3>Xona haqida</h3>
+
+
+      <p>partypoker 2001-yilda tashkil etilgan va dunyodagi eng taniqli poker brendlari qatoriga kiradi. Xona GVC
+      platformasida ishlaydi va eng gavjum soatlarda uch minggacha oʻyinchini yigʻadi, bu esa uni maydonchalar top-10
+      roʻyxatida barqaror ushlab turadi.</p>
+
+
+      <p>Tasodifiy sonlar generatori iTech Labs tomonidan sertifikatlangan, minimal depozit — hisob valyutasining 10
+      birligi. Yigirma yildan ortiq faoliyati davomida xona oldindan bashorat qilinadigan toʻlovlarga ega ishonchli
+      operator obroʻsini qozondi.</p>
+
+
+      <h3>Oʻyin va formatlar</h3>
+
+
+      <p>partypoker’ning kuchli tomoni — kesh-oʻyin: xoldem va Omaha stollari mikrolimitlardan yuqori stavkalargacha
+      ishlaydi. Klassik stollardan tashqari tezkor Fast Forward formati va SPINS lotereya turnirlari ham bor.</p>
+
+
+      <p>Uchinchi tomon trekerlari va HUD qoʻllab-quvvatlanmaydi — xona havaskorlar uchun shart-sharoitlarni ataylab
+      tenglashtiradi. Multitabling uchun bepul leyaut mavjud.</p>
+
+
+      <h3>Bonus va shartlar</h3>
+
+
+      <ul>
+        <li><strong>Xush kelibsiz bonusi 100%, $600 gacha</strong>.</li>
+        <li><strong>Barqaror kesh-trafik</strong> va eksklyuziv turnirlar.</li>
+        <li><strong>Fast Forward va SPINS formatlari</strong>.</li>
+      </ul>
+
+
+      <p>partypoker boʻyicha bitimning shaxsiy shartlarini PDH menejeridan aniqlashtiring — biz 24/7 aloqadamiz.</p>
+    srcHash: 75c91f41e64d
+  uk:
+    name: Угода в покер-румі partypoker
+    description: >-
+      Один із найстаріших покерних брендів, що працює з 2001 року: стабільний кеш-трафік, формати Fast Forward і SPINS,
+      ексклюзивні турніри. Бонус 100% до $600.
+    geo: Європа, Латинська Америка, Канада
+    bonus: 100% до $600
+    body: >
+      <h3>Про рум</h3>
+
+
+      <p>partypoker засновано 2001 року, і він входить до числа найвпізнаваніших покерних брендів у світі. Рум працює на
+      платформі GVC і в пікові години збирає до трьох тисяч гравців, що стабільно тримає його в топ-10 майданчиків.</p>
+
+
+      <p>Генератор випадкових чисел сертифікований iTech Labs, мінімальний депозит — 10 одиниць валюти рахунку. За понад
+      двадцять років роботи рум здобув репутацію надійного оператора з передбачуваними виплатами.</p>
+
+
+      <h3>Гра та формати</h3>
+
+
+      <p>Сильна сторона partypoker — кеш-гра: столи з холдему та Омахи працюють від мікролімітів до високих ставок. Крім
+      класичних столів, є швидкий формат Fast Forward і лотерейні турніри SPINS.</p>
+
+
+      <p>Сторонні трекери та HUD не підтримуються — рум свідомо вирівнює умови для любителів. Для мультитейблінгу
+      доступний безкоштовний лейаут.</p>
+
+
+      <h3>Бонус та умови</h3>
+
+
+      <ul>
+        <li><strong>Вітальний бонус 100% до $600</strong>.</li>
+        <li><strong>Стабільний кеш-трафік</strong> та ексклюзивні турніри.</li>
+        <li><strong>Формати Fast Forward і SPINS</strong>.</li>
+      </ul>
+
+
+      <p>Персональні умови угоди щодо partypoker уточнюйте в менеджера PDH — ми на зв'язку 24/7.</p>
+    srcHash: 75c91f41e64d
+  it:
+    name: Offerta nella poker room partypoker
+    description: >-
+      Uno dei marchi di poker più longevi, attivo dal 2001: traffico cash stabile, formati Fast Forward e SPINS, tornei
+      esclusivi. Bonus 100% fino a $600.
+    geo: Europa, America Latina, Canada
+    bonus: 100% fino a $600
+    body: >
+      <h3>Informazioni sulla room</h3>
+
+
+      <p>partypoker è nato nel 2001 ed è uno dei marchi di poker più riconoscibili al mondo. La room gira sulla
+      piattaforma GVC e nelle ore di punta raccoglie fino a tremila giocatori, un traffico che la tiene stabilmente tra
+      le prime dieci del settore.</p>
+
+
+      <p>Il generatore di numeri casuali è certificato da iTech Labs e il deposito minimo è di 10 unità della valuta del
+      conto. In oltre vent'anni di attività la room si è costruita la reputazione di operatore affidabile, con pagamenti
+      prevedibili.</p>
+
+
+      <h3>Gioco e formati</h3>
+
+
+      <p>Il punto di forza di partypoker è il cash game: i tavoli di hold'em e Omaha vanno dai microlimiti fino alle
+      high stakes. Oltre ai tavoli classici ci sono il formato veloce Fast Forward e i tornei-lotteria SPINS.</p>
+
+
+      <p>I tracker di terze parti e gli HUD non sono supportati: la room livella di proposito il campo di gioco per i
+      giocatori ricreativi. Per il multitabling è disponibile un layout gratuito.</p>
+
+
+      <h3>Bonus e condizioni</h3>
+
+
+      <ul>
+        <li><strong>Bonus di benvenuto 100% fino a $600</strong>.</li>
+        <li><strong>Traffico cash stabile</strong> e tornei esclusivi.</li>
+        <li><strong>Formati Fast Forward e SPINS</strong>.</li>
+      </ul>
+
+
+      <p>Per le condizioni personalizzate dell'offerta su partypoker rivolgiti al manager PDH: siamo disponibili
+      24/7.</p>
+    srcHash: 75c91f41e64d
+  de:
+    name: Deal im Pokerraum partypoker
+    description: >-
+      Eine der ältesten Pokermarken, seit 2001 am Markt: stabiler Cash-Traffic, die Formate Fast Forward und SPINS sowie
+      exklusive Turniere. Bonus 100% bis zu $600.
+    geo: Europa, Lateinamerika, Kanada
+    bonus: 100% bis zu $600
+    body: >
+      <h3>Über den Pokerraum</h3>
+
+
+      <p>partypoker wurde 2001 gegründet und gehört zu den bekanntesten Pokermarken der Welt. Der Raum läuft auf der
+      GVC-Plattform und bringt zu Stoßzeiten bis zu dreitausend Spieler an die Tische — damit hält er sich konstant in
+      den Top 10 der Anbieter.</p>
+
+
+      <p>Der Zufallszahlengenerator ist von iTech Labs zertifiziert, die Mindesteinzahlung beträgt 10 Einheiten der
+      Kontowährung. In über zwanzig Jahren hat sich der Raum den Ruf eines verlässlichen Betreibers mit planbaren
+      Auszahlungen erarbeitet.</p>
+
+
+      <h3>Spiel und Formate</h3>
+
+
+      <p>Die Stärke von partypoker ist das Cash-Game: Tische in Hold'em und Omaha laufen von den Mikrolimits bis zu den
+      High Stakes. Neben den klassischen Tischen gibt es das schnelle Format Fast Forward und die Lotterie-Turniere
+      SPINS.</p>
+
+
+      <p>Tracker und HUDs von Drittanbietern werden nicht unterstützt — der Raum schafft damit bewusst gleiche
+      Bedingungen für Freizeitspieler. Fürs Multitabling steht ein kostenloses Layout bereit.</p>
+
+
+      <h3>Bonus und Konditionen</h3>
+
+
+      <ul>
+        <li><strong>Willkommensbonus 100% bis zu $600</strong>.</li>
+        <li><strong>Stabiler Cash-Traffic</strong> und exklusive Turniere.</li>
+        <li><strong>Die Formate Fast Forward und SPINS</strong>.</li>
+      </ul>
+
+
+      <p>Die persönlichen Konditionen des partypoker-Deals erfährst du beim PDH-Manager — wir sind 24/7 erreichbar.</p>
+    srcHash: 75c91f41e64d
+  es:
+    name: Oferta en la sala de póker partypoker
+    description: >-
+      Una de las marcas de póker más veteranas, en activo desde 2001: tráfico de cash estable, formatos Fast Forward y
+      SPINS, y torneos exclusivos. Bono del 100% hasta $600.
+    geo: Europa, Latinoamérica, Canadá
+    bonus: 100% hasta $600
+    body: >
+      <h3>Sobre la sala</h3>
+
+
+      <p>partypoker nació en 2001 y es una de las marcas de póker más reconocibles del mundo. La sala funciona sobre la
+      plataforma de GVC y en las horas punta llega a reunir hasta tres mil jugadores, lo que la mantiene de forma
+      estable en el top 10 de salas.</p>
+
+
+      <p>Su generador de números aleatorios está certificado por iTech Labs y el depósito mínimo es de 10 unidades de la
+      moneda de la cuenta. En más de veinte años de actividad, la sala se ha ganado una reputación de operador fiable,
+      con pagos predecibles.</p>
+
+
+      <h3>Juego y formatos</h3>
+
+
+      <p>El punto fuerte de partypoker es el cash: hay mesas de hold'em y Omaha desde los microlímites hasta las
+      apuestas altas. Además de las mesas clásicas, tienes el formato rápido Fast Forward y los torneos de lotería
+      SPINS.</p>
+
+
+      <p>No se admiten trackers externos ni HUD: la sala iguala a propósito las condiciones para los aficionados. Para
+      el multitabling hay un layout gratuito disponible.</p>
+
+
+      <h3>Bono y condiciones</h3>
+
+
+      <ul>
+        <li><strong>Bono de bienvenida del 100% hasta $600</strong>.</li>
+        <li><strong>Tráfico de cash estable</strong> y torneos exclusivos.</li>
+        <li><strong>Formatos Fast Forward y SPINS</strong>.</li>
+      </ul>
+
+
+      <p>Consulta las condiciones personalizadas de la oferta de partypoker con el manager de PDH: estamos disponibles
+      24/7.</p>
+    srcHash: 75c91f41e64d
+  pt:
+    name: Oferta na sala de poker partypoker
+    description: >-
+      Uma das marcas de poker mais antigas do mercado, no ar desde 2001: tráfego estável no cash, os formatos Fast
+      Forward e SPINS e torneios exclusivos. Bônus de 100% até $600.
+    geo: Europa, América Latina, Canadá
+    bonus: 100% até $600
+    body: >
+      <h3>Sobre a sala</h3>
+
+
+      <p>O partypoker foi fundado em 2001 e está entre as marcas de poker mais reconhecidas do mundo. A sala roda na
+      plataforma da GVC e nos horários de pico reúne até três mil jogadores, o que a mantém de forma constante no top 10
+      das plataformas.</p>
+
+
+      <p>O gerador de números aleatórios é certificado pela iTech Labs e o depósito mínimo é de 10 unidades da moeda da
+      conta. Em mais de vinte anos de operação, a sala construiu a reputação de um operador confiável, com saques
+      previsíveis.</p>
+
+
+      <h3>Jogos e formatos</h3>
+
+
+      <p>O ponto forte do partypoker é o cash: as mesas de hold'em e Omaha vão dos microlimites aos limites altos. Além
+      das mesas clássicas, há o formato rápido Fast Forward e os torneios de loteria SPINS.</p>
+
+
+      <p>Trackers e HUD de terceiros não são suportados — a sala nivela o jogo para os amadores de forma proposital.
+      Para o multitabling há um layout gratuito.</p>
+
+
+      <h3>Bônus e condições</h3>
+
+
+      <ul>
+        <li><strong>Bônus de boas-vindas de 100% até $600</strong>.</li>
+        <li><strong>Tráfego estável no cash</strong> e torneios exclusivos.</li>
+        <li><strong>Formatos Fast Forward e SPINS</strong>.</li>
+      </ul>
+
+
+      <p>Para as condições personalizadas da oferta no partypoker, fale com o gerente da PDH — estamos disponíveis
+      24/7.</p>
+    srcHash: 75c91f41e64d
+  fr:
+    name: Offre sur la salle de poker partypoker
+    description: >-
+      L'une des plus anciennes marques du poker, en activité depuis 2001 : trafic cash stable, formats Fast Forward et
+      SPINS, tournois exclusifs. Bonus de 100% jusqu'à $600.
+    geo: Europe, Amérique latine, Canada
+    bonus: 100% jusqu'à $600
+    body: >
+      <h3>À propos de la salle</h3>
+
+
+      <p>partypoker a été fondée en 2001 et figure parmi les marques de poker les plus reconnues au monde. La salle
+      tourne sur la plateforme GVC et réunit jusqu'à trois mille joueurs aux heures de pointe, ce qui la maintient
+      solidement dans le top 10 des plateformes.</p>
+
+
+      <p>Son générateur de nombres aléatoires est certifié par iTech Labs et le dépôt minimum est de 10 unités de la
+      devise du compte. En plus de vingt ans d'activité, la salle s'est bâti une réputation d'opérateur fiable, aux
+      paiements prévisibles.</p>
+
+
+      <h3>Jeu et formats</h3>
+
+
+      <p>Le point fort de partypoker, c'est le cash game : les tables de hold'em et d'Omaha tournent des microlimites
+      jusqu'aux hautes limites. En plus des tables classiques, on trouve le format rapide Fast Forward et les tournois
+      loterie SPINS.</p>
+
+
+      <p>Les trackers tiers et les HUD ne sont pas pris en charge — la salle égalise volontairement les conditions pour
+      les joueurs amateurs. Un layout gratuit est disponible pour le multitabling.</p>
+
+
+      <h3>Bonus et conditions</h3>
+
+
+      <ul>
+        <li><strong>Bonus de bienvenue 100% jusqu'à $600</strong>.</li>
+        <li><strong>Trafic cash stable</strong> et tournois exclusifs.</li>
+        <li><strong>Formats Fast Forward et SPINS</strong>.</li>
+      </ul>
+
+
+      <p>Pour les conditions personnalisées de l'offre partypoker, contactez le manager PDH — nous sommes disponibles
+      24/7.</p>
+    srcHash: 75c91f41e64d
+  tr:
+    name: partypoker poker odasında anlaşma
+    description: >-
+      2001 yılından bu yana faaliyette olan en köklü poker markalarından biri: istikrarlı cash trafiği, Fast Forward ve
+      SPINS formatları, özel turnuvalar. $600'a kadar %100 bonus.
+    geo: Avrupa, Latin Amerika, Kanada
+    bonus: $600'a kadar %100
+    body: >
+      <h3>Oda Hakkında</h3>
+
+
+      <p>partypoker 2001 yılında kuruldu ve dünyanın en tanınmış poker markaları arasında yer alıyor. Oda GVC
+      platformunda çalışıyor ve yoğun saatlerde üç bine kadar oyuncu topluyor; bu da onu istikrarlı biçimde ilk 10
+      sitenin içinde tutuyor.</p>
+
+
+      <p>Rastgele sayı üreteci iTech Labs tarafından sertifikalanmıştır, minimum depozito hesap para biriminden 10
+      birimdir. Yirmi yılı aşkın faaliyeti boyunca oda, öngörülebilir ödemeleriyle güvenilir bir operatör itibarı
+      kazandı.</p>
+
+
+      <h3>Oyun ve Formatlar</h3>
+
+
+      <p>partypoker'ın güçlü yanı cash oyun: hold'em ve Omaha masaları mikro limitlerden yüksek bahislere kadar açık.
+      Klasik masaların yanı sıra hızlı format Fast Forward ve piyango tipi SPINS turnuvaları var.</p>
+
+
+      <p>Üçüncü taraf tracker'lar ve HUD desteklenmiyor — oda, koşulları amatörler lehine bilinçli olarak eşitliyor.
+      Multi-tabling için ücretsiz bir layout mevcut.</p>
+
+
+      <h3>Bonus ve Koşullar</h3>
+
+
+      <ul>
+        <li><strong>$600'a kadar %100 hoş geldin bonusu</strong>.</li>
+        <li><strong>İstikrarlı cash trafiği</strong> ve özel turnuvalar.</li>
+        <li><strong>Fast Forward ve SPINS formatları</strong>.</li>
+      </ul>
+
+
+      <p>partypoker anlaşmasının kişisel koşullarını PDH yöneticisinden öğrenebilirsiniz — 7/24 buradayız.</p>
+    srcHash: 75c91f41e64d
+  he:
+    name: דיל בחדר הפוקר partypoker
+    description: >-
+      אחד ממותגי הפוקר הוותיקים בעולם, שפועל מאז 2001: תנועת קאש יציבה, הפורמטים Fast Forward ו-SPINS וטורנירים בלעדיים.
+      בונוס 100% עד $600.
+    geo: אירופה, אמריקה הלטינית, קנדה
+    bonus: 100% עד $600
+    body: >
+      <h3>על החדר</h3>
+
+
+      <p>partypoker נוסד ב-2001 והוא אחד ממותגי הפוקר המוכרים ביותר בעולם. החדר פועל על פלטפורמת GVC ובשעות השיא אוסף עד
+      שלושת אלפים שחקנים, מה שמחזיק אותו באופן יציב בעשירייה הראשונה של האתרים.</p>
+
+
+      <p>מחולל המספרים האקראיים מוסמך על ידי iTech Labs, וההפקדה המינימלית היא 10 יחידות במטבע החשבון. במעל עשרים שנות
+      פעילות בנה החדר מוניטין של מפעיל אמין עם תשלומים צפויים.</p>
+
+
+      <h3>משחק ופורמטים</h3>
+
+
+      <p>הצד החזק של partypoker הוא משחק הקאש: שולחנות הולדם ואומהה פועלים ממיקרו-לימיטים ועד ללימיטים הגבוהים. מעבר
+      לשולחנות הקלאסיים יש את הפורמט המהיר Fast Forward ואת טורנירי הלוטו SPINS.</p>
+
+
+      <p>טראקרים חיצוניים ו-HUD אינם נתמכים — החדר משווה במכוון את התנאים לטובת החובבים. למולטי-טייבלינג זמין לייאאוט
+      חינמי.</p>
+
+
+      <h3>בונוס ותנאים</h3>
+
+
+      <ul>
+        <li><strong>בונוס הצטרפות 100% עד $600</strong>.</li>
+        <li><strong>תנועת קאש יציבה</strong> וטורנירים בלעדיים.</li>
+        <li><strong>הפורמטים Fast Forward ו-SPINS</strong>.</li>
+      </ul>
+
+
+      <p>את התנאים האישיים של הדיל ב-partypoker תוכלו לברר מול המנהל של PDH — אנחנו זמינים 24/7.</p>
+    srcHash: 75c91f41e64d
+  ar:
+    name: صفقة في غرفة البوكر partypoker
+    description: >-
+      واحدة من أقدم علامات البوكر، وتعمل منذ عام 2001: ترافيك كاش مستقر، صيغتا Fast Forward و SPINS، وبطولات حصرية. بونص
+      100% حتى $600.
+    geo: أوروبا، أمريكا اللاتينية، كندا
+    bonus: 100% حتى $600
+    body: >
+      <h3>عن الغرفة</h3>
+
+
+      <p>تأسّس partypoker عام 2001 وهو من أكثر علامات البوكر شهرة في العالم. تعمل الغرفة على منصة GVC وتجمع في ساعات
+      الذروة ما يصل إلى ثلاثة آلاف لاعب، ما يبقيها باستمرار ضمن أفضل 10 غرف.</p>
+
+
+      <p>مولّد الأرقام العشوائية معتمد من iTech Labs، والحد الأدنى للإيداع 10 وحدات من عملة الحساب. وعلى مدى أكثر من
+      عشرين عاماً من العمل، بنت الغرفة سمعة مشغّل موثوق بمدفوعات يمكن التنبؤ بها.</p>
+
+
+      <h3>الألعاب والصيغ</h3>
+
+
+      <p>نقطة القوة في partypoker هي لعب الكاش: طاولات الهولدم والأوماها تعمل من الحدود الصغيرة جداً حتى الحدود العالية.
+      وإلى جانب الطاولات الكلاسيكية هناك الصيغة السريعة Fast Forward وبطولات اليانصيب SPINS.</p>
+
+
+      <p>برامج التتبّع الخارجية وأدوات HUD غير مدعومة — فالغرفة تتعمّد تسوية الظروف لصالح اللاعبين الترفيهيين. وللّعب
+      متعدد الطاولات يتوفر تخطيط طاولات مجاني.</p>
+
+
+      <h3>البونص والشروط</h3>
+
+
+      <ul>
+        <li><strong>بونص ترحيبي 100% حتى $600</strong>.</li>
+        <li><strong>ترافيك كاش مستقر</strong> وبطولات حصرية.</li>
+        <li><strong>صيغتا Fast Forward و SPINS</strong>.</li>
+      </ul>
+
+
+      <p>لمعرفة الشروط الشخصية لصفقة partypoker تواصل مع مدير PDH — نحن على تواصل 24/7.</p>
+    srcHash: 75c91f41e64d
+  id:
+    name: Deal di poker room partypoker
+    description: >-
+      Salah satu brand poker tertua yang beroperasi sejak 2001: trafik cash yang stabil, format Fast Forward dan SPINS,
+      serta turnamen eksklusif. Bonus 100% hingga $600.
+    geo: Eropa, Amerika Latin, Kanada
+    bonus: 100% hingga $600
+    body: >
+      <h3>Tentang Room</h3>
+
+
+      <p>partypoker didirikan pada 2001 dan termasuk salah satu brand poker paling dikenal di dunia. Room ini berjalan
+      di platform GVC dan pada jam sibuk mengumpulkan hingga tiga ribu pemain, sehingga stabil bertahan di sepuluh besar
+      room online.</p>
+
+
+      <p>Random number generator-nya tersertifikasi oleh iTech Labs, dan deposit minimum adalah 10 satuan mata uang
+      akun. Setelah lebih dari dua puluh tahun beroperasi, room ini punya reputasi sebagai operator andal dengan
+      pembayaran yang bisa diprediksi.</p>
+
+
+      <h3>Permainan dan Format</h3>
+
+
+      <p>Kekuatan utama partypoker adalah cash game: meja Hold'em dan Omaha berjalan dari microlimit hingga limit
+      tinggi. Selain meja klasik, ada format cepat Fast Forward dan turnamen lotere SPINS.</p>
+
+
+      <p>Tracker pihak ketiga dan HUD tidak didukung — room ini sengaja menyetarakan kondisi bagi pemain amatir. Untuk
+      multitabling tersedia layout gratis.</p>
+
+
+      <h3>Bonus dan Ketentuan</h3>
+
+
+      <ul>
+        <li><strong>Bonus selamat datang 100% hingga $600</strong>.</li>
+        <li><strong>Trafik cash yang stabil</strong> dan turnamen eksklusif.</li>
+        <li><strong>Format Fast Forward dan SPINS</strong>.</li>
+      </ul>
+
+
+      <p>Untuk syarat personal deal partypoker, hubungi manajer PDH — kami siap 24/7.</p>
+    srcHash: 75c91f41e64d
+  vi:
+    name: Kèo tại phòng poker partypoker
+    description: >-
+      Một trong những thương hiệu poker lâu đời nhất, hoạt động từ năm 2001: lưu lượng cash ổn định, các thể thức Fast
+      Forward và SPINS, cùng những giải đấu độc quyền. Thưởng 100% lên đến $600.
+    geo: Châu Âu, Mỹ Latinh, Canada
+    bonus: 100% lên đến $600
+    body: >
+      <h3>Về phòng chơi</h3>
+
+
+      <p>partypoker thành lập năm 2001 và nằm trong số những thương hiệu poker được nhận diện nhiều nhất thế giới. Phòng
+      vận hành trên nền tảng GVC, vào giờ cao điểm quy tụ tới ba nghìn người chơi, nhờ vậy luôn giữ vững vị trí trong
+      top 10 sân chơi.</p>
+
+
+      <p>Bộ tạo số ngẫu nhiên được iTech Labs chứng nhận, mức nạp tối thiểu là 10 đơn vị tiền tệ của tài khoản. Sau hơn
+      hai mươi năm hoạt động, phòng đã tạo dựng được tiếng tăm của một nhà điều hành đáng tin cậy với các khoản thanh
+      toán ổn định, đúng hẹn.</p>
+
+
+      <h3>Trò chơi và thể thức</h3>
+
+
+      <p>Điểm mạnh của partypoker là cash game: các bàn Hold'em và Omaha chạy từ micro cho đến mức cược cao. Ngoài những
+      bàn cổ điển còn có thể thức nhanh Fast Forward và các giải đấu quay thưởng SPINS.</p>
+
+
+      <p>Phòng không hỗ trợ tracker và HUD của bên thứ ba — đây là chủ trương nhằm cân bằng điều kiện cho người chơi
+      nghiệp dư. Khi chơi nhiều bàn thì có sẵn layout miễn phí.</p>
+
+
+      <h3>Thưởng và điều kiện</h3>
+
+
+      <ul>
+        <li><strong>Thưởng chào mừng 100% lên đến $600</strong>.</li>
+        <li><strong>Lưu lượng cash ổn định</strong> cùng các giải đấu độc quyền.</li>
+        <li><strong>Các thể thức Fast Forward và SPINS</strong>.</li>
+      </ul>
+
+
+      <p>Về các điều kiện kèo cá nhân tại partypoker, hãy hỏi quản lý PDH — chúng tôi luôn sẵn sàng 24/7.</p>
+    srcHash: 75c91f41e64d
+  fil:
+    name: Deal sa poker room na partypoker
+    description: >-
+      Isa sa pinakamatatandang poker brand, tumatakbo mula pa noong 2001: matatag na cash traffic, mga format na Fast
+      Forward at SPINS, at eksklusibong mga torneo. Bonus na 100% hanggang $600.
+    geo: Europa, Latin America, Canada
+    bonus: 100% hanggang $600
+    body: >
+      <h3>Tungkol sa room</h3>
+
+
+      <p>Itinatag ang partypoker noong 2001 at isa ito sa pinakakilalang poker brand sa buong mundo. Tumatakbo ang room
+      sa plataporma ng GVC at umaabot sa tatlong libong manlalaro sa peak hours, kaya matatag itong nananatili sa top-10
+      na mga site.</p>
+
+
+      <p>Sertipikado ng iTech Labs ang random number generator nito, at ang minimum na deposito ay 10 unit ng currency
+      ng iyong account. Sa mahigit dalawampung taon ng operasyon, nakabuo ang room ng reputasyon bilang maaasahang
+      operator na may predictable na mga payout.</p>
+
+
+      <h3>Laro at mga format</h3>
+
+
+      <p>Ang pinakamalakas na panig ng partypoker ay ang cash game: tumatakbo ang mga lamesa ng hold'em at Omaha mula sa
+      microlimits hanggang sa high stakes. Bukod sa klasikong mga lamesa, mayroon ding mabilis na format na Fast Forward
+      at ang lottery-style na torneong SPINS.</p>
+
+
+      <p>Hindi sinusuportahan ang third-party na tracker at HUD — sadyang pinapantay ng room ang kondisyon para sa mga
+      recreational player. Para sa multi-tabling, may libreng layout na magagamit.</p>
+
+
+      <h3>Bonus at mga kondisyon</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus na 100% hanggang $600</strong>.</li>
+        <li><strong>Matatag na cash traffic</strong> at eksklusibong mga torneo.</li>
+        <li><strong>Mga format na Fast Forward at SPINS</strong>.</li>
+      </ul>
+
+
+      <p>Para sa personal na kondisyon ng deal sa partypoker, kumonsulta sa manager ng PDH — nasa linya kami 24/7.</p>
+    srcHash: 75c91f41e64d
+  th:
+    name: ดีลในห้องโป๊กเกอร์ partypoker
+    description: >-
+      หนึ่งในแบรนด์โป๊กเกอร์ที่เก่าแก่ที่สุด เปิดให้บริการมาตั้งแต่ปี 2001: ทราฟฟิกเกมเงินสดสม่ำเสมอ มีรูปแบบ Fast
+      Forward และ SPINS พร้อมทัวร์นาเมนต์เอ็กซ์คลูซีฟ โบนัส 100% สูงสุด $600
+    geo: ยุโรป, ละตินอเมริกา, แคนาดา
+    bonus: 100% สูงสุด $600
+    body: >
+      <h3>เกี่ยวกับรูม</h3>
+
+
+      <p>partypoker ก่อตั้งขึ้นในปี 2001 และเป็นหนึ่งในแบรนด์โป๊กเกอร์ที่คนรู้จักมากที่สุดในโลก
+      รูมนี้ทำงานบนแพลตฟอร์มของ GVC และในช่วงเวลาพีคมีผู้เล่นเข้ามาพร้อมกันสูงถึงสามพันคน
+      ซึ่งทำให้ยืนอยู่ในสิบอันดับแรกของวงการได้อย่างต่อเนื่อง</p>
+
+
+      <p>เครื่องสุ่มตัวเลขได้รับการรับรองจาก iTech Labs ส่วนเงินฝากขั้นต่ำอยู่ที่ 10 หน่วยของสกุลเงินในบัญชี
+      ตลอดกว่ายี่สิบปีที่ให้บริการ รูมนี้สร้างชื่อในฐานะผู้ให้บริการที่น่าเชื่อถือและจ่ายเงินได้ตรงตามที่คาดหมาย</p>
+
+
+      <h3>เกมและรูปแบบการเล่น</h3>
+
+
+      <p>จุดแข็งของ partypoker คือเกมเงินสด โต๊ะโฮลเด็มและโอมาฮาเปิดตั้งแต่ไมโครลิมิตไปจนถึงสเตกสูง
+      นอกจากโต๊ะแบบคลาสสิกแล้วยังมีรูปแบบเล่นเร็วอย่าง Fast Forward และทัวร์นาเมนต์แบบลอตเตอรี SPINS</p>
+
+
+      <p>ที่นี่ไม่รองรับแทร็กเกอร์จากภายนอกและ HUD เพราะรูมตั้งใจปรับสนามให้เท่าเทียมสำหรับผู้เล่นสมัครเล่น
+      ส่วนการเล่นหลายโต๊ะพร้อมกันมีเลย์เอาต์ให้ใช้ฟรี</p>
+
+
+      <h3>โบนัสและเงื่อนไข</h3>
+
+
+      <ul>
+        <li><strong>โบนัสต้อนรับ 100% สูงสุด $600</strong></li>
+        <li><strong>ทราฟฟิกเกมเงินสดที่สม่ำเสมอ</strong> และทัวร์นาเมนต์เอ็กซ์คลูซีฟ</li>
+        <li><strong>รูปแบบ Fast Forward และ SPINS</strong></li>
+      </ul>
+
+
+      <p>สอบถามเงื่อนไขดีล partypoker แบบเฉพาะบุคคลได้ที่ผู้จัดการของ PDH — เราพร้อมให้บริการตลอด 24/7</p>
+    srcHash: 75c91f41e64d

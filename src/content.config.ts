@@ -38,9 +38,11 @@ const deals = defineCollection({
     logoalt: z.string().optional(),
     format: z.string(),
     type: z.enum(["Centralized", "Decentralized"]),
-    rakeback: z.string(),
+    // Empty string = terms not published yet (the "up to X" pill is then hidden).
+    rakeback: z.string().default(""),
     fixrb: z.string().optional(),
-    affiliateLink: z.string().url(),
+    // Optional: a listing can exist before its tracking link is in place.
+    affiliateLink: z.string().url().optional(),
     featured: z.boolean().default(false),
     // Set `hidden: true` to instantly + reversibly pull a deal from the whole site
     // (listings, filters, homepage, related, sitemap, and its own page). Flip back to

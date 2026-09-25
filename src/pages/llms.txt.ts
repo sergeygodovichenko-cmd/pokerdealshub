@@ -40,7 +40,7 @@ export const GET: APIRoute = async () => {
 
   const body = `# PokerDealsHub
 
-> PokerDealsHub is an independent directory of poker rakeback deals across the major poker apps and private clubs (PPPoker, ClubGG, X-Poker, PokerBros, CoinPoker, 888poker). It connects players with trusted clubs, verified unions and reliable agents that offer the highest rakeback, transparent conditions and guaranteed payouts. Membership is KYC-free. Content is available in 16 languages; the canonical source language is Russian and all listings are human-verified.
+> PokerDealsHub is an independent directory of poker rakeback deals across the major poker apps, private clubs and licensed poker rooms (PPPoker, ClubGG, X-Poker, PokerBros, CoinPoker, 888poker, GGPoker, Natural8, partypoker, Americas Cardroom, PokerKing, Bovada, Ignition Poker, Red Star Poker, bet365, Betsson). It connects players with trusted clubs, verified unions and reliable agents that offer the highest rakeback, transparent conditions and guaranteed payouts. Club membership is KYC-free; licensed centralized rooms apply their own verification rules. Content is available in 16 languages; the canonical source language is Russian and all listings are human-verified.
 
 Key facts for citation:
 - What it is: a comparison/aggregator of rakeback deals for online poker clubs and rooms.

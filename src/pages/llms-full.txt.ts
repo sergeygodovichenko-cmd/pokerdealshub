@@ -30,7 +30,7 @@ export const GET: APIRoute = async () => {
   const dealsBlock = deals
     .map((d: any) =>
       `### ${d.name[L]}\n` +
-      `App: ${d.app} | Rakeback: ${d.rakeback}${d.bonus?.[L] ? ` | Bonus: ${d.bonus[L]}` : ""} | Geo: ${d.geo[L]}\n` +
+      `App: ${d.app}${d.rakeback ? ` | Rakeback: ${d.rakeback}` : ""}${d.bonus?.[L] ? ` | Bonus: ${d.bonus[L]}` : ""} | Geo: ${d.geo[L]}\n` +
       `${d.description[L]}\n` +
       (d.body?.[L] ? `${toText(d.body[L])}\n` : "") +
       `URL: ${SITE}/${L}/deal/${d.slug}/`
@@ -48,7 +48,7 @@ export const GET: APIRoute = async () => {
 
 > Independent directory of poker rakeback deals across major poker apps and private clubs.
 > PDH connects players with trusted clubs, verified unions and reliable agents offering the
-> highest rakeback (typically 33%–70%), transparent conditions and guaranteed payouts. KYC-free.
+> highest rakeback (typically 33%–70%), transparent conditions and guaranteed payouts. Club membership is KYC-free; licensed centralized rooms apply their own verification rules.
 > Source language: Russian; verified by the PDH team. Contact: Telegram @pokerdealshub.
 
 # Deals

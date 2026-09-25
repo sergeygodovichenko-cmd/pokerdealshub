@@ -1,0 +1,729 @@
+app: Americas Cardroom
+club: "-"
+union: "-"
+logo: acr_logo
+logoimage: /americas-cardroom.webp
+logoalt: Americas Cardroom logo
+format: NLH / PLO / MTT
+type: Centralized
+rakeback: ""
+featured: false
+hidden: false
+order: 27
+badges:
+  - centralized
+  - usaPlayers
+  - allLimits
+  - nonStop
+  - verified
+regions:
+  - america
+  - latam
+ratings:
+  mtt: 5
+  cash: 4
+  plo: 4
+  nlh: 4
+name: Сделка в покер руме Americas Cardroom
+description: >-
+  Флагман Winning Poker Network и крупнейшая US-friendly сеть: более 200 кэш-столов, еженедельные рейк-гонки и турниры с
+  гарантиями до $7 млн. Бонус 100% до $2000.
+geo: США, Канада, Латинская Америка
+bonus: 100% до $2000
+body: >
+  <h3>О руме</h3>
+
+
+  <p>Americas Cardroom — флагманский рум Winning Poker Network, крупнейшей сети, которая принимает игроков из США. Бренд
+  работает с 2001 года, в пиковые часы сеть собирает около пяти тысяч игроков.</p>
+
+
+  <p>Генератор случайных чисел сертифицирован iTech Labs, минимальный депозит — 10 долларов. Касса работает с
+  криптовалютой, что снимает большинство проблем с платежами на американском рынке.</p>
+
+
+  <h3>Игра и форматы</h3>
+
+
+  <p>Одновременно открыто более двухсот кэш-столов по холдему и Омахе на всех лимитах. Турнирная сетка — сильная сторона
+  рума: регулярные серии с гарантиями до семи миллионов долларов, сателлиты и еженедельные рейк-гонки.</p>
+
+
+  <p>Трекеры и HUD разрешены, а для мультитейблинга доступен бесплатный лэйаут — играть в много столов удобно с первого
+  дня.</p>
+
+
+  <h3>Бонус и условия</h3>
+
+
+  <ul>
+    <li><strong>Приветственный бонус 100% до $2000</strong>.</li>
+    <li><strong>Турниры с гарантиями до $7 млн</strong> и еженедельные рейк-гонки.</li>
+    <li><strong>Поддержка трекеров</strong> и бесплатный лэйаут для мультитейблинга.</li>
+  </ul>
+
+
+  <p>Персональные условия сделки по Americas Cardroom уточняйте у менеджера PDH — мы на связи 24/7.</p>
+i18n:
+  en:
+    name: Deal in Americas Cardroom poker room
+    description: >-
+      The flagship room of Winning Poker Network, the largest US-friendly network: 200+ cash tables, weekly rake races
+      and tournaments with guarantees up to $7 million. 100% bonus up to $2000.
+    geo: USA, Canada, Latin America
+    bonus: 100% up to $2000
+    body: >
+      <h3>About the room</h3>
+
+
+      <p>Americas Cardroom is the flagship room of Winning Poker Network, the largest network that accepts players from
+      the USA. The brand has been running since 2001, and at peak hours the network draws around five thousand
+      players.</p>
+
+
+      <p>The random number generator is certified by iTech Labs and the minimum deposit is 10 dollars. The cashier
+      supports crypto, which removes most of the payment headaches in the US market.</p>
+
+
+      <h3>Games and formats</h3>
+
+
+      <p>More than two hundred hold'em and Omaha cash tables are open at once, across all limits. The tournament
+      schedule is the room's strong suit: regular series with guarantees of up to seven million dollars, satellites and
+      weekly rake races.</p>
+
+
+      <p>Trackers and HUDs are allowed, and a free layout is available for multi-tabling — running a big table count is
+      comfortable from day one.</p>
+
+
+      <h3>Bonus and terms</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus of 100% up to $2000</strong>.</li>
+        <li><strong>Tournaments with guarantees of up to $7 million</strong> and weekly rake races.</li>
+        <li><strong>Tracker support</strong> and a free layout for multi-tabling.</li>
+      </ul>
+
+
+      <p>For the personal terms of the Americas Cardroom deal, check with the PDH manager — we are available 24/7.</p>
+    srcHash: d906d00dee8f
+  uz:
+    name: Americas Cardroom xonasidagi bitim
+    description: >-
+      Winning Poker Network flagmani va AQSh oʻyinchilarini qabul qiladigan eng yirik tarmoq: 200 dan ortiq kesh-stol,
+      haftalik reyk-poygalar va $7 mln gacha kafolatli turnirlar. Bonus 100%, $2000 gacha.
+    geo: AQSh, Kanada, Lotin Amerikasi
+    bonus: $2000 gacha 100%
+    body: >
+      <h3>Xona haqida</h3>
+
+
+      <p>Americas Cardroom — AQSh oʻyinchilarini qabul qiladigan eng yirik tarmoq Winning Poker Network’ning flagman
+      xonasi. Brend 2001-yildan beri ishlaydi, eng gavjum soatlarda tarmoq besh mingga yaqin oʻyinchini yigʻadi.</p>
+
+
+      <p>Tasodifiy sonlar generatori iTech Labs tomonidan sertifikatlangan, minimal depozit — 10 dollar. Kassa
+      kriptovalyuta bilan ishlaydi, bu esa Amerika bozoridagi toʻlovlar bilan bogʻliq muammolarning aksariyatini
+      bartaraf etadi.</p>
+
+
+      <h3>Oʻyin va formatlar</h3>
+
+
+      <p>Bir vaqtning oʻzida xoldem va Omaha boʻyicha ikki yuzdan ortiq kesh-stol barcha limitlarda ochiq turadi. Turnir
+      jadvali — xonaning kuchli tomoni: yetti million dollargacha kafolatli muntazam seriyalar, satellitlar va haftalik
+      reyk-poygalar.</p>
+
+
+      <p>Trekerlar va HUDga ruxsat etilgan, multitabling uchun esa bepul leyaut mavjud — koʻp stolda oʻynash birinchi
+      kundanoq qulay.</p>
+
+
+      <h3>Bonus va shartlar</h3>
+
+
+      <ul>
+        <li><strong>Xush kelibsiz bonusi 100%, $2000 gacha</strong>.</li>
+        <li><strong>$7 mln gacha kafolatli turnirlar</strong> va haftalik reyk-poygalar.</li>
+        <li><strong>Trekerlarni qoʻllab-quvvatlash</strong> va multitabling uchun bepul leyaut.</li>
+      </ul>
+
+
+      <p>Americas Cardroom boʻyicha bitimning shaxsiy shartlarini PDH menejeridan aniqlashtiring — biz 24/7
+      aloqadamiz.</p>
+    srcHash: d906d00dee8f
+  uk:
+    name: Угода в покер-румі Americas Cardroom
+    description: >-
+      Флагман Winning Poker Network і найбільша US-friendly мережа: понад 200 кеш-столів, щотижневі рейк-гонки та
+      турніри з гарантіями до $7 млн. Бонус 100% до $2000.
+    geo: США, Канада, Латинська Америка
+    bonus: 100% до $2000
+    body: >
+      <h3>Про рум</h3>
+
+
+      <p>Americas Cardroom — флагманський рум Winning Poker Network, найбільшої мережі, яка приймає гравців зі США.
+      Бренд працює з 2001 року, у пікові години мережа збирає близько п'яти тисяч гравців.</p>
+
+
+      <p>Генератор випадкових чисел сертифікований iTech Labs, мінімальний депозит — 10 доларів. Каса працює з
+      криптовалютою, що знімає більшість проблем із платежами на американському ринку.</p>
+
+
+      <h3>Гра та формати</h3>
+
+
+      <p>Одночасно відкрито понад дві сотні кеш-столів з холдему та Омахи на всіх лімітах. Турнірна сітка — сильна
+      сторона руму: регулярні серії з гарантіями до семи мільйонів доларів, сателіти та щотижневі рейк-гонки.</p>
+
+
+      <p>Трекери та HUD дозволені, а для мультитейблінгу доступний безкоштовний лейаут — грати на багатьох столах зручно
+      з першого дня.</p>
+
+
+      <h3>Бонус і умови</h3>
+
+
+      <ul>
+        <li><strong>Вітальний бонус 100% до $2000</strong>.</li>
+        <li><strong>Турніри з гарантіями до $7 млн</strong> та щотижневі рейк-гонки.</li>
+        <li><strong>Підтримка трекерів</strong> і безкоштовний лейаут для мультитейблінгу.</li>
+      </ul>
+
+
+      <p>Персональні умови угоди щодо Americas Cardroom уточнюйте в менеджера PDH — ми на зв'язку 24/7.</p>
+    srcHash: d906d00dee8f
+  it:
+    name: Offerta nella poker room Americas Cardroom
+    description: >-
+      Il fiore all'occhiello di Winning Poker Network e la più grande rete US-friendly: oltre 200 tavoli cash, rake race
+      settimanali e tornei con garantiti fino a $7 milioni. Bonus 100% fino a $2000.
+    geo: USA, Canada, America Latina
+    bonus: 100% fino a $2000
+    body: >
+      <h3>Informazioni sulla room</h3>
+
+
+
+      <p>Americas Cardroom è la room di punta di Winning Poker Network, la più grande rete che accetta giocatori dagli
+      USA. Il brand è attivo dal 2001 e nelle ore di punta la rete raccoglie circa cinquemila giocatori.</p>
+
+
+
+      <p>Il generatore di numeri casuali è certificato da iTech Labs e il deposito minimo è di 10 dollari. La cassa
+      accetta le criptovalute, il che elimina la maggior parte dei problemi di pagamento sul mercato americano.</p>
+
+
+
+      <h3>Gioco e formati</h3>
+
+
+
+      <p>In contemporanea sono aperti oltre duecento tavoli cash di hold'em e Omaha a tutti i limiti. Il palinsesto dei
+      tornei è il punto forte della room: serie regolari con garantiti fino a sette milioni di dollari, satelliti e rake
+      race settimanali.</p>
+
+
+
+      <p>I tracker e l'HUD sono consentiti e per il multitabling è disponibile un layout gratuito: giocare su molti
+      tavoli è comodo fin dal primo giorno.</p>
+
+
+
+      <h3>Bonus e condizioni</h3>
+
+
+
+      <ul>
+        <li><strong>Bonus di benvenuto 100% fino a $2000</strong>.</li>
+        <li><strong>Tornei con garantiti fino a $7 milioni</strong> e rake race settimanali.</li>
+        <li><strong>Supporto per i tracker</strong> e layout gratuito per il multitabling.</li>
+      </ul>
+
+
+
+      <p>Per le condizioni personalizzate dell'offerta su Americas Cardroom scrivi al manager PDH — siamo disponibili
+      24/7.</p>
+    srcHash: d906d00dee8f
+  de:
+    name: Deal im Pokerraum Americas Cardroom
+    description: >-
+      Das Flaggschiff des Winning Poker Network, des größten US-freundlichen Netzwerks: über 200 Cash-Tische,
+      wöchentliche Rake-Races und Turniere mit Garantien von bis zu $7 Mio. Bonus 100% bis zu $2000.
+    geo: USA, Kanada, Lateinamerika
+    bonus: 100% bis zu $2000
+    body: >
+      <h3>Über den Pokerraum</h3>
+
+
+      <p>Americas Cardroom ist der Flaggschiff-Raum des Winning Poker Network, des größten Netzwerks, das Spieler aus
+      den USA annimmt. Die Marke ist seit 2001 am Markt, und zu Stoßzeiten sitzen im Netzwerk rund fünftausend Spieler
+      an den Tischen.</p>
+
+
+      <p>Der Zufallszahlengenerator ist von iTech Labs zertifiziert, die Mindesteinzahlung liegt bei 10 Dollar. Die
+      Kasse akzeptiert Kryptowährungen, womit die meisten Zahlungsprobleme auf dem amerikanischen Markt wegfallen.</p>
+
+
+      <h3>Spiel und Formate</h3>
+
+
+      <p>Gleichzeitig laufen über zweihundert Cash-Tische in Hold'em und Omaha auf allen Limits. Der Turnierplan ist die
+      Stärke des Raums: regelmäßige Serien mit Garantien von bis zu sieben Millionen Dollar, Satellites und wöchentliche
+      Rake-Races.</p>
+
+
+      <p>Tracker und HUD sind erlaubt, und fürs Multitabling steht ein kostenloses Layout bereit — so lässt sich vom
+      ersten Tag an bequem auf vielen Tischen spielen.</p>
+
+
+      <h3>Bonus und Konditionen</h3>
+
+
+      <ul>
+        <li><strong>Willkommensbonus 100% bis zu $2000</strong>.</li>
+        <li><strong>Turniere mit Garantien von bis zu $7 Mio.</strong> und wöchentliche Rake-Races.</li>
+        <li><strong>Tracker-Unterstützung</strong> und ein kostenloses Layout fürs Multitabling.</li>
+      </ul>
+
+
+      <p>Die persönlichen Konditionen des Americas-Cardroom-Deals erfährst du beim PDH-Manager — wir sind 24/7
+      erreichbar.</p>
+    srcHash: d906d00dee8f
+  es:
+    name: Oferta en la sala de póker Americas Cardroom
+    description: >-
+      El buque insignia de Winning Poker Network y la mayor red US-friendly: más de 200 mesas de cash, carreras de rake
+      semanales y torneos con garantizados de hasta $7 millones. Bono del 100% hasta $2000.
+    geo: EE. UU., Canadá, Latinoamérica
+    bonus: 100% hasta $2000
+    body: >
+      <h3>Sobre la sala</h3>
+
+
+      <p>Americas Cardroom es la sala insignia de Winning Poker Network, la mayor red que acepta jugadores de Estados
+      Unidos. La marca lleva en activo desde 2001 y, en horas punta, la red reúne a unos cinco mil jugadores.</p>
+
+
+      <p>El generador de números aleatorios está certificado por iTech Labs y el depósito mínimo es de 10 dólares. El
+      cajero admite criptomonedas, lo que resuelve la mayoría de los problemas de pagos en el mercado
+      estadounidense.</p>
+
+
+      <h3>Juego y formatos</h3>
+
+
+      <p>Hay más de doscientas mesas de cash abiertas a la vez, de hold'em y Omaha, en todos los límites. El calendario
+      de torneos es el punto fuerte de la sala: series regulares con garantizados de hasta siete millones de dólares,
+      satélites y carreras de rake semanales.</p>
+
+
+      <p>Los trackers y el HUD están permitidos, y para el multitabling hay un layout gratuito: jugar en muchas mesas
+      resulta cómodo desde el primer día.</p>
+
+
+      <h3>Bono y condiciones</h3>
+
+
+      <ul>
+        <li><strong>Bono de bienvenida del 100% hasta $2000</strong>.</li>
+        <li><strong>Torneos con garantizados de hasta $7 millones</strong> y carreras de rake semanales.</li>
+        <li><strong>Compatibilidad con trackers</strong> y layout gratuito para el multitabling.</li>
+      </ul>
+
+
+      <p>Consulta las condiciones personalizadas de la oferta de Americas Cardroom con el manager de PDH: estamos
+      disponibles 24/7.</p>
+    srcHash: d906d00dee8f
+  pt:
+    name: Oferta na sala de poker Americas Cardroom
+    description: >-
+      A sala carro-chefe da Winning Poker Network e a maior rede US-friendly: mais de 200 mesas de cash, rake races
+      semanais e torneios com garantidos de até $7 milhões. Bônus de 100% até $2000.
+    geo: EUA, Canadá, América Latina
+    bonus: 100% até $2000
+    body: >
+      <h3>Sobre a sala</h3>
+
+
+      <p>A Americas Cardroom é a sala carro-chefe da Winning Poker Network, a maior rede que aceita jogadores dos EUA. A
+      marca está no ar desde 2001 e, nos horários de pico, a rede reúne cerca de cinco mil jogadores.</p>
+
+
+      <p>O gerador de números aleatórios é certificado pela iTech Labs e o depósito mínimo é de 10 dólares. O caixa
+      aceita criptomoedas, o que resolve a maior parte dos problemas de pagamento no mercado americano.</p>
+
+
+      <h3>Jogo e formatos</h3>
+
+
+      <p>Há mais de duzentas mesas de cash de hold'em e Omaha abertas ao mesmo tempo, em todos os limites. A grade de
+      torneios é o ponto forte da sala: séries regulares com garantidos de até sete milhões de dólares, satélites e rake
+      races semanais.</p>
+
+
+      <p>Trackers e HUD são permitidos e há um layout gratuito para multitabling — dá para jogar muitas mesas com
+      conforto desde o primeiro dia.</p>
+
+
+      <h3>Bônus e condições</h3>
+
+
+      <ul>
+        <li><strong>Bônus de boas-vindas de 100% até $2000</strong>.</li>
+        <li><strong>Torneios com garantidos de até $7 milhões</strong> e rake races semanais.</li>
+        <li><strong>Suporte a trackers</strong> e layout gratuito para multitabling.</li>
+      </ul>
+
+
+      <p>Para as condições personalizadas da oferta na Americas Cardroom, fale com o gerente da PDH — estamos
+      disponíveis 24/7.</p>
+    srcHash: d906d00dee8f
+  fr:
+    name: Offre sur la salle de poker Americas Cardroom
+    description: >-
+      Le fleuron de Winning Poker Network et le plus grand réseau US-friendly : plus de 200 tables de cash game, des
+      rake races hebdomadaires et des tournois avec des garanties jusqu'à $7 millions. Bonus 100% jusqu'à $2000.
+    geo: États-Unis, Canada, Amérique latine
+    bonus: 100% jusqu'à $2000
+    body: >
+      <h3>À propos de la salle</h3>
+
+
+      <p>Americas Cardroom est la salle phare de Winning Poker Network, le plus grand réseau à accepter les joueurs des
+      États-Unis. La marque est active depuis 2001 et, aux heures de pointe, le réseau rassemble environ cinq mille
+      joueurs.</p>
+
+
+      <p>Le générateur de nombres aléatoires est certifié par iTech Labs et le dépôt minimum est de 10 dollars. La
+      caisse accepte les cryptomonnaies, ce qui règle la plupart des problèmes de paiement sur le marché américain.</p>
+
+
+      <h3>Jeux et formats</h3>
+
+
+      <p>Plus de deux cents tables de cash game en hold'em et en Omaha sont ouvertes en même temps, à toutes les
+      limites. Le programme de tournois est le point fort de la salle : des séries régulières avec des garanties allant
+      jusqu'à sept millions de dollars, des satellites et des rake races hebdomadaires.</p>
+
+
+      <p>Les trackers et les HUD sont autorisés, et un layout gratuit est disponible pour le multi-tabling — jouer sur
+      de nombreuses tables est confortable dès le premier jour.</p>
+
+
+      <h3>Bonus et conditions</h3>
+
+
+      <ul>
+        <li><strong>Bonus de bienvenue de 100% jusqu'à $2000</strong>.</li>
+        <li><strong>Tournois avec des garanties jusqu'à $7 millions</strong> et rake races hebdomadaires.</li>
+        <li><strong>Prise en charge des trackers</strong> et layout gratuit pour le multi-tabling.</li>
+      </ul>
+
+
+      <p>Pour les conditions personnalisées de l'offre Americas Cardroom, renseignez-vous auprès du manager PDH — nous
+      sommes disponibles 24/7.</p>
+    srcHash: d906d00dee8f
+  tr:
+    name: Americas Cardroom poker odasında anlaşma
+    description: >-
+      Winning Poker Network'ün amiral gemisi ve ABD oyuncularını kabul eden en büyük ağ: 200'den fazla cash masası,
+      haftalık rake yarışları ve $7 milyona kadar garantili turnuvalar. $2000'a kadar %100 bonus.
+    geo: ABD, Kanada, Latin Amerika
+    bonus: $2000'a kadar %100
+    body: >
+      <h3>Oda Hakkında</h3>
+
+
+      <p>Americas Cardroom, ABD'den oyuncu kabul eden en büyük ağ olan Winning Poker Network'ün amiral gemisi odasıdır.
+      Marka 2001 yılından beri faaliyette ve yoğun saatlerde ağ yaklaşık beş bin oyuncu topluyor.</p>
+
+
+      <p>Rastgele sayı üreteci iTech Labs tarafından sertifikalandırılmış, minimum depozito ise 10 dolar. Kasa kripto
+      para ile çalışıyor; bu da Amerika pazarındaki ödeme sorunlarının büyük bölümünü ortadan kaldırıyor.</p>
+
+
+      <h3>Oyun ve Formatlar</h3>
+
+
+      <p>Hold'em ve Omaha'da tüm limitlerde aynı anda iki yüzden fazla cash masası açık oluyor. Turnuva takvimi odanın
+      en güçlü yanı: yedi milyon dolara kadar garantili düzenli seriler, uydu turnuvaları ve haftalık rake
+      yarışları.</p>
+
+
+      <p>Tracker ve HUD kullanımı serbest, çoklu masa oyunu için de ücretsiz bir layout var — ilk günden itibaren çok
+      masada rahatça oynayabilirsiniz.</p>
+
+
+      <h3>Bonus ve Koşullar</h3>
+
+
+      <ul>
+        <li><strong>$2000'a kadar %100 hoş geldin bonusu</strong>.</li>
+        <li><strong>$7 milyona kadar garantili turnuvalar</strong> ve haftalık rake yarışları.</li>
+        <li><strong>Tracker desteği</strong> ve çoklu masa için ücretsiz layout.</li>
+      </ul>
+
+
+      <p>Americas Cardroom anlaşmasının kişisel koşullarını PDH yöneticisinden öğrenebilirsiniz — 7/24 buradayız.</p>
+    srcHash: d906d00dee8f
+  he:
+    name: דיל בחדר הפוקר Americas Cardroom
+    description: >-
+      חדר הדגל של Winning Poker Network והרשת הגדולה ביותר שמקבלת שחקנים מארה"ב: יותר מ-200 שולחנות קאש, מרוצי רייק
+      שבועיים וטורנירים עם ערבויות של עד $7 מיליון. בונוס 100% עד $2000.
+    geo: ארה"ב, קנדה, אמריקה הלטינית
+    bonus: 100% עד $2000
+    body: >
+      <h3>על החדר</h3>
+
+
+      <p>Americas Cardroom הוא חדר הדגל של Winning Poker Network, הרשת הגדולה ביותר שמקבלת שחקנים מארה"ב. המותג פועל מאז
+      2001, ובשעות השיא מתאספים ברשת כחמשת אלפים שחקנים.</p>
+
+
+      <p>מחולל המספרים האקראיים מוסמך על ידי iTech Labs, וההפקדה המינימלית היא 10 דולר. הקופה עובדת עם קריפטו, מה שפותר
+      את רוב בעיות התשלום בשוק האמריקאי.</p>
+
+
+      <h3>משחק ופורמטים</h3>
+
+
+      <p>במקביל פתוחים יותר ממאתיים שולחנות קאש בהולדם ובאומהה, בכל הלימיטים. לוח הטורנירים הוא הצד החזק של החדר: סדרות
+      קבועות עם ערבויות של עד שבעה מיליון דולר, סאטלייטים ומרוצי רייק שבועיים.</p>
+
+
+      <p>טראקרים ו-HUD מותרים, ולמולטי-טייבלינג זמין לייאאוט חינמי — כך שנוח לשחק בהרבה שולחנות כבר מהיום הראשון.</p>
+
+
+      <h3>בונוס ותנאים</h3>
+
+
+      <ul>
+        <li><strong>בונוס הצטרפות 100% עד $2000</strong>.</li>
+        <li><strong>טורנירים עם ערבויות של עד $7 מיליון</strong> ומרוצי רייק שבועיים.</li>
+        <li><strong>תמיכה בטראקרים</strong> ולייאאוט חינמי למולטי-טייבלינג.</li>
+      </ul>
+
+
+      <p>את התנאים האישיים של הדיל ב-Americas Cardroom תוכלו לברר מול המנהל של PDH — אנחנו זמינים 24/7.</p>
+    srcHash: d906d00dee8f
+  ar:
+    name: صفقة في غرفة البوكر Americas Cardroom
+    description: >-
+      الغرفة الرائدة في شبكة Winning Poker Network، أكبر شبكة تقبل اللاعبين من الولايات المتحدة: أكثر من 200 طاولة كاش،
+      سباقات ريك أسبوعية وبطولات بضمانات تصل إلى $7 مليون. بونص 100% حتى $2000.
+    geo: الولايات المتحدة، كندا، أمريكا اللاتينية
+    bonus: 100% حتى $2000
+    body: >
+      <h3>عن الغرفة</h3>
+
+
+      <p>Americas Cardroom هي الغرفة الرائدة في شبكة Winning Poker Network، أكبر شبكة تقبل اللاعبين من الولايات المتحدة.
+      تعمل العلامة التجارية منذ عام 2001، وفي ساعات الذروة تجمع الشبكة نحو خمسة آلاف لاعب.</p>
+
+
+      <p>مولّد الأرقام العشوائية معتمد من iTech Labs، والحد الأدنى للإيداع 10 دولارات. يدعم الكاشير العملات الرقمية، ما
+      يزيل معظم مشاكل المدفوعات في السوق الأمريكية.</p>
+
+
+      <h3>الألعاب والصيغ</h3>
+
+
+      <p>يعمل في الوقت نفسه أكثر من مئتي طاولة كاش في الهولدم والأوماها على جميع الحدود. جدول البطولات هو نقطة القوة في
+      الغرفة: سلاسل منتظمة بضمانات تصل إلى سبعة ملايين دولار، وسواتل وسباقات ريك أسبوعية.</p>
+
+
+      <p>برامج التتبّع وأدوات HUD مسموح بها، ويتوفر تخطيط طاولات مجاني للعب متعدد الطاولات — اللعب على عدد كبير من
+      الطاولات مريح منذ اليوم الأول.</p>
+
+
+      <h3>البونص والشروط</h3>
+
+
+      <ul>
+        <li><strong>بونص ترحيبي 100% حتى $2000</strong>.</li>
+        <li><strong>بطولات بضمانات تصل إلى $7 مليون</strong> وسباقات ريك أسبوعية.</li>
+        <li><strong>دعم برامج التتبّع</strong> وتخطيط طاولات مجاني للعب متعدد الطاولات.</li>
+      </ul>
+
+
+      <p>لمعرفة الشروط الشخصية لصفقة Americas Cardroom تواصل مع مدير PDH — نحن على تواصل 24/7.</p>
+    srcHash: d906d00dee8f
+  id:
+    name: Deal di poker room Americas Cardroom
+    description: >-
+      Room unggulan Winning Poker Network, jaringan US-friendly terbesar: lebih dari 200 meja cash, rake race mingguan,
+      dan turnamen dengan garansi hingga $7 juta. Bonus 100% hingga $2000.
+    geo: Amerika Serikat, Kanada, Amerika Latin
+    bonus: 100% hingga $2000
+    body: >
+      <h3>Tentang Room</h3>
+
+
+      <p>Americas Cardroom adalah room unggulan Winning Poker Network, jaringan terbesar yang menerima pemain dari
+      Amerika Serikat. Brand ini sudah beroperasi sejak 2001, dan pada jam sibuk jaringannya mengumpulkan sekitar lima
+      ribu pemain.</p>
+
+
+      <p>Random number generator-nya tersertifikasi oleh iTech Labs, dan deposit minimumnya 10 dolar. Cashier-nya
+      menerima kripto, sehingga sebagian besar kendala pembayaran di pasar Amerika langsung hilang.</p>
+
+
+      <h3>Permainan dan Format</h3>
+
+
+      <p>Lebih dari dua ratus meja cash hold'em dan Omaha terbuka bersamaan di semua limit. Jadwal turnamen adalah
+      keunggulan utama room ini: seri reguler dengan garansi hingga tujuh juta dolar, satelit, dan rake race
+      mingguan.</p>
+
+
+      <p>Tracker dan HUD diizinkan, dan tersedia layout gratis untuk multitabling — bermain di banyak meja terasa nyaman
+      sejak hari pertama.</p>
+
+
+      <h3>Bonus dan Ketentuan</h3>
+
+
+      <ul>
+        <li><strong>Bonus selamat datang 100% hingga $2000</strong>.</li>
+        <li><strong>Turnamen dengan garansi hingga $7 juta</strong> dan rake race mingguan.</li>
+        <li><strong>Dukungan tracker</strong> dan layout gratis untuk multitabling.</li>
+      </ul>
+
+
+      <p>Untuk ketentuan deal Americas Cardroom yang dipersonalisasi, hubungi manajer PDH — kami siap 24/7.</p>
+    srcHash: d906d00dee8f
+  vi:
+    name: Kèo tại phòng poker Americas Cardroom
+    description: >-
+      Phòng chủ lực của Winning Poker Network — mạng lưới lớn nhất chấp nhận người chơi Mỹ: hơn 200 bàn cash, các cuộc
+      đua rake hằng tuần và giải đấu với tiền thưởng đảm bảo lên đến $7 triệu. Thưởng 100% lên đến $2000.
+    geo: Mỹ, Canada, Mỹ Latinh
+    bonus: 100% lên đến $2000
+    body: >
+      <h3>Về phòng chơi</h3>
+
+
+      <p>Americas Cardroom là phòng chủ lực của Winning Poker Network — mạng lưới lớn nhất chấp nhận người chơi đến từ
+      Mỹ. Thương hiệu hoạt động từ năm 2001, và vào giờ cao điểm mạng lưới quy tụ khoảng năm nghìn người chơi.</p>
+
+
+      <p>Bộ tạo số ngẫu nhiên được iTech Labs chứng nhận, mức nạp tối thiểu là 10 đô la. Quầy giao dịch hỗ trợ tiền mã
+      hóa, giúp gỡ bỏ phần lớn rắc rối thanh toán trên thị trường Mỹ.</p>
+
+
+      <h3>Trò chơi và thể thức</h3>
+
+
+      <p>Cùng lúc có hơn hai trăm bàn cash Hold'em và Omaha ở mọi mức cược. Lịch giải đấu là điểm mạnh của phòng: các
+      series định kỳ với tiền thưởng đảm bảo lên đến bảy triệu đô la, giải vệ tinh và các cuộc đua rake hằng tuần.</p>
+
+
+      <p>Tracker và HUD được cho phép, còn cho multi-tabling thì có sẵn layout miễn phí — chơi nhiều bàn thoải mái ngay
+      từ ngày đầu.</p>
+
+
+      <h3>Thưởng và điều kiện</h3>
+
+
+      <ul>
+        <li><strong>Thưởng chào mừng 100% lên đến $2000</strong>.</li>
+        <li><strong>Giải đấu với tiền thưởng đảm bảo lên đến $7 triệu</strong> và các cuộc đua rake hằng tuần.</li>
+        <li><strong>Hỗ trợ tracker</strong> và layout miễn phí cho multi-tabling.</li>
+      </ul>
+
+
+      <p>Về điều kiện riêng của kèo Americas Cardroom, hãy hỏi quản lý PDH — chúng tôi trực 24/7.</p>
+    srcHash: d906d00dee8f
+  fil:
+    name: Deal sa poker room na Americas Cardroom
+    description: >-
+      Ang flagship ng Winning Poker Network at ang pinakamalaking US-friendly na network: mahigit 200 cash table,
+      lingguhang rake race at mga torneong may garantiyang umaabot sa $7 milyon. Bonus na 100% hanggang $2000.
+    geo: USA, Canada, Latin America
+    bonus: 100% hanggang $2000
+    body: >
+      <h3>Tungkol sa room</h3>
+
+
+      <p>Ang Americas Cardroom ang flagship room ng Winning Poker Network, ang pinakamalaking network na tumatanggap ng
+      mga manlalaro mula sa USA. Tumatakbo na ang brand mula pa noong 2001, at sa peak hours ay umaabot sa mga limang
+      libong manlalaro ang network.</p>
+
+
+      <p>Sertipikado ng iTech Labs ang random number generator, at 10 dolyar lang ang minimum na deposito. Tumatanggap
+      ng cryptocurrency ang cashier, kaya naaalis nito ang halos lahat ng problema sa pagbabayad sa merkadong
+      Amerikano.</p>
+
+
+      <h3>Laro at mga format</h3>
+
+
+      <p>Mahigit dalawang daang cash table sa hold'em at Omaha ang sabay na bukas sa lahat ng limit. Malakas na panig ng
+      room ang tournament schedule: regular na mga series na may garantiyang umaabot sa pitong milyong dolyar, mga
+      satellite at lingguhang rake race.</p>
+
+
+      <p>Pinapayagan ang mga tracker at HUD, at may libreng layout para sa multi-tabling — kaya komportableng maglaro sa
+      maraming mesa mula sa unang araw pa lang.</p>
+
+
+      <h3>Bonus at mga kondisyon</h3>
+
+
+      <ul>
+        <li><strong>Welcome bonus na 100% hanggang $2000</strong>.</li>
+        <li><strong>Mga torneong may garantiyang umaabot sa $7 milyon</strong> at lingguhang rake race.</li>
+        <li><strong>Suporta sa mga tracker</strong> at libreng layout para sa multi-tabling.</li>
+      </ul>
+
+
+      <p>Para sa personal na kondisyon ng deal sa Americas Cardroom, kumonsulta sa manager ng PDH — nandito kami
+      24/7.</p>
+    srcHash: d906d00dee8f
+  th:
+    name: ดีลในห้องโป๊กเกอร์ Americas Cardroom
+    description: >-
+      โป๊กเกอร์รูมเรือธงของ Winning Poker Network เครือข่ายที่ใหญ่ที่สุดซึ่งรับผู้เล่นจากสหรัฐอเมริกา: โต๊ะแคชกว่า 200
+      โต๊ะ เรคเรซรายสัปดาห์ และทัวร์นาเมนต์ที่มีเงินรางวัลการันตีสูงถึง $7 ล้าน โบนัส 100% สูงสุด $2000
+    geo: สหรัฐอเมริกา, แคนาดา, ละตินอเมริกา
+    bonus: 100% สูงสุด $2000
+    body: >
+      <h3>เกี่ยวกับรูม</h3>
+
+
+      <p>Americas Cardroom คือรูมเรือธงของ Winning Poker Network เครือข่ายที่ใหญ่ที่สุดซึ่งรับผู้เล่นจากสหรัฐอเมริกา
+      แบรนด์นี้เปิดให้บริการมาตั้งแต่ปี 2001 และในช่วงเวลาพีคเครือข่ายมีผู้เล่นพร้อมกันราวห้าพันคน</p>
+
+
+      <p>เครื่องสุ่มตัวเลข (RNG) ได้รับการรับรองจาก iTech Labs และเงินฝากขั้นต่ำอยู่ที่ 10 ดอลลาร์
+      ระบบแคชเชียร์รองรับคริปโตเคอร์เรนซี ซึ่งช่วยขจัดปัญหาเรื่องการชำระเงินส่วนใหญ่ในตลาดอเมริกา</p>
+
+
+      <h3>เกมและรูปแบบการเล่น</h3>
+
+
+      <p>มีโต๊ะแคชทั้งโฮลเด็มและโอมาฮาเปิดพร้อมกันกว่าสองร้อยโต๊ะ ครบทุกลิมิต ตารางทัวร์นาเมนต์คือจุดแข็งของรูมนี้
+      ทั้งซีรีส์ประจำที่มีเงินรางวัลการันตีสูงถึงเจ็ดล้านดอลลาร์ แซทเทลไลต์ และเรคเรซรายสัปดาห์</p>
+
+
+      <p>รูมอนุญาตให้ใช้แทร็กเกอร์และ HUD ทั้งยังมีเลย์เอาต์ฟรีสำหรับมัลติเทเบิล
+      จึงเล่นหลายโต๊ะพร้อมกันได้สบายตั้งแต่วันแรก</p>
+
+
+      <h3>โบนัสและเงื่อนไข</h3>
+
+
+      <ul>
+        <li><strong>โบนัสต้อนรับ 100% สูงสุด $2000</strong></li>
+        <li><strong>ทัวร์นาเมนต์ที่มีเงินรางวัลการันตีสูงถึง $7 ล้าน</strong> และเรคเรซรายสัปดาห์</li>
+        <li><strong>รองรับแทร็กเกอร์</strong> และเลย์เอาต์ฟรีสำหรับการเล่นหลายโต๊ะ</li>
+      </ul>
+
+
+      <p>สอบถามเงื่อนไขดีล Americas Cardroom แบบเฉพาะบุคคลได้ที่ผู้จัดการของ PDH — เราพร้อมให้บริการตลอด 24/7</p>
+    srcHash: d906d00dee8f
